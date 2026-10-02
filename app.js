@@ -1588,7 +1588,10 @@
 
     const langLabel = document.getElementById('langToggleLabel');
     if (langLabel) langLabel.textContent = I18N[lang].langLabel;
-    if (langToggleBtn) langToggleBtn.setAttribute('title', I18N[lang].langTitle);
+    if (langToggleBtn) {
+      langToggleBtn.setAttribute('title', I18N[lang].langTitle);
+      langToggleBtn.setAttribute('aria-label', I18N[lang].langTitle);
+    }
 
     // Brand author
     const brandAuthor = document.querySelector('.brand-author');
