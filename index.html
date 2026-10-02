@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Dishpatch by mzx — Toronto Food Decider</title>
+  <meta name="description" content="Dishpatch by mzx — Curated Toronto Asian dining and dessert decider roulette. Filter by diet, area, visits, ratings, budget, and roll the dice!">
+  <meta name="theme-color" content="#f6f2ea">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍜</text></svg>">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Slim top bar -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">🍜</span>
+        <div class="brand-text">
+          <h1>Dishpatch <span class="brand-author">by mzx</span></h1>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button id="langToggleBtn" class="lang-toggle-btn" aria-label="Switch Language / 切换语言" title="Switch Language / 切换语言">
+          <span class="lang-icon" aria-hidden="true">🌐</span>
+          <span id="langToggleLabel" class="lang-label">中文</span>
+        </button>
+        <a href="https://podor.org" class="header-home-btn" title="Back to podor.org">
+          <span class="home-icon" aria-hidden="true">🏠</span>
+          <span class="home-label">podor.org</span>
+        </a>
+        <button id="themeToggleBtn" class="btn-icon" aria-label="Toggle light or dark theme" title="Toggle theme">
+          <span class="theme-icon light-icon" aria-hidden="true">☀️</span>
+          <span class="theme-icon dark-icon" aria-hidden="true">🌙</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero: compact band, decision-first -->
+  <section class="hero">
+    <div class="hero-text">
+      <h2 class="hero-title">What should I <em>eat</em> tonight?</h2>
+    </div>
+
+    <button id="pickForMeBtn" class="btn-pick-quick glow-effect" type="button" title="Randomly pick from current matching options">
+      <span class="btn-icon-emoji" aria-hidden="true">🎲</span>
+      <span id="pickBtnText">Pick for me</span>
+    </button>
+  </section>
+
+  <main>
+    <!-- Search & Filter Controls -->
+    <section class="controls-panel" id="controlsPanel" aria-label="Search and filter controls">
+      <!-- Filter Controls Header with Mode Indicator & Count -->
+      <div class="sticky-filter-wrapper">
+        <div class="filter-header">
+          <div class="live-counter">
+            <span id="resultsCount" class="results-badge">55</span>
+            <span class="results-label">options matching</span>
+            <div id="activePillsContainer" class="active-pills-inline" aria-live="polite">
+              <!-- Dynamically injected pills for active/excluded filters -->
+            </div>
+          </div>
+
+          <!-- Invert / Exclude mode helper & actions -->
+          <div class="filter-header-actions">
+            <div class="chip-mode-badge" title="Click chip once to Include (✓), click again to Exclude (🚫), click 3rd time to Reset">
+              <span class="mode-tip-icon">💡</span>
+              <span class="mode-tip-text">1 click: Include ✓ · 2 clicks: Exclude 🚫</span>
+            </div>
+            <button type="button" id="resetFiltersBtn" class="btn-text" aria-label="Reset all filters">
+              ↺ Reset all
+            </button>
+          </div>
+        </div>
+
+        <!-- Filter Groups -->
+        <div class="filter-groups">
+          <!-- 1. Category (Meal / Bar / Cafe / Brunch / Dessert) -->
+          <div class="filter-group" data-group="category">
+            <span class="filter-group-label">🍽️ Category</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="category" data-value="meal" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🍱 Meal</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="category" data-value="bar" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🍸 Bar</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="category" data-value="cafe" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">☕ Cafe</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="category" data-value="brunch" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🥞 Brunch</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="category" data-value="dessert" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🍰 Dessert</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- 2. Diet Style (Veggie / Meat / Low Carb / Spicy) -->
+          <div class="filter-group" data-group="food_profile">
+            <span class="filter-group-label">🥗 Diet Style</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="food_profile" data-value="more-veggie" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🥬 Veggie-Rich</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="food_profile" data-value="more-meat" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🥩 Meat-Lover</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="food_profile" data-value="light-carb" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🍚 Low-Carb</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="food_profile" data-value="spicy" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🌶️ Spicy</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- 3. Area -->
+          <div class="filter-group" data-group="area">
+            <span class="filter-group-label">📍 Area</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="All Downtown" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">🏙️ All Downtown</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="Downtown (Yonge)" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Downtown (Yonge) 🚶</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="Downtown (Other)" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Downtown (Other) 🚶</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="Chinatown" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Chinatown 🚶</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="Queen West" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Queen West 🚶</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="Financial Core" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Financial Core 🚶</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="North" data-state="none" title="North York &amp; Markham">
+                <span class="chip-state-icon"></span><span class="chip-label">North</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="Midtown" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Midtown</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="area" data-value="Other" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Other</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- 4. Cuisine -->
+          <div class="filter-group" data-group="cuisine">
+            <span class="filter-group-label">🥢 Cuisine</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Japanese" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Japanese</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Chinese" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Chinese</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Thai" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Thai</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Indian" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Indian</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Korean" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Korean</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Vietnamese" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Vietnamese</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Middle Eastern" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Middle Eastern</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="cuisine" data-value="Other" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">Other Asian / Fusion</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- 5. Portion Size -->
+          <div class="filter-group" data-group="portion_size">
+            <span class="filter-group-label">🍽️ Portion</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="portion_size" data-value="light" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">🥗 Light</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="portion_size" data-value="normal" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">🍲 Normal</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="portion_size" data-value="heavy" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">🍱 Heavy</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Collapsible Secondary Filters Toggle -->
+        <div class="more-filters-toggle-wrap">
+          <button type="button" id="moreFiltersToggleBtn" class="btn-toggle-more" aria-expanded="false" aria-controls="collapsibleFilters">
+            <span class="toggle-arrow">▶</span>
+            <span class="toggle-text">More Filters</span>
+            <span id="moreFiltersActiveBadge" class="more-active-badge hidden">0</span>
+          </button>
+        </div>
+
+        <!-- Collapsible Body (Hidden by default) -->
+        <div id="collapsibleFilters" class="collapsible-filters-body hidden">
+          <!-- Search & Sort Row inside More Filters -->
+          <div class="search-sort-bar">
+            <div class="search-box">
+              <span class="search-icon" aria-hidden="true">🔍</span>
+              <input
+                type="search"
+                id="searchInput"
+                placeholder="Search dish, restaurant, or cuisine (e.g. ramen, khao soi, hot pot)..."
+                aria-label="Search options by keyword"
+                autocomplete="off"
+              >
+              <button type="button" id="clearSearchBtn" class="clear-search-btn hidden" aria-label="Clear search input">✕</button>
+            </div>
+            <div class="sort-box">
+              <label for="sortSelect" class="sr-only">Sort options</label>
+              <select id="sortSelect" class="select-control" aria-label="Sort options">
+                <option value="default">🎲 True Random Recommendation</option>
+                <option value="walk">🚶 Walking distance (Closest first)</option>
+                <option value="price-asc">💵 Price: Low to High</option>
+                <option value="price-desc">💎 Price: High to Low</option>
+                <option value="visits-desc">🏆 Most Visited First</option>
+                <option value="name-asc">🔤 Name: A to Z</option>
+              </select>
+            </div>
+            <button type="button" id="shuffleBtn" class="btn-shuffle" title="Re-shuffle recommendations" aria-label="Re-shuffle true random recommendations">🎲</button>
+          </div>
+
+          <!-- Price (<$20, >$100) -->
+          <div class="filter-group" data-group="price">
+            <span class="filter-group-label">💵 Price</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="price" data-value="<20" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">&lt;$20</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="price" data-value=">100" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">&gt;$100</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Special Features (Hot Pot, BBQ, Reservation) -->
+          <div class="filter-group" data-group="feature">
+            <span class="filter-group-label">🔥 Feature</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="feature" data-value="hotpot" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🍲 Hot Pot</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="feature" data-value="bbq" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">🥩 BBQ</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="feature" data-value="reservation" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">📅 Reservation</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- My Tracker (Visits & Reviews) -->
+          <div class="filter-group" data-group="tracker">
+            <span class="filter-group-label">⭐ My Tracker</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="tracker" data-value="unvisited" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">✨ Unvisited (New)</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="tracker" data-value="visited" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">✔️ Visited (1+)</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="tracker" data-value="super-like" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">❤️ Loved (Double Like)</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="tracker" data-value="like" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">👍 Liked</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="tracker" data-value="dislike" data-state="none">
+                <span class="chip-state-icon"></span>
+                <span class="chip-label">👎 Disliked / Meh</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Source: Web / Red / Other -->
+          <div class="filter-group" data-group="curation_source">
+            <span class="filter-group-label">📌 Source</span>
+            <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="curation_source" data-value="web" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">🌐 Web</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="curation_source" data-value="red" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">📕 Red</span>
+              </button>
+              <button type="button" class="filter-chip tri-chip" data-group="curation_source" data-value="other" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">🗣️ Other</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Right column: excluded banner + cards -->
+    <div class="content-column">
+      <!-- Excluded Banner -->
+      <div id="excludedBanner" class="excluded-banner hidden">
+        <span>You excluded <strong id="excludedCount">0</strong> restaurant(s) from random rolls this session.</span>
+        <button type="button" id="resetExcludedBtn" class="btn-link">Restore all</button>
+      </div>
+
+      <!-- Active Cards Grid -->
+      <section class="cards-section" aria-label="Restaurant and dining options">
+        <div id="cardsGrid" class="cards-grid">
+          <!-- Rendered dynamically by app.js -->
+        </div>
+
+        <!-- Empty State -->
+        <div id="emptyState" class="empty-state hidden">
+          <div class="empty-icon">🍽️</div>
+          <h3>No matches found</h3>
+          <p>No restaurants match all of your current inclusion and exclusion filters. Try clearing some filters or restoring excluded spots.</p>
+          <button type="button" id="emptyResetBtn" class="btn btn-primary">Reset all filters</button>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Pick For Me Modal / Overlay -->
+  <div id="rouletteModal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="rouletteTitle">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 id="rouletteTitle" class="modal-title">🎲 Dinner Decider</h3>
+        <button type="button" id="closeModalBtn" class="modal-close-btn" aria-label="Close modal">✕</button>
+      </div>
+
+      <div class="modal-body">
+        <div id="rouletteAnimation" class="roulette-animator">
+          <div class="animator-spinner">🍜</div>
+          <div id="animatorName" class="animator-text">Shuffling options...</div>
+        </div>
+
+        <div id="winnerCardContainer" class="winner-card-container hidden">
+          <!-- Winning card content injected here -->
+        </div>
+      </div>
+
+      <div class="modal-footer" id="modalFooter">
+        <button type="button" id="reRollBtn" class="btn btn-secondary">
+          <span>🎲 Re-roll</span>
+        </button>
+        <button type="button" id="excludeWinnerBtn" class="btn btn-outline" title="Exclude this place from today's roulette">
+          <span>❌ Exclude this one</span>
+        </button>
+        <button type="button" id="acceptWinnerBtn" class="btn btn-primary">
+          <span>😋 Sounds delicious!</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating jump-to-filters button -->
+  <a href="#controlsPanel" id="fabFilterBtn" class="fab-filter" aria-label="Jump to filters" title="Jump to filters">🎚️</a>
+
+  <!-- Mobile floating pick button -->
+  <button type="button" id="fabPickBtn" class="fab-pick" aria-label="Pick for me">🎲</button>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <p class="footer-links">
+        <a href="https://podor.org" title="Visit podor.org">🏠 podor.org</a>
+        <span class="footer-sep" aria-hidden="true">•</span>
+        <a href="#controlsPanel" id="backToTopLink">Back to top ↑</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+  <script>
+    // Mobile FAB proxies the hero "Pick for me" button
+    document.getElementById('fabPickBtn').addEventListener('click', function () {
+      document.getElementById('pickForMeBtn').click();
+    });
+
+    // Hide the jump-to-filters FAB while the filter panel is on screen
+    (function () {
+      var fab = document.getElementById('fabFilterBtn');
+      var panel = document.getElementById('controlsPanel');
+      if (!fab || !panel || !('IntersectionObserver' in window)) return;
+      new IntersectionObserver(function (entries) {
+        fab.classList.toggle('fab-hidden', entries[0].isIntersecting);
+      }, { rootMargin: '-70px 0px 0px 0px' }).observe(panel);
+    })();
+  </script>
+</body>
+</html>

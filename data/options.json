@@ -1,0 +1,3836 @@
+{
+  "generated_at": "2026-10-02",
+  "location": "Toronto, ON",
+  "options": [
+    {
+      "id": "hokkaido-ramen-santouka-dundas",
+      "code": "001",
+      "name": "Hokkaido Ramen Santouka",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Toroniku Shio Ramen with tender pork jowl",
+      "description": "Acclaimed Asahikawa-style ramen renowned for rich simmered pork-bone broth and melt-in-your-mouth simmered pork jowl cut.",
+      "address": "91 Dundas St E, Toronto, ON M5B 2C8",
+      "hours_note": "Mon-Sun 11:00 AM - 11:00 PM",
+      "image_url": "assets/images/hokkaido-ramen-santouka-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Hokkaido+Ramen+Santouka+91+Dundas+St+E+Toronto",
+      "source_url": "https://www.santouka-canada.com/",
+      "unverified": [],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 5,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Rich slow-simmered tonkotsu pork broth",
+      "bullet_highlight": "Tender pork jowl, prime solo comfort",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Hokkaido%20Ramen%20Santouka%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "らーめん山頭火",
+      "review_notes": {
+        "summary": "多伦多老牌日式拉面天花板，特选猪颈肉与醇厚白汤拉面无可挑剔。",
+        "must_try": "🍜 特选猪颈肉盐味拉面 (Tokusen Toroniku Shio Ramen)\n🥚 溏心卤蛋与日式煎饺",
+        "tips": "猪颈肉单独分碟呈上，肉质如雪花般入口即化；建议趁热将肉片浸入白汤享用。",
+        "vibe": "传统日式拉面馆，热气腾腾"
+      },
+      "highlights": [
+        "Tender pork jowl, prime solo comfort",
+        "Rich slow-simmered tonkotsu pork broth"
+      ],
+      "name_zh": "北海道拉面山头火",
+      "description_zh": "多伦多老牌旭川拉面名店，以慢熬数十小时的浓郁猪骨白汤与入口即化的特选猪颈肉闻名。",
+      "highlights_zh": [
+        "多伦多老牌日式拉面天花板，特选猪颈肉入口即化",
+        "慢熬数十小时浓郁猪骨白汤，一人食治愈首选"
+      ],
+      "signature_dish_zh": "特选猪颈肉盐味拉面",
+      "hours_note_zh": "周一至周日 11:00 - 23:00",
+      "review_notes_en": {
+        "summary": "A benchmark Japanese ramen institution in Toronto, celebrated for its tender pork jowl and rich tonkotsu broth.",
+        "must_try": "🍜 Tokusen Toroniku Shio Ramen (Signature tender pork jowl salt ramen)\n🥚 Soft-boiled ajitama egg & crisp handmade pan-fried gyoza",
+        "tips": "The signature pork jowl is served on a separate side dish so it stays melt-in-your-mouth tender; dip each slice into the piping-hot broth right before eating.",
+        "vibe": "Classic bustling Japanese ramen shop with warm comforting steam and quick turnover"
+      }
+    },
+    {
+      "id": "kinka-izakaya-church",
+      "code": "002",
+      "name": "Kinka Izakaya Original",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Kakuni Braised Pork Belly & Karaage",
+      "description": "Lively Japanese drinking tavern serving authentic izakaya tapas, piping-hot karaage, and draught sapporo in a high-energy setting.",
+      "address": "398 Church St, Toronto, ON M5B 2A2",
+      "hours_note": "Mon-Sun 5:00 PM - 11:00 PM",
+      "image_url": "assets/images/kinka-izakaya-church.webp",
+      "maps_url": "https://maps.google.com/?q=Kinka+Izakaya+398+Church+St+Toronto",
+      "source_url": "https://www.kinka.com/izakaya-original/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 8,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "light-carb"
+      ],
+      "bullet_flavor": "Juicy chicken karaage & sweet braised kakuni",
+      "bullet_highlight": "High-energy Tokyo izakaya & cold draft beer",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Kinka%20Izakaya%20Original%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "金家居酒屋",
+      "review_notes": {
+        "summary": "多伦多居酒屋元祖，能量充沛、炙烤三文鱼押寿司与下酒小菜极其地道。",
+        "must_try": "🍣 炙烤三文鱼押寿司 (Salmon Oshi Sushi)\n🍗 炸鸡软骨 (Karaage) 与三得利角瓶 Highball",
+        "tips": "店员全日语活力高呼迎客，周五晚氛围极度热闹，适合朋友喝酒聚会开怀畅聊。",
+        "vibe": "喧闹热烈的大阪居酒屋氛围"
+      },
+      "highlights": [
+        "High-energy Tokyo izakaya & cold draft beer",
+        "Juicy chicken karaage & sweet braised kakuni"
+      ],
+      "name_zh": "Kinka 金家居酒屋",
+      "description_zh": "多伦多活力居酒屋元祖，高声日语欢呼迎客，招牌炙烤三文鱼押寿司与下酒炸鸡地道美味。",
+      "highlights_zh": [
+        "元气满满的大阪酒馆氛围，店员全日语热情迎客",
+        "外酥里嫩日式唐扬炸鸡与招牌炙烤三文鱼押寿司"
+      ],
+      "signature_dish_zh": "日式慢炖五花肉配角煮与唐扬炸鸡",
+      "hours_note_zh": "周一至周日 17:00 - 23:00",
+      "review_notes_en": {
+        "summary": "The pioneer of high-energy Japanese izakayas in Toronto, famous for seared oshi sushi and craveable bar bites.",
+        "must_try": "🍣 Aburi Salmon Oshi Sushi (Torched pressed salmon sushi)\n🍗 Karaage (Japanese fried chicken) & Suntory Kakubin Highball",
+        "tips": "The staff greets every guest with thunderous Japanese cheers. Weekend evenings get lively and loud, making it perfect for drinks and celebrations with friends.",
+        "vibe": "Electric, high-energy Osaka-style izakaya with cold draft beer and sizzling plates"
+      }
+    },
+    {
+      "id": "mogouyan-hand-pulled-noodles-chestnut",
+      "code": "004",
+      "name": "Mogouyan Hand-Pulled Noodles",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "halal"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Lanzhou Braised Beef Hand-Pulled Noodle Soup",
+      "description": "Traditional Lanzhou noodle bar pulling customized fresh noodles to order in fragrant clear beef bone broth.",
+      "address": "124 Chestnut St, Toronto, ON M5G 1R3",
+      "hours_note": "Mon-Sun 11:30 AM - 9:30 PM",
+      "image_url": "assets/images/mogouyan-hand-pulled-noodles-chestnut.webp",
+      "maps_url": "https://maps.google.com/?q=Mogouyan+Hand+Pulled+Noodle+124+Chestnut+St+Toronto",
+      "source_url": "https://www.mogouyan.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 14,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Fresh pulled noodles in clear beef broth",
+      "bullet_highlight": "Authentic Lanzhou style with custom noodle widths",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Mogouyan%20Hand-Pulled%20Noodles%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "磨沟沿老字号牛肉面",
+      "review_notes": {
+        "summary": "兰州正统传统手工牛肉拉面，一清二白三红四绿面汤极其正宗。",
+        "must_try": "🍜 传统兰州清汤牛肉面 (可选二细或毛细)\n🥩 秘制卤牛肉切片配香辣油泼辣子",
+        "tips": "面条现场纯手工拉制，筋道爽滑；汤头牛骨慢熬数小时，冬天一碗下肚全身暖洋洋。",
+        "vibe": "干净现代的面馆，看师傅现场拉面很治愈"
+      },
+      "highlights": [
+        "Authentic Lanzhou style with custom noodle widths",
+        "Fresh pulled noodles in clear beef broth"
+      ],
+      "name_zh": "磨沟沿老字号牛肉面",
+      "description_zh": "传承兰州正宗传统手工拉面，一清二白三红四绿面汤，现点现拉面条筋道清甜。",
+      "highlights_zh": [
+        "传承正宗兰州传统工艺，现场拉面自选手工粗细",
+        "纯正牛骨慢熬清汤，面条爽滑筋道回味温润"
+      ],
+      "signature_dish_zh": "正宗兰州传统清汤牛肉手工拉面",
+      "hours_note_zh": "周一至周日 11:30 - 21:30",
+      "review_notes_en": {
+        "summary": "Heritage Lanzhou hand-pulled noodles prepared in authentic clear beef bone broth with custom dough thickness.",
+        "must_try": "🍜 Traditional Clear Broth Beef Hand-Pulled Noodles (Choose your noodle width)\n🥩 Sliced spiced braised beef with fragrant roasted chili oil",
+        "tips": "Noodles are hand-pulled to order right in front of you. The slow-simmered bone broth is soothing and warms you right up in cold weather.",
+        "vibe": "Clean, brightly lit noodle parlor where watching the noodle masters at work is mesmerizing"
+      }
+    },
+    {
+      "id": "yueh-tung-restaurant",
+      "code": "005",
+      "name": "Yueh Tung Restaurant",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Hakka Chili Chicken & Manchurian Fried Rice",
+      "description": "Beloved family-run Toronto institution celebrated for legendary spicy Hakka chili chicken, crisp egg rolls, and wok specialties.",
+      "address": "126 Elizabeth St, Toronto, ON M5G 1P5",
+      "hours_note": "Mon-Sat 11:30 AM - 9:30 PM (Closed Sun)",
+      "image_url": "assets/images/yueh-tung-restaurant.webp",
+      "maps_url": "https://maps.google.com/?q=Yueh+Tung+Restaurant+126+Elizabeth+St+Toronto",
+      "source_url": "https://yuehtungrestaurant.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 13,
+      "portion_size": "heavy",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Tangy, spicy wok-tossed Hakka chili chicken",
+      "bullet_highlight": "Downtown staple with decades of deep wok hei",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Yueh%20Tung%20Restaurant%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "粤东酒家",
+      "review_notes": {
+        "summary": "Downtown 四十年客家风味老店，招牌满江红鸡锅是多伦多独家特色。",
+        "must_try": "🥘 招牌满江红香辣鸡锅 (Manchurian Chicken)\n🍲 客家炒米粉与咸鱼鸡粒豆腐煲",
+        "tips": "酸甜香辣的满江红酱汁拌饭堪称一绝，价格亲民分量巨大，老移民与学生常客极多。",
+        "vibe": "经典老牌唐人街家常餐馆"
+      },
+      "highlights": [
+        "Downtown staple with decades of deep wok hei",
+        "Tangy, spicy wok-tossed Hakka chili chicken"
+      ],
+      "name_zh": "粤东酒家",
+      "description_zh": "多伦多市中心四十年客家风味老字号，以锅气十足的招牌满江红香辣鸡锅与炒饭闻名。",
+      "highlights_zh": [
+        "市中心四十年老店，独具锅气的地道客家风味",
+        "酸甜香辣镬气十足的招牌满江红鸡锅炒饭"
+      ],
+      "signature_dish_zh": "客家满江红香辣鸡锅与炒饭",
+      "hours_note_zh": "周一至周六 11:30 - 21:30 (周日休息)",
+      "review_notes_en": {
+        "summary": "A four-decade downtown Hakka Chinese institution famous for intense wok hei and signature spicy chili chicken.",
+        "must_try": "🥘 Signature Manchurian Chili Chicken (Crispy wok-tossed spicy chicken)\n🍲 Hakka Fried Rice Noodles & Salted Fish Chicken Bean Curd Pot",
+        "tips": "The tangy, savory chili gravy poured over steamed rice is legendary. Generous portions at wallet-friendly prices make it a perpetual local favorite.",
+        "vibe": "Classic vintage Chinatown dining room filled with loyal regulars and students"
+      }
+    },
+    {
+      "id": "konjiki-ramen-elm",
+      "code": "006",
+      "name": "Konjiki Ramen Downtown",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Signature Clam & Black Truffle Shoyu Ramen",
+      "description": "Tokyo Michelin Bib Gourmand recipient crafting exquisite broths infused with clam jus, porcini oil, and black truffle paste.",
+      "address": "41 Elm St, Toronto, ON M5G 1H1",
+      "hours_note": "Mon-Sun 12:00 PM - 10:00 PM",
+      "image_url": "assets/images/konjiki-ramen-elm.webp",
+      "maps_url": "https://maps.google.com/?q=Konjiki+Ramen+41+Elm+St+Toronto",
+      "source_url": "https://www.konjikiramen.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 11,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Shoyu clams & aromatic black truffle oil",
+      "bullet_highlight": "Michelin Bib Gourmand Tokyo heritage",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Konjiki%20Ramen%20Downtown%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "金色不如帰",
+      "review_notes": {
+        "summary": "米其林必比登推荐，贝系真鲷高汤拉面配松露油鲜香无比。",
+        "must_try": "🍜 招牌黑松露蛤蜊真鲷拉面 (Shoyu / Shio)\n🥩 低温慢煮叉烧与竹笋",
+        "tips": "蛤蜊与真鲷鱼熬制的高汤鲜味层次极高，松露油与牛肝菌油带来现代高级感，汤底全部喝光也不觉油腻。",
+        "vibe": "雅致克制的日式摩登拉面馆"
+      },
+      "highlights": [
+        "Michelin Bib Gourmand Tokyo heritage",
+        "Shoyu clams & aromatic black truffle oil"
+      ],
+      "name_zh": "金色不如归拉面",
+      "description_zh": "东京米其林必比登名店海外分店，以鲜蛤蜊高汤与浓郁黑松露油混合特调拉面著称。",
+      "highlights_zh": [
+        "东京米其林必比登推介名店，品质高汤拉面",
+        "鲜美蛤蜊高汤交织芬芳黑松露油，层次丰富"
+      ],
+      "signature_dish_zh": "招牌蛤蜊黑松露酱油拉面",
+      "hours_note_zh": "周一至周日 12:00 - 22:00",
+      "review_notes_en": {
+        "summary": "Toronto outpost of Tokyo’s acclaimed Michelin Bib Gourmand noodle house, famed for clam-infused dashi broth.",
+        "must_try": "🍜 Signature Clam & Black Truffle Shoyu Ramen\n🥓 Chashu Pork Belly & Smoked Sea Salt Shio Ramen",
+        "tips": "The signature broth is infused with fresh clams, porcini mushroom oil, and black truffle oil, giving it incredible umami depth.",
+        "vibe": "Modern Japanese minimalist aesthetic with refined wood counters and focused diners"
+      }
+    },
+    {
+      "id": "haidilao-hot-pot-yonge",
+      "code": "007",
+      "name": "Haidilao Hot Pot Downtown",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "group",
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Tomato Broth & Tableside Hand-Pulled Dancing Noodles",
+      "description": "World-famous Sichuan hot pot chain featuring split broths, customizable dipping sauces, and attentive tableside noodle performances.",
+      "address": "237 Yonge St, Toronto, ON M5B 1N8",
+      "hours_note": "Mon-Sun 11:00 AM - 12:00 AM",
+      "image_url": "assets/images/haidilao-hot-pot-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Haidilao+Hot+Pot+237+Yonge+St+Toronto",
+      "source_url": "https://www.haidilao-inc.com/ca",
+      "unverified": [],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 6,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [
+        "hotpot"
+      ],
+      "food_profile": [
+        "more-veggie",
+        "more-meat",
+        "light-carb",
+        "spicy"
+      ],
+      "bullet_flavor": "Rich umami tomato broth & savory dipping bar",
+      "bullet_highlight": "Legendary hospitality & live noodle dance",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Haidilao%20Hot%20Pot%20Downtown%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "海底捞火锅",
+      "review_notes": {
+        "summary": "服务天花板与深夜火锅首选，招牌番茄牛尾锅与手切鲜牛肉极其地道。",
+        "must_try": "🍲 浓郁番茄牛尾锅底 + 招牌清油麻辣锅\n🥩 捞派滑牛肉、鸭血与现甩捞面表演",
+        "tips": "夜宵开至凌晨，免费美甲、零食茶水服务到位；调料台自配牛肉芹菜番茄牛肉汤必喝。",
+        "vibe": "热闹欢快的大型火锅聚会胜地"
+      },
+      "highlights": [
+        "Legendary hospitality & live noodle dance",
+        "Rich umami tomato broth & savory dipping bar"
+      ],
+      "name_zh": "海底捞火锅",
+      "description_zh": "享誉全球的川味火锅标杆，以无微不至的细致服务、特色甩面表演与醇厚番茄锅底闻名。",
+      "highlights_zh": [
+        "天花板级别的贴心服务与现场特色捞面表演",
+        "醇厚开胃番茄浓汤与极丰富的自选调料小吃台"
+      ],
+      "signature_dish_zh": "醇香番茄浓汤配极品牛羊肉拼盘",
+      "hours_note_zh": "周一至周日 11:00 - 次日凌晨 3:00",
+      "review_notes_en": {
+        "summary": "Global hot pot powerhouse legendary for hospitality, tableside dancing noodles, and rich tomato broth.",
+        "must_try": "🍅 Signature Rich Tomato Soup Base & Spicy Sichuan Mala Broth\n🥩 Prime Angus Beef Slices, Fresh Shrimp Paste & Tableside Kung Fu Noodles",
+        "tips": "Late-night hours extend until 3 AM. Take full advantage of the DIY dipping sauce and appetizer fruit bar.",
+        "vibe": "Spacious, high-energy dining hall with warm hospitality, perfect for group celebrations"
+      }
+    },
+    {
+      "id": "tre-viet-heritage-elm",
+      "code": "010",
+      "name": "TRE Viet Heritage Kitchen & Bar",
+      "type": "restaurant",
+      "cuisine": "Vietnamese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "date-night"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "$52 Heritage Tasting Set & Crispy Bánh Xèo",
+      "description": "Intimate Elm Street heritage gem serving elevated Vietnamese tasting menus, crispy bánh xèo, and slow-simmered phở.",
+      "address": "31 Elm St, 2nd Floor, Toronto, ON M5G 1H1",
+      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/tre-viet-heritage-elm.webp",
+      "maps_url": "https://maps.google.com/?q=TRE+Viet+Heritage+Kitchen+31+Elm+St+Toronto",
+      "source_url": "https://trerestaurant.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 11,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-veggie",
+        "light-carb"
+      ],
+      "bullet_flavor": "Must-order $52 tasting set menu & crispy southern Bánh Xèo turmeric crepe",
+      "bullet_highlight": "Charming 2nd-floor heritage gem with bamboo decor & warm traditional áo dài staff",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=TRE%20Viet%20Heritage%20Kitchen%20%26%20Bar%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "Eaton Centre 附近宝藏越南私房小馆！藏在小洋房 2 楼，竹木绿植、钢琴点缀，充满仪式感与温暖人情味。",
+        "must_try": "🥢 第一次来必点 $52 Set Menu（尝鲜招牌精华）\n🥞 越南南部黄酱脆煎饼 (Bánh Xèo)\n🥩 传统红烧肉糯米饭 & 慢熬牛骨河粉",
+        "tips": "位于 Elm 街小洋房二楼（厨房在三楼），店面精致私密常客满，建议提前预约窗边观景座位；$52 套餐份量扎实性价比高，越南咖啡提拉米苏略逊可留肚吃主菜。",
+        "vibe": "竹木雅致的私房菜馆情调，着传统奥黛的服务生、钢琴与窗外街景"
+      },
+      "highlights": [
+        "Charming 2nd-floor heritage gem with bamboo decor & warm traditional áo dài staff",
+        "Must-order $52 tasting set menu & crispy southern Bánh Xèo turmeric crepe"
+      ],
+      "name_zh": "TRE Viet 越南私房菜",
+      "description_zh": "Elm街洋房二楼私密越南美馔，竹木清雅装潢，传统奥黛服务生，招牌黄酱脆煎饼与尝鲜套餐。",
+      "highlights_zh": [
+        "藏在洋房2楼的清雅竹木私房小馆，服务生着传统奥黛",
+        "必点$52尝鲜套餐与超酥脆越南南部黄酱脆煎饼"
+      ],
+      "signature_dish_zh": "传统越南南部黄酱脆煎饼与牛骨慢熬河粉",
+      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "A hidden Vietnamese culinary sanctuary near Eaton Centre tucked away on the 2nd floor of an Elm Street heritage townhouse.",
+        "must_try": "🥢 First-time essential: $52 Tasting Set Menu (Covers signature highlights)\n🥞 Crispy Southern Bánh Xèo Turmeric Crepe\n🥩 Traditional Braised Pork Belly with Sticky Rice & Slow-Simmered Beef Bone Phở",
+        "tips": "Located on the 2nd floor of a townhouse. Seats fill up fast, so reserve a window table in advance. The $52 tasting menu offers great value and hearty portions.",
+        "vibe": "Intimate heritage elegance with bamboo accents, piano melodies, and warm staff in traditional áo dài"
+      }
+    },
+    {
+      "id": "uncle-tetsus-cheesecake-bay",
+      "code": "012",
+      "name": "Uncle Tetsu's Japanese Cheesecake",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Freshly Baked Japanese Soufflé Cheesecake",
+      "description": "Famed Japanese bakery drawing steady crowds for pillowy, ultra-light soufflé cheesecakes stamped fresh out of oven molds.",
+      "address": "598 Bay St, Toronto, ON M5G 1M5",
+      "hours_note": "Mon-Sun 10:00 AM - 10:00 PM",
+      "image_url": "assets/images/uncle-tetsus-cheesecake-bay.webp",
+      "maps_url": "https://maps.google.com/?q=Uncle+Tetsu+598+Bay+St+Toronto",
+      "source_url": "https://uncletetsu.ca/",
+      "unverified": [],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 11,
+      "portion_size": "light",
+      "category": "dessert",
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Airy, cloud-light soufflé egg custard",
+      "bullet_highlight": "Warm fresh-baked queues & signature brand stamp",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Uncle%20Tetsu%27s%20Japanese%20Cheesecake%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "てつおじさんの店",
+      "review_notes": {
+        "summary": "日式轻乳酪蛋糕鼻祖，出炉温热松软如云朵般轻盈晃动。",
+        "must_try": "🧀 原味日式抖臀轻乳酪蛋糕 (Original Japanese Cheesecake)\n🥧 熔岩芝士挞 (Cheese Tart)",
+        "tips": "建议刚出炉趁热切一块品尝，入口即化毫无负担；冷藏后口感更似慕斯，风味各有千秋。",
+        "vibe": "香气四溢的日式烘焙外带工坊"
+      },
+      "highlights": [
+        "Warm fresh-baked queues & signature brand stamp",
+        "Airy, cloud-light soufflé egg custard"
+      ],
+      "name_zh": "彻思叔叔日本芝士蛋糕",
+      "description_zh": "多伦多排队传奇日式烘焙坊，现烤现出炉，烙印经典叔叔标志，口感如云朵般轻盈蓬松。",
+      "highlights_zh": [
+        "出炉必排队的经典烘焙坊，烙印可爱专属标志",
+        "如舒芙蕾般轻盈细腻的云朵日式低糖芝士蛋糕"
+      ],
+      "signature_dish_zh": "原味现烤日式轻乳酪芝士蛋糕",
+      "hours_note_zh": "周一至周日 10:00 - 21:00",
+      "review_notes_en": {
+        "summary": "World-famous bakery that sparked Toronto’s Japanese dessert craze, baking warm soufflé cheesecakes fresh daily.",
+        "must_try": "🍰 Original Warm Japanese Soufflé Cheesecake\n🧀 Basque Burnt Cheesecake & Uji Matcha Cheesecake",
+        "tips": "Buy fresh right out of the oven for that warm, jiggly cloud texture, or chill in the fridge overnight for a denser, custardy richness.",
+        "vibe": "Aromatic grab-and-go bakery window with a gentle aroma of fresh milk and eggs"
+      }
+    },
+    {
+      "id": "meet-fresh-dundas",
+      "code": "013",
+      "name": "Meet Fresh Taiwanese Desserts",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan"
+      ],
+      "mood": [
+        "comfort",
+        "light",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Iced Taro Ball Signature #4 with Herbal Grass Jelly",
+      "description": "Taiwanese dessert specialist crafting chewy handmade taro balls, silken tofu pudding, and cooling herbal grass jelly bowls.",
+      "address": "180 Dundas St W, Toronto, ON M5G 1Z8",
+      "hours_note": "Mon-Sun 12:00 PM - 10:30 PM",
+      "image_url": "assets/images/meet-fresh-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Meet+Fresh+180+Dundas+St+W+Toronto",
+      "source_url": "https://meetfresh.us/en/locations/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 14,
+      "portion_size": "light",
+      "category": "dessert",
+      "food_profile": [
+        "light-carb",
+        "more-veggie"
+      ],
+      "bullet_flavor": "Chewy taro balls & cool herbal grass jelly",
+      "bullet_highlight": "Classic Taiwanese refreshing iced bowls",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Meet%20Fresh%20Taiwanese%20Desserts%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "鲜芋仙",
+      "review_notes": {
+        "summary": "台湾传统手工甜品老字号，经典双芋芋圆仙草与手炒黑糖冰。",
+        "must_try": "🍧 鲜芋仙招牌芋圆仙草冻 (含香芋与手工双色芋圆)\n🧋 黑糖粉粿冬瓜鲜奶",
+        "tips": "仙草冻滑嫩微苦清香，芋圆软糯回弹，夏天加碎冰消暑，冬天可选热烧仙草暖胃。",
+        "vibe": "明亮温馨的台湾怀旧甜品站"
+      },
+      "highlights": [
+        "Classic Taiwanese refreshing iced bowls",
+        "Chewy taro balls & cool herbal grass jelly"
+      ],
+      "name_zh": "鲜芋仙台式甜品",
+      "description_zh": "正宗台湾古早味传统甜品工坊，以Q弹手工芋圆、滑嫩仙草冻与细腻红豆刨冰闻名。",
+      "highlights_zh": [
+        "传承台湾古早味冰品甜点，手作芋圆Q弹软糯",
+        "甘醇滑嫩的纯正烧仙草冻配细腻清甜红豆沙"
+      ],
+      "signature_dish_zh": "招牌芋圆仙草冻刨冰",
+      "hours_note_zh": "周一至周日 12:00 - 23:00",
+      "review_notes_en": {
+        "summary": "Renowned Taiwanese dessert shop specializing in chewy handmade taro balls, soothing grass jelly, and shaved ice bowls.",
+        "must_try": "🍧 Signature Iced Grass Jelly Bowl with Handmade Taro Balls & Boba\n🍠 Hot Red Bean Soup with Taro Balls & Silky Tofu Pudding",
+        "tips": "Drizzle the included fresh dairy creamer over the shaved ice to create a luscious, creamy herbal flavor profile.",
+        "vibe": "Clean, bright, casual dessert lounge ideal for evening study sessions or late-night dessert runs"
+      }
+    },
+    {
+      "id": "pai-northern-thai-kitchen-duncan",
+      "code": "014",
+      "name": "PAI Northern Thai Kitchen",
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "group",
+        "date-night"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Khao Soi with braised beef and crispy egg noodles",
+      "description": "Celebrated Northern Thai destination renowned for Chef Nuit Regular's deeply fragrant golden coconut curry noodle bowls.",
+      "address": "18 Duncan St, Toronto, ON M5H 3G8",
+      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/pai-northern-thai-kitchen-duncan.webp",
+      "maps_url": "https://maps.google.com/?q=Pai+Northern+Thai+Kitchen+18+Duncan+St+Toronto",
+      "source_url": "https://www.paitoronto.com/",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 21,
+      "portion_size": "heavy",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "more-veggie",
+        "spicy"
+      ],
+      "bullet_flavor": "Golden coconut curry broth with crunchy noodles",
+      "bullet_highlight": "Chef Nuit's benchmark Michelin Bib Gourmand Thai",
+      "source_platform": "Other",
+      "curation_source": "other",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "多伦多公认泰餐天花板，泰北金面与椰香绿咖喱让人百吃不厌。",
+        "must_try": "🍜 泰北牛肉金面 (Khao Soi with braised beef)\n🥥 泰式青咖喱牛腩与香料泰式奶茶",
+        "tips": "人气长盛不衰常需提前排队，建议错开高峰或在官方排队系统取号；Khao Soi 炸脆面吸满汤汁是神仙口感。",
+        "vibe": "拜县嬉皮热带木质集市氛围，音乐热烈"
+      },
+      "highlights": [
+        "Chef Nuit's benchmark Michelin Bib Gourmand Thai",
+        "Golden coconut curry broth with crunchy noodles"
+      ],
+      "name_zh": "PAI 泰北小馆",
+      "description_zh": "多伦多公认泰餐天花板与米其林必比登名店，以浓郁椰香金面与泰北青咖喱百吃不厌。",
+      "highlights_zh": [
+        "名厨Nuit领衔的米其林必比登天花板级泰餐",
+        "浓郁椰香泰北咖喱汤底搭配金黄酥脆油炸鸡蛋面"
+      ],
+      "signature_dish_zh": "泰北清迈牛肉咖喱金面",
+      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "Chef Nuit Regular’s Michelin Bib Gourmand Thai flagship, universally recognized as Toronto’s Northern Thai benchmark.",
+        "must_try": "🍜 Northern Thai Khao Soi with Braised Beef & Crispy Egg Noodles\n🥥 Green Curry Beef Brisket in Coconut & Sweet Iced Thai Milk Tea",
+        "tips": "Lines are constant throughout the day. Put your name down on the digital waitlist early or visit during mid-afternoon off-peak hours.",
+        "vibe": "Bustling, rustic tropical Pai market ambiance with wooden furniture and vibrant music"
+      }
+    },
+    {
+      "id": "ki-modern-japanese-bay",
+      "code": "025",
+      "name": "Ki Modern Japanese + Bar",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Spicy Tuna Tartare on Crispy Rice & Black Cod",
+      "description": "Sophisticated Financial District hotspot executing modern Japanese sushi, robata grilled skewers, and extensive premium sake pairings.",
+      "address": "181 Bay St, Brookfield Place, Toronto, ON M5J 2T3",
+      "hours_note": "Mon-Fri 11:45 AM - 10:00 PM, Sat 5:00 PM - 10:30 PM (Closed Sun)",
+      "image_url": "assets/images/ki-modern-japanese-bay.webp",
+      "maps_url": "https://maps.google.com/?q=Ki+Modern+Japanese+181+Bay+St+Toronto",
+      "source_url": "https://www.kijapanese.com/",
+      "unverified": [],
+      "area": "Financial Core",
+      "walking_time_min": 16,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "light-carb"
+      ],
+      "bullet_flavor": "Silky miso black cod & crispy rice spicy tuna",
+      "bullet_highlight": "Sleek Financial District power-dining lounge",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Ki%20Modern%20Japanese%20%2B%20Bar%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "気",
+      "review_notes": {
+        "summary": "金融核心区现代日料标杆，商务宴请与精致和牛烧烤首选。",
+        "must_try": "🥩 极上宫崎和牛石板烧与特选刺身拼盘\n🍶 侍酒师精选日本纯米大吟酿清酒",
+        "tips": "食材严选空运，调味克制高级，靠近地铁站与地下商城，适合重要晚餐与约会。",
+        "vibe": "昏暗高雅、现代利落的金融圈精英范"
+      },
+      "highlights": [
+        "Sleek Financial District power-dining lounge",
+        "Silky miso black cod & crispy rice spicy tuna"
+      ],
+      "name_zh": "Ki 现代和风料理",
+      "description_zh": "金融核心区高端和风料理与酒廊，精湛极品黑鳕鱼与创意刺身，适合商务宴请与精致晚餐。",
+      "highlights_zh": [
+        "金融街高端和风餐饮标杆，设计现代优雅大气",
+        "香煎西京渍黑鳕鱼外焦里嫩，清酒收藏极其丰富"
+      ],
+      "signature_dish_zh": "西京味噌渍香煎银鳕鱼",
+      "hours_note_zh": "周一至周五 11:45 - 22:00 (周六周日休息)",
+      "review_notes_en": {
+        "summary": "Sophisticated Financial District dining destination offering artfully plated contemporary Japanese fare and rare sakes.",
+        "must_try": "🐟 Saikyo Miso-Glazed Black Cod with sweet mirin reduction\n🍣 Chef’s Selection Nigiri Moriawase & Wagyu Beef Tataki",
+        "tips": "A prime spot for professional lunches and celebratory business dinners. Reservations are highly recommended on weekday evenings.",
+        "vibe": "Polished urban chic with sleek architectural wood panels, ambient lighting, and an expansive sake bar"
+      }
+    },
+    {
+      "id": "minami-toronto-king",
+      "code": "026",
+      "name": "Minami Toronto",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Flame-Seared Miyazaki Wagyu & Aburi Nigiri",
+      "description": "Gorgeous King West/Financial destination blending charcoal Aburi techniques with contemporary European aesthetic influences.",
+      "address": "225 King St W, Toronto, ON M5V 3M2",
+      "hours_note": "Mon-Sun 11:30 AM - 10:30 PM",
+      "image_url": "assets/images/minami-toronto-king.webp",
+      "maps_url": "https://maps.google.com/?q=Minami+Toronto+225+King+St+W+Toronto",
+      "source_url": "https://minamitoronto.com/",
+      "unverified": [],
+      "area": "Financial Core",
+      "walking_time_min": 20,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "light-carb"
+      ],
+      "bullet_flavor": "Miyazaki A5 Wagyu & char-seared nigiri",
+      "bullet_highlight": "Design-forward cocktails & upscale aburi craft",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Minami%20Toronto%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "みなみ",
+      "review_notes": {
+        "summary": "Miku 姐妹品牌，戏剧性艺术空间里的炙烤押寿司与现代日本料理。",
+        "must_try": "🍣 Minami Signature Oshi 拼盘\n🥩 和牛生牛肉薄片与特调抹茶鸡尾酒",
+        "tips": "室内红黑色调由日本著名壁画家手工绘制，灯光与音乐氛围极佳，适合庆祝与微醺小酌。",
+        "vibe": "奢华前卫的剧场式日式酒廊"
+      },
+      "highlights": [
+        "Design-forward cocktails & upscale aburi craft",
+        "Miyazaki A5 Wagyu & char-seared nigiri"
+      ],
+      "name_zh": "Minami 炙烧日料",
+      "description_zh": "Aburi集团旗下奢华现代日式美馔，炙烤箱寿司、和牛煎饺与优雅鸡尾酒的华丽体验。",
+      "highlights_zh": [
+        "King West奢华炙烧日料殿堂，设计感极强",
+        "备长炭炙烤三文鱼押寿司与多汁和牛日式煎饺"
+      ],
+      "signature_dish_zh": "招牌备长炭炙烤三文鱼箱寿司",
+      "hours_note_zh": "周一至周日 12:00 - 22:30",
+      "review_notes_en": {
+        "summary": "King West luxury outpost of the Aburi Restaurants group, celebrated for flame-seared pressed sushi and sleek mixology.",
+        "must_try": "🍣 Aburi Salmon Oshi Sushi (Flame-seared pressed salmon with jalapeño)\n🥩 Wagyu Beef Gyoza & Charcoal-Grilled Hamachi Kama",
+        "tips": "The signature flame-seared pressed sushi uses binchotan charcoal for an unforgettable smoky umami glaze.",
+        "vibe": "Upscale, seductive dining space draped in undulating fabric art, perfect for romantic date nights"
+      }
+    },
+    {
+      "id": "byblos-downtown-duncan",
+      "code": "029",
+      "name": "Byblos Downtown",
+      "type": "restaurant",
+      "cuisine": "Middle Eastern",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "halal"
+      ],
+      "mood": [
+        "date-night",
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Fig Salad, Lamb Ribs & Turkish Manti Dumplings",
+      "description": "Stylish two-story destination merging Eastern Mediterranean and Levant culinary influences with fragrant spices and pomegranate reduction.",
+      "address": "11 Duncan St, Toronto, ON M5V 3M2",
+      "hours_note": "Mon-Sun 5:00 PM - 10:30 PM",
+      "image_url": "assets/images/byblos-downtown-duncan.webp",
+      "maps_url": "https://maps.google.com/?q=Byblos+Downtown+11+Duncan+St+Toronto",
+      "source_url": "https://byblosdowntown.com/",
+      "unverified": [],
+      "area": "Financial Core",
+      "walking_time_min": 21,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "more-veggie",
+        "light-carb"
+      ],
+      "bullet_flavor": "Turkish manti dumplings & pomegranate lamb ribs",
+      "bullet_highlight": "Opulent Eastern Mediterranean two-story retreat",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Byblos%20Downtown%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "东地中海现代创意料理，黑松露皮塔饼与香料烤羊肉极具异域情调。",
+        "must_try": "🫓 黑松露奶酪皮塔饼 (Black Truffle Pide)\n🍖 慢烤羊肩肉配香料坚果香米饭",
+        "tips": "地中海与中东香料的优雅结合，羊肉炖得软烂入味毫无膻气；二楼卡座私密性极佳，适合浪漫约会。",
+        "vibe": "丝绸之路奢华风情，金色丝绒与暖光"
+      },
+      "highlights": [
+        "Opulent Eastern Mediterranean two-story retreat",
+        "Turkish manti dumplings & pomegranate lamb ribs"
+      ],
+      "name_zh": "Byblos 地中海餐厅",
+      "description_zh": "浪漫精致的东地中海沿海美馔，以酥软慢烤羊排、黑松露土豆面包与香料鸡尾酒著称。",
+      "highlights_zh": [
+        "多伦多极佳约会氛围，暖色地中海优雅设计",
+        "黑松露皮塔饼配软烂慢炖羊肩肉，香料风味独特"
+      ],
+      "signature_dish_zh": "黑松露土豆皮塔饼与慢炖羊肩肉",
+      "hours_note_zh": "周一至周日 17:00 - 23:00",
+      "review_notes_en": {
+        "summary": "Acclaimed Eastern Mediterranean showcase serving lavish coastal dishes, wood-fired flatbreads, and aromatic cocktails.",
+        "must_try": "🫓 Black Truffle Barbari Bread with za’atar butter\n🥩 Roasted Lamb Shoulder with sumac, pomegranate jus & jeweled rice",
+        "tips": "Portions are family-style and meant to be shared across the table. Be sure to book reservations several weeks in advance.",
+        "vibe": "Romantic, warmly lit multi-level sanctuary with plush velvet banquettes and exotic spice aromas"
+      }
+    },
+    {
+      "id": "buk-chang-dong-soon-tofu-north-york",
+      "code": "031",
+      "name": "Buk Chang Dong Soon Tofu",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Spicy Seafood Soft Tofu Stew in bubbling hot stone pot",
+      "description": "North York institution serving boiling cauldrons of silken tofu soup accompanied by sizzling stone bowl purple rice.",
+      "address": "5307 Yonge St, North York, ON M2N 5R4",
+      "hours_note": "Mon-Sun 11:00 AM - 10:00 PM",
+      "image_url": "assets/images/buk-chang-dong-soon-tofu-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=Buk+Chang+Dong+Soon+Tofu+5307+Yonge+St+North+York",
+      "source_url": "https://bukchangdong.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "food_profile": [
+        "more-veggie",
+        "more-meat",
+        "light-carb",
+        "spicy"
+      ],
+      "bullet_flavor": "Bubbling fiery seafood chili broth & silken tofu",
+      "bullet_highlight": "Cracking fresh egg into smoking hot stone dolsot",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Buk%20Chang%20Dong%20Soon%20Tofu%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "北约克韩式嫩豆腐汤鼻祖，热气滚烫的石锅豆腐汤配紫米饭。",
+        "must_try": "🍲 海鲜牛肉嫩豆腐汤 (Soon Tofu Soup)\n🍚 石锅紫米饭与香煎黄花鱼配菜",
+        "tips": "端上来时汤还在剧烈沸腾，趁热打入一颗生鸡蛋搅拌；石锅底部结成的锅巴倒入热大麦茶是传统收尾吃法。",
+        "vibe": "接地气、暖意融融的传统韩餐食堂"
+      },
+      "highlights": [
+        "Cracking fresh egg into smoking hot stone dolsot",
+        "Bubbling fiery seafood chili broth & silken tofu"
+      ],
+      "name_zh": "北仓洞嫩豆腐汤",
+      "description_zh": "多伦多韩餐常青树，热气腾腾的石锅嫩豆腐汤，搭配传统石锅现蒸米饭与丰富小菜。",
+      "highlights_zh": [
+        "老牌韩式嫩豆腐汤鼻祖，滚烫石锅香气四溢",
+        "丝滑豆腐鲜美海鲜牛骨汤，趁热打入鲜鸡蛋"
+      ],
+      "signature_dish_zh": "石锅综合海鲜牛肉嫩豆腐汤",
+      "hours_note_zh": "周一至周日 11:00 - 22:00",
+      "review_notes_en": {
+        "summary": "The undisputed staple for piping-hot Korean soondubu soft tofu stews served with stone-pot purple rice.",
+        "must_try": "🍲 Assorted Seafood & Beef Soondubu Jigae (Crack a fresh raw egg into the bubbling stew)\n🍚 Sizzling Stone-Pot Rice with traditional scorched rice tea (Nurungji)",
+        "tips": "Crack the raw egg into the stone bowl immediately while the soup is furiously bubbling. Pour barley tea into the rice crust for comforting nurungji.",
+        "vibe": "No-frills, fast-paced Korean diner that always delivers pure, soothing comfort"
+      }
+    },
+    {
+      "id": "daldongnae-korean-bbq-north-york",
+      "code": "032",
+      "name": "Daldongnae Korean BBQ",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Thick-Cut Fresh Pork Belly & Grilled Corn Cheese",
+      "description": "Nostalgic retro Korean BBQ specialist grilling high-grade pork cuts surrounded by table-edge channels of egg wash and corn-cheese.",
+      "address": "6034 Yonge St, North York, ON M2M 3W5",
+      "hours_note": "Mon-Sun 12:00 PM - 11:30 PM",
+      "image_url": "assets/images/daldongnae-korean-bbq-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=Daldongnae+Korean+BBQ+6034+Yonge+St+North+York",
+      "source_url": "https://daldongnaebbq.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [
+        "bbq"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Thick-cut charred pork belly & molten corn cheese",
+      "bullet_highlight": "Retro Seoul street-style tabletop charcoal grill",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Daldongnae%20Korean%20BBQ%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "北约克最地道的复古韩国街头烤肉，厚切五花肉配烤盘边免费芝士蛋液。",
+        "must_try": "🥩 极品厚切五花肉 (Samgyeopsal) 与牛小排\n🧀 烤盘外圈无限续加的玉米芝士与松软烤蛋液",
+        "tips": "炭火烤盘受热均匀，店员帮烤火候绝佳，五花肉外焦里嫩，用生菜包蒜瓣青椒一口闷最过瘾。",
+        "vibe": "还原七八十年代首尔街头巷尾的复古酒馆"
+      },
+      "highlights": [
+        "Retro Seoul street-style tabletop charcoal grill",
+        "Thick-cut charred pork belly & molten corn cheese"
+      ],
+      "name_zh": "月洞家炭火烤肉",
+      "description_zh": "复古韩国街头风情炭火烤肉，烤盘外围独创无限续加芝士玉米与蛋液，肉质上乘多汁。",
+      "highlights_zh": [
+        "复古韩国街头炭火烤肉，烤盘自带流心芝士玉米",
+        "厚切五花肉外焦里嫩，秘制葱丝与新鲜生菜包肉"
+      ],
+      "signature_dish_zh": "厚切极品鲜五花肉配烤盘芝士玉米",
+      "hours_note_zh": "周一至周日 12:00 - 次日凌晨 1:00",
+      "review_notes_en": {
+        "summary": "Nostalgic Korean charcoal BBQ powerhouse featuring thick cuts of pork and ring griddles filled with cheese corn and egg.",
+        "must_try": "🥩 Thick-Cut Premium Pork Belly (Samgyeopsal) & Marinated Boneless Beef Short Ribs\n🌽 Free-refill griddled corn cheese and fluffy steamed egg moat",
+        "tips": "The circular table grill continuously bakes fresh cheese corn and egg custard around the meat. Excellent for late-night weekend feasts.",
+        "vibe": "Retro 1970s Seoul village nostalgia with weathered wooden facade, lively chatter, and sizzling meats"
+      }
+    },
+    {
+      "id": "sang-ji-fried-bao-north-york",
+      "code": "033",
+      "name": "Sang-Ji Fried Bao",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Signature Crispy Pork Sheng Jian Bao with soup",
+      "description": "Authentic Shanghai street food vendor famous for pan-fried pork bao featuring golden crunchy bottoms and scalding broth bursts.",
+      "address": "5461 Yonge St, North York, ON M2N 5S1",
+      "hours_note": "Mon-Sun 11:00 AM - 9:30 PM",
+      "image_url": "assets/images/sang-ji-fried-bao-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=Sang-Ji+Fried+Bao+5461+Yonge+St+North+York",
+      "source_url": "https://sangjibaotoronto.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Hot ginger-pork soup trapped in golden crust",
+      "bullet_highlight": "Crisp sesame bottom Shanghai sheng jian bao",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Sang-Ji%20Fried%20Bao%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "生煎先生",
+      "review_notes": {
+        "summary": "北约克生煎包名店，底部金黄焦脆、轻轻咬破汤汁迸发的满足感。",
+        "must_try": "🥟 招牌经典生煎包 (Sang-Ji Signature Pork Bao)\n🍜 传统上海葱油拌面与鸡汤小馄饨",
+        "tips": "吃生煎一定要先开天窗吸汤汁，防止高温肉汁喷溅；底部芝麻焦香酥脆，肉馅紧实弹牙。",
+        "vibe": "明亮温馨的中式快捷生煎点心铺"
+      },
+      "highlights": [
+        "Crisp sesame bottom Shanghai sheng jian bao",
+        "Hot ginger-pork soup trapped in golden crust"
+      ],
+      "name_zh": "生煎先生",
+      "description_zh": "地道江南传统手作生煎馒头，底部焦脆金黄，肉馅紧实，一口咬下浓郁汤汁瞬间爆浆。",
+      "highlights_zh": [
+        "多伦多生煎包天花板，底部酥脆金黄咔嚓响",
+        "大颗紧实鲜肉内馅，丰盈滚烫肉汁一口爆浆"
+      ],
+      "signature_dish_zh": "招牌现煎爆汁鲜肉生煎包",
+      "hours_note_zh": "周一至周日 11:30 - 21:00",
+      "review_notes_en": {
+        "summary": "Artisanal Shanghai-style pan-fried soup dumplings famed for ultra-crispy golden bottoms and bursting hot broth.",
+        "must_try": "🥟 Signature Pork Shengjian Bao (Pan-fried soup dumplings topped with sesame & scallions)\n🍜 Shanghai Scallion Oil Noodles & Spiced Duck Blood Vermicelli Soup",
+        "tips": "Nibble a tiny hole in the top dough first to sip the piping-hot savory soup before eating the entire bao, or it will splatter!",
+        "vibe": "Casual, bustling Shanghainese fast-casual eatery with mouthwatering aromas from giant cast-iron pans"
+      }
+    },
+    {
+      "id": "menami-udon-izakaya-north-york",
+      "code": "034",
+      "name": "MeNami Udon & Izakaya",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "date-night"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Black Sesame Beef Udon & Mentaiko Cream Udon",
+      "description": "Cozy Japanese udon bar kneading fresh sanuki noodles daily served in creative house-blended broths alongside crispy tempura.",
+      "address": "5460 Yonge St, North York, ON M2N 6K7",
+      "hours_note": "Mon-Sun 11:30 AM - 10:30 PM",
+      "image_url": "assets/images/menami-udon-izakaya-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=MeNami+Udon+5460+Yonge+St+North+York",
+      "source_url": "https://menami.ca/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Creamy mentaiko roe sauce & chewy Sanuki udon",
+      "bullet_highlight": "Modern Korean-Japanese fusion tapas & sake",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=MeNami%20Udon%20%26%20Izakaya%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "め波",
+      "review_notes": {
+        "summary": "手打自制日式乌冬专门店，浓稠丝滑的奶油明太子乌冬让人欲罢不能。",
+        "must_try": "🍜 招牌奶油明太子乌冬 (Creamy Mentaiko Udon)\n🍤 酥脆天妇罗拼盘与日式烤串",
+        "tips": "乌冬面每天手工压制，弹牙爽口极其筋道；明太子与浓郁奶油酱汁包裹每一根面条，香浓过瘾。",
+        "vibe": "木质温馨、适合深夜暖胃的日式乌冬酒馆"
+      },
+      "highlights": [
+        "Modern Korean-Japanese fusion tapas & sake",
+        "Creamy mentaiko roe sauce & chewy Sanuki udon"
+      ],
+      "name_zh": "MeNami 乌冬居酒屋",
+      "description_zh": "独具创意的日韩融合乌冬居酒屋，招牌黑松露明太子奶油乌冬面，浓郁挂汁香气扑鼻。",
+      "highlights_zh": [
+        "多伦多独创手打日式乌冬居酒屋，筋道Q弹有嚼劲",
+        "浓郁丝滑黑松露明太子奶油酱，裹满每根粗面"
+      ],
+      "signature_dish_zh": "黑松露明太子奶油手打乌冬面",
+      "hours_note_zh": "周一至周日 11:30 - 23:00",
+      "review_notes_en": {
+        "summary": "Innovative Japanese-Korean udon bar handcrafted with house-kneaded noodles and decadent fusion sauces.",
+        "must_try": "🍜 Truffle Mentaiko Cream Udon (Rich spicy cod roe with shaved black truffle)\n🍤 Crispy Tiger Prawn Tempura & Smoked Duck Breast Salad",
+        "tips": "Their house-made udon noodles have an extraordinary chewy texture (koshi). Mix the mentaiko roe thoroughly with the hot cream.",
+        "vibe": "Warm wooden izakaya mood with ambient hanging lanterns and quiet cozy booths"
+      }
+    },
+    {
+      "id": "owl-of-minerva-north-york",
+      "code": "035",
+      "name": "The Owl of Minerva",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Gamjatang (Pork Bone Soup with wild sesame)",
+      "description": "Legendary late-night Toronto Korean eatery celebrated for piping hot pork backbone stew simmered with potatoes and cabbage.",
+      "address": "5324 Yonge St, North York, ON M2N 5P9",
+      "hours_note": "Mon-Sun 10:30 AM - 2:00 AM",
+      "image_url": "assets/images/owl-of-minerva-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=Owl+of+Minerva+5324+Yonge+St+North+York",
+      "source_url": "https://www.owlofminerva.net/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "light-carb",
+        "spicy"
+      ],
+      "bullet_flavor": "Spicy roasted pork neck broth with wild perilla",
+      "bullet_highlight": "Legendary 24/7 comforting Korean gamjatang",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=The%20Owl%20of%20Minerva%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "多伦多24小时韩餐常青树，浓郁辛香大块猪骨汤是宿醉与夜宵救星。",
+        "must_try": "🍲 招牌土豆猪骨汤 (Kamjatang with tender pork neck)\n🥘 铁板韩式甜辣炒年糕与泡菜煎饼",
+        "tips": "大块猪脊骨慢炖到脱骨软烂，骨髓吸食极其香浓，辣白菜与土豆软糯吸汁，深夜食堂首选。",
+        "vibe": "24小时不打烊的亲切韩国家庭餐馆"
+      },
+      "highlights": [
+        "Legendary 24/7 comforting Korean gamjatang",
+        "Spicy roasted pork neck broth with wild perilla"
+      ],
+      "name_zh": "猫头鹰韩式暖心餐厅",
+      "description_zh": "多伦多传奇24小时深夜食堂，大块带骨猪脊骨炖土豆汤，浓香微辣暖胃回味无穷。",
+      "highlights_zh": [
+        "多伦多老牌韩餐招牌，通宵深夜暖胃首选",
+        "大块酥软带骨猪脊骨肉，浓香微辣土豆浓汤"
+      ],
+      "signature_dish_zh": "传统韩式带骨猪脊骨土豆浓汤",
+      "hours_note_zh": "周一至周日 24小时营业",
+      "review_notes_en": {
+        "summary": "Iconic Toronto 24/7 Korean comfort food institution famed for hearty pork bone soup that revives late-night diners.",
+        "must_try": "🍲 Gamjatang (Signature rich, peppery pork bone soup with tender potatoes)\n🥢 Spicy Pork Stir-Fry & Crispy Seafood Pajeon Pancake",
+        "tips": "The fork-tender pork falls right off the vertebrae bones. Dip meat into the hot mustard soy sauce and pour the rich broth over steamed rice.",
+        "vibe": "Unpretentious, nostalgic Korean diner buzzing at 2 AM with happy late-night crowds"
+      }
+    },
+    {
+      "id": "katsuya-north-york",
+      "code": "036",
+      "name": "Katsuya North York",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Carbonara Pork Loin Katsu with shredded cabbage",
+      "description": "Japanese cutlet haven battering panko pork cutlets fried golden and smothered in rich cheese, carbonara, or curry sauces.",
+      "address": "6048 Yonge St, North York, ON M2M 3W5",
+      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/katsuya-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=Katsuya+6048+Yonge+St+North+York",
+      "source_url": "https://katsuya.ca/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Crunchy panko pork loin with creamy carbonara",
+      "bullet_highlight": "Decadent cheese and sauce loaded pork cutlets",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Katsuya%20North%20York%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "カツヤ",
+      "review_notes": {
+        "summary": "多伦多日式厚切炸猪排专家，金黄酥脆肉汁满溢，特制酱汁极其惊艳。",
+        "must_try": "🥩 经典特级厚切炸猪排 (Katsuya Special with Carbonara Sauce)\n🌶️ 甜辣双拼芝士炸猪排",
+        "tips": "猪排外层面包糠轻盈酥脆毫不含油，内里肉质柔嫩多汁；附送的卷心菜丝淋焙煎芝麻酱清爽解腻。",
+        "vibe": "年轻有活力的现代日式炸猪排专营店"
+      },
+      "highlights": [
+        "Decadent cheese and sauce loaded pork cutlets",
+        "Crunchy panko pork loin with creamy carbonara"
+      ],
+      "name_zh": "Katsuya 日式特色炸猪排",
+      "description_zh": "多伦多日式炸猪排天花板，厚切新鲜猪排裹生面包糠现炸，外壳酥脆，淋特调咖喱与奶酪酱。",
+      "highlights_zh": [
+        "多伦多日式炸猪排顶流，厚切鲜嫩多汁外壳金黄",
+        "独创浓香白酱蒜香排与日式咖喱拉丝奶酪炸猪排"
+      ],
+      "signature_dish_zh": "黄金炸猪排佐特调香浓白酱与咖喱",
+      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "Toronto’s undisputed tonkatsu specialist serving ultra-thick, golden-fried pork cutlets smothered in creative sauces.",
+        "must_try": "🥩 Carbonara Katsu & Signature White Sauce Katsu\n🧀 Melted Mozzarella Cheese Katsu with Japanese Brown Curry",
+        "tips": "The panko crumb coating stays exceptionally crispy even beneath heavy sauces. Unlimited cabbage salad and miso soup refills are included.",
+        "vibe": "Modern, high-energy dining room packed with students and katsu fanatics"
+      }
+    },
+    {
+      "id": "pai-midtown-yonge",
+      "code": "038",
+      "name": "PAI Midtown",
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy",
+        "gluten-free"
+      ],
+      "mood": [
+        "comfort",
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Green Papaya Salad & Massaman Braised Beef Curry",
+      "description": "Midtown outpost of Chef Nuit's acclaimed Northern Thai sanctuary featuring zesty street snacks and aromatic house-curry recipes.",
+      "address": "2335 Yonge St, Toronto, ON M4P 2E6",
+      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/pai-midtown-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Pai+Midtown+2335+Yonge+St+Toronto",
+      "source_url": "https://www.paitoronto.com/",
+      "unverified": [],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "more-veggie",
+        "spicy"
+      ],
+      "bullet_flavor": "Spicy green papaya salad & tender beef curry",
+      "bullet_highlight": "Midtown outpost of Toronto's favorite Northern Thai",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=PAI%20Midtown%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "PAI 的中城分店，保留全部泰北地道风味，排队体验比市区更从容。",
+        "must_try": "🍜 招牌泰北黄咖喱金面 (Khao Soi)\n🥢 街头风味冬阴功汤配泰式罗勒炒猪肉饭",
+        "tips": "品质与 DT 总店完全一致，椰香与青柠酸香平衡绝妙，适合中城居民与不想进市区排长队的朋友。",
+        "vibe": "中城绿植与泰式木屋相结合的舒适餐厅"
+      },
+      "highlights": [
+        "Midtown outpost of Toronto's favorite Northern Thai",
+        "Spicy green papaya salad & tender beef curry"
+      ],
+      "name_zh": "PAI 泰北小馆中城店",
+      "description_zh": "PAI在Midtown的分店，延续名厨Nuit招牌泰北清迈金面与青咖喱，空间宽敞明亮，聚会极佳。",
+      "highlights_zh": [
+        "米其林推荐名厨团队打造，中城宽敞明亮泰餐空间",
+        "浓郁椰香牛肉金面搭配金黄炸脆面，百吃不厌"
+      ],
+      "signature_dish_zh": "泰北清迈牛肉咖喱金面配泰式奶茶",
+      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "Midtown outpost of Chef Nuit Regular’s celebrated culinary kingdom, offering beloved Northern Thai curries in a spacious room.",
+        "must_try": "🍜 Chef Nuit’s Signature Beef Khao Soi with pickled mustard greens & shallots\n🥥 Green Curry Braised Beef in Coconut with Jasmine Rice",
+        "tips": "Easier to get a table here than the downtown flagship. Great natural light from large windows makes it ideal for group lunches.",
+        "vibe": "Airy, colorful tropical Thai restaurant with handcrafted wicker lanterns and friendly hospitality"
+      }
+    },
+    {
+      "id": "kings-noodle-restaurant-spadina",
+      "code": "046",
+      "name": "King's Noodle Restaurant",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "BBQ Roast Duck & Crispy Skin Pork on Rice",
+      "description": "Chinatown landmark with hanging roasted ducks in windows, carving succulent char siu and bubbling wonton noodle soups.",
+      "address": "287 Spadina Ave, Toronto, ON M5T 2E3",
+      "hours_note": "Mon-Sun 10:00 AM - 9:00 PM",
+      "image_url": "assets/images/kings-noodle-restaurant-spadina.webp",
+      "maps_url": "https://maps.google.com/?q=Kings+Noodle+Restaurant+287+Spadina+Ave+Toronto",
+      "source_url": "https://www.kingsnoodlerestaurant.com/",
+      "unverified": [],
+      "area": "Chinatown",
+      "walking_time_min": 28,
+      "portion_size": "heavy",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Crispy golden crackling pork belly & sweet duck",
+      "bullet_highlight": "Hanging roast meats in Chinatown shopfront",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=King%27s%20Noodle%20Restaurant%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": "皇上皇烧腊",
+      "review_notes": {
+        "summary": "唐人街半世纪广式烧腊云吞面传奇，明炉烧鸭与弹牙全蛋竹升面。",
+        "must_try": "🦆 挂炉脆皮烧鸭饭配葱姜蓉 (Roasted Duck on Rice)\n🍜 鲜虾云吞汤面 (全蛋银丝细面)",
+        "tips": "橱窗挂满油亮烧腊，烧鸭皮脆肉嫩汁水饱满，云吞每颗都有一整只弹牙鲜虾，汤头带大地鱼香气。",
+        "vibe": "怀旧复古、充满市井烟火气的广式茶餐厅"
+      },
+      "highlights": [
+        "Hanging roast meats in Chinatown shopfront",
+        "Crispy golden crackling pork belly & sweet duck"
+      ],
+      "name_zh": "皇上皇烧腊云吞面",
+      "description_zh": "唐人街半个世纪烧腊老字号，橱窗吊挂蜜汁叉烧与脆皮烧鸭，手打全蛋银丝幼面鲜美弹牙。",
+      "highlights_zh": [
+        "唐人街老字号广式烧腊，橱窗挂满蜜汁叉烧脆皮烧鸭",
+        "手打传统全蛋银丝竹升面，大地鱼虾子大地高汤"
+      ],
+      "signature_dish_zh": "广式明炉蜜汁叉烧拼脆皮烧鸭捞面",
+      "hours_note_zh": "周一至周日 9:30 - 20:30",
+      "review_notes_en": {
+        "summary": "Legendary Chinatown institution famed for hanging roasted meats in the window and springy Hong Kong wonton noodles.",
+        "must_try": "🦆 Crispy Skin Roast Duck & Honey Barbecue Char Siu\n🥟 Fresh Shrimp Wonton Noodle Soup with crunchy thin egg noodles",
+        "tips": "Watch the master roaster chop duck with lightning speed in the front display window. Cash or debit is preferred.",
+        "vibe": "Old-school bustling Hong Kong tea restaurant with retro booth seating and clattering teacups"
+      }
+    },
+    {
+      "id": "pho-hung-spadina",
+      "code": "047",
+      "name": "Pho Hung Restaurant",
+      "type": "restaurant",
+      "cuisine": "Vietnamese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "healthy"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Phở Đặc Biệt with rare beef, flank, tendon, and tripe",
+      "description": "Chinatown pillar serving lightning-fast giant bowls of steaming beef broth laden with fresh basil, sprouts, and lime.",
+      "address": "350 Spadina Ave, Toronto, ON M5T 2G4",
+      "hours_note": "Mon-Sun 10:00 AM - 9:30 PM",
+      "image_url": "assets/images/pho-hung-spadina.webp",
+      "maps_url": "https://maps.google.com/?q=Pho+Hung+350+Spadina+Ave+Toronto",
+      "source_url": "https://phohung.ca/",
+      "unverified": [],
+      "area": "Chinatown",
+      "walking_time_min": 30,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-veggie",
+        "more-meat",
+        "light-carb"
+      ],
+      "bullet_flavor": "Clean star anise beef broth with fresh Thai basil",
+      "bullet_highlight": "Classic two-story Spadina phở institution",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Pho%20Hung%20Restaurant%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "唐人街老字号越南火车头牛肉粉，牛骨高汤清甜醇厚，肉料丰富。",
+        "must_try": "🍜 招牌火车头特别牛肉粉 (Pho Dac Biet with raw beef, brisket & tendon)\n🥢 现炸越南香脆春卷配新鲜九层塔",
+        "tips": "汤底慢熬数十小时毫无味精感，挤上青柠汁撒上撕碎的九层塔，热气升腾香气扑鼻，醒胃解酒神器。",
+        "vibe": "经典宽敞的老牌唐人街越南粉餐厅"
+      },
+      "highlights": [
+        "Classic two-story Spadina phở institution",
+        "Clean star anise beef broth with fresh Thai basil"
+      ],
+      "name_zh": "雄记越式牛肉粉",
+      "description_zh": "多伦多唐人街老牌越南粉地标，牛骨慢熬二十小时清甜回甘高汤，生熟牛肉与现炸春卷分量十足。",
+      "highlights_zh": [
+        "唐人街老牌越南牛肉粉地标，慢熬醇香牛骨清汤",
+        "新鲜生牛肉片配九层塔豆芽，大碗热气腾腾极度暖胃"
+      ],
+      "signature_dish_zh": "特别牛肉七宝大碗越式河粉",
+      "hours_note_zh": "周一至周日 10:00 - 21:30",
+      "review_notes_en": {
+        "summary": "Decades-old Chinatown landmark dishing out steaming bowls of fragrant Vietnamese phở in rich aromatic beef broth.",
+        "must_try": "🍜 Phở Đặc Biệt (House Special with rare beef slices, flank, tendon, and tripe)\n🥖 Crispy Vietnamese Spring Rolls with fresh mint and fish sauce",
+        "tips": "Tear fresh basil leaves and drop crisp bean sprouts into the scalding broth right away to release maximum aromatics.",
+        "vibe": "Fast-paced, beloved community hall serving generational regulars and hungry students"
+      }
+    },
+    {
+      "id": "korean-village-restaurant-bloor",
+      "code": "049",
+      "name": "Korean Village Restaurant",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Dolsot Bibimbap & Marinated Galbi Short Ribs",
+      "description": "Historic Koreatown landmark operating since 1978, dishing sizzling stone bowl bibimbap, homemade kimchi, and tender galbi.",
+      "address": "628 Bloor St W, Toronto, ON M6G 1K7",
+      "hours_note": "Mon-Sun 11:30 AM - 10:30 PM",
+      "image_url": "assets/images/korean-village-restaurant-bloor.webp",
+      "maps_url": "https://maps.google.com/?q=Korean+Village+Restaurant+628+Bloor+St+W+Toronto",
+      "source_url": "https://koreanvillageto.com/",
+      "unverified": [],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "more-veggie"
+      ],
+      "bullet_flavor": "Sizzling dolsot bibimbap & sweet soy galbi",
+      "bullet_highlight": "Historic Koreatown staple serving since 1978",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Korean%20Village%20Restaurant%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "韩国城历史最悠久的老牌烤肉店，牛小排腌制入味，小菜种类极多。",
+        "must_try": "🥩 特选秘制牛仔骨 (Marinated Galbi Short Ribs)\n🍲 经典海鲜葱油饼与石锅拌饭",
+        "tips": "墙上挂满名人政要合照的老字号，肉质软嫩带着果木炭火焦香，十余种免费自制韩式小菜诚意十足。",
+        "vibe": "洋溢传统暖意的大阪/首尔老派烤肉馆"
+      },
+      "highlights": [
+        "Historic Koreatown staple serving since 1978",
+        "Sizzling dolsot bibimbap & sweet soy galbi"
+      ],
+      "name_zh": "韩国村传统料理",
+      "description_zh": "韩国城半世纪常青殿堂，名厨墙签名满满，经典石锅拌饭、烤牛仔骨与海鲜葱饼原汁原味。",
+      "highlights_zh": [
+        "韩国城近半个世纪老店，众多明星打卡纪念墙",
+        "热烈滋滋作响石锅拌饭配香脆焦香锅巴与铁板牛仔骨"
+      ],
+      "signature_dish_zh": "经典传统石锅拌饭拼秘制烤牛仔骨",
+      "hours_note_zh": "周一至周日 11:30 - 22:30",
+      "review_notes_en": {
+        "summary": "Bloor Koreatown’s oldest surviving dining landmark, operating since 1978 and filled with photos of visiting celebrities.",
+        "must_try": "🥘 Dolsot Bibimbap with sizzling crunchy rice crust\n🥩 Marinated LA Galbi (BBQ short ribs) & Crispy Haemul Pajeon",
+        "tips": "The mother of the house (Ok Hee Kang) has welcomed guests for decades. The bibimbap crisps against the hot stone into perfection.",
+        "vibe": "Warm historic time capsule adorned with autographed photos and classic Korean wood screens"
+      }
+    },
+    {
+      "id": "sukhothai-parliament",
+      "code": "050",
+      "name": "Sukhothai Regent Park",
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "halal",
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Northern Thai Guay Tiew Noodle Soup & Pad Gra Prow",
+      "description": "The founding flagship where Chef Nuit Regular introduced authentic Thai street cuisine, crispy garlic nuggets, and rich broths.",
+      "address": "274 Parliament St, Toronto, ON M5A 3A4",
+      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/sukhothai-parliament.webp",
+      "maps_url": "https://maps.google.com/?q=Sukhothai+274+Parliament+St+Toronto",
+      "source_url": "https://www.sukhothaifood.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 11,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat",
+        "more-veggie",
+        "spicy"
+      ],
+      "bullet_flavor": "Rich braised beef noodle broth & holy basil stir-fry",
+      "bullet_highlight": "Pioneer of authentic modern Thai in Toronto",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Sukhothai%20Regent%20Park%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "native_name": null,
+      "review_notes": {
+        "summary": "多伦多首批地道泰餐代表，酸辣通透的青木瓜沙拉与香浓椰奶咖喱。",
+        "must_try": "🥗 现舂泰式青木瓜沙拉 (Som Tum Papaya Salad)\n🍛 经典绿咖喱鸡配茉莉香米饭",
+        "tips": "酸甜香辣平衡绝佳，青木瓜丝爽脆冰凉，咖喱浓郁带着浓郁青柠叶香气，深受附近居民喜爱。",
+        "vibe": "色彩鲜艳温馨热烈的泰国家庭风味小馆"
+      },
+      "highlights": [
+        "Pioneer of authentic modern Thai in Toronto",
+        "Rich braised beef noodle broth & holy basil stir-fry"
+      ],
+      "name_zh": "Sukhothai 泰餐厅",
+      "description_zh": "名厨Jeff与Nuit夫妇打造的泰餐发迹之作，经典冬阴功汤酸辣开胃，古法炒泰粉镬气迷人。",
+      "highlights_zh": [
+        "多伦多正统泰式家常料理鼻祖，香料芬芳醇厚",
+        "古法酸辣开胃冬阴功海鲜汤配镬气十足传统炒泰粉"
+      ],
+      "signature_dish_zh": "古法香炒泰粉配泰式香辣酸辣汤",
+      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "The founding chapter of Chef Nuit and Jeff Regular’s Thai journey, serving comforting home-style curries and street noodles.",
+        "must_try": "🥢 Classic Pad Thai Boran with tamarind glaze, tofu, and crushed peanuts\n🍲 Tom Yum Kung (Spicy and sour lemongrass prawn soup)",
+        "tips": "Their pad thai is wrapped in a thin egg crepe upon request and cooked with genuine tamarind rather than sweet ketchup.",
+        "vibe": "Warm, cozy Regent Park neighborhood jewel with glowing ambient lights and spice-filled air"
+      }
+    },
+    {
+      "id": "omusubi-bar-suzume-dundas",
+      "code": "051",
+      "name": "Omusubi Bar Suzume",
+      "native_name": "おむすびバー すずめ",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "takeout",
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "solo",
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Handmade Salmon & Mentaiko Omusubi",
+      "description": "Charming Market 707 stall serving piping-hot handmade Japanese rice balls wrapped in crisp seaweed.",
+      "address": "707 Dundas St W, Toronto, ON M5T 2W6",
+      "hours_note": "Tue-Sat 11:30 AM - 6:30 PM",
+      "image_url": "assets/images/omusubi-bar-suzume-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Omusubi+Bar+Suzume+707+Dundas+St+W+Toronto",
+      "source_url": "https://market707.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 35,
+      "portion_size": "light",
+      "category": "meal",
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Must-order mentaiko takana & grilled salmon rice balls with soothing miso soup",
+      "bullet_highlight": "Warm healing haven with freshly hand-molded onigiri made of plump, chewy rice",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃日式饭团首选！Dundas West 温暖治愈系饭团专门店。",
+        "must_try": "🍙 手作现捏日式饭团 (明太子高菜、烤三文鱼、紫苏梅肉)\n🍲 暖心豆腐白味噌汤套餐",
+        "tips": "每日新鲜手作现捏，米粒晶莹饱满有嚼劲；份量精巧，适合一人食便饭或打包野餐，限量售完即止。",
+        "vibe": "Dundas West 极简日系小清新，温暖治愈"
+      },
+      "highlights": [
+        "Warm healing haven with freshly hand-molded onigiri made of plump, chewy rice",
+        "Must-order mentaiko takana & grilled salmon rice balls with soothing miso soup"
+      ],
+      "name_zh": "雀 现捏手作饭团",
+      "description_zh": "Dundas West温暖治愈系日式饭团工坊，纯手工现捏，晶莹饱满米粒包裹明太子与烤三文鱼。",
+      "highlights_zh": [
+        "温暖治愈系日系小铺，手工现捏饱满有嚼劲的饭团",
+        "必点明太子高菜与烤三文鱼饭团，搭配暖心白味噌汤"
+      ],
+      "signature_dish_zh": "手作现捏明太子高菜饭团配白味噌豆腐汤",
+      "hours_note_zh": "周二至周日 11:30 - 18:00 (周一休息)",
+      "review_notes_en": {
+        "summary": "Top recommendation for authentic Japanese onigiri on Dundas West; a warm, healing minimalist specialty rice ball shop.",
+        "must_try": "🍙 Handmade Onigiri (Spicy Mentaiko Takana, Grilled Salmon, Shiso Umeboshi Plum)\n🍲 Comforting Silken Tofu White Miso Soup Set",
+        "tips": "Freshly molded by hand daily with plump, shiny, chewy Japanese grains. Portions are delicate, ideal for a comforting solo lunch or park picnic. Sells out early!",
+        "vibe": "Minimalist Japanese aesthetic filled with gentle warmth and comforting simplicity"
+      }
+    },
+    {
+      "id": "gushi-japanese-street-food-dundas",
+      "code": "052",
+      "name": "Gushi Japanese Street Food",
+      "native_name": "具志",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "takeout",
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Crispy Nana Karaage Fried Chicken Box",
+      "description": "Fan-favorite street food stall dishing out craveable, ultra-crispy Japanese fried chicken over steaming rice.",
+      "address": "707 Dundas St W, Stall 10, Toronto, ON M5T 2W6",
+      "hours_note": "Tue-Sun 12:00 PM - 7:00 PM",
+      "image_url": "assets/images/gushi-japanese-street-food-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Gushi+Japanese+Street+Food+707+Dundas+St+W+Toronto",
+      "source_url": "https://gushi.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 35,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Signature karaage bento drizzled with savory garlic mayo or nanban tartar sauce",
+      "bullet_highlight": "Market 707 shipping container favorite: crispy fried chicken bursting with juicy flavor",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃炸物炸鸡必去！Market 707 集装箱小街里的多伦多日式炸鸡名店。",
+        "must_try": "🍗 招牌南蛮日式炸鸡块便当 (Karaage Bento)\n🍢 秘制酱汁炸鸡肉串",
+        "tips": "多伦多日式炸鸡天花板之一，外酥里嫩肉汁充沛，可选蒜香蛋黄酱或南蛮塔塔酱；市井集装箱摊位烟火气十足。",
+        "vibe": "Market 707 街头集装箱小吃街，浓厚街头风情"
+      },
+      "highlights": [
+        "Market 707 shipping container favorite: crispy fried chicken bursting with juicy flavor",
+        "Signature karaage bento drizzled with savory garlic mayo or nanban tartar sauce"
+      ],
+      "name_zh": "具志街头炸鸡",
+      "description_zh": "Market 707集装箱小街里的日式炸鸡天花板，蒜香姜汁腌制入味，外皮咔嚓酥脆，肉汁四溢。",
+      "highlights_zh": [
+        "Market 707集装箱街头美食顶流，外酥里嫩肉汁爆棚",
+        "招牌南蛮炸鸡便当，浇满香浓蒜香蛋黄酱或塔塔酱"
+      ],
+      "signature_dish_zh": "招牌南蛮日式炸鸡块便当",
+      "hours_note_zh": "周一至周六 11:30 - 19:30 (周日休息)",
+      "review_notes_en": {
+        "summary": "An absolute must-visit for fried chicken lovers inside the Market 707 shipping container strip on Dundas.",
+        "must_try": "🍗 Signature Nanban Karaage Chicken Bento Box\n🍢 House Tare Skewered Fried Chicken Skewers",
+        "tips": "A benchmark for Japanese fried chicken in Toronto: crispy crust with bursting juices. Choose between garlic mayo or tangy nanban tartar sauce.",
+        "vibe": "Vibrant street-food container stall buzzing with neighborhood charm and fragrant fryers"
+      }
+    },
+    {
+      "id": "okonomi-house-charles",
+      "code": "053",
+      "name": "Okonomi House Restaurant",
+      "native_name": "お好みハウス",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Classic Bacon & Shrimp Okonomiyaki",
+      "description": "Legendary retro diner flipping griddled Kansai-style savory cabbage pancakes topped with dancing bonito flakes.",
+      "address": "23 Charles St W, Toronto, ON M4Y 1R4",
+      "hours_note": "Wed-Sun 11:30 AM - 9:00 PM",
+      "image_url": "assets/images/okonomi-house-charles.webp",
+      "maps_url": "https://maps.google.com/?q=Okonomi+House+23+Charles+St+W+Toronto",
+      "source_url": "http://okonomihouse.ca/",
+      "unverified": [],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 25,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Smothered in sweet tare sauce, Japanese mayo & dancing bonito flakes",
+      "bullet_highlight": "40-year retro teppan institution sizzling with piping-hot cabbage okonomiyaki",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃正宗铁板大阪烧来这里！多伦多四十年历史的铁板烧元祖老字号。",
+        "must_try": "🥞 经典铁板大阪烧 (招牌海鲜与猪肉大阪烧 / Classic Teppan Okonomiyaki)\n🥓 铁板炒面 (Yakisoba)",
+        "tips": "现煎现吃热气腾腾，厚切卷心菜爽脆鲜甜，淋满照烧酱与日式美乃滋，木鱼花热烈跳舞；饭点常需排队10-15分钟。",
+        "vibe": "复古日式木质小酒馆氛围，温馨接地气"
+      },
+      "highlights": [
+        "40-year retro teppan institution sizzling with piping-hot cabbage okonomiyaki",
+        "Smothered in sweet tare sauce, Japanese mayo & dancing bonito flakes"
+      ],
+      "name_zh": "Okonomi House 大阪烧",
+      "description_zh": "多伦多四十年历史的铁板烧元祖老字号，厚切卷心菜爽脆鲜甜，热烈跳舞木鱼花与照烧美乃滋。",
+      "highlights_zh": [
+        "四十年复古铁板烧老字号，现煎现吃热气腾腾",
+        "淋满浓厚照烧酱与日式美乃滋，撒上跳舞木鱼花"
+      ],
+      "signature_dish_zh": "传统铁板大阪烧配日式炒面",
+      "hours_note_zh": "周二至周日 11:30 - 21:00 (周一休息)",
+      "review_notes_en": {
+        "summary": "The definitive destination for authentic Kansai-style okonomiyaki; a 40-year retro teppan institution in Toronto.",
+        "must_try": "🥞 Classic Teppan Okonomiyaki (Signature Seafood & Pork savory cabbage pancake)\n🥓 Sizzling Yakisoba (Griddled noodles with sweet tare sauce)",
+        "tips": "Fried fresh to order on the griddle; crunchy sweet cabbage drenched in tare sauce, Japanese mayo, and crowned with dancing bonito flakes. Expect a 10-15 minute wait at peak hours.",
+        "vibe": "Cozy retro Japanese wooden tavern warmth that feels wonderfully grounded and nostalgic"
+      }
+    },
+    {
+      "id": "natural-japaneats-wychwood",
+      "code": "054",
+      "name": "Natural Japaneats",
+      "native_name": "ナチュラル ジャパニーツ",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "mood": [
+        "light",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Handcrafted Fresh Strawberry Daifuku Mochi",
+      "description": "Beloved artisanal Japanese wagashi maker renowned for freshly pounded, silky strawberry daifuku mochi.",
+      "address": "601 Christie St, Toronto, ON M6G 4C7",
+      "hours_note": "Sat 8:00 AM - 1:00 PM (Weekly market)",
+      "image_url": "assets/images/natural-japaneats-wychwood.webp",
+      "maps_url": "https://maps.google.com/?q=Natural+Japaneats+601+Christie+St+Toronto",
+      "source_url": "https://naturaljapaneats.ca/",
+      "unverified": [],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "dessert",
+      "food_profile": [],
+      "bullet_flavor": "Delicate low-sugar red bean paste with irresistible pillowy-soft stretch",
+      "bullet_highlight": "All-natural artisanal hand-pulled mochi wrapped around sweet juicy strawberries",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃大福甜点必去！纯手作日式鲜果大福与麻薯的秘密工坊。",
+        "must_try": "🍓 手作鲜果草莓大福 (Fresh Strawberry Daifuku)\n🍵 宇治抹茶大福与季节限定蜜桃大福",
+        "tips": "纯手工天然无添加，麻薯外皮软糯拉丝，红豆馅细腻低糖，大颗草莓多汁酸甜；保质期短建议当天新鲜食用。",
+        "vibe": "日系手作工坊温润风，精致外带甜品"
+      },
+      "highlights": [
+        "All-natural artisanal hand-pulled mochi wrapped around sweet juicy strawberries",
+        "Delicate low-sugar red bean paste with irresistible pillowy-soft stretch"
+      ],
+      "name_zh": "Natural Japaneats 手作大福",
+      "description_zh": "纯手工天然无添加日式鲜果大福工坊，麻薯拉丝软糯，低糖细腻红豆，包裹大颗多汁新鲜草莓。",
+      "highlights_zh": [
+        "纯天然手工拉丝软糯麻薯，包裹大颗新鲜多汁草莓",
+        "细腻低糖手作红豆馅，口感软嫩丝滑无多余添加"
+      ],
+      "signature_dish_zh": "纯手工鲜果草莓麻薯大福",
+      "hours_note_zh": "周三至周日 10:00 - 17:00 (售完即止)",
+      "review_notes_en": {
+        "summary": "The ultimate hidden atelier for artisanal Japanese fresh fruit daifuku and hand-pounded mochi.",
+        "must_try": "🍓 Handcrafted Fresh Strawberry Daifuku Mochi\n🍵 Uji Matcha Daifuku & Seasonal White Peach Daifuku",
+        "tips": "100% handmade and natural with zero additives. Stretchy, pillowy mochi skin wrapped around delicate low-sugar red bean paste and sweet juicy strawberries. Short shelf life; best enjoyed fresh!",
+        "vibe": "Serene Japanese artisan workshop with beautifully packaged, delicate takeout confections"
+      }
+    },
+    {
+      "id": "mon-k-patisserie-coxwell",
+      "code": "055",
+      "name": "Mon K Patisserie",
+      "native_name": "モン・ケー",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "light",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Japanese Souffle Roll Cake & Choux a la Creme",
+      "description": "Understated Japanese-French bakery crafting cloud-soft roll cakes, flaky croissants, and delicate cream puffs.",
+      "address": "1040 Coxwell Ave, Toronto, ON M4C 3G5",
+      "hours_note": "Tue-Sat 9:00 AM - 5:00 PM",
+      "image_url": "assets/images/mon-k-patisserie-coxwell.webp",
+      "maps_url": "https://maps.google.com/?q=Mon+K+Patisserie+1040+Coxwell+Ave+Toronto",
+      "source_url": "https://monkpatisserie.ca/",
+      "unverified": [],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "cafe",
+      "food_profile": [],
+      "bullet_flavor": "Must-order classic chestnut Mont Blanc & fluffy matcha strawberry roll cake",
+      "bullet_highlight": "Understated East-end Japanese-French bakery with ultra-restrained sweetness",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃偏朴素的日法甜品来这里！东区低调高级的日法社区烘焙坊。",
+        "must_try": "🌰 经典栗子蒙布朗 (Mont Blanc)\n🍰 抹茶草莓瑞士卷与外脆内嫩可丽露",
+        "tips": "法式传统烘焙技法结合日系低糖哲学，甜度极度克制，口感层次细腻纯正不腻；周末下午爆款容易提早售罄。",
+        "vibe": "东区素雅温馨的法式日系烘焙小店"
+      },
+      "highlights": [
+        "Understated East-end Japanese-French bakery with ultra-restrained sweetness",
+        "Must-order classic chestnut Mont Blanc & fluffy matcha strawberry roll cake"
+      ],
+      "name_zh": "Mon K 日法烘焙坊",
+      "description_zh": "东区低调高级的日法社区烘焙坊，传统法式工艺融合日系低糖哲学，栗子蒙布朗与抹茶卷绝妙。",
+      "highlights_zh": [
+        "东区低调高级的日法烘焙坊，甜度极度克制细腻",
+        "必点经典栗子蒙布朗与轻盈蓬松抹茶草莓瑞士卷"
+      ],
+      "signature_dish_zh": "经典法式栗子蒙布朗配抹茶草莓卷",
+      "hours_note_zh": "周三至周日 9:00 - 17:00 (周一周二休息)",
+      "review_notes_en": {
+        "summary": "An understated, high-caliber Japanese-French community bakery on the East end, perfect for modest sweet lovers.",
+        "must_try": "🌰 Classic Chestnut Mont Blanc\n🍰 Fluffy Matcha Strawberry Roll Cake & Crisp Canelés",
+        "tips": "French traditional baking techniques combined with Japanese low-sugar restraint. Clean, nuanced textures that never overwhelm with sugar. Popular pastries sell out by early afternoon on weekends!",
+        "vibe": "Quiet, elegant French-Japanese neighborhood bakery with serene morning pastry aroma"
+      }
+    },
+    {
+      "id": "takoyaki6ix-kensington",
+      "code": "056",
+      "name": "Takoyaki6ix",
+      "native_name": "たこ焼きシックス",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "takeout",
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Freshly Griddled Classic Osaka Takoyaki",
+      "description": "Kensington snack bar specializing in piping-hot, freshly griddled octopus balls drizzled with authentic Japanese kewpie.",
+      "address": "160 Baldwin St #5, Toronto, ON M5T 1L8",
+      "hours_note": "Wed-Sun 12:00 PM - 7:00 PM",
+      "image_url": "assets/images/takoyaki6ix-kensington.webp",
+      "maps_url": "https://maps.google.com/?q=Takoyaki6ix+160+Baldwin+St+Toronto",
+      "source_url": "https://www.instagram.com/takoyaki6ix/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 29,
+      "portion_size": "light",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Piping-hot spheres loaded with plump octopus chunks, dancing bonito & kewpie mayo",
+      "bullet_highlight": "Kensington Market griddled takoyaki with crispy golden shell & molten creamy center",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃现做章鱼小丸子来这里！Kensington Market 现场铁板烤制烫口小丸子。",
+        "must_try": "🐙 现摇铁板章鱼小丸子 (Classic Osaka Takoyaki 6粒/12粒)",
+        "tips": "外壳微焦金黄酥脆，内馅熔岩流心，每颗都有饱满大粒章鱼；刚出炉极其烫口，吹一吹再吃，撒满海苔粉和木鱼花绝配。",
+        "vibe": "肯辛顿市集充满活力的街头小吃摊"
+      },
+      "highlights": [
+        "Kensington Market griddled takoyaki with crispy golden shell & molten creamy center",
+        "Piping-hot spheres loaded with plump octopus chunks, dancing bonito & kewpie mayo"
+      ],
+      "name_zh": "Takoyaki6ix 铁板章鱼烧",
+      "description_zh": "肯辛顿市集现场铁板烤制烫口小丸子，外焦酥脆内馅熔岩流心，大粒厚实章鱼，趁热吃极过瘾。",
+      "highlights_zh": [
+        "肯辛顿市集现摇铁板小丸子，外酥脆内流心",
+        "每颗饱满大粒鲜章鱼，撒上海苔粉与日式美乃滋"
+      ],
+      "signature_dish_zh": "大阪风味铁板现烤章鱼小丸子",
+      "hours_note_zh": "周二至周日 12:00 - 20:00 (周一休息)",
+      "review_notes_en": {
+        "summary": "The go-to destination for freshly griddled, piping-hot octopus balls inside vibrant Kensington Market.",
+        "must_try": "🐙 Classic Osaka Takoyaki (6 or 12 griddled octopus spheres topped with kewpie mayo & sweet glaze)",
+        "tips": "Crispy golden shell on the outside with a molten creamy center, each containing a plump, tender octopus chunk. Very hot straight off the griddle—blow gently before taking a bite!",
+        "vibe": "Lively, energetic street-food snack stall right in the colorful heart of Kensington Market"
+      }
+    },
+    {
+      "id": "tokyo-kitchen-charles",
+      "code": "057",
+      "name": "Tokyo Kitchen",
+      "native_name": "東京キッチン",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Pork Katsu Curry Rice & Ginger Pork Teishoku",
+      "description": "No-frills cozy spot serving deeply satisfying Japanese home cooking, crispy katsu curries, and comforting rice bowls.",
+      "address": "20 Charles St E, Toronto, ON M4Y 1T1",
+      "hours_note": "Mon-Sat 11:30 AM - 9:00 PM",
+      "image_url": "assets/images/tokyo-kitchen-charles.webp",
+      "maps_url": "https://maps.google.com/?q=Tokyo+Kitchen+20+Charles+St+E+Toronto",
+      "source_url": "https://tokyokitchentoronto.com/",
+      "unverified": [],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 24,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Comforting rich brown curry paired with hearty, crispy golden pork katsu",
+      "bullet_highlight": "Cozy Midnight Diner warmth run by a friendly auntie on Charles Street",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃便宜暖心的日料便饭来这里！Charles 街温馨日式家庭料理小馆。",
+        "must_try": "🍛 日式炸猪排咖喱饭 (Pork Katsu Curry)\n🥩 生姜烧猪肉定食 (Ginger Pork Teishoku)",
+        "tips": "老式日式家庭小店，老板娘亲切热情，浓郁日式褐咖喱搭配酥脆厚切炸猪排，份量实在，DT打工人和学生党常年食堂。",
+        "vibe": "日剧深夜食堂既视感，一人食舒适自在"
+      },
+      "highlights": [
+        "Cozy Midnight Diner warmth run by a friendly auntie on Charles Street",
+        "Comforting rich brown curry paired with hearty, crispy golden pork katsu"
+      ],
+      "name_zh": "东京厨房家庭料理",
+      "description_zh": "Charles街老式日式家庭小店，老板娘亲切热情，浓郁日式褐咖喱搭配酥脆厚切炸猪排，份量实在。",
+      "highlights_zh": [
+        "老式日式家庭小馆深夜食堂氛围，老板娘亲切热情",
+        "浓郁香醇日式褐咖喱搭配现炸厚切酥脆金黄猪排"
+      ],
+      "signature_dish_zh": "日式厚切炸猪排浓咖喱定食",
+      "hours_note_zh": "周一至周六 11:30 - 20:30 (周日休息)",
+      "review_notes_en": {
+        "summary": "The prime spot for comforting, budget-friendly Japanese home cooking on Charles Street.",
+        "must_try": "🍛 Crispy Pork Katsu Curry (Deep-fried pork loin with hearty brown curry)\n🥩 Ginger Pork Teishoku (Shogayaki sliced pork set)",
+        "tips": "Old-fashioned Japanese family diner run by a warm, welcoming auntie. Hearty brown curry with thick crispy cutlets and very generous portions. A beloved staple for downtown workers and students.",
+        "vibe": "Pure Japanese \"Midnight Diner\" nostalgia; cozy, intimate, and deeply comforting for solo dining"
+      }
+    },
+    {
+      "id": "manpuku-japanese-eatery-mccaul",
+      "code": "058",
+      "name": "Manpuku Japanese Eatery",
+      "native_name": "まんぷく",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Niku Udon with thinly sliced beef in dashi",
+      "description": "Beloved hidden gem inside Village by the Grange serving wallet-friendly udon bowls and classic curry sets.",
+      "address": "105 McCaul St, Unit 29-31, Toronto, ON M5T 2W7",
+      "hours_note": "Mon-Sat 11:30 AM - 8:00 PM",
+      "image_url": "assets/images/manpuku-japanese-eatery-mccaul.webp",
+      "maps_url": "https://maps.google.com/?q=Manpuku+Japanese+Eatery+105+McCaul+St+Toronto",
+      "source_url": "http://manpuku.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 18,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [],
+      "bullet_flavor": "Steaming beef niku udon in soothing dashi broth served in just minutes",
+      "bullet_highlight": "Legendary $6–$8 student budget comfort haven inside Village by the Grange",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃便宜日料便饭的首选！Village by the Grange 里的大神级学生食堂。",
+        "must_try": "🍜 经典牛肉乌冬面 (Niku Udon)\n🍲 日式牛肉饭与小碗咖喱套餐",
+        "tips": "DT性价比奇迹，一碗热腾腾牛肉乌冬只需 $6-$8，鲣鱼高汤清甜温润，出餐速度飞快，OCAD和多大校友的回忆之地。",
+        "vibe": "复古室内食街日式暖心小摊"
+      },
+      "highlights": [
+        "Legendary $6–$8 student budget comfort haven inside Village by the Grange",
+        "Steaming beef niku udon in soothing dashi broth served in just minutes"
+      ],
+      "name_zh": "万福学生日式食堂",
+      "description_zh": "Village by the Grange 里的大神级学生食堂，$6-$8牛肉乌冬鲣鱼高汤清甜温润，出餐飞快。",
+      "highlights_zh": [
+        "Village by the Grange传奇$6-$8平价温暖学生食堂",
+        "鲣鱼高汤牛肉乌冬清甜温润，数分钟飞速出餐"
+      ],
+      "signature_dish_zh": "经典牛肉乌冬面配日式小咖喱饭",
+      "hours_note_zh": "周一至周六 11:30 - 20:00 (周日休息)",
+      "review_notes_en": {
+        "summary": "The top pick for fast, inexpensive Japanese home-style comfort inside Village by the Grange.",
+        "must_try": "🍜 Classic Niku Udon (Sliced beef in sweet dashi broth)\n🍲 Beef Gyudon & Mini Japanese Curry Rice combo sets",
+        "tips": "A downtown value miracle: a hot bowl of beef udon starts at just $6–$8 with soothing dashi broth. Orders come out at lightning speed. An unforgettable memory for OCAD and U of T students.",
+        "vibe": "Vintage indoor food-court food stall with humble wooden counter and steaming noodle pots"
+      }
+    },
+    {
+      "id": "tempura-keisuke-richmond",
+      "code": "059",
+      "name": "Tempura Keisuke",
+      "native_name": "天丼 けいすけ",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Signature Keisuke Special Tendon Bowl",
+      "description": "Celebrated tendon concept frying up golden crispy shrimp, chicken, and seasonal vegetables over seasoned Japanese rice.",
+      "address": "111 Richmond St W, Toronto, ON M5H 2G4",
+      "hours_note": "Mon-Sat 11:30 AM - 8:30 PM",
+      "image_url": "assets/images/tempura-keisuke-richmond.webp",
+      "maps_url": "https://maps.google.com/?q=Tempura+Keisuke+111+Richmond+St+W+Toronto",
+      "source_url": "https://chefshall.com/tempura-keisuke/",
+      "unverified": [],
+      "area": "Financial Core",
+      "walking_time_min": 14,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Soulful must-try ritual: break the runny fried onsen egg over tare-glazed rice",
+      "bullet_highlight": "Tokyo tendon master at Chef's Hall: feather-light crispy tempura that never feels greasy",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "想吃 Tendon 天妇罗盖饭来这里！Chef's Hall 里的日本天妇罗大师品牌。",
+        "must_try": "🍤 Keisuke Special 豪华天丼 (炸大虾、半熟溏心蛋、海苔、鸡肉)",
+        "tips": "东京名厨概念店，面衣极其轻盈松脆不油腻，秘制天妇罗酱汁咸甜适口；将炸半熟蛋戳破蛋黄拌米饭是灵魂吃法。",
+        "vibe": "Chef's Hall 摩登美食街吧台，出餐迅速油香四溢"
+      },
+      "highlights": [
+        "Tokyo tendon master at Chef's Hall: feather-light crispy tempura that never feels greasy",
+        "Soulful must-try ritual: break the runny fried onsen egg over tare-glazed rice"
+      ],
+      "name_zh": "天丼 圭介名厨天妇罗",
+      "description_zh": "Chef's Hall东京名厨概念店，面衣极其轻盈松脆不油腻，戳破炸半熟蛋拌米饭是灵魂吃法。",
+      "highlights_zh": [
+        "东京天妇罗大师品牌，面衣极其轻盈酥脆不油腻",
+        "戳破炸半熟溏心蛋蛋黄拌米饭配秘制甜咸酱汁"
+      ],
+      "signature_dish_zh": "豪华特选大虾温泉蛋天丼盖饭",
+      "hours_note_zh": "周一至周六 11:30 - 21:00 (周日休息)",
+      "review_notes_en": {
+        "summary": "The definitive destination for Japanese tendon bowls inside Chef's Hall, created by a Tokyo tempura champion.",
+        "must_try": "🍤 Keisuke Special Tendon (Jumbo prawns, runny soft-boiled egg, nori, chicken, and seasonal vegetables)",
+        "tips": "Concept by a Tokyo master chef: ultra-light crispy tempura batter that never feels heavy or greasy. Secret technique: break the runny tempura egg yolk right over the sauce-glazed rice!",
+        "vibe": "Sleek, modern Chef's Hall food hall counter filled with tantalizing aromas and quick service"
+      }
+    },
+    {
+      "id": "botanic-coffee-and-caphe-queen",
+      "code": "060",
+      "name": "Botanic Coffee and Caphe",
+      "native_name": "Botanic Coffee & Cà Phê",
+      "type": "restaurant",
+      "cuisine": "Vietnamese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "solo",
+        "comfort",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Lychee Rose Matcha Latte & Matcha Ice Cream",
+      "description": "Queen West vintage botanical cafe known for floral matcha lattes, Vietnamese brews, and pet-friendly cozy vibes.",
+      "address": "662 Queen St W, Toronto, ON M6J 1E5",
+      "hours_note": "Tue-Sun 10:00 AM - 6:00 PM",
+      "image_url": "assets/images/botanic-coffee-and-caphe-queen.webp",
+      "maps_url": "https://maps.google.com/?q=Botanic+Coffee+and+Caphe+662+Queen+St+W+Toronto",
+      "source_url": "https://www.instagram.com/botaniccoffeeandcaphe/",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 44,
+      "portion_size": "light",
+      "category": "cafe",
+      "food_profile": [],
+      "bullet_flavor": "Must-order floral Lychee Rose Matcha Latte & rich, non-cloying matcha ice cream",
+      "bullet_highlight": "Aesthetic vintage botanical cafe with dog-friendly cozy vibes on Queen West",
+      "source_platform": "Red",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen West 新开的复古植物系 cafe，氛围很温馨。招牌荔枝玫瑰抹茶与浓郁抹茶冰淇淋值得一试！",
+        "must_try": "🌹 Lychee Rose Matcha Latte (系列最佳！抹茶拿铁上有玫瑰干花和淡淡荔枝清香，少糖版完全不腻)\n🍨 Premium Matcha Ice Cream (很不错！抹茶味醇厚浓郁，恰到好处不齁甜)",
+        "skip_or_neutral": "☕ Hojicha Black Sesame Cloud (平平无奇，元素融合没有想象中好)\n🍵 Double Matcha (很普通，抹茶味微偏淡)",
+        "tips": "刚开业人很多，高峰期饮品需等20分钟左右；🐶 店内宠物友好，可以偶遇很多萌萌的狗勾！",
+        "vibe": "复古植物系美学空间，温馨治愈，拍照非常出片"
+      },
+      "highlights": [
+        "Aesthetic vintage botanical cafe with dog-friendly cozy vibes on Queen West",
+        "Must-order floral Lychee Rose Matcha Latte & rich, non-cloying matcha ice cream"
+      ],
+      "name_zh": "Botanic 植物系咖啡馆",
+      "description_zh": "Queen West复古植物系空间，拍照出片且宠物友好，必点招牌荔枝玫瑰抹茶与浓郁抹茶冰淇淋。",
+      "highlights_zh": [
+        "Queen West复古绿植美学空间，温馨治愈宠物友好",
+        "必点花香荔枝玫瑰抹茶拿铁与浓郁醇厚抹茶冰淇淋"
+      ],
+      "signature_dish_zh": "荔枝玫瑰特调抹茶拿铁配极品抹茶冰淇淋",
+      "hours_note_zh": "周一至周日 9:00 - 19:00",
+      "review_notes_en": {
+        "summary": "A newly opened vintage botanical cafe on Queen West with a cozy, healing vibe. The signature lychee rose matcha and matcha ice cream are must-tries!",
+        "must_try": "🌹 Lychee Rose Matcha Latte (Best in series! Rose petals on matcha latte with delicate lychee fragrance, never cloying when ordered less-sweet)\n🍨 Premium Matcha Ice Cream (Rich, silky matcha flavor that is perfectly balanced and not overly sweet)",
+        "skip_or_neutral": "☕ Hojicha Black Sesame Cloud (Fairly average; flavor fusion didn’t come through as expected)\n🍵 Double Matcha (Quite plain, matcha flavor leans slightly thin)",
+        "tips": "Popular since opening; drinks may take ~20 min during peak afternoon rush. The cafe is dog-friendly, so you can often meet cute pups!",
+        "vibe": "Vintage botanical aesthetic space, calming and photogenic with lush potted plants and natural wood"
+      }
+    },
+    {
+      "id": "koh-lipe-thai-kitchen-baldwin",
+      "code": "061",
+      "name": "Koh Lipe Thai Kitchen",
+      "native_name": "เกาะหลีเป๊ะ",
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "halal",
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "cold",
+        "hot",
+        "any"
+      ],
+      "signature_dish": "Southern Style Massaman Curry & Pad Thai Boran",
+      "description": "Acclaimed Baldwin Village gem celebrated for authentic, fiery Southern Thai seafood curries and aromatic wok-fried street noodles.",
+      "address": "35 Baldwin St, Toronto, ON M5T 1L1",
+      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/koh-lipe-thai-kitchen-baldwin.webp",
+      "maps_url": "https://maps.google.com/?q=Koh+Lipe+Thai+Kitchen+35+Baldwin+St+Toronto",
+      "source_url": "https://kohlipe.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 24,
+      "portion_size": "normal",
+      "category": "meal",
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Fiery lemongrass, tamarind tang, and rich coconut",
+      "bullet_highlight": "Michelin Bib Gourmand, authentic Southern Thai recipes",
+      "source_platform": "Other",
+      "curation_source": "other",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Michelin Bib Gourmand 必比登推介！多伦多正宗泰南料理（Southern Thai）的领军代表。",
+        "must_try": "🍛 招牌泰南玛莎曼咖喱 (Southern Style Massaman Curry with tender beef)\n🥢 传统古法炒泰粉 (Pad Thai Boran) 与泰南酸辣海鲜锅 (Gaeng Som)",
+        "tips": "不同于常见的泰北或曼谷街头风味，Koh Lipe 主打辛辣浓烈的泰南岛屿海鲜料理；环境温馨很有泰国小村落情调，建议尝试经典微辣。",
+        "vibe": "Baldwin Village 充满市井烟火气与异域香气的小木屋餐厅"
+      },
+      "highlights": [
+        "Michelin Bib Gourmand, authentic Southern Thai recipes",
+        "Fiery lemongrass, tamarind tang, and rich coconut"
+      ],
+      "name_zh": "Koh Lipe 泰南料理",
+      "description_zh": "米其林必比登推介名店，专注浓郁辛辣的泰南岛屿海鲜料理，招牌玛莎曼牛肉咖喱极其醇厚。",
+      "highlights_zh": [
+        "米其林必比登推介，多伦多正统泰南岛屿辛辣料理代表",
+        "浓郁香料玛莎曼牛肉咖喱，酥软牛腩与古法炒泰粉"
+      ],
+      "signature_dish_zh": "招牌泰南浓香玛莎曼牛肉咖喱",
+      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "Michelin Bib Gourmand recognized leader in authentic Southern Thai cuisine in Baldwin Village.",
+        "must_try": "🍛 Signature Southern Style Massaman Curry with tender beef brisket\n🥢 Traditional Pad Thai Boran & Spicy-Sour Southern Island Seafood Soup (Gaeng Som)",
+        "tips": "Distinct from Northern or Bangkok street profiles; Koh Lipe champions punchy, spicy island curries and fresh seafood. Cozy village shack warmth; mild spice is recommended for first-timers.",
+        "vibe": "Baldwin Village wooden cottage filled with vibrant street vibes and exotic spice aromas"
+      }
+    },
+    {
+      "id": "bar-pompette-college",
+      "code": "062",
+      "name": "Bar Pompette",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Nitro Espresso Martini & Seasonal Clarified Cocktails",
+      "description": "Crowned Canada's Best Bar, blending Michelin-caliber French culinary alchemy with seasonal clarified cocktails and Parisian sidewalk patio.",
+      "address": "607 College St, Toronto, ON M6G 1B5",
+      "hours_note": "Mon-Sun 5:00 PM - 2:00 AM",
+      "image_url": "assets/images/bar-pompette-college.webp",
+      "maps_url": "https://maps.google.com/?q=Bar+Pompette+607+College+St+Toronto",
+      "source_url": "https://www.pompette.ca/barpompette",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 43,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Refined botanicals, clarified citrus, and velvet spirits",
+      "bullet_highlight": "North America's 50 Best #8, Best Bar in Canada",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北美 50 最佳酒吧高居第8名！连续多年荣膺全加拿大第一酒吧（The Best Bar in Canada）称号。",
+        "must_try": "☕ Nitro Espresso Martini (氮气冰滴咖啡马天尼，口感丝滑细腻)\n🍋 澄清牛奶潘趣 (Clarified Milk Punch) 与当季实验室风味特调",
+        "tips": "由米其林星级调酒团队主理，每一季酒单都充满法式艺术感；后院露天 Patio 夏夜极美，周末建议提前在官网订位。",
+        "vibe": "迷人浪漫的巴黎左岸小酒馆风格，低调奢华"
+      },
+      "highlights": [
+        "North America's 50 Best #8, Best Bar in Canada",
+        "Refined botanicals, clarified citrus, and velvet spirits"
+      ],
+      "name_zh": "Bar Pompette 法式鸡尾酒吧",
+      "description_zh": "北美50佳酒吧名店，精湛现代调酒技法与法式惬意露台，调酒清爽平衡，法式小食优雅迷人。",
+      "highlights_zh": [
+        "北美50佳酒吧名列前茅，法式精致现代调酒美学",
+        "清新平衡的花果调鸡尾酒，绿意盎然的惬意露台花园"
+      ],
+      "signature_dish_zh": "法式澄清季节鸡尾酒配手工熟食冷肉盘",
+      "hours_note_zh": "周二至周日 17:00 - 次日凌晨 1:00 (周一休息)",
+      "review_notes_en": {
+        "summary": "North America’s 50 Best Bars honoree offering luminous, French-inspired mixology and a sun-dappled backyard patio.",
+        "must_try": "🍸 Clarified Milk Punch & Calvados Highball with crisp green apple\n🧀 Artisanal French Charcuterie & Fromage Board with fresh baguette",
+        "tips": "Ranked among the premier cocktail bars on the continent. Their backyard garden patio is an absolute dream in warm weather.",
+        "vibe": "Airy, Parisian-chic daylight bar transforming into a candlelit romantic evening hideaway"
+      }
+    },
+    {
+      "id": "library-bar-royal-york",
+      "code": "063",
+      "name": "Library Bar",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "The Birdbath Martini with custom Quill Gin",
+      "description": "Legendary literary cocktail lounge inside Fairmont Royal York, acclaimed for theatrical Birdbath Martinis and gilded ambiance.",
+      "address": "100 Front St W, Toronto, ON M5J 1E3",
+      "hours_note": "Tue-Sat 4:00 PM - 12:00 AM",
+      "image_url": "assets/images/library-bar-royal-york.webp",
+      "maps_url": "https://maps.google.com/?q=Library+Bar+Fairmont+Royal+York+Toronto",
+      "source_url": "https://www.fairmont.com/royal-york-toronto/dining/library-bar/",
+      "unverified": [],
+      "area": "Financial Core",
+      "walking_time_min": 17,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Crisp dry vermouth, distilled juniper, and saline umami",
+      "bullet_highlight": "North America's 50 Best #19, iconic Birdbath Martini",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北美 50 最佳酒吧第19名！多伦多百余年奢华地标 Fairmont Royal York 内的传奇贵族马天尼殿堂。",
+        "must_try": "🍸 The Birdbath Martini (招牌鸟浴马天尼，分 Quiet 与 Loud 两种风格，仪式感拉满)\n🦪 生蚝拼盘与和牛牛肉塔塔小食",
+        "tips": "极度火爆，晚间常需在酒店大堂候客名单排队；装潢如英伦私人图书馆，灯光昏暗奢华，适合约会与重要庆祝。",
+        "vibe": "优雅奢华的古典英式图书馆，藏书与绿丝绒卡座相映成趣"
+      },
+      "highlights": [
+        "North America's 50 Best #19, iconic Birdbath Martini",
+        "Crisp dry vermouth, distilled juniper, and saline umami"
+      ],
+      "name_zh": "Library Bar 皇家约克奢华酒吧",
+      "description_zh": "费尔蒙皇家约克酒店内的传世奢华酒吧，以极负盛名的冰镇马天尼仪式与高级书香皮革氛围著称。",
+      "highlights_zh": [
+        "多伦多传世奢华酒店酒吧，经典尊贵书房皮椅氛围",
+        "招牌极冷零下冰镇鸟眼马天尼，仪式感无可挑剔"
+      ],
+      "signature_dish_zh": "皇家特制极寒冰镇鸟眼马天尼",
+      "hours_note_zh": "周二至周六 16:30 - 24:00 (周日周一休息)",
+      "review_notes_en": {
+        "summary": "The storied crown jewel of cocktail glamour inside the Fairmont Royal York, acclaimed for world-class tableside martinis.",
+        "must_try": "🍸 The Birdbath Martini (Served sub-zero at tableside with bespoke gin, vermouth, and custom garnishes)\n🥩 Wagyu Beef Tartare & Osetra Caviar Bites",
+        "tips": "Dress smart-casual. Lines often form right at opening time; arrive 15 minutes before 4:30 PM to secure the coveted velvet club chairs.",
+        "vibe": "Opulent, mahogany-paneled literary sanctuary with amber lighting and timeless cinematic sophistication"
+      }
+    },
+    {
+      "id": "mother-cocktail-bar-queen",
+      "code": "064",
+      "name": "Mother Cocktail Bar",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Mother's Milk (Lactic Fermented Rum) & Soil Gimlet",
+      "description": "West Queen West temple of fermentation and mother cultures, crafting groundbreaking botanical drinks in an earthy, candlelit sanctuary.",
+      "address": "874 Queen St W, Toronto, ON M6J 1G3",
+      "hours_note": "Mon-Sun 5:00 PM - 2:00 AM",
+      "image_url": "assets/images/mother-cocktail-bar-queen.webp",
+      "maps_url": "https://maps.google.com/?q=Mother+Cocktail+Bar+874+Queen+St+W+Toronto",
+      "source_url": "https://mothercocktailbar.com/",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 54,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Wild fermentation, earthy kombucha, and forest botanicals",
+      "bullet_highlight": "North America's 50 Best #22, pioneer of fermentation",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北美 50 最佳酒吧第22名！专注于发酵、母菌培养与大地草本风味的先锋鸡尾酒吧。",
+        "must_try": "🥛 Mother's Milk (招牌乳酸慢发酵朗姆酒特调，风味奇妙迷人)\n🌿 Soil Gimlet & 自制康普茶鸡尾酒",
+        "tips": "店内犹如中世纪炼金术实验室，调酒师用自制发酵菌种、开菲尔和野草本调配；灯光昏暗浪漫，约会圣地。",
+        "vibe": "烛光摇曳、木质泥土香气环绕的质朴自然避风港"
+      },
+      "highlights": [
+        "North America's 50 Best #22, pioneer of fermentation",
+        "Wild fermentation, earthy kombucha, and forest botanicals"
+      ],
+      "name_zh": "Mother 复古发酵鸡尾酒吧",
+      "description_zh": "Queen West 实验性发酵鸡尾酒先锋，将自制发酵液、草本与现代调酒结合，风味深邃纯粹。",
+      "highlights_zh": [
+        "北美排名前列的先锋发酵调酒酒吧，风味层次深邃",
+        "自制野生康普茶与乳酸发酵果泥调酒，红砖泥土质感"
+      ],
+      "signature_dish_zh": "自制季节野生发酵特调鸡尾酒",
+      "hours_note_zh": "周三至周日 18:00 - 次日凌晨 2:00 (周一周二休息)",
+      "review_notes_en": {
+        "summary": "Pioneering botanical and fermentation cocktail temple on Queen West, recognized internationally for seasonal ingredient craftsmanship.",
+        "must_try": "🍹 Fermented Fruit Highball & Mushroom-infused Rye Cocktail\n🍞 House-baked Sourdough with cultivated koji butter",
+        "tips": "Every cocktail incorporates complex fermented tinctures, kombuchas, or shrub bases created in their dedicated basement lab.",
+        "vibe": "Earthy, moody sanctuary framed by exposed brick, glowing jars of fermenting botanicals, and warm acoustic soul"
+      }
+    },
+    {
+      "id": "civil-works-waterworks",
+      "code": "065",
+      "name": "Civil Works",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Waterworks Highball & Clarified Water Filtration Cocktails",
+      "description": "Award-winning art deco mezzanine cocktail lounge inside Waterworks Food Hall, highlighting architectural themes and world-class water filtration mixology.",
+      "address": "50 Brant St, Toronto, ON M5V 2N2",
+      "hours_note": "Mon-Sun 4:00 PM - 2:00 AM",
+      "image_url": "assets/images/civil-works-waterworks.webp",
+      "maps_url": "https://maps.google.com/?q=Civil+Works+50+Brant+St+Toronto",
+      "source_url": "https://www.civilworks.ca/",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 27,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Pure crisp minerality, effervescent highballs, and bespoke ice",
+      "bullet_highlight": "North America's 50 Best #29, Best Cocktail Menu 2025",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "荣获北美最佳鸡尾酒单大奖（Best Cocktail Menu Award），北美排名第29！藏身于 Waterworks 美食广场二楼。",
+        "must_try": "💧 招牌水系特调 (Water Filtration Clarified Cocktails)\n🍸 Highball on Tap & Art Deco 经典复古特调",
+        "tips": "调酒理念向古老的水务建筑致敬，采用定制水质调配极致纯净的风味；坐在二楼俯瞰整个美食大厅挑高空间非常震撼。",
+        "vibe": "宏大挑高的工业 Art Deco 摩登美学，视野开阔时髦"
+      },
+      "highlights": [
+        "North America's 50 Best #29, Best Cocktail Menu 2025",
+        "Pure crisp minerality, effervescent highballs, and bespoke ice"
+      ],
+      "name_zh": "Civil Works 水厂艺术鸡尾酒吧",
+      "description_zh": "Waterworks美食大厅二楼的装饰艺术风奢华酒廊，以水与工业历史为灵感，水基调鸡尾酒令人惊艳。",
+      "highlights_zh": [
+        "Waterworks历史建筑二楼，复古工业艺术装饰美学",
+        "多伦多顶级调酒团队操刀，水元素与清冽冰块特调"
+      ],
+      "signature_dish_zh": "水厂清冽透明澄清马天尼特调",
+      "hours_note_zh": "周三至周日 17:00 - 次日凌晨 1:00 (周一周二休息)",
+      "review_notes_en": {
+        "summary": "Stunning Art Deco cocktail aerie overlooking the Waterworks Food Hall, created by the visionary team behind Civil Liberties.",
+        "must_try": "🍸 Waterworks Clarified Punch & Bespoke Ice Block Highballs\n🥟 Artisanal finger food pairings from the food hall masters below",
+        "tips": "Features an extraordinary water filtration program and carved artisanal crystal-clear ice blocks.",
+        "vibe": "Cathedral-like mezzanine perched high beneath towering industrial brick archways and gilded brass railings"
+      }
+    },
+    {
+      "id": "civil-liberties-bloor",
+      "code": "066",
+      "name": "Civil Liberties",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "No-Menu Bespoke Cocktails tailored to your palate",
+      "description": "Legendary no-menu cocktail bar marked by a brass pineapple, where master bartenders craft bespoke drinks based entirely on your conversation.",
+      "address": "878 Bloor St W, Toronto, ON M6G 1M5",
+      "hours_note": "Mon-Sun 4:00 PM - 2:00 AM",
+      "image_url": "assets/images/civil-liberties-bloor.webp",
+      "maps_url": "https://maps.google.com/?q=Civil+Liberties+878+Bloor+St+W+Toronto",
+      "source_url": "https://civillibertiesbar.com/",
+      "unverified": [],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Personalized balance of sour, smoky, herbal, or sweet spirits",
+      "bullet_highlight": "North America's 50 Best #54, Canada's #1 Bar 3 times",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "加拿大历史上最具传奇色彩的无酒单酒吧！曾三次斩获全加第一、北美十佳，门头是一枚低调的小黄铜菠萝。",
+        "must_try": "🍍 专属无酒单定制鸡尾酒 (告诉调酒师你想喝酸甜、烟熏、草本还是热带，绝不踩雷)",
+        "tips": "完全没有纸质酒单，酒保像老朋友一样聊天并现场即兴创作，出品水准极高；不接受预约，周末建议早点到。",
+        "vibe": "温暖昏暗、不拘小节的街头美式邻里酒馆，人情味十足"
+      },
+      "highlights": [
+        "North America's 50 Best #54, Canada's #1 Bar 3 times",
+        "Personalized balance of sour, smoky, herbal, or sweet spirits"
+      ],
+      "name_zh": "Civil Liberties 无酒单创意酒吧",
+      "description_zh": "常年蝉联加拿大第一最佳酒吧，全店无酒单，调酒师根据客人当晚的心情与风味喜好现场即兴量身定制。",
+      "highlights_zh": [
+        "常年荣登加拿大最佳酒吧榜首，全店无固定酒单",
+        "调酒师根据心情与喜好即兴特调，惊喜连连"
+      ],
+      "signature_dish_zh": "调酒师根据心情量身即兴定制鸡尾酒",
+      "hours_note_zh": "周一至周日 18:00 - 次日凌晨 2:00",
+      "review_notes_en": {
+        "summary": "Consistently crowned the #1 Bar in Canada, famous for its no-menu philosophy and bespoke personalized cocktails.",
+        "must_try": "🍸 Custom Cocktails tailored on the fly (Tell the bartender your preferred spirits, mood, and flavor profiles)\n🧀 Generous bowls of warm spiced bar snacks",
+        "tips": "There is zero menu here. Speak candidly to your bartender about what flavors you adore (smoky, bitter, herbal, tropical, sour) and prepare to be amazed.",
+        "vibe": "Dimly lit, cozy neighborhood dive bar soul elevated to world-class craftsmanship"
+      }
+    },
+    {
+      "id": "bar-raval-college",
+      "code": "067",
+      "name": "Bar Raval",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "solo",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "House Vermut on Tap & Sherry Cocktails with Cantabrian Anchovies",
+      "description": "Stunning Gaudí-inspired mahogany curves serving world-class Spanish vermouths, innovative sherry cocktails, and pintxos from dawn till late.",
+      "address": "505 College St, Toronto, ON M6G 1A5",
+      "hours_note": "Mon-Sun 11:00 AM - 1:00 AM",
+      "image_url": "assets/images/bar-raval-college.webp",
+      "maps_url": "https://maps.google.com/?q=Bar+Raval+505+College+St+Toronto",
+      "source_url": "https://thisisbarraval.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 36,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Dry fino sherry, herbal bitter vermouth, and salty tapas",
+      "bullet_highlight": "North America's 50 Best #41, Gaudí wood-carved marvel",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多视觉与味觉的巅峰传奇！整座酒吧由波浪状桃花心木精雕细琢，犹如高迪的圣家堂降临多伦多。",
+        "must_try": "🍷 自制西班牙苦艾酒 (House Vermut with olives)\n🥪 经典巴塞罗那下酒菜 Pintxos (腌凤尾鱼、伊比利亚火腿)",
+        "tips": "站立式吧台是这里的灵魂吃法，端一杯雪莉酒配几串 Pintxos，体验最纯正的西班牙夜生活；全天营业，无预约。",
+        "vibe": "令人窒息的加泰罗尼亚流线型木雕艺术殿堂，人声鼎沸"
+      },
+      "highlights": [
+        "North America's 50 Best #41, Gaudí wood-carved marvel",
+        "Dry fino sherry, herbal bitter vermouth, and salty tapas"
+      ],
+      "name_zh": "Bar Raval 高迪风西班牙小酒馆",
+      "description_zh": "小意大利传奇高迪曲线波浪木雕殿堂，站立吧台品尝西式苦艾酒、雪莉酒与正宗西班牙开胃Tapas。",
+      "highlights_zh": [
+        "惊艳的高迪式波浪雕刻实木空间，巴塞罗那小酒馆情怀",
+        "站立吧台品尝西班牙雪莉酒、生火腿与极品章鱼Tapas"
+      ],
+      "signature_dish_zh": "加利西亚慢炖章鱼配西班牙火腿Tapas",
+      "hours_note_zh": "周一至周日 11:00 - 次日凌晨 1:00",
+      "review_notes_en": {
+        "summary": "Grant van Gameren’s breathtaking Barcelona pintxos and cocktail bar, internationally celebrated for undulating sculpted woodwork.",
+        "must_try": "🐙 Pulpo a la Gallega (Tender griddled octopus with smoked paprika & potato)\n🥖 Jamón Ibérico Pintxos & House Raval Vermut with sparkling soda",
+        "tips": "Seating is primarily standing-room around the wave-carved bar. Drop in during late afternoon aperitivo hour for vermouth and anchovy pintxos.",
+        "vibe": "Sensuous, undulating carved mahogany cocoon humming with tapas platters, clinking glasses, and European romance"
+      }
+    },
+    {
+      "id": "cry-baby-gallery-dundas",
+      "code": "068",
+      "name": "Cry Baby Gallery",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Clarified Mezcal Paloma & Smoked Bourbon Penicillin",
+      "description": "Cool speakeasy concealed behind a functioning contemporary art gallery, serving edgy craft cocktails and oysters in an intimate backyard.",
+      "address": "1468 Dundas St W, Toronto, ON M6J 1Y6",
+      "hours_note": "Wed-Sun 5:00 PM - 2:00 AM",
+      "image_url": "assets/images/cry-baby-gallery-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Cry+Baby+Gallery+1468+Dundas+St+W+Toronto",
+      "source_url": "https://www.crybabygallery.com/",
+      "unverified": [],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Smoky artisanal mezcal, bright citrus, and honey ginger",
+      "bullet_highlight": "North America's 50 Best #69, hidden behind art gallery",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北美 Top 100 榜单第69名！穿过真实的现代艺术画廊后门，别有洞天的隐秘地下酒吧。",
+        "must_try": "🍸 澄清龙舌兰帕洛玛 (Clarified Paloma)\n🦪 现开新鲜生蚝配特制鸡尾酒雪葩",
+        "tips": "进门是正经的艺术画廊，推开墙面暗门才能进入酒廊；后院的小 Patio 在夏夜非常舒服，鸡尾酒视觉与风味都很前卫。",
+        "vibe": "极具街头艺术气息的西区地下秘密据点"
+      },
+      "highlights": [
+        "North America's 50 Best #69, hidden behind art gallery",
+        "Smoky artisanal mezcal, bright citrus, and honey ginger"
+      ],
+      "name_zh": "Cry Baby 艺术画廊地下酒吧",
+      "description_zh": "藏在真实艺术画廊暗门背后的地下隐秘酒吧，昏暗迷离的烛光与极富创意的招牌调酒。",
+      "highlights_zh": [
+        "穿过真实艺术画廊暗门进入，神秘隐秘小酒馆氛围",
+        "昏暗复古烛光映衬，精巧平衡的现代创意鸡尾酒"
+      ],
+      "signature_dish_zh": "暗门密室特调烟熏波旁鸡尾酒",
+      "hours_note_zh": "周二至周日 18:00 - 次日凌晨 2:00 (周一休息)",
+      "review_notes_en": {
+        "summary": "Speakeasy tucked secretly behind a real contemporary art gallery on Dundas West, serving imaginative craft libations.",
+        "must_try": "🍸 Cry Baby Signature Mezcal Sour & Smoked Bourbon Old Fashioned\n🦪 Fresh East Coast Oysters with mignonette",
+        "tips": "Walk straight through the working art gallery and push through the unmarked back door. Perfect spot for discreet date nights.",
+        "vibe": "Moody, speakeasy velvet romance with neon accents and intimate candlelit booth corners"
+      }
+    },
+    {
+      "id": "suite-115-queen",
+      "code": "069",
+      "name": "Suite 115",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 4,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Omakase Cocktail Tasting Flight with Rare Spirits",
+      "description": "Exclusive twelve-seat speakeasy counter hidden inside Mother, offering an avant-garde cocktail tasting menu paired with artisanal bites.",
+      "address": "874 Queen St W, Toronto, ON M6J 1G3",
+      "hours_note": "Thu-Sun 6:00 PM - 1:00 AM (Reservations only)",
+      "image_url": "assets/images/suite-115-queen.webp",
+      "maps_url": "https://maps.google.com/?q=Suite+115+874+Queen+St+W+Toronto",
+      "source_url": "https://mothercocktailbar.com/suite-115",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 54,
+      "portion_size": "light",
+      "category": "bar",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [],
+      "bullet_flavor": "Multi-course sensory flight of rare vintages and liquid nitrogen",
+      "bullet_highlight": "North America's 50 Best #74, ultra-intimate 12-seat counter",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北美 Top 100 榜单第74名！藏在 Mother 酒吧内部的私密 12 座高端鸡尾酒 Tasting Room。",
+        "must_try": "🧪 专属 Cocktail Omakase 主厨调酒套餐 (多道式创意鸡尾酒配定制小食)",
+        "tips": "全程预约制，仅设12个吧台位，调酒师一对一在面前犹如日料主厨般定制稀有酒款与前沿液氮技艺。",
+        "vibe": "极度私密安静的顶级沉浸式鸡尾酒吧台"
+      },
+      "highlights": [
+        "North America's 50 Best #74, ultra-intimate 12-seat counter",
+        "Multi-course sensory flight of rare vintages and liquid nitrogen"
+      ],
+      "name_zh": "Suite 115 隐秘日式极简酒吧",
+      "description_zh": "Queen West隐蔽极简主义小酒廊，仅设数个吧台席位，专注于顶级日本威士忌与纯粹极简调酒。",
+      "highlights_zh": [
+        "Queen West极简克制小酒廊，仅设少量珍贵吧台座",
+        "精湛刀工手凿老冰块，收藏级日本稀缺单一麦芽威士忌"
+      ],
+      "signature_dish_zh": "手凿老冰球配日本稀缺单一麦芽威士忌",
+      "hours_note_zh": "周二至周日 18:00 - 次日凌晨 1:00 (周一休息)",
+      "review_notes_en": {
+        "summary": "Microscopic, minimalist Japanese speakeasy with only a handful of seats, highlighting rare Japanese whiskies.",
+        "must_try": "🥃 Hand-Carved Ice Sphere with Rare Japanese Single Malt\n🍸 Highball Elegante (Craft tonic, sparkling water, and yuzu essence)",
+        "tips": "With fewer than 15 total seats, arrive early right at doors open to secure an intimate barstool spot.",
+        "vibe": "Tranquil Tokyo omakase bar atmosphere with natural hinoki wood and hushed reverence"
+      }
+    },
+    {
+      "id": "no-vacancy-richmond",
+      "code": "070",
+      "name": "No Vacancy",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Motel Room Key Signature Martini & Disco Punch Bowl",
+      "description": "Electric 1970s roadside motel-themed cocktail hideaway on Richmond, serving inventive libations alongside retro disco grooves and vinyl.",
+      "address": "438 Richmond St W, Toronto, ON M5V 1Y1",
+      "hours_note": "Tue-Sat 5:00 PM - 2:00 AM",
+      "image_url": "assets/images/no-vacancy-richmond.webp",
+      "maps_url": "https://maps.google.com/?q=No+Vacancy+438+Richmond+St+W+Toronto",
+      "source_url": "https://www.instagram.com/novacancytoronto/",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 23,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Retro gin twist, disco passionfruit, and savory olive brine",
+      "bullet_highlight": "North America's 50 Best #82, 1970s roadside motel vibes",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北美 Top 100 榜单第82名！以 70 年代美式复古汽车旅馆为主题的时髦鸡尾酒秘境。",
+        "must_try": "🔑 Motel Room Key Martini (复古钥匙牌造型马天尼)\n🪩 迪斯科黑胶特调 Punch",
+        "tips": "隐藏在 Richmond 街区，霓虹灯光搭配复古黑胶音乐，酒单幽默好玩但调酒功底扎实，周末夜晚气氛极度欢快。",
+        "vibe": "70 年代霓虹复古汽车旅馆风，黑胶与迪斯科节拍流动"
+      },
+      "highlights": [
+        "North America's 50 Best #82, 1970s roadside motel vibes",
+        "Retro gin twist, disco passionfruit, and savory olive brine"
+      ],
+      "name_zh": "No Vacancy 汽车旅馆风复古酒吧",
+      "description_zh": "Downtown隐藏在复古汽车旅馆霓虹深处的时髦鸡尾酒吧，充满电影感布景与玩趣特调。",
+      "highlights_zh": [
+        "复古复古汽车旅馆霓虹装潢，电影胶片既视感出片率极高",
+        "充满趣味与创意的特色鸡尾酒，松弛愉悦的聚会氛围"
+      ],
+      "signature_dish_zh": "汽车旅馆霓虹特调龙舌兰鸡尾酒",
+      "hours_note_zh": "周三至周六 18:00 - 次日凌晨 2:00 (周日至周二休息)",
+      "review_notes_en": {
+        "summary": "A cinematic retro motel lounge hidden in the downtown alleyways, serving cheeky cocktails under warm neon light.",
+        "must_try": "🍹 Vacancy Punch with tropical spiced rum\n🍸 Velvet Glove Tequila Sour with charred rosemary",
+        "tips": "Spot the neon \"No Vacancy\" sign to locate the door. Terrific late-night soundtrack and photogenic backdrops everywhere.",
+        "vibe": "1970s California road-trip motel lounge fantasy complete with vintage rotary phones and velvet banquettes"
+      }
+    },
+    {
+      "id": "bar-mordecai-dundas",
+      "code": "071",
+      "name": "Bar Mordecai",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "group",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "The Grand Budapest Hotel Inspired Gin & Tonic Flights",
+      "description": "Whimsical multi-level cocktail palace inspired by the films of Wes Anderson, featuring creative aperitivos and retro private karaoke rooms.",
+      "address": "1272 Dundas St W, Toronto, ON M6J 1X7",
+      "hours_note": "Tue-Sat 6:00 PM - 2:00 AM",
+      "image_url": "assets/images/bar-mordecai-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Bar+Mordecai+1272+Dundas+St+W+Toronto",
+      "source_url": "https://barmordecai.com/",
+      "unverified": [],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "bar",
+      "food_profile": [],
+      "bullet_flavor": "Floral botanical gin, bitter aperol, and retro party punch",
+      "bullet_highlight": "North America's 50 Best #40, Wes Anderson aesthetic",
+      "source_platform": "Web",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北美 50 最佳酒吧常客！灵感源自韦斯·安德森（Wes Anderson）电影美学的复古奇幻鸡尾酒宫殿。",
+        "must_try": "🏩 The Grand Budapest 特调金汤力组合\n🎤 地下室私密复古 KTV 包厢特供调酒",
+        "tips": "对称构图、粉绿暖黄的梦幻配色超级出片，楼下还藏着需提前预订的私密复古 KTV 包间，聚会庆祝绝佳。",
+        "vibe": "韦斯·安德森电影实景重现，充满复古怀旧与戏剧感"
+      },
+      "highlights": [
+        "North America's 50 Best #40, Wes Anderson aesthetic",
+        "Floral botanical gin, bitter aperol, and retro party punch"
+      ],
+      "name_zh": "Bar Mordecai 韦斯安德森风小酒馆",
+      "description_zh": "韦斯·安德森电影美学梦幻酒馆，复古列车包厢设计与地下私人KTV包房，拍照打卡与聚会极佳。",
+      "highlights_zh": [
+        "韦斯·安德森对称复古列车美学，梦幻复古怀旧色调",
+        "创意主题鸡尾酒配炸奶酪小食，地下配有私密KTV包房"
+      ],
+      "signature_dish_zh": "复古列车特调琴酒配西红柿布拉塔奶酪",
+      "hours_note_zh": "周二至周日 17:00 - 次日凌晨 2:00 (周一休息)",
+      "review_notes_en": {
+        "summary": "Wes Anderson-inspired cinematic wonderland on Dundas West, complete with train car banquettes and underground karaoke rooms.",
+        "must_try": "🍸 The Grand Budapest Spritz & Clarified Espresso Martini\n🧀 Warm Burrata Flatbread & Truffle Fried Potatoes",
+        "tips": "The dining room evokes the vintage carriages of the Orient Express. You can book private themed karaoke rooms downstairs for group bashes.",
+        "vibe": "Playfully opulent retro film set with pastel color palettes, velvet curtains, and exuberant energy"
+      }
+    },
+    {
+      "id": "yakiniku-legend-mccaul",
+      "code": "072",
+      "name": "Yakiniku Legend",
+      "native_name": "伝説の焼肉",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "All-You-Can-Eat Premium Wagyu & Japanese BBQ Skewers",
+      "description": "High-energy downtown Japanese tabletop BBQ specialist featuring all-you-can-eat premium wagyu, marinated short ribs, and lively group atmosphere.",
+      "address": "35 McCaul St, Toronto, ON M5T 1V7",
+      "hours_note": "Mon-Sun 12:00 PM - 11:00 PM",
+      "image_url": "assets/images/yakiniku-legend-mccaul.webp",
+      "maps_url": "https://maps.google.com/?q=Yakiniku+Legend+35+McCaul+St+Toronto",
+      "source_url": "https://yakinikulegend.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 18,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [
+        "bbq"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Smoky sizzling wagyu kalbi, tender beef tongue, and sweet tare glaze",
+      "bullet_highlight": "All-You-Can-Eat premium Japanese tabletop BBQ & skewers",
+      "source_platform": "Other",
+      "curation_source": "other",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "DT 超火爆的日式自助烧烤（AYCE Japanese BBQ），肉质上乘、选择极丰富，聚会社恐治愈系大口吃肉圣地。",
+        "must_try": "🥩 特选牛舌 (Gyutan) & 安格斯牛小排 (Kalbi Short Ribs)\n🥓 秘制厚切五花肉 & 招牌日式烤串组合",
+        "tips": "采用无烟桌面烤炉，吃完身上没有重油烟味；肉质在多伦多同价位 AYCE 烤肉中表现亮眼，周末强烈建议早去或错峰。",
+        "vibe": "热闹现代的和风烤肉居酒屋氛围，排烟良好，肉香四溢"
+      },
+      "highlights": [
+        "All-You-Can-Eat premium Japanese tabletop BBQ & skewers",
+        "Smoky sizzling wagyu kalbi, tender beef tongue, and sweet tare glaze"
+      ],
+      "name_zh": "传说日式自助烧烤",
+      "description_zh": "市中心超火爆日式自助烧烤（AYCE），特选牛舌、安格斯牛小排肉质上乘，无烟烤炉吃肉圣地。",
+      "highlights_zh": [
+        "市中心火爆日式无烟自助烧烤，无油烟惬意大口吃肉",
+        "特选脆弹牛舌配安格斯安格斯牛小排，秘制厚切五花肉"
+      ],
+      "signature_dish_zh": "特选上等日式烤牛舌与安格斯牛小排",
+      "hours_note_zh": "周一至周日 11:30 - 23:00",
+      "review_notes_en": {
+        "summary": "Extremely popular downtown all-you-can-eat (AYCE) Japanese BBQ with top-tier meats and a festive feast atmosphere.",
+        "must_try": "🥩 Prime Gyutan (Thin-sliced beef tongue with sea salt & lemon) & Angus Kalbi Short Ribs\n🥓 Thick-cut Seasoned Pork Belly & Signature Skewer Sampler",
+        "tips": "Uses advanced smokeless tabletop grills so clothes never smell of grease. Meats outclass typical AYCE standards; arrive early on weekends to dodge waitlists.",
+        "vibe": "Bustling modern Japanese yakiniku izakaya full of lively sizzling sounds and mouthwatering aromas"
+      }
+    },
+    {
+      "id": "dim-sum-king-dundas",
+      "code": "073",
+      "name": "Dim Sum King Seafood Restaurant",
+      "native_name": "帝皇名宴",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Traditional Pushcart Har Gow, Siu Mai & Crispy Taro Puffs",
+      "description": "Bustling third-floor Chinatown institution preserving classic weekend morning dim sum pushcarts, plump har gow, and family-style Cantonese roasts.",
+      "address": "421 Dundas St W, 3rd Floor, Toronto, ON M5T 2W4",
+      "hours_note": "Mon-Sun 9:00 AM - 9:00 PM (Dim Sum 9:00 AM - 3:00 PM)",
+      "image_url": "assets/images/dim-sum-king-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Dim+Sum+King+421+Dundas+St+W+Toronto",
+      "source_url": "https://dimsumkingtoronto.com/",
+      "unverified": [],
+      "area": "Chinatown",
+      "walking_time_min": 21,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Steamy translucent shrimp dumplings, savory pork siu mai, and hot tea",
+      "bullet_highlight": "Classic Chinatown pushcart Cantonese dim sum brunch",
+      "source_platform": "Other",
+      "curation_source": "other",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多唐人街经典手推车早茶老字号，叹茶吃点心的怀旧广式早午餐（Brunch）不二之选。",
+        "must_try": "🥟 经典手推车晶莹水晶虾饺 (Har Gow) & 蟹籽烧卖皇 (Siu Mai)\n🥢 豉汁蒸排骨、蜂巢香芋角 & 现拉鲜虾肠粉",
+        "tips": "位于 3 楼大宴会厅，依然保留传统点心推车阿姨沿桌叫卖的烟火气；周末早午餐时段极度热闹，想感受推车氛围建议上午 11 点左右到达。",
+        "vibe": "热闹喧腾的传统广式大茶楼，推车穿梭，茶香四溢"
+      },
+      "highlights": [
+        "Classic Chinatown pushcart Cantonese dim sum brunch",
+        "Steamy translucent shrimp dumplings, savory pork siu mai, and hot tea"
+      ],
+      "name_zh": "帝皇名宴推车早茶",
+      "description_zh": "唐人街经典手推车早茶老字号，阿姨沿桌叫卖，晶莹水晶虾饺、蟹籽烧卖皇与现拉肠粉怀旧地道。",
+      "highlights_zh": [
+        "唐人街经典推车传统早茶，阿姨沿桌推车叫卖点心",
+        "晶莹手作水晶虾饺配蟹籽烧卖皇，现拉嫩滑鲜虾肠粉"
+      ],
+      "signature_dish_zh": "手推车传统鲜虾水晶虾饺与蟹籽烧卖",
+      "hours_note_zh": "周一至周日 9:00 - 15:30",
+      "review_notes_en": {
+        "summary": "Classic Chinatown banquet hall preserving the nostalgic tradition of rolling dim sum pushcarts.",
+        "must_try": "🥟 Steaming Crystal Har Gow (Shrimp dumplings) & Pork Siu Mai topped with crab roe\n🥢 Steamed Spare Ribs in black bean sauce, Honeycomb Taro Puffs & Fresh Shrimp Rice Noodle Rolls",
+        "tips": "Located in a grand 3rd-floor ballroom. The carts roll by continuously—just point to what looks hot and appetizing. Arrive around 11:00 AM on weekends for the liveliest vibe.",
+        "vibe": "Raucous, joyful traditional Cantonese tea parlor brimming with pushcarts, teapot clatter, and multigenerational families"
+      }
+    },
+    {
+      "id": "sunny-s-chinese-kensington",
+      "code": "074",
+      "name": "Sunny's Chinese",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "date-night",
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Silver Needle Noodles & Charcoal Grilled Skewers",
+      "description": "Vibrant Michelin Bib Gourmand hideaway tucked inside Kensington Market, serving smoky regional Chinese charcoal skewers and wok noodles.",
+      "address": "60 Kensington Ave, Unit 6-9, Toronto, ON M5T 2K1",
+      "hours_note": "Wed-Sun 5:00 PM - 10:30 PM (Reservations required)",
+      "image_url": "assets/images/sunny-s-chinese-kensington.webp",
+      "maps_url": "https://maps.google.com/?q=Sunny's+Chinese+60+Kensington+Ave+Toronto",
+      "source_url": "https://www.sunnyschinese.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 26,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Smoky charcoal cumin skewers, fiery Sichuan peppercorn, and chewy wok noodles",
+      "bullet_highlight": "Michelin Bib Gourmand, intimate Kensington hideaway (Reservations required)",
+      "source_platform": "Other",
+      "curation_source": "other",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Michelin Bib Gourmand 必比登推介！隐藏在肯辛顿市场深处的时髦中式炭火小酒馆，订位极为抢手。",
+        "must_try": "🍢 炭火烤串 (炭烤羊肉串、五花肉串)\n🍜 招牌银针粉 (Silver Needle Noodles) & 火药辣子鸡 (Gunpowder Chicken)",
+        "tips": "极具隐蔽感，入口在 Kensington Mall 小走廊内；座位有限极其火爆，必须提前在 OpenTable 抢预约，现场 walk-in 极难排到。",
+        "vibe": "港风霓虹与复古工业结合的隐秘小酒馆，炭火烟气与动感节奏交织"
+      },
+      "highlights": [
+        "Michelin Bib Gourmand, intimate Kensington hideaway (Reservations required)",
+        "Smoky charcoal cumin skewers, fiery Sichuan peppercorn, and chewy wok noodles"
+      ],
+      "name_zh": "Sunny's Chinese 肯辛顿炭火中餐",
+      "description_zh": "米其林必比登推介名店，隐藏在肯辛顿商场深处的时髦中式炭火小酒馆，招牌炭火烤串与手工银针粉。",
+      "highlights_zh": [
+        "米其林必比登推介，隐藏在商场走廊深处的港风酒馆",
+        "炭火果木烤羊肉串配镬气十足招牌自制银针粉"
+      ],
+      "signature_dish_zh": "炭火果木烤羊肉串配招牌香炒银针粉",
+      "hours_note_zh": "周三至周日 17:00 - 22:30 (周一周二休息)",
+      "review_notes_en": {
+        "summary": "Michelin Bib Gourmand darling hidden deeply inside Kensington Mall, serving elevated regional Chinese over live charcoal.",
+        "must_try": "🍢 Charcoal-Grilled Lamb & Pork Belly Skewers with cumin\n🍜 Signature Silver Needle Noodles & Fiery Gunpowder Chicken",
+        "tips": "Very discreet entrance tucked down an interior hallway in Kensington Market. Reservations drop weeks in advance and disappear in minutes; walk-ins are nearly impossible.",
+        "vibe": "Moody Hong Kong retro neon meets industrial speakeasy, pulsing with hip-hop beats and charcoal smoke"
+      }
+    },
+    {
+      "id": "queens-harbour-waterfront",
+      "code": "075",
+      "name": "Queens Harbour",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "MediterrAsian Feast Platter & Spicy Rigatoni",
+      "description": "Massive 23,000-sq-ft waterfront MediterrAsian palace with retractable glass roof, CN Tower lake views, live DJs, and shareable platters.",
+      "address": "245 Queens Quay W, Toronto, ON M5J 2K9",
+      "hours_note": "Mon-Sun 11:00 AM - 2:00 AM",
+      "image_url": "assets/images/queens-harbour-waterfront.webp",
+      "maps_url": "https://maps.google.com/?q=Queens+Harbour+245+Queens+Quay+W+Toronto",
+      "source_url": "https://queensharbour.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 27,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Must-order $160 sushi-and-steak feast platter, Spicy Vodka Rigatoni & Poison Ivy drink",
+      "bullet_highlight": "23,000 sq ft lakeside glasshouse with retractable roof, CN Tower view & nightly DJ",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Queens%20harbour%20245%20Queens%20Quay%20W%20Toronto",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多绝美安大略湖景天花板！23000尺奢华玻璃房餐厅，抬头直面CN Tower，每晚7点DJ打歌，氛围与性价比拉满。",
+        "must_try": "🥩 招牌海陆盛宴拼盘 (含4款寿司卷、14oz肋眼牛排、6oz翼板牛排与松露薯条)\n🍝 经典伏特加香辣粗管面 (Spicy Rigatoni Alla Vodka)\n🍸 特调小甜酒 Poison Ivy (青苹果清香配Gin) & 土耳其咖啡浓缩马天尼",
+        "tips": "傍晚日落时段来风景绝美，透过天窗仰望CN塔夜景非常震撼；鸡尾酒价格亲民（$13-17），甜点推荐开心果提拉米苏；周末建议提前在官网预订湖景佳座。",
+        "vibe": "度假感十足的湖畔玻璃花房花园，夜晚DJ节拍与摩登都市霓虹"
+      },
+      "highlights": [
+        "23,000 sq ft lakeside glasshouse with retractable roof, CN Tower view & nightly DJ",
+        "Must-order $160 sushi-and-steak feast platter, Spicy Vodka Rigatoni & Poison Ivy drink"
+      ],
+      "name_zh": "Queens Harbour 湖景玻璃花房",
+      "description_zh": "23000尺奢华湖景玻璃房餐厅，抬头直面CN Tower，每晚7点DJ打歌，海陆盛宴拼盘与小甜酒性价比极高。",
+      "highlights_zh": [
+        "23000尺奢华湖畔玻璃房，仰望CN塔夜景，每晚7点现场DJ",
+        "必点$160超值海陆盛宴大拼盘、伏特加辣管面与Poison Ivy小甜酒"
+      ],
+      "signature_dish_zh": "招牌海陆盛宴大拼盘配伏特加辣通心粉",
+      "hours_note_zh": "周一至周日 12:00 - 次日凌晨 1:00 (周五周六至凌晨2:00)",
+      "review_notes_en": {
+        "summary": "Breathtaking 23,000 sq ft lakeside glasshouse restaurant facing the CN Tower, featuring live nightly DJs at 7 PM and stunning vacation energy.",
+        "must_try": "🥩 Signature Surf & Turf Feast Platter (4 sushi rolls, 14oz ribeye steak, 6oz flank steak, and truffle parmesan fries for $160)\n🍝 Spicy Rigatoni Alla Vodka with house tomato chili cream\n🍸 Poison Ivy Cocktail (Green apple and gin) & Turkish Coffee Espresso Martini",
+        "tips": "Arrive around sunset for panoramic Ontario lake views through the retractable glass ceiling. Cocktails are well-priced ($13–$17). Order pistachio tiramisu for dessert. Reserve waterfront seats online in advance.",
+        "vibe": "Resort-style lakefront botanical garden by day, turning into a high-energy urban lounge with DJ beats and neon by night"
+      }
+    },
+    {
+      "id": "kajiken-abura-soba-queen",
+      "code": "076",
+      "name": "Kajiken",
+      "native_name": "歌志軒",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Homura Spicy Minced Pork Abura Soba with Onsen Tamago",
+      "description": "Nagoya's famous soupless dry ramen specialist tossing springy thick noodles in aromatic chili oil, vinegar, and savory minced pork.",
+      "address": "214 Queen St W, Toronto, ON M5V 1Z2",
+      "hours_note": "Sun-Thu 11:30 AM - 10:30 PM, Fri-Sat 11:30 AM - 11:30 PM",
+      "image_url": "assets/images/kajiken-abura-soba-queen.webp",
+      "maps_url": "https://maps.google.com/?q=Kajiken+214+Queen+St+W+Toronto",
+      "source_url": "https://kajiken.ca/",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 17,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Swirl chili oil & vinegar to emulsify the runny egg; free extra noodles or rice",
+      "bullet_highlight": "Nagoya dry abura soba icon with springy noodles clinging to rich umami tare",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=%E6%AD%8C%E5%BF%97%E8%BD%A9%20Kajiken%20Queen%20St%20W%20Toronto",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "名古屋油拉面元祖歌志轩（Kajiken）DT分店！无汤干拌油面界的顶流，面条筋道Q弹挂汁无敌。",
+        "must_try": "🍜 招牌焰油拉面 (Homura Abura Soba with spicy minced pork & onsen egg)\n🥩 慢烤牛肉油拉面 (Roast Beef Abura Soba) & 炙烤叉烧油拉面",
+        "tips": "上桌趁热根据教程沿碗淋 2 圈辣油与白醋，快速搅拌让半熟温泉蛋与浓郁酱汁完全乳化包裹每根面条；支持免费加面或加米饭拌剩余肉酱。",
+        "vibe": "明亮温馨的日系拉面专门店，适合一人食快餐或好友结伴嗦面"
+      },
+      "highlights": [
+        "Nagoya dry abura soba icon with springy noodles clinging to rich umami tare",
+        "Swirl chili oil & vinegar to emulsify the runny egg; free extra noodles or rice"
+      ],
+      "name_zh": "歌志轩名古屋油拉面",
+      "description_zh": "名古屋油拉面元祖歌志轩DT店！无汤干拌油面界的顶流，面条筋道Q弹挂汁无敌，淋辣油与白醋快速乳化。",
+      "highlights_zh": [
+        "名古屋油拉面元祖品牌，面条筋道Q弹牢牢吸附秘制浓郁酱汁",
+        "趁热淋2圈辣油与白醋乳化半熟温泉蛋，免费续面或米饭拌肉酱"
+      ],
+      "signature_dish_zh": "招牌焰油拉面佐温泉蛋与秘制肉酱",
+      "hours_note_zh": "周日至周四 11:30 - 22:30, 周五周六 11:30 - 23:30",
+      "review_notes_en": {
+        "summary": "The downtown Toronto outpost of Kajiken, the original pioneer of Nagoya-style dry abura soba noodles.",
+        "must_try": "🍜 Signature Homura Abura Soba (Spicy minced pork, fragrant fish powder, nori, scallions, and runny onsen egg)\n🥩 Slow-Roasted Wagyu Beef Abura Soba with butter onion sauce & Torch-seared Chashu",
+        "tips": "Follow the house ritual upon serving: swirl 2 rounds of chili oil and rice vinegar around the piping-hot bowl, then toss vigorously so the runny onsen egg emulsifies into a creamy sauce coating every springy noodle strand. Free noodle or rice refills to mix with remaining pork sauce!",
+        "vibe": "Bright, cheerful modern Japanese ramen bar ideal for quick solo dining or casual noodle slurping with friends"
+      }
+    },
+    {
+      "id": "zakkushi-on-queen",
+      "code": "077",
+      "name": "Zakkushi on Queen",
+      "native_name": "ざっ串",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group",
+        "date-night"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Binchotan Charcoal Yakitori & Kurobuta Don",
+      "description": "Classic Queen West Japanese izakaya renowned for fragrant binchotan charcoal-grilled yakitori skewers and comforting savory rice bowls.",
+      "address": "620 Queen St W, Toronto, ON M6J 1E4",
+      "hours_note": "Mon-Fri 5:30 PM - 12:00 AM, Sat-Sun 12:00 PM - 12:00 AM",
+      "image_url": "assets/images/zakkushi-on-queen.webp",
+      "maps_url": "https://maps.google.com/?q=Zakkushi+on+Queen+620+Queen+St+W+Toronto",
+      "source_url": "https://zakkushi.com/",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 24,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Smoky binchotan charcoal aroma on succulent chicken skewers and tender chashu don",
+      "bullet_highlight": "Longstanding Queen West izakaya institution with authentic tavern energy and approachable pricing",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68c87ea8000000001d01866d",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen街超级老牌的日式炭火居酒屋，多年来价格亲民稳定，水族馆或逛街后绝佳聚餐据点。",
+        "must_try": "🍢 备长炭烤串组合 (鸡肉丸子、烤鸡翅、牛舌、紫苏五花肉)\n🍚 温泉蛋黑豚丼 / 烧肉丼 & 明太子乌冬",
+        "tips": "串烧现点现烤镬气十足，外焦里嫩炭香浓郁；人均40刀左右性价比极高，建议提前定位或开门时前往。",
+        "vibe": "烟火气十足的传统日式木质居酒屋，氛围热闹治愈"
+      },
+      "highlights": [
+        "Classic Queen West charcoal-grilled yakitori tavern with authentic tavern bustle and steady pricing",
+        "Fragrant binchotan skewers alongside rich onsen egg chashu rice bowls for satisfying evening comfort"
+      ],
+      "name_zh": "ざっ串 炭火居酒屋 (Queen West)",
+      "description_zh": "Queen街超级老牌正宗日式炭火居酒屋，以备长炭香气四溢的烧鸟串烧与浓郁温泉蛋烧肉丼饭闻名，性价比极佳。",
+      "highlights_zh": [
+        "Queen街多年老牌日料居酒屋，人均40刀价格亲民且水准稳定",
+        "现烤备长炭烧鸟串焦香四溢，搭配温泉蛋黑豚丼治愈感满满"
+      ],
+      "signature_dish_zh": "备长炭烤鸡肉串烧组合与温泉蛋黑豚丼",
+      "hours_note_zh": "周一至周五 17:30 - 00:00, 周六周日 12:00 - 00:00",
+      "review_notes_en": {
+        "summary": "A beloved long-standing Queen West yakitori tavern celebrated for fragrant binchotan skewers, comforting donburi, and steady value.",
+        "must_try": "🍢 Charcoal Yakitori Platter (Tsukune chicken meatballs, chicken wings, beef tongue, shiso pork belly)\n🍚 Kurobuta Pork Don with onsen egg & Mentai Carbonara Udon",
+        "tips": "Skewers are grilled to order over real binchotan charcoal for irresistible smoky char. At around $40/person, it's one of downtown's best izakaya values. Reserve ahead for weekend evenings.",
+        "vibe": "Warm, bustling Japanese tavern filled with smoky charcoal aromas and cheerful izakaya chatter"
+      }
+    },
+    {
+      "id": "grandma-kitchen-spadina",
+      "code": "078",
+      "name": "Grandma Kitchen",
+      "native_name": "阿婆私房菜",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Authentic Sichuan Spicy Chicken Pot & Dry Pot Cauliflower",
+      "description": "Beloved Spadina Chinatown Sichuan kitchen serving hearty, authentic homestyle spicy chicken pots and generous stir-fries near UTSG.",
+      "address": "416 Spadina Ave, Toronto, ON M5T 2G7",
+      "hours_note": "Mon-Sun 11:00 AM - 11:00 PM",
+      "image_url": "assets/images/grandma-kitchen-spadina.webp",
+      "maps_url": "https://maps.google.com/?q=Grandma+Kitchen+416+Spadina+Ave+Toronto",
+      "source_url": "https://www.ubereats.com/ca/store/grandma-kitchen-spadina/oO7U6_YfRkW4-Q_x784aeg",
+      "unverified": [],
+      "area": "Chinatown",
+      "walking_time_min": 17,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Fiery chili oil and bold Sichuan peppercorn heat with ultra-generous homestyle portions",
+      "bullet_highlight": "UTSG student favorite along Spadina for authentic, heavily portioned Sichuan comfort",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68c87ea8000000001d01866d",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "唐人街靠近多大UTSG的正宗川菜小馆，分量极大、麻辣过瘾，是留学生课后聚餐与打包首选。",
+        "must_try": "🥘 川味香辣柴火鸡煲 / 辣子鸡\n🥦 干锅花菜 & 风味茄子 (下饭神器)",
+        "tips": "菜量非常大且下饭，辣味地道浓烈，建议多叫几碗白米饭；稍微偏油润，重度嗜辣星人狂喜。",
+        "vibe": "烟火气十足的亲切川味家常小馆，经济实惠分量足"
+      },
+      "highlights": [
+        "UTSG student staple on Spadina serving intensely authentic, highly portioned Sichuan comfort",
+        "Sizzling spicy chicken pot and wok-tossed dry pot cauliflower delivering fiery chili-oil satisfaction"
+      ],
+      "name_zh": "阿婆私房菜 (外婆私房菜)",
+      "description_zh": "唐人街靠近UTSG的正宗川菜私房馆，以超大分量的地道香辣鸡煲、干锅花菜与浓郁家常镬气闻名。",
+      "highlights_zh": [
+        "UTSG留学生私藏DT川菜馆，菜量极其豪爽、性价比突出",
+        "正宗川式香辣鸡煲与干锅系列镬气十足，嗜辣星人下饭必吃"
+      ],
+      "signature_dish_zh": "正宗川味香辣鸡煲与干锅花菜",
+      "hours_note_zh": "周一至周日 11:00 - 23:00",
+      "review_notes_en": {
+        "summary": "A go-to Chinatown homestyle Sichuan eatery near UTSG campus, famous for enormous portions and fiery, authentic wok heat.",
+        "must_try": "🥘 Authentic Sichuan Spicy Chicken Pot / Chongqing Chili Chicken\n🥦 Griddle Dry-Pot Cauliflower & Crispy Sweet-Savory Eggplant",
+        "tips": "Portions are impressively large with genuine Sichuan oil and numbing spice. Order extra steamed rice to mop up the rich sauces.",
+        "vibe": "Lively, casual neighborhood dining hall packed with students and spicy food enthusiasts"
+      }
+    },
+    {
+      "id": "sangs-great-seafood-chinatown",
+      "code": "079",
+      "name": "Sang's Great Seafood Restaurant",
+      "native_name": "富来小厨",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Nourishing Herbal Chicken Hot Pot & Fresh Hand-Cut Beef",
+      "description": "Iconic Chinatown late-night destination celebrated for rich herbal chicken hot pots, fresh hand-cut beef, and soothing winter comfort.",
+      "address": "343 Spadina Ave, Toronto, ON M5T 2G3",
+      "hours_note": "Sun-Thu 4:00 PM - 2:00 AM, Fri-Sat 4:00 PM - 4:00 AM",
+      "image_url": "assets/images/sangs-great-seafood-chinatown.webp",
+      "maps_url": "https://maps.google.com/?q=Sang's+Great+Seafood+Restaurant+343+Spadina+Ave+Toronto",
+      "source_url": "https://www.fantuanorder.com/store/sangs-great-seafood-restaurant/ca-3269",
+      "unverified": [],
+      "area": "Chinatown",
+      "walking_time_min": 15,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Deep comforting herbal broth simmered with tender bone-in chicken and premium sliced meats",
+      "bullet_highlight": "Toronto's legendary late-night chicken hot pot landmark, open until 4 AM for snowy night gatherings",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68c87ea8000000001d01866d",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多唐人街老字号深夜鸡锅天花板！冬天下雪或肝due夜聚首选，一碗热气腾腾的走地鸡汤暖心暖胃。",
+        "must_try": "🍲 招牌药膳走地鸡煲 / 胡椒猪肚鸡锅\n🥩 手切新鲜牛小排、响铃卷与鲜打虾滑",
+        "tips": "开锅先连喝两碗鲜美浓郁的鸡汤，鸡肉肉质紧实滑嫩毫不干柴；营业至凌晨2点到4点，宵夜神店。",
+        "vibe": "热气氤氲、充满人情味的经典粤式宵夜打边炉氛围"
+      },
+      "highlights": [
+        "Legendary Toronto late-night chicken pot institution open until 4 AM for winter night warmth",
+        "Simmered herbal bone-in chicken broth paired with tender chicken pieces and fresh hand-cut beef"
+      ],
+      "name_zh": "富来小厨",
+      "description_zh": "多伦多唐人街老字号深夜暖胃鸡煲名店，以浓郁药膳走地鸡煲、鲜嫩鸡肉与深夜营业至凌晨闻名。",
+      "highlights_zh": [
+        "多伦多最火老字号鸡煲打边炉，冬天下雪天与朋友聚餐的暖胃顶流",
+        "药膳老鸡白汤浓郁鲜甜，走地鸡肉质紧实弹嫩，通宵营业至凌晨4点"
+      ],
+      "signature_dish_zh": "多伦多经典药膳滋补走地鸡煲与手切肥牛",
+      "hours_note_zh": "周日至周四 16:00 - 02:00, 周五周六 16:00 - 04:00",
+      "review_notes_en": {
+        "summary": "Toronto Chinatown's iconic late-night chicken hot pot staple, perfect for post-study sessions and freezing winter nights.",
+        "must_try": "🍲 Signature Herbal Free-Range Chicken Pot / Pepper Pork Tripe Chicken Broth\n🥩 Fresh Hand-Cut Beef, Ring Rolls & Handmade Shrimp Paste",
+        "tips": "Begin by ladling two comforting bowls of the rich aromatic broth before dipping fresh meats. Open until 2-4 AM for legendary midnight cravings.",
+        "vibe": "Steam-filled, bustling Cantonese late-night hot pot joint that instantly warms you up"
+      }
+    },
+    {
+      "id": "green-tea-restaurant-markham",
+      "code": "080",
+      "name": "Green Tea Restaurant",
+      "native_name": "绿茶餐厅",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Bread Temptation & Sweet and Sour Pork Ribs",
+      "description": "Famous Hangzhou Jiangnan chain featuring iconic Bread Temptation ice cream toast, caramelized sweet-and-sour ribs, and refined homestyle flavors.",
+      "address": "3235 Hwy 7 Unit 18, Markham, ON L3R 3P3",
+      "hours_note": "Mon-Sun 11:30 AM - 9:30 PM",
+      "image_url": "assets/images/green-tea-restaurant-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Green+Tea+Restaurant+3235+Hwy+7+Markham",
+      "source_url": "https://greentearestaurant.ca/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Delicate Jiangnan sweet-savory balance with buttery toasted bread and melting vanilla ice cream",
+      "bullet_highlight": "Renowned Hangzhou casual dining chain famous for its signature Bread Temptation dessert and pleasant booth seating",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68c87ea8000000001d01866d",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "国内爆火的江浙菜绿茶餐厅万锦店！招牌面包诱惑无人能拒，甜口浓郁、菜品精致，极适合朋友聚餐。",
+        "must_try": "🍞 招牌面包诱惑 (外脆内软黄油烤吐司堆香草冰淇淋)\n🍖 绿茶糖醋小排 & 风味茄子 & 蒜蓉粉丝虾",
+        "tips": "原DT店关闭后现迁至万锦Hwy 7；面包诱惑务必趁热吃，冰火交融的奶香极其惊艳；菜式偏江浙温润甜口。",
+        "vibe": "雅致江南水乡中式卡座风格，安静舒适适宜聚餐交谈"
+      },
+      "highlights": [
+        "Celebrated Hangzhou Jiangnan chain boasting cozy booth seating and approachable crowd-pleasing classics",
+        "Irresistible Bread Temptation hot buttered toast with melting ice cream alongside glossy sweet ribs"
+      ],
+      "name_zh": "绿茶餐厅",
+      "description_zh": "著名江浙菜连锁名店，以甜润适口的本帮糖醋小排、风味茄子与标志性甜品面包诱惑征服江南胃。",
+      "highlights_zh": [
+        "国内知名江浙菜品牌，卡座环境清幽雅致，适合朋友聚餐畅聊",
+        "无人能拒绝的招牌面包诱惑冰火交融，糖醋小排与茄子甜鲜浓郁"
+      ],
+      "signature_dish_zh": "招牌面包诱惑佐冰淇淋与本帮糖醋小排",
+      "hours_note_zh": "周一至周日 11:30 - 21:30",
+      "review_notes_en": {
+        "summary": "The popular Hangzhou Jiangnan brand's Markham outpost, celebrated for sweet-savory classics and the legendary Bread Temptation dessert.",
+        "must_try": "🍞 Signature Bread Temptation (Golden toasted honey brioche topped with melting vanilla ice cream)\n🍖 Sweet and Sour Pork Ribs & Flavorful Braised Eggplant & Garlic Vermicelli Shrimp",
+        "tips": "Formerly in downtown, now settled in Markham along Hwy 7. Eat the Bread Temptation immediately while the warm buttery toast contrasts with the ice cream.",
+        "vibe": "Graceful, contemporary Jiangnan garden-inspired interior with quiet, comfortable booth seating"
+      }
+    },
+    {
+      "id": "trattoria-nervosa-yorkville",
+      "code": "081",
+      "name": "Trattoria Nervosa",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Mafalde ai Funghi & Grilled Octopus",
+      "description": "Charming yellow-cottage Yorkville Italian institution famous for decadent truffle mushroom mafalde pasta, grilled octopus, and romantic date-night charm.",
+      "address": "75 Yorkville Ave, Toronto, ON M5R 1B8",
+      "hours_note": "Sun-Thu 11:30 AM - 10:00 PM, Fri-Sat 11:30 AM - 11:00 PM",
+      "image_url": "assets/images/trattoria-nervosa-yorkville.webp",
+      "maps_url": "https://maps.google.com/?q=Trattoria+Nervosa+75+Yorkville+Ave+Toronto",
+      "source_url": "https://eatnervosa.com/",
+      "unverified": [],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Earthy white truffle cream sauce clinging to wavy mafalde pasta and tender charred octopus",
+      "bullet_highlight": "Iconic two-storey yellow house in Yorkville boasting chic multi-level patios for romantic evenings",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68c87ea8000000001d01866d",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Yorkville奢侈品街旁的老牌地标级意餐！标志性黄色小洋楼与露台，约会、闺蜜小酌出片首选。",
+        "must_try": "🍝 招牌黑松露菌菇波浪意面 (Mafalde ai Funghi)\n🐙 香烤嫩章鱼 (Polpo) & 意式提拉米苏",
+        "tips": "逛完Yorkville名店街后步行即达；Mafalde波浪意面挂满浓郁松露白酱，口感惊艳；夏秋露台与室内黄色小楼氛围感极佳。",
+        "vibe": "浪漫时髦的约会胜地，黄昏时分华灯初上，微醺氛围感拉满"
+      },
+      "highlights": [
+        "Iconic Yorkville yellow-house Italian landmark featuring romantic multi-tier patio seating",
+        "Rich truffle-cream mushroom mafalde pasta and tender grilled octopus for memorable date nights"
+      ],
+      "name_zh": "Trattoria Nervosa 意式约会餐厅",
+      "description_zh": "Yorkville老牌地标级意式浪漫餐厅，坐落于标志性黄色小洋楼中，以浓郁黑松露菌菇意面与微醺约会氛围闻名。",
+      "highlights_zh": [
+        "Yorkville奢侈品街老牌地标意餐，黄色小洋房与露台拍照超好看",
+        "招牌黑松露菌菇波浪面浓郁挂汁，香烤章鱼火候完美，约会微醺首选"
+      ],
+      "signature_dish_zh": "招牌黑松露牛肝菌波浪意面与香烤章鱼",
+      "hours_note_zh": "周日至周四 11:30 - 22:00, 周五周六 11:30 - 23:00",
+      "review_notes_en": {
+        "summary": "An enduring Yorkville Italian landmark housed in a signature yellow cottage, legendary for romantic patio vibes and rich handmade pasta.",
+        "must_try": "🍝 Mafalde ai Funghi (Wavy pasta ribbon in decadent portobello, cremini, and white truffle cream)\n🐙 Polpo (Char-grilled tender octopus) & Classic Tiramisu",
+        "tips": "Conveniently located right off the Bloor-Yorkville luxury shopping strip. The signature truffle mafalde is an absolute must-order for rich pasta lovers.",
+        "vibe": "Chic, intimate Yorkville institution with ambient lamp-lit evenings and fashionable buzz"
+      }
+    }
+  ]
+}

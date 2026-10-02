@@ -1,0 +1,142 @@
+name: Validate Options Data
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-schema:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate data/options.json schema
+        run: |
+          python3 - << 'EOF'
+          import json
+          import re
+          import sys
+
+          ALLOWED_CUISINES = {"Chinese", "Japanese", "Korean", "Vietnamese", "Thai", "Indian", "Middle Eastern", "Italian", "Mexican", "American", "Other"}
+          ALLOWED_PRICES = {1, 2, 3, 4}
+          ALLOWED_TIMES = {"quick", "medium", "long"}
+          ALLOWED_FORMATS = {"dine-in", "takeout", "delivery", "cook-at-home"}
+          ALLOWED_DIETARY = {"vegetarian", "vegan", "halal", "gluten-free", "spicy"}
+          ALLOWED_MOODS = {"comfort", "healthy", "light", "indulgent", "date-night", "solo", "group"}
+          ALLOWED_WEATHER = {"cold", "hot", "any"}
+          ALLOWED_AREAS = {"Downtown (Yonge)", "Downtown (Other)", "Chinatown", "Queen West", "Financial Core", "North", "Midtown", "Other"}
+          ALLOWED_PORTIONS = {"light", "normal", "heavy", "dessert"}
+          ALLOWED_CATEGORIES = {"meal", "dessert", "cafe", "brunch", "bar"}
+          ALLOWED_FOOD_PROFILES = {"more-veggie", "more-meat", "light-carb", "spicy"}
+          ALLOWED_FEATURES = {"hotpot", "bbq", "reservation"}
+
+          with open("data/options.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          assert "generated_at" in data, "Missing generated_at"
+          assert "location" in data, "Missing location"
+          assert "options" in data, "Missing options array"
+
+          options = data["options"]
+          print(f"Validating {len(options)} options...")
+
+          errors = []
+          seen_ids = set()
+          seen_codes = set()
+
+          for i, r in enumerate(options):
+              rid = r.get("id")
+              if not rid or rid in seen_ids:
+                  errors.append(f"Row {i}: Duplicate or missing id '{rid}'")
+              seen_ids.add(rid)
+
+              code = str(r.get("code", "")).strip()
+              if not code or code in seen_codes:
+                  errors.append(f"Row {i} ({rid}): Duplicate or missing code '{code}'")
+              seen_codes.add(code)
+
+              if not re.match(r"^\d{1,4}$", code):
+                  errors.append(f"Row {i} ({rid}): code '{code}' not valid 1-4 digit numeric string")
+
+              if not re.match(r"^[a-z0-9-]+$", str(rid)):
+                  errors.append(f"Row {i} ({rid}): id not valid kebab-case")
+
+              if r.get("type") not in {"restaurant", "recipe"}:
+                  errors.append(f"Row {i} ({rid}): invalid type {r.get('type')}")
+
+              if r.get("category") not in ALLOWED_CATEGORIES:
+                  errors.append(f"Row {i} ({rid}): invalid category {r.get('category')}")
+
+              for fp in r.get("food_profile", []):
+                  if fp not in ALLOWED_FOOD_PROFILES:
+                      errors.append(f"Row {i} ({rid}): invalid food_profile {fp}")
+
+              for feat in r.get("features", []):
+                  if feat not in ALLOWED_FEATURES:
+                      errors.append(f"Row {i} ({rid}): invalid feature {feat}")
+
+              if r.get("cuisine") not in ALLOWED_CUISINES:
+                  errors.append(f"Row {i} ({rid}): invalid cuisine {r.get('cuisine')}")
+
+              if r.get("price") not in ALLOWED_PRICES:
+                  errors.append(f"Row {i} ({rid}): invalid price {r.get('price')}")
+
+              if r.get("time") not in ALLOWED_TIMES:
+                  errors.append(f"Row {i} ({rid}): invalid time {r.get('time')}")
+
+              for fmt in r.get("format", []):
+                  if fmt not in ALLOWED_FORMATS:
+                      errors.append(f"Row {i} ({rid}): invalid format {fmt}")
+
+              for d in r.get("dietary", []):
+                  if d not in ALLOWED_DIETARY:
+                      errors.append(f"Row {i} ({rid}): invalid dietary {d}")
+
+              for m in r.get("mood", []):
+                  if m not in ALLOWED_MOODS:
+                      errors.append(f"Row {i} ({rid}): invalid mood {m}")
+
+              for w in r.get("weather_fit", []):
+                  if w not in ALLOWED_WEATHER:
+                      errors.append(f"Row {i} ({rid}): invalid weather_fit {w}")
+
+              desc = r.get("description", "")
+              words = desc.split()
+              if len(words) > 20:
+                  errors.append(f"Row {i} ({rid}): description exceeds 20 words ({len(words)} words)")
+
+              if r.get("area") not in ALLOWED_AREAS:
+                  errors.append(f"Row {i} ({rid}): invalid area {r.get('area')}")
+
+              if r.get("portion_size") not in ALLOWED_PORTIONS:
+                  errors.append(f"Row {i} ({rid}): invalid portion_size {r.get('portion_size')}")
+
+              if r.get("curation_source") and r.get("curation_source") not in {"web", "red", "other", "xiaohongshu", "word-of-mouth"}:
+                  errors.append(f"Row {i} ({rid}): invalid curation_source {r.get('curation_source')}")
+
+              if "visit_count" in r and (not isinstance(r["visit_count"], int) or r["visit_count"] < 0):
+                  errors.append(f"Row {i} ({rid}): invalid visit_count {r.get('visit_count')}")
+
+              if "user_rating" in r and r["user_rating"] not in {None, "dislike", "like", "super-like"}:
+                  errors.append(f"Row {i} ({rid}): invalid user_rating {r.get('user_rating')}")
+
+              if "highlights" in r and (not isinstance(r["highlights"], list) or len(r["highlights"]) != 2):
+                  errors.append(f"Row {i} ({rid}): highlights must be a list of exactly 2 items")
+
+          if errors:
+              print("\nSCHEMA VALIDATION FAILED:")
+              for err in errors:
+                  print(" -", err)
+              sys.exit(1)
+          else:
+              print("\nSUCCESS: All options passed schema validation!")
+          EOF

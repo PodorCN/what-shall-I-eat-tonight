@@ -1,0 +1,80 @@
+name: "🍜 推荐多伦多新餐厅 / Recommend a Restaurant"
+description: "向多伦多美食指南推荐你私藏或新打卡的好吃餐厅或甜品店"
+title: "[推荐]: "
+labels: ["restaurant-submission", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你为 **Dishpatch by mzx (多伦多今晚吃什么)** 贡献餐厅！
+        请尽量提供准确的餐厅信息和招牌必点，方便审核后快速收录进数据库。
+  - type: input
+    id: restaurant_name
+    attributes:
+      label: "餐厅名称 / Restaurant Name"
+      description: "餐厅英文名及中文名（如有）"
+      placeholder: "例如：Konjiki Ramen 金色不如归 / Yueh Tung 粤东酒家"
+    validations:
+      required: true
+  - type: dropdown
+    id: cuisine
+    attributes:
+      label: "菜系 / Cuisine"
+      options:
+        - "Chinese (中餐/川粤湘鲁客家)"
+        - "Japanese (日料/拉面/居酒屋/烧肉)"
+        - "Korean (韩餐/烤肉/汤煲)"
+        - "Vietnamese (越南粉/法包)"
+        - "Thai (泰餐/泰北金面)"
+        - "Italian (意餐/披萨/意面)"
+        - "American / Burger / BBQ"
+        - "Middle Eastern"
+        - "Indian"
+        - "Mexican"
+        - "Dessert / Bakery / Cafe (甜品烘焙咖啡)"
+        - "Other"
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: "所在区域 / Area"
+      options:
+        - "Downtown (Yonge) - DT央街/Ryerson/Church"
+        - "Downtown (Other) - 湖滨/Annex/肯辛顿"
+        - "Chinatown - 唐人街"
+        - "Queen West - 西皇后街/King West"
+        - "Financial Core - 金融区/Union"
+        - "North - 北约克/Markham/列治文山"
+        - "Midtown - 中城/Yonge & Eglinton"
+        - "Other - 其他大快活外围"
+    validations:
+      required: true
+  - type: input
+    id: address
+    attributes:
+      label: "具体地址或 Google Maps 链接 / Address or Maps Link"
+      placeholder: "例如：41 Elm St, Toronto, ON 或 Google Maps 链接"
+    validations:
+      required: true
+  - type: input
+    id: signature_dish
+    attributes:
+      label: "招牌必点菜品 / Signature Must-Try Dish"
+      placeholder: "例如：黑松露蛤蜊清汤拉面、满洲辣子鸡、手工草莓大福"
+    validations:
+      required: true
+  - type: textarea
+    id: highlights_and_review
+    attributes:
+      label: "推荐理由与特色亮点 / Highlights & Tips"
+      description: "为什么推荐它？有什么防踩坑建议或隐藏吃法？（如果是小红书看到的，可附上笔记链接）"
+      placeholder: "1. 贝类熬煮的高汤极其鲜甜清爽，适合一人独食\n2. 必点招牌拉面，周末午市可能需排队 15 分钟"
+    validations:
+      required: true
+  - type: textarea
+    id: photos
+    attributes:
+      label: "实拍照片 / Photos"
+      description: "可直接将手机实拍照片拖拽/粘贴到下方文本框中上传"
+      placeholder: "拖拽实拍图片到这里..."
