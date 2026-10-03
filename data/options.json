@@ -3831,6 +3831,76 @@
         "tips": "Conveniently located right off the Bloor-Yorkville luxury shopping strip. The signature truffle mafalde is an absolute must-order for rich pasta lovers.",
         "vibe": "Chic, intimate Yorkville institution with ambient lamp-lit evenings and fashionable buzz"
       }
+    },
+    {
+      "id": "marugame-udon-yonge",
+      "code": "082",
+      "name": "Marugame Udon",
+      "native_name": "丸亀製麺",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Nikutama Udon with Sweet Beef & Onsen Egg",
+      "description": "Famous open-kitchen Japanese cafeteria serving chewy freshly-kneaded Sanuki udon bowls and crispy hot tempura at affordable prices.",
+      "address": "494 Yonge St, Toronto, ON M4Y 1X9",
+      "hours_note": "Sun-Thu 11:00 AM - 10:00 PM, Fri-Sat 11:00 AM - 11:00 PM",
+      "image_url": "https://blogto-production2-baselayer-display.blogto.com/listings/20260325-MarugameUdon-21.jpg?w=1200&cmd=resize_then_crop&height=630&format=auto",
+      "maps_url": "https://maps.google.com/?q=Marugame+Udon+494+Yonge+St+Toronto",
+      "source_url": "https://www.blogto.com/restaurants/marugame-udon-toronto/",
+      "unverified": [],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 11,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Savory sweet-simmered beef, silky onsen tamago, and golden crispy shrimp or chicken tempura",
+      "bullet_highlight": "Renowned Sanuki udon open kitchen with fast self-serve tempura bar and accessible prices",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Marugame%20Udon%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 4,
+      "user_rating": "super-like",
+      "review_notes": {
+        "summary": "全球知名赞岐乌冬专门店丸龟制面（Marugame Udon）多伦多DT首店！明档现做手打乌冬，出餐飞快且性价比极高。",
+        "must_try": "🍜 招牌牛肉温玉乌冬 (Nikutama Udon) / 浓郁咖喱乌冬 / 经典清汤乌冬 (Kake Udon)\n🍤 现炸大虾天妇罗 & 炸鸡块 (Karaage) & 温泉蛋",
+        "tips": "采用经典日式自选动线：先选面条碗型，再沿托盘自选刚出锅的酥脆天妇罗和小食，最后结账；设有免费天妇罗花（面衣碎渣）、葱花和生姜自取台。",
+        "vibe": "明亮宽敞的热闹日式快餐食堂，出餐高效，一人食或快节奏便餐首选"
+      },
+      "highlights": [
+        "Theatrical open kitchen crafting chewy made-from-scratch Sanuki udon with rich dashi broth",
+        "Fast self-serve cafeteria line with piping-hot golden tempura, sweet nikutama beef, and accessible pricing"
+      ],
+      "name_zh": "丸龟制面",
+      "description_zh": "享誉全球的赞岐乌冬面专门店DT首店！开放式厨房现揉现煮Q弹劲道乌冬，自选金黄现炸天妇罗，平价快捷一人食神店。",
+      "highlights_zh": [
+        "全球连锁赞岐乌冬名店DT首店，开放式明档现揉现煮，乌冬面条Q弹爽滑劲道",
+        "自助式点餐动线出餐极快，招牌牛肉温玉汤底浓郁，搭配酥脆现炸天妇罗性价比绝佳"
+      ],
+      "signature_dish_zh": "招牌牛肉温玉乌冬面佐现炸天妇罗",
+      "hours_note_zh": "周日至周四 11:00 - 22:00, 周五周六 11:00 - 23:00",
+      "review_notes_en": {
+        "summary": "The celebrated global Sanuki udon specialist's downtown Toronto debut on Yonge, delivering handmade chewy noodles and quick self-serve tempura.",
+        "must_try": "🍜 Signature Nikutama Udon (Sweet-simmered beef & soft-poached onsen egg) / Rich Curry Udon / Classic Kake Udon\n🍤 Freshly Fried Shrimp Tempura, Crispy Chicken Karaage & Zucchini Tempura",
+        "tips": "Follow the theater-style cafeteria line: choose your freshly made udon bowl at the open kitchen counter, grab crispy tempura from the heated racks, then pay. Stop by the condiment bar for complimentary green onions, grated ginger, and crispy tempura flakes.",
+        "vibe": "Bright, energetic Japanese open-kitchen canteen ideal for speedy solo dining and budget-friendly comfort eats"
+      }
     }
   ]
 }
