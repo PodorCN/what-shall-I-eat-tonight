@@ -3901,6 +3901,72 @@
         "tips": "Follow the theater-style cafeteria line: choose your freshly made udon bowl at the open kitchen counter, grab crispy tempura from the heated racks, then pay. Stop by the condiment bar for complimentary green onions, grated ginger, and crispy tempura flakes.",
         "vibe": "Bright, energetic Japanese open-kitchen canteen ideal for speedy solo dining and budget-friendly comfort eats"
       }
+    },
+    {
+      "id": "kost-rooftop-bisha",
+      "code": "083",
+      "name": "Kōst",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Signature Sunset Cocktails & Tuna Tataki",
+      "description": "Chic 44th-floor Bisha Hotel rooftop bar offering Baja-inspired cocktails, light coastal bites, and jaw-dropping CN Tower skyline panoramas.",
+      "address": "80 Blue Jays Way, 44th Floor, Toronto, ON M5V 2G3",
+      "hours_note": "Mon-Sun 8:00 AM - 11:00 PM (Bar & Dinner from 5:00 PM)",
+      "image_url": "https://images.unsplash.com/photo-1570872626485-d8ffea69f463?auto=format&fit=crop&w=800&q=80",
+      "maps_url": "https://maps.google.com/?q=Kost+80+Blue+Jays+Way+Toronto",
+      "source_url": "https://kosttoronto.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 23,
+      "portion_size": "light",
+      "category": "bar",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Vibrant coastal citrus, agave spirits, refreshing tropical notes, and fresh seafood bites",
+      "bullet_highlight": "Bisha Hotel 44th-floor rooftop oasis with infinity pool and unmatched CN Tower skyline vistas",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Kost%20Toronto%20Bisha",
+      "curation_source": "web",
+      "visit_count": 1,
+      "user_rating": "super-like",
+      "review_notes": {
+        "summary": "坐落于多伦多市中心Bisha精品酒店44层的顶级高空屋顶酒吧！紧邻CN塔与天际线无边泳池，俯瞰全城景致极其震撼。",
+        "must_try": "🍸 招牌日落特调鸡尾酒 (Signature Sun-Drenched Cocktails) & 龙舌兰/梅斯卡尔特调\n🍣 香煎金枪鱼塔塔 (Tuna Tataki) & 龙虾卷 / 松露薯条",
+        "tips": "极力推荐在黄昏日落前半小时入座，能同时欣赏金色余晖洒在安大略湖和入夜后CN塔璀璨亮灯；露台高空风大，秋冬建议携带外套；强烈建议提前在官网OpenTable预订室内或露台靠窗座位。",
+        "vibe": "时髦奢华的高空度假风屋顶酒吧，全景观落地窗与无边泳池景致，约会拍照绝佳"
+      },
+      "highlights": [
+        "Glamorous 44th-floor rooftop lounge boasting panoramic CN Tower views, infinity pool, and vibrant coastal vibes",
+        "Baja-inspired craft cocktails paired with light seafood bites, perfect for golden hour and late-night drinks"
+      ],
+      "name_zh": "Kōst 屋顶高空全景酒吧餐厅",
+      "description_zh": "坐落于Bisha酒店44层的标志性高空屋顶酒吧，坐拥无边泳池与近在咫尺的CN塔天际线绝美日落全景，氛围感拉满。",
+      "highlights_zh": [
+        "Bisha酒店44层标志性高空天台，正对CN塔与城市天际线，黄昏日落与无边泳池景观绝美",
+        "主打加州海岸风情特调鸡尾酒与精致轻食小点，约会、闺蜜聚会与夜景观光微醺首选"
+      ],
+      "signature_dish_zh": "特调高空日落鸡尾酒与香煎金枪鱼塔塔",
+      "hours_note_zh": "周一至周日 8:00 - 23:00 (酒吧与晚市 17:00 起)",
+      "review_notes_en": {
+        "summary": "Perched on the 44th floor of Bisha Hotel, Kōst is one of downtown Toronto's premier rooftop lounges, offering sweeping skyline and CN Tower views.",
+        "must_try": "🍸 Signature Coastal Agave Cocktails & Refreshing Sunset Spritzes\n🍣 Ahi Tuna Tataki, Fresh Guacamole with Taro Chips & Crispy Calamari",
+        "tips": "Book a reservation for golden hour (30-45 minutes before sunset) to catch breathtaking colors reflecting off Lake Ontario and the CN Tower illuminations. Tables fill up quickly on weekends; reservations via OpenTable are strongly recommended.",
+        "vibe": "Upscale, breezy Californian coastal retreat in the sky with floor-to-ceiling glass and lively music"
+      }
     }
   ]
 }
