@@ -6634,9 +6634,9 @@
       "visit_count": 0,
       "user_rating": null,
       "review_notes": {
-        "summary": "Gyubee旗下premium主打ayce烧肉，2026年7月31开业，Warden&Steeles，Premium wagyu和肉品好，强不推荐菜量偏小，需要用限量。",
-        "must_try": "🥩 Premium Wagyu AYCE\n🍣 制品/前菜",
-        "tips": "用现金或Debit Card，信用卡不收；5:30到门口已经排队，建议提前预约；Gyubee高级品牌",
+        "summary": "Gyubee旗下高端AYCE烧肉，2026年7月31开业，Warden & Steeles，wagyu和肉品品质好，开业即排队。",
+        "must_try": "🥩 Premium Wagyu AYCE\n🍣 刺身与前菜",
+        "tips": "只收现金或Debit，不收信用卡；5:30门口就会排队，建议提前预约；Gyubee旗下高端品牌",
         "vibe": "premium AYCE日式烧肉，肉品好、排队长，适合预约"
       },
       "highlights": [
@@ -6656,6 +6656,1070 @@
         "must_try": "🥩 Premium Wagyu AYCE\n🍗 Curated BBQ selection",
         "tips": "Cash or debit only; lines form before opening—reserve ahead.",
         "vibe": "Premium AYCE yakiniku for groups with a big appetite"
+      }
+    },
+    {
+      "id": "hibiki-japanese-cuisine-markham",
+      "code": "125",
+      "name": "Hibiki Japanese Cuisine",
+      "native_name": "Hibiki 日本料理",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Black-Truffle Fried Shrimp & Miso-Glazed Black Cod",
+      "description": "Downtown Markham izakaya since 2014 serving chef-made sushi, black-truffle fried shrimp and miso-glazed black cod.",
+      "address": "4450 Hwy 7 East, Markham, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/hibiki-japanese-cuisine-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Hibiki+Japanese+Cuisine+4450+Hwy+7+East+Markham",
+      "source_url": "https://hibiki.ca/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Chef-counter sushi, black-truffle fried shrimp and clean-flavoured miso black cod",
+      "bullet_highlight": "Hidden Downtown Markham izakaya since 2014, quiet enough for dates or solo seats at the counter",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6ab7102c",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "万锦Hwy7门面不起眼的日料居酒屋，师傅现场手捏寿司，平价好吃，被小红书博主列入二刷名单。",
+        "must_try": "🍤 黑松露炸虾\n🐟 银鳕鱼西京烧\n🍣 Premium Sushi Set",
+        "tips": "炙烧带子葱吞拿鱼卷是隐藏菜单，逢人必推；小店座位少，约会或一人食建议避开高峰",
+        "vibe": "暖灯板前的小居酒屋，热闹不吵，一人食和约会都合适"
+      },
+      "highlights": [
+        "Downtown Markham izakaya with a sushi counter, open since 2014",
+        "Black-truffle fried shrimp and miso black cod are the must-orders"
+      ],
+      "name_zh": "Hibiki 日本料理",
+      "description_zh": "万锦Hwy7的宝藏日料居酒屋，师傅现场手捏寿司，黑松露炸虾和银鳕鱼西京烧必点，平价好吃。",
+      "highlights_zh": [
+        "万锦Hwy7老牌日料居酒屋，板前手捏寿司",
+        "黑松露炸虾+银鳕鱼西京烧，约会一人食皆宜"
+      ],
+      "signature_dish_zh": "黑松露炸虾与西京烧银鳕鱼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "An easygoing Markham izakaya behind an unassuming storefront, with sushi made in front of you and fair prices.",
+        "must_try": "🍤 Black-truffle fried shrimp\n🐟 Miso-glazed black cod\n🍣 Premium sushi set",
+        "tips": "The seared scallop and negi-toro roll is a hidden-menu item; seats are limited, so go early.",
+        "vibe": "Warm-lit counter izakaya, lively but not noisy, good for dates or eating alone"
+      }
+    },
+    {
+      "id": "nopo-korean-bistro-north-york",
+      "code": "126",
+      "name": "NOPO Korean Bistro",
+      "native_name": "노포",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Spicy Octopus & Pork Platter on the Hot Plate",
+      "description": "4.9-rated Korean bistro on Yonge with spicy octopus-pork hot plate, thick-cut pork belly and late-night drinks.",
+      "address": "5523 Yonge St, Toronto, ON M2N 5S3",
+      "hours_note": "Mon-Sun (open until 2 AM, check Google Maps)",
+      "image_url": "assets/images/nopo-korean-bistro-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=NOPO+Korean+Bistro+5523+Yonge+St+Toronto",
+      "source_url": "https://nopobistro.ca/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Spicy octopus and pork sizzling on a hot plate, thick-cut pork belly and fruit soju cocktails",
+      "bullet_highlight": "4.9-score Yonge Street Korean bistro open until 2 AM, great for weekend night gatherings",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a4b01fc",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北约克4.9分韩式小酒馆，开到凌晨两点，辣炒章鱼配猪肉的铁板是招牌，乌冬煎到边缘焦脆更香。",
+        "must_try": "🐙 Spicy Octopus & Pork Platter\n🥓 厚切五花肉拼盘\n🍜 泡菜冷面",
+        "tips": "把乌冬放铁板上多煎一会儿更入味；三个人四个菜人均三十多；Peach Makgeolli Slush很搭铁板",
+        "vibe": "干净有氛围的韩式bistro，适合周末晚上朋友聚"
+      },
+      "highlights": [
+        "4.9-rated Korean bistro on Yonge St open until 2 AM",
+        "Spicy octopus-pork hot plate with udon, plus fruit makgeolli slushies"
+      ],
+      "name_zh": "NOPO Korean Bistro",
+      "description_zh": "北约克Yonge街4.9分韩式bistro，营业到凌晨两点，辣炒章鱼猪肉铁板配乌冬必点，泡菜冷面清爽。",
+      "highlights_zh": [
+        "Yonge街4.9分韩式小酒馆，开到凌晨2点",
+        "辣炒章鱼猪肉铁板+乌冬，人均$30出头"
+      ],
+      "signature_dish_zh": "辣炒章鱼猪肉铁板",
+      "hours_note_zh": "每日（营业至凌晨2点，请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A polished North York Korean bistro open until 2 AM, best known for a spicy octopus and pork sizzling plate.",
+        "must_try": "🐙 Spicy octopus & pork platter\n🥓 Thick-cut pork belly set\n🍜 Kimchi cold noodles",
+        "tips": "Crisp the udon on the hot plate for extra flavour; about $30 per person; the makgeolli slush pairs well.",
+        "vibe": "Clean, mood-lit Korean bistro for weekend nights out"
+      }
+    },
+    {
+      "id": "jin-gang-shan-bbq-richmond-hill",
+      "code": "127",
+      "name": "Jin Gang Shan BBQ",
+      "native_name": "金刚山烧烤",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Self-Serve Skewer BBQ (Lamb, Beef & Squid Skewers)",
+      "description": "Harbin-style skewer BBQ in Richmond Hill where you pick skewers from open fridges; cash gets 12% off.",
+      "address": "10 Vogell Rd, Unit B, Richmond Hill, ON L4B 3K7",
+      "hours_note": "Mon-Sun (open late, closes 2 AM)",
+      "image_url": "assets/images/jin-gang-shan-bbq-richmond-hill.webp",
+      "maps_url": "https://maps.google.com/?q=Jin+Gang+Shan+BBQ+10+Vogell+Rd+Richmond+Hill",
+      "source_url": "https://jingangshanbbq.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Northeast-Chinese charcoal skewers grilled to order, plus a free self-serve side bar",
+      "bullet_highlight": "Harbin chain BBQ in Richmond Hill where you grab your own skewers from long open fridges",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a3b41b5",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "列治文山的哈尔滨连锁烧烤，不搞自助吃到撑，自己去长条选串柜挑肉，烤好端上桌，现金结账88折。",
+        "must_try": "🍢 牛羊肉串\n🦑 烤鱿鱼\n🍢 大油边 / 肥肠",
+        "tips": "现金结账88折；饭点前一小时打电话可先排号；免费自助台有玉米碴粥、花生、拌海带丝；点菜一般，专心吃串",
+        "vibe": "东北烧烤烟火气，店面大人气旺，适合多人聚餐"
+      },
+      "highlights": [
+        "Harbin-style skewer BBQ, no AYCE, you pick skewers yourself",
+        "Cash pays 12% less, with a free self-serve side and congee bar"
+      ],
+      "name_zh": "金刚山烧烤 Jin Gang Shan BBQ",
+      "description_zh": "列治文山哈尔滨连锁烧烤，自选串柜拿串按串计费，牛羊肉串火候到位，现金结账88折。",
+      "highlights_zh": [
+        "哈尔滨连锁烧烤，自选串柜拿串按串计费",
+        "牛羊肉串火候到位，现金88折+免费自助小菜台"
+      ],
+      "signature_dish_zh": "自选牛羊肉串与烤鱿鱼",
+      "hours_note_zh": "每日（营业至凌晨2点，请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Harbin BBQ chain in Richmond Hill where you choose skewers from open fridges and pay per skewer, not a buffet.",
+        "must_try": "🍢 Lamb and beef skewers\n🦑 Grilled squid\n🍢 Pork intestine skewers",
+        "tips": "Pay cash for 12% off; call ahead to get on the list; the free side bar has congee, peanuts and seaweed salad.",
+        "vibe": "Lively Northeast-Chinese skewer hall, big room, good for groups"
+      }
+    },
+    {
+      "id": "dianas-oyster-bar-scarborough",
+      "code": "128",
+      "name": "Diana's Oyster Bar and Grill",
+      "native_name": "Diana's 生蚝吧",
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Fresh Oysters from West Coast to East Coast",
+      "description": "Scarborough oyster bar beside its own seafood market, serving west-to-east coast oysters with dollar deals.",
+      "address": "2105 Lawrence Ave E, Scarborough, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/dianas-oyster-bar-scarborough.webp",
+      "maps_url": "https://maps.google.com/?q=Dianas+Oyster+Bar+and+Grill+2105+Lawrence+Ave+E+Scarborough",
+      "source_url": "https://www.dianas.ca/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Oysters graded by region, from creamy Fanny Bay to crisp Virginia, shucked to order",
+      "bullet_highlight": "Oyster bar attached to a seafood market, with one-dollar oyster days and huge chowder-style platters",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a851c48",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "士嘉堡生蚝圣地，隔壁就是Diana's海鲜市场，从西海岸到东海岸的生蚝都有，$1生蚝是周一和周三。",
+        "must_try": "🦪 Fanny Bay 生蚝\n🦪 Virginia 生蚝\n🦐 综合海鲜拼盘",
+        "tips": "$1生蚝仅限周一、周三，且需点前菜或主菜；逛完市场再去后面餐厅；生蚝产地标签会写清楚",
+        "vibe": "海鲜市场+餐厅的组合，生蚝爱好者的目的地"
+      },
+      "highlights": [
+        "Oyster bar attached to a seafood market on Lawrence Ave E",
+        "Coast-to-coast oyster selection with one-dollar oyster days"
+      ],
+      "name_zh": "Diana's Oyster Bar and Grill",
+      "description_zh": "士嘉堡生蚝吧，隔壁就是海鲜市场，东西海岸生蚝任选，周一周三有$1生蚝活动。",
+      "highlights_zh": [
+        "士嘉堡生蚝吧+隔壁海鲜市场",
+        "东西海岸生蚝齐，周一周三$1生蚝"
+      ],
+      "signature_dish_zh": "当季生蚝拼盘",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Scarborough oyster bar next to its own seafood market, drawing oysters from both coasts.",
+        "must_try": "🦪 Fanny Bay oysters\n🦪 Virginia oysters\n🦐 Mixed seafood platter",
+        "tips": "One-dollar oysters run Mondays and Wednesdays with an appetizer or main; browse the market first.",
+        "vibe": "Market-plus-dining-room setup, a destination for oyster lovers"
+      }
+    },
+    {
+      "id": "oyster-boy-queen-west",
+      "code": "129",
+      "name": "Oyster Boy Restaurant",
+      "native_name": "Oyster Boy",
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Half-Price Oysters & Beer-Battered Fish and Chips",
+      "description": "28-year-old Queen West oyster and seafood house with half-price oysters every weekday from 5 to 6pm.",
+      "address": "872 Queen St W, Toronto, ON",
+      "hours_note": "Mon-Sun (happy hour 5 PM - 6 PM)",
+      "image_url": "assets/images/oyster-boy-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Oyster+Boy+872+Queen+St+W+Toronto",
+      "source_url": "https://www.oysterboy.ca/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 14,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Fresh oysters, baked Rockefeller oysters, prawn cakes and cod fish and chips",
+      "bullet_highlight": "Nearly three decades of Queen West seafood with daily happy-hour oysters at half price",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a3b3a9c",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen West开了28年的生蚝海鲜老店，周一至周五5-6点生蚝半价，炸鱼薯条份量顶，三人人均约$48。",
+        "must_try": "🦪 半价生蚝\n🧀 菠菜芝士焗生蚝\n🐟 炸鱼薯条",
+        "tips": "周一至周五17:00-18:00生蚝半价，需早点到；虾饼和香煎大扇贝也稳；人均约$48（小费前）",
+        "vibe": "老牌生蚝吧，木质吧台热闹温暖，适合下班小酌"
+      },
+      "highlights": [
+        "28-year-old oyster and seafood restaurant on Queen St W",
+        "Half-price oysters Monday to Friday, 5 to 6 PM, plus great fish and chips"
+      ],
+      "name_zh": "Oyster Boy Restaurant",
+      "description_zh": "Queen West 28年生蚝老店，工作日5-6点生蚝半价，炸鱼薯条和焗生蚝都值得点。",
+      "highlights_zh": [
+        "Queen West开了28年的生蚝海鲜老店",
+        "工作日5-6点生蚝半价，炸鱼薯条份量足"
+      ],
+      "signature_dish_zh": "半价生蚝与炸鱼薯条",
+      "hours_note_zh": "每日（Happy Hour 17:00 - 18:00）",
+      "review_notes_en": {
+        "summary": "A long-running Queen West seafood house where weekday happy hour means half-price oysters.",
+        "must_try": "🦪 Half-price oysters\n🧀 Baked oyster Rockefeller\n🐟 Fish and chips",
+        "tips": "Half-price oysters run 5 to 6 PM Monday through Friday, so arrive early; about $48 per person before tip.",
+        "vibe": "Old-school oyster bar, warm wooden room, good after-work stop"
+      }
+    },
+    {
+      "id": "day-night-king-crab-scarborough",
+      "code": "130",
+      "name": "Day & Night King Crab",
+      "native_name": "蟹逅海鲜饭店",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Steam-Pot Seafood Set with Seafood Congee Base",
+      "description": "Scarborough steam-pot seafood restaurant serving king crab, lobster and congee in a large banquet-style dining room.",
+      "address": "680 Silver Star Blvd, Unit 306, Scarborough, ON M1V 5N1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/day-night-king-crab-scarborough.webp",
+      "maps_url": "https://maps.google.com/?q=Day+and+Night+King+Crab+680+Silver+Star+Blvd+Scarborough",
+      "source_url": "https://dayandnightkingcrab.net/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Steamed-to-order seafood over a congee base, king crab and Cantonese seafood classics",
+      "bullet_highlight": "Scarborough banquet hall for steam-pot seafood sets, big enough for family gatherings",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6972e4c5",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "士嘉堡蒸汽海鲜馆，套餐把海鲜在粥底上蒸熟，最后喝海鲜粥，店面大适合家庭和朋友聚餐。",
+        "must_try": "🦀 蒸汽海鲜套餐\n🦞 龙虾 / 鲍鱼\n🥣 海鲜粥底",
+        "tips": "$99套餐含粥底和青菜，$149多青口和鲍鱼；备料时间较长别赶时间；最后打包三盒粥不是开玩笑",
+        "vibe": "宽敞的海鲜宴会厅，一家人或朋友聚餐都合适"
+      },
+      "highlights": [
+        "Steam-pot seafood cooked over a congee base in Scarborough",
+        "Large banquet-style room, good for family and group dinners"
+      ],
+      "name_zh": "蟹逅 Day&Night King Crab",
+      "description_zh": "士嘉堡蒸汽海鲜馆，海鲜在粥底上蒸熟，最后喝粥，龙虾鲍鱼都有，适合家庭聚餐。",
+      "highlights_zh": [
+        "士嘉堡蒸汽海鲜，粥底蒸海鲜",
+        "大宴会厅式环境，家庭聚餐合适"
+      ],
+      "signature_dish_zh": "蒸汽海鲜套餐与海鲜粥",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Scarborough seafood hall where everything is steamed above a congee base that finishes as seafood porridge.",
+        "must_try": "🦀 Steam-pot seafood set\n🦞 Lobster and abalone\n🥣 Seafood congee base",
+        "tips": "The $99 set includes congee base and greens; prep takes a while, so do not rush it.",
+        "vibe": "Roomy banquet hall built for family gatherings"
+      }
+    },
+    {
+      "id": "chiang-mai-york-mills",
+      "code": "131",
+      "name": "Chiang Mai York Mills",
+      "native_name": "清迈 York Mills",
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Lobster Egg Benedict & Crab Omelette",
+      "description": "North York Thai favourite serving lobster egg Benedict, crab omelette and a Thai-fusion weekend brunch.",
+      "address": "860 York Mills Rd, North York, ON M3B 1Y4",
+      "hours_note": "Mon-Thu 10 AM - 10 PM, Fri-Sat 10 AM - 11 PM, Sun 10 AM - 10 PM",
+      "image_url": "assets/images/chiang-mai-york-mills.webp",
+      "maps_url": "https://maps.google.com/?q=Chiang+Mai+860+York+Mills+Rd+North+York",
+      "source_url": "https://www.chiangmai.ca/locations/york-mills",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Thai-leaning brunch plates, lemongrass dumplings and rich khao soi in a polished room",
+      "bullet_highlight": "North York Thai spot with a weekend brunch worth booking ahead for",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a1c6f1a",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北约克泰餐厅的泰式brunch，Lobster Egg Benedict和软壳蟹蛋饼是招牌，11点就坐满，建议预约。",
+        "must_try": "🦞 Lobster Egg Benedict\n🦀 软壳蟹蛋饼\n🥤 Thai Milk Tea",
+        "tips": "brunch建议提前预约；泰式风格环境适合周末慢慢吃；milk tea偏甜，咖啡更平衡",
+        "vibe": "精致泰式小资环境，适合周末和朋友聊天"
+      },
+      "highlights": [
+        "Thai-fusion brunch with lobster benedict and crab omelette",
+        "York Mills location of a well-liked Toronto Thai group"
+      ],
+      "name_zh": "Chiang Mai 清迈 York Mills",
+      "description_zh": "北约克泰餐厅，泰式brunch是特色，龙虾班尼迪克蛋和软壳蟹蛋饼必点，周末建议预约。",
+      "highlights_zh": [
+        "北约克泰式brunch，龙虾班尼迪克蛋招牌",
+        "软壳蟹蛋饼惊艳，小资环境适合周末"
+      ],
+      "signature_dish_zh": "龙虾班尼迪克蛋与软壳蟹蛋饼",
+      "hours_note_zh": "周一至周四 10:00 - 22:00，周五至周六 10:00 - 23:00，周日 10:00 - 22:00",
+      "review_notes_en": {
+        "summary": "The York Mills branch of a Toronto Thai group, known for a Thai-leaning brunch that fills up fast.",
+        "must_try": "🦞 Lobster egg Benedict\n🦀 Soft-shell crab omelette\n🥤 Thai milk tea",
+        "tips": "Book ahead for weekend brunch; milk tea runs sweet, coffee is better balanced.",
+        "vibe": "Prettiest-room Thai cafe feeling, relaxed weekend energy"
+      }
+    },
+    {
+      "id": "cafe-85-bay",
+      "code": "132",
+      "name": "Cafe 85",
+      "native_name": "Cafe 85",
+      "type": "cafe",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Tiramisu Toast & Shakshuka",
+      "description": "Queue-worthy Bay Street brunch cafe known for tiramisu toast, shakshuka and pink duck-confit bennies.",
+      "address": "695 Bay St, Toronto, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/cafe-85-bay.webp",
+      "maps_url": "https://maps.google.com/?q=Cafe+85+695+Bay+St+Toronto",
+      "source_url": "https://www.instagram.com/multorontocafe85/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Tiramisu toast with poured latte, tomato-shakshuka eggs and pink duck-confit benny",
+      "bullet_highlight": "Bright Bay Street cafe that queues up for its pretty, comfort-driven brunch plates",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a6551cf",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Bay街经常排队的漂亮brunch咖啡店，Tiramisu Toast淋拿铁仪式感拉满，北非蛋和鸭腿benny都稳。",
+        "must_try": "🍞 Tiramisu Toast\n🥚 北非蛋 Shakshuka\n🦆 Duck Confit Benny",
+        "tips": "路过常排队，人少时再去；采光很好适合坐一下午；奶油偏heavy，share更舒服",
+        "vibe": "采光极佳的chill咖啡馆，漂亮饭代表"
+      },
+      "highlights": [
+        "Bright, queue-worthy brunch cafe on Bay Street",
+        "Tiramisu toast, shakshuka and duck-confit bennies are the standouts"
+      ],
+      "name_zh": "Cafe 85",
+      "description_zh": "Bay街排队brunch咖啡店，提拉米苏吐司淋拿铁超有仪式感，北非蛋和鸭腿班尼迪克都好吃。",
+      "highlights_zh": [
+        "Bay街采光超好的brunch咖啡店",
+        "提拉米苏吐司+北非蛋，漂亮饭代表"
+      ],
+      "signature_dish_zh": "提拉米苏吐司与北非蛋",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A light-filled Bay Street brunch cafe that draws a line for its pretty comfort plates.",
+        "must_try": "🍞 Tiramisu toast\n🥚 Shakshuka\n🦆 Duck confit benny",
+        "tips": "Go off-peak, the queue builds quickly; the room is bright and made for lingering.",
+        "vibe": "Chill, sunlit cafe with polished brunch presentation"
+      }
+    },
+    {
+      "id": "chaimen-richmond-hill",
+      "code": "133",
+      "name": "Chaimen Sichuan Cuisine",
+      "native_name": "柴門",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 4,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Kaishui Cabbage & Chicken Bean Curd",
+      "description": "Richmond Hill high-end Sichuan room cooking banquet classics like开水白菜,鸡豆花 and spicy crayfish.",
+      "address": "420 Hwy 7, Richmond Hill, ON L4B 3K2",
+      "hours_note": "Daily 12 PM - 9 PM (check Google Maps)",
+      "image_url": "assets/images/chaimen-richmond-hill.webp",
+      "maps_url": "https://maps.google.com/?q=Chaimen+420+Hwy+7+Richmond+Hill",
+      "source_url": "https://www.instagram.com/chaimen.ca/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Restaurant-school Sichuan dishes with clean mala heat, plus river fish and shellfish",
+      "bullet_highlight": "Rare high-end Sichuan dining room in Richmond Hill, bright and formal for group banquets",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a8c360e",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "列治文山的高端川菜馆，能吃到开水白菜、鸡豆花这类馆派川菜，也做甲鱼黄鳝和加辣椒的龙虾螃蟹。",
+        "must_try": "🥬 开水白菜\n🥚 鸡豆花\n🦐 宫保虾仁茄盒",
+        "tips": "宫保虾仁茄盒最稳，回锅肉偶有失手；环境宽敞亮堂，适合宴请；服务节奏还在磨合",
+        "vibe": "高端川菜宴会厅，宽敞亮堂，适合请客"
+      },
+      "highlights": [
+        "High-end Sichuan restaurant, rare for the GTA",
+        "Kaishui cabbage and chicken bean curd, banquet-style dishes in a formal room"
+      ],
+      "name_zh": "柴門 Chaimen Sichuan",
+      "description_zh": "列治文山高端川菜馆，开水白菜、鸡豆花等馆派川菜都有，宫保虾仁茄盒最稳，适合宴请。",
+      "highlights_zh": [
+        "GTA少见的高端川菜馆，环境正式",
+        "开水白菜+鸡豆花+宫保虾仁茄盒必点"
+      ],
+      "signature_dish_zh": "开水白菜与鸡豆花",
+      "hours_note_zh": "每日 12:00 - 21:00（请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A formal Sichuan dining room in Richmond Hill serving banquet classics such as kaishui cabbage and chicken bean curd.",
+        "must_try": "🥬 Kaishui cabbage\n🥚 Chicken bean curd\n🦐 Kung pao shrimp boxes",
+        "tips": "The kung pao shrimp boxes are the safest order; service can lag on busy nights.",
+        "vibe": "Bright, formal room built for banquets and hosting"
+      }
+    },
+    {
+      "id": "kiro-sushi-bloor",
+      "code": "134",
+      "name": "Kiro Sushi",
+      "native_name": "Kiro Sushi",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "solo",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "$28 Sashimi Don & Deluxe Uni Don",
+      "description": "Japanese-run Bloor-area sushi counter with a $28 sashimi don, thick-cut sashimi and generous uni bowls.",
+      "address": "4 Collier St, Toronto, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/kiro-sushi-bloor.webp",
+      "maps_url": "https://maps.google.com/?q=Kiro+Sushi+4+Collier+St+Toronto",
+      "source_url": "https://www.instagram.com/kirosushi.to/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 20,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Thick-cut sashimi over rice, sweet shrimp and scallop, plus a $68 boat for two",
+      "bullet_highlight": "Japanese-run sushi shop where a $28 sashimi don feeds two, cash gets 5% off",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a0b4f2e",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Bloor街附近的日本人开的寿司店，$28超大碗生鱼丼份量吓人，刺身厚切，付现还有95折。",
+        "must_try": "🍱 Sashimi Don ($28)\n🦪 Deluxe Uni Don\n🍣 Tokyo Boat ($68, 2人)",
+        "tips": "别一个人吃，一碗够两人；付现金有5% off；海胆品质不稳，普通版更划算；建议订位",
+        "vibe": "不fancy但稳的日料小店，适合不知道吃什么的时候"
+      },
+      "highlights": [
+        "Japanese-run sushi counter near Bloor with thick-cut sashimi",
+        "$28 sashimi don is huge, cash saves 5 percent"
+      ],
+      "name_zh": "Kiro Sushi",
+      "description_zh": "Bloor街附近日本人开的寿司店，$28超大生鱼丼两人分，刺身厚切，付现95折。",
+      "highlights_zh": [
+        "日本人开的平价寿司店，刺身厚切",
+        "$28生鱼丼份量惊人，付现95折"
+      ],
+      "signature_dish_zh": "$28生鱼丼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Japanese-run sushi counter near Bloor known for a $28 sashimi don that easily feeds two.",
+        "must_try": "🍱 Sashimi don ($28)\n🦪 Deluxe uni don\n🍣 Tokyo boat ($68 for two)",
+        "tips": "Do not order one per person; cash gets 5% off; uni quality varies, the regular bowl is the better deal.",
+        "vibe": "Unfussy, reliable sushi spot for indecisive nights"
+      }
+    },
+    {
+      "id": "red-chili-steeles",
+      "code": "135",
+      "name": "Red Chili Chinese Restaurant",
+      "native_name": "红辣椒",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Grilled Fish in Maocai Broth & Red-Oil Maocai",
+      "description": "Steeles Avenue Chinese restaurant famous for grilled fish in maocai broth, spicy skewers and cheap set meals.",
+      "address": "4771 Steeles Ave E, Scarborough, ON M1V 4S5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/red-chili-steeles.webp",
+      "maps_url": "https://maps.google.com/?q=Red+Chili+Chinese+Restaurant+4771+Steeles+Ave+E+Scarborough",
+      "source_url": "https://www.facebook.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Numbing maocai broth over grilled fish, red-oil maocai and wok-fried dry pot plates",
+      "bullet_highlight": "Steeles Ave grilled-fish favourite with two-person sets that include fish, maocai and a stir-fry",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a62d219",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Steles上的烤鱼店，招牌冒菜口味烤鱼很惊艳，双人餐含烤鱼+冒菜+炒菜+避风塘大虾，性价比高。",
+        "must_try": "🐟 招牌冒菜烤鱼\n🥘 红油干拌冒菜\n🍤 避风塘大虾",
+        "tips": "能吃辣点正常辣，蒜香烤鱼有人踩雷；红油干拌冒菜建议小辣；双人餐$66很划算",
+        "vibe": "热闹的川味烤鱼馆，适合朋友聚餐喝一杯"
+      },
+      "highlights": [
+        "Grilled fish cooked in a numbing maocai broth on Steeles Ave E",
+        "Two-person set with fish, maocai, a stir-fry and fried shrimp"
+      ],
+      "name_zh": "红辣椒 Red Chili",
+      "description_zh": "Steles上的烤鱼店，招牌冒菜口味烤鱼是王牌，双人餐$66含烤鱼+冒菜+炒菜，能吃辣点正常辣。",
+      "highlights_zh": [
+        "Steles烤鱼名店，招牌冒菜口味",
+        "双人餐$66，烤鱼+冒菜+炒菜+大虾"
+      ],
+      "signature_dish_zh": "招牌冒菜口味烤鱼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Steeles Avenue grilled-fish favourite where the signature maocai broth wins people over.",
+        "must_try": "🐟 Grilled fish in maocai broth\n🥘 Red-oil maocai\n🍤 Typhoon-shelter fried shrimp",
+        "tips": "Order normal spice if you handle heat; the garlic version gets mixed reviews; the $66 set is the value.",
+        "vibe": "Lively Sichuan-style grill house for group dinners"
+      }
+    },
+    {
+      "id": "grilled-fish-spadina",
+      "code": "136",
+      "name": "Grilled Fish",
+      "native_name": "烤鱼",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Golden-Garlic Broth Grilled Mandarin Fish",
+      "description": "New Chinatown grilled-fish shop near Spadina with golden-garlic broth, tender mandarin fish and DIY dipping sauces.",
+      "address": "409 Spadina Ave, Toronto, ON M5T 2G6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/grilled-fish-spadina.webp",
+      "maps_url": "https://maps.google.com/?q=Grilled+Fish+409+Spadina+Ave+Toronto",
+      "source_url": "https://www.instagram.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Chinatown",
+      "walking_time_min": 5,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Crisp-skinned grilled fish in golden-garlic broth with taro braised pork and DIY sauce",
+      "bullet_highlight": "Budget-friendly new Chinatown grilled-fish spot steps from Spadina, with buy-one-get-one deals",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6aa725d6",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多大附近新开的烤鱼店，桂花鱼配金蒜锅底，鱼皮酥脆鱼肉嫩刺少，蘸料还能自己调。",
+        "must_try": "🐟 金蒜桂花鱼\n🥘 香芋扣肉\n🥬 自调蘸料",
+        "tips": "金蒜锅底最稳；旁边那个馍又香又软值得单点；常有买一送一活动",
+        "vibe": "唐人街新开小店，学生党和附近上班族都爱"
+      },
+      "highlights": [
+        "New grilled-fish shop on Spadina, near the U of T area",
+        "Golden-garlic broth with crisp-skinned mandarin fish and DIY dipping sauces"
+      ],
+      "name_zh": "Grilled Fish 烤鱼",
+      "description_zh": "多大附近新开烤鱼店，金蒜锅底桂花鱼皮酥肉嫩刺少，香芋扣肉和自调蘸料都值得点。",
+      "highlights_zh": [
+        "Spadina唐人街新烤鱼店，近多大",
+        "金蒜锅底+酥皮桂花鱼，性价比高"
+      ],
+      "signature_dish_zh": "金蒜锅底烤鱼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A new budget grilled-fish spot on Spadina serving mandarin fish in a golden-garlic broth.",
+        "must_try": "🐟 Golden-garlic mandarin fish\n🥘 Taro braised pork\n🥣 DIY dipping sauce",
+        "tips": "Stick with the golden-garlic base; the bread on the side is worth ordering alone; BOGO deals pop up.",
+        "vibe": "Casual new Chinatown spot popular with students"
+      }
+    },
+    {
+      "id": "the-brick-room-temperance",
+      "code": "137",
+      "name": "The Brick Room",
+      "native_name": "The Brick Room",
+      "type": "cafe",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "solo",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Ichigo Matcha & Seasonal Signature Drinks",
+      "description": "Downtown specialty coffee bar with seasonal signature drinks like Ichigo matcha, Noeul and salted-cream cold brew.",
+      "address": "9 Temperance St, Toronto, ON M5H 1Y6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/the-brick-room-temperance.webp",
+      "maps_url": "https://maps.google.com/?q=The+Brick+Room+9+Temperance+St+Toronto",
+      "source_url": "https://www.instagram.com/thebrickroomto/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Financial Core",
+      "walking_time_min": 7,
+      "portion_size": "light",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Layered signature drinks, strawberry-matcha lattes and salted-cream cold brews",
+      "bullet_highlight": "Pretty Temperance St coffee bar downtown, popular with office workers on break",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a6decb8",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "DT特调咖啡打卡第一站，signature菜单随季节换，Ichigo草莓抹茶和浓奶盖系列都在线，店员多是上班族。",
+        "must_try": "🍓 Ichigo 草莓抹茶\n🧋 Noeul 奶盖特调\n☕ 当季signature menu",
+        "tips": "Temperance店座位少且不能用电脑；Union Station负一层分店可以用电脑但光线一般；只能点一杯不然太撑",
+        "vibe": "漂亮的dt咖啡吧，附近上班族休息聊天的地方"
+      },
+      "highlights": [
+        "Seasonal signature drink menu in a pretty downtown coffee bar",
+        "Two locations, one by Temperance St and one under Union Station"
+      ],
+      "name_zh": "The Brick Room",
+      "description_zh": "DT特调咖啡吧，signature菜单随季节更新，草莓抹茶和奶盖特调好喝，有两家分店。",
+      "highlights_zh": [
+        "dt漂亮的特调咖啡吧，菜单随季节换",
+        "Temperance店+Union Station分店两家"
+      ],
+      "signature_dish_zh": "Ichigo草莓抹茶",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A downtown specialty coffee bar whose seasonal signature menu keeps regulars coming back.",
+        "must_try": "🍓 Ichigo strawberry matcha\n🧋 Noeul cream-top drink\n☕ Seasonal signature menu",
+        "tips": "The Temperance shop is small and laptop-free; the Union Station level below does allow laptops.",
+        "vibe": "Chic downtown cafe bar for an afternoon reset"
+      }
+    },
+    {
+      "id": "sumoki-yakitori-markham",
+      "code": "138",
+      "name": "Sumoki Yakitori",
+      "native_name": "Sumoki Yakitori and Bar",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Duck Liver Rice Bowl & Charcoal Yakitori Set",
+      "description": "Unionville Main Street yakitori and izakaya bar serving duck-liver rice bowls, charcoal skewers and craft cocktails.",
+      "address": "18 Fred Varley Dr, Unit 9, Markham, ON L3R 1S4",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/sumoki-yakitori-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Sumoki+Yakitori+18+Fred+Varley+Dr+Markham",
+      "source_url": "https://www.opentable.ca/r/sumoki-markham",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Charcoal yakitori, duck-liver donburi and tomato beer cocktails in a Unionville room",
+      "bullet_highlight": "Markham yakitori and izakaya bar where reviewers compare skewers to Tokyo and Osaka spots",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a406942",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "万锦Unionville的烧鸟居酒屋，鸭肝饭微焦爆油拌寿司饭一绝，炭火串和番茄啤酒也稳，人均约$50。",
+        "must_try": "🦆 Duck Liver Bowl\n🍢 Sumoki 炭火串拼盘\n🍙 烤饭团",
+        "tips": "人均约$50；Tsukune蛋黄蘸串是前菜首选；花椒番茄冷面夏天必点；店里可以讲中文",
+        "vibe": "舒服松弛的居酒屋，适合二人食和朋友聚"
+      },
+      "highlights": [
+        "Unionville yakitori and izakaya bar in Markham",
+        "Duck liver donburi and charcoal skewer sets draw repeat visits"
+      ],
+      "name_zh": "Sumoki Yakitori 烧鸟",
+      "description_zh": "万锦Unionville烧鸟居酒屋，鸭肝饭爆油拌饭一绝，炭火串拼盘和烤饭团都稳，人均约$50。",
+      "highlights_zh": [
+        "万锦Unionville烧鸟居酒屋",
+        "鸭肝饭+炭火串拼盘，人均约$50"
+      ],
+      "signature_dish_zh": "鸭肝饭与炭火串拼盘",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Markham izakaya known for a duck-liver rice bowl, charcoal skewers and a relaxed room.",
+        "must_try": "🦆 Duck liver don\n🍢 Sumoki skewer set\n🍙 Grilled rice ball",
+        "tips": "About $50 per person; start with the tsukune egg-yolk dip; the pepper tomato cold soba is a summer pick.",
+        "vibe": "Easygoing izakaya for date nights and small groups"
+      }
+    },
+    {
+      "id": "ki-ishi-izakaya-north-york",
+      "code": "139",
+      "name": "Ki-ishi Izakaya",
+      "native_name": "Ki-ishi 居酒屋",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Ankimo (Monkfish Liver) & Unagi Don",
+      "description": "Willowdale izakaya opened in 2026 serving ankimo, charcoal chicken skewers, unagi don and salted-egg pepper wings.",
+      "address": "5437 Yonge St, North York, ON M2N 5S3",
+      "hours_note": "Tue-Sun (opens 4:30 PM, check Google Maps)",
+      "image_url": "assets/images/ki-ishi-izakaya-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=Ki-ishi+Izakaya+5437+Yonge+St+North+York",
+      "source_url": "https://www.instagram.com/kiishi_izakaya/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Charcoal yakitori, ankimo, fresh unagi don and salted-egg pepper wings",
+      "bullet_highlight": "New Willowdale izakaya in the old Zhang Liang spot, opening to 4.5-star reviews fast",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a73b59b",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北约克Yonge街新开居酒屋，接手指张亮麻辣烫旧址，牛舌、鸡肉串、鳗鱼饭和鮟鱇鱼肝都不踩雷，Google 4.5分。",
+        "must_try": "🐟 Ankimo 鮟鱇鱼肝\n🍢 鸡肉串 / 牛舌\n🍱 鳗鱼饭",
+        "tips": "柚子胡椒猪颈肉几乎不辣但香气足；开业期有9折；不用现金；小店建议错峰",
+        "vibe": "安静温暖的新居酒屋，一个人吃或三五好友喝一杯都合适"
+      },
+      "highlights": [
+        "New Willowdale izakaya at 5437 Yonge St, rated 4.5 on Google",
+        "Ankimo, charcoal skewers and a fresh-tasting unagi don are the draws"
+      ],
+      "name_zh": "Ki-ishi Izakaya 居酒屋",
+      "description_zh": "北约克Yonge街新开居酒屋，鮟鱇鱼肝、炭火串和鳗鱼饭都不踩雷，Google 4.5分，适合约会小聚。",
+      "highlights_zh": [
+        "北约克新开居酒屋，Google 4.5分",
+        "鮟鱇鱼肝+炭火串+鳗鱼饭，出品稳"
+      ],
+      "signature_dish_zh": "鮟鱇鱼肝与鳗鱼饭",
+      "hours_note_zh": "周二至周日 16:30 起（请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A new North York izakaya that took over a Yonge Street storefront and earned 4.5 stars quickly.",
+        "must_try": "🐟 Ankimo\n🍢 Charcoal chicken skewers\n🍱 Unagi don",
+        "tips": "The citrus-pepper pork neck reads mild but fragrant; opening discounts were 10% off, no cash needed.",
+        "vibe": "Calm, warm new izakaya for solo dinners or a small group with drinks"
       }
     }
   ]
