@@ -5459,6 +5459,705 @@
         "tips": "Order two sauces (chimichurri & peppercorn) with the steak; wagyu XO fried rice is a must. Portions are generous—share.",
         "vibe": "Upscale chophouse for special occasions and date nights"
       }
+    },
+    {
+      "id": "clockwork-afternoon-tea",
+      "code": "105",
+      "name": "Clockwork",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Classic Afternoon Tea (scones, finger sandwiches, pastries)",
+      "description": "Art Deco lobby lounge at Fairmont Royal York across from Union Station, host of Toronto's classic afternoon tea on weekends.",
+      "address": "100 Front St W, Toronto, ON M5J 1E3",
+      "hours_note": "Sat-Sun afternoon tea seatings (check Google Maps for hours)",
+      "image_url": "assets/images/clockwork-afternoon-tea.webp",
+      "maps_url": "https://maps.google.com/?q=Clockwork+Fairmont+Royal+York+100+Front+St+W+Toronto",
+      "source_url": "https://www.clockworktoronto.com/afternoon-tea/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 8,
+      "portion_size": "light",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Fresh scones, finger sandwiches and tiered pastry towers in an Art Deco lobby",
+      "bullet_highlight": "Fairmont Royal York's iconic lobby lounge afternoon tea by the grand clock",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69cc6fbb000000001a0214a6",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Fairmont Royal York 大堂的Art Deco下午茶，周末才有的经典下午茶时光，正中心是新鲜出炉的scone。",
+        "must_try": "🫖 经典Afternoon Tea（scone+挞+三明治）\n🍰 手工甜点拼盘",
+        "tips": "下午茶只在周六日供应，建议提前预约；大堂还有现场音乐和威士忌",
+        "vibe": "酒店大堂钟楼下的Art Deco下午茶，复古而有派"
+      },
+      "highlights": [
+        "Art Deco lobby lounge at Fairmont Royal York across from Union Station",
+        "Weekend afternoon tea with fresh scones, sandwiches and a pastry tower"
+      ],
+      "name_zh": "Clockwork 下午茶",
+      "description_zh": "Fairmont Royal York 的大堂伦敦style下午茶lounge，Art Deco装潢标志性，周末 classic Afternoon Tea 是DT 下午闲情首选。",
+      "highlights_zh": [
+        "Fairmont Royal York 标志性大堂下午茶lounge",
+        "周末才有的经典下午茶，scone新鲜松软是招牌"
+      ],
+      "signature_dish_zh": "经典Afternoon Tea套餐",
+      "hours_note_zh": "周六至周日供应下午茶时段（具体以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Fairmont Royal York's Art Deco lobby lounge hosts Toronto's enduring classic weekend afternoon tea.",
+        "must_try": "🫖 Classic Afternoon Tea (scones + tarts + sandwiches)\n🍰 Handmade pastry platter",
+        "tips": "Afternoon tea runs Saturday and Sunday only; book ahead for a weekend seat.",
+        "vibe": "Elegantly nostalgic lobby tea lounge with live music and whisky"
+      }
+    },
+    {
+      "id": "aka-oni-ramen-izakaya-scarborough",
+      "code": "106",
+      "name": "AKA-ONI Ramen & Izakaya",
+      "native_name": "赤鬼",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Ramen & Izakaya Skewers / Sashimi",
+      "description": "Popular Scarborough izakaya with a massive sake selection, serving ramen, skewers, sashimi and sushi in Don Mills-ish Silver Star Blvd.",
+      "address": "633 Silver Star Blvd, Unit 108, Scarborough, ON M1V 5N1",
+      "hours_note": "Mon-Sun 11:30 AM - 3:30 PM / 5:00 PM - 11:30 PM",
+      "image_url": "assets/images/aka-oni-ramen-izakaya.webp",
+      "maps_url": "https://maps.google.com/?q=AKA-ONI+Ramen+Izakaya+633+Silver+Star+Blvd+Scarborough",
+      "source_url": "http://akaoni.ca/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Big bowl ramen, izakaya skewers and sashimi with Canada's biggest sake list",
+      "bullet_highlight": "Popular Scarborough izakaya chain with generous sake menus and ramen-izakaya combos",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a790e66000000003302d4f4",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "士嘉堡popular居酒屋，N刷不腻，每次点都有新惊喜，ramen和串烧刺身都过关，则藏的店里日本人很多。",
+        "must_try": "🍜 Ramen\n🍢 串烧 / Yakitori\n🍣 刺身",
+        "tips": "店里日本人多，高峰要排队；想喝日本酒的话选他们的sake list",
+        "vibe": "日式居酒屋雰囲気浓，适合朋友聚餐小酌"
+      },
+      "highlights": [
+        "Scarborough izakaya with big ramen bowls, skewers, sashimi and a huge sake list",
+        "Local Japanese-owned chain spot popular for izakaya dinners and late-night bites"
+      ],
+      "name_zh": "AKA-ONI 赤鬼居酒屋",
+      "description_zh": "士嘉堡受欢迎的日式居酒屋，ramen、串烧、刺身寿司一应俱全，sake selection在加拿大数一数二，适合聚餐喝一顿。",
+      "highlights_zh": [
+        "士嘉堡日式居酒屋，N刷不腻每店常满座",
+        "ramen+串烧+刺身+大量日本酒，是北边日料的稳妥选择"
+      ],
+      "signature_dish_zh": "Ramen与串烧",
+      "hours_note_zh": "周一至周日 11:30 - 15:30 / 17:00 - 23:30",
+      "review_notes_en": {
+        "summary": "Packed Scarborough izakaya offering ramen, skewers, sashimi and an impressive sake selection.",
+        "must_try": "🍜 Ramen\n🍢 Yakitori skewers\n🍣 Sashimi",
+        "tips": "Expect short waits at peak times; the sake list is the city's largest.",
+        "vibe": "Lively izakaya packed with Japanese customers and local fans alike"
+      }
+    },
+    {
+      "id": "tsuchi-cafe",
+      "code": "107",
+      "name": "Tsuchi Cafe",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegan",
+        "vegetarian"
+      ],
+      "mood": [
+        "healthy",
+        "light",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Plant-Based Japanese Sandwiches & Mochi Pastries",
+      "description": "Toronto's first Japanese plant-based cafe on College St, known for plant-based Japanese sandwiches, soups and mochi pastries since 2020.",
+      "address": "688 College St, Toronto, ON M6G 1C1",
+      "hours_note": "Mon-Sun 9:00 AM - 6:00 PM",
+      "image_url": "assets/images/tsuchi-cafe.webp",
+      "maps_url": "https://maps.google.com/?q=Tsuchi+Cafe+688+College+St+Toronto",
+      "source_url": "https://tsuchicafe.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 12,
+      "portion_size": "light",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [
+        "more-veggie",
+        "light-carb"
+      ],
+      "bullet_flavor": "Plant-based Japanese bento, sandwiches, mochi pastries and specialty coffee",
+      "bullet_highlight": "Toronto's first Japanese plant-based cafe on College St since 2020",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/697692540000000028020035",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "College街上多伦多第一家日式植物系cafe，三明治、汤和麻糬甜品都做得很地道，可以一个人来吃。",
+        "must_try": "🥪 植物系日式三明治\n🍡 麻糬甜品\n☕ 特调咖啡",
+        "tips": "厨房供餐时段是11am-3pm（周末到5:30pm），过了点就买不到热餐；纯植物系，素菜友好。",
+        "vibe": "小而清爽的日式cafe，适合一人带电脑或快取餐"
+      },
+      "highlights": [
+        "Toronto's first Japanese plant-based cafe on College St, open since 2020",
+        "Plant-based Japanese sandwiches, soups, mochi pastries and specialty coffee"
+      ],
+      "name_zh": "Tsuchi Cafe つち",
+      "description_zh": "College街上的日式植物系cafe，主打植物系日式三明治、汤、麻糬甜品与特调咖啡，多伦多首家。",
+      "highlights_zh": [
+        "多伦多第一家日式植物系cafe",
+        "植物系三明治+麻糬甜品，素菜友好可一人食"
+      ],
+      "signature_dish_zh": "植物系日式三明治与麻糬甜品",
+      "hours_note_zh": "周一至周日 9:00 - 18:00（厨房 11:00 - 15:00 / 周末至 17:30）",
+      "review_notes_en": {
+        "summary": "Toronto's first Japanese plant-based cafe on College St, serving plant-based bentos, sandwiches, mochi sweets and specialty coffee.",
+        "must_try": "🥪 Plant-based Japanese sandwich\n🍡 Mochi pastries\n☕ Specialty coffee",
+        "tips": "Kitchen is open 11am-3pm (until 5:30pm weekends). Ideal for a quick solo lunch or takeaway.",
+        "vibe": "Compact, serene Japanese cafe with vegan-friendly comfort"
+      }
+    },
+    {
+      "id": "kanae-cafe-scarborough",
+      "code": "108",
+      "name": "Kanae Café",
+      "native_name": "Kanaeかなえ",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Japanese Cream Choux with Pistachio & Ube",
+      "description": "Hokkaido-style crunchy Japanese cream choux cafe in Scarborough, known for pistachio cream cake, ube desserts and viral cream puffs.",
+      "address": "390 Silver Star Blvd, Toronto, ON M1V 0G5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/kanae-cafe.webp",
+      "maps_url": "https://maps.google.com/?q=Kanae+Cafe+390+Silver+Star+Blvd+Toronto",
+      "source_url": "https://www.kanaecafe.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Hokkaido-style crunchy Japanese choux with pistachio cream and ube flavours",
+      "bullet_highlight": "Toronto's trendy Japanese choux-cream dessert cafe with pistachio cake & ube sweets",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6931bb36000000001e02e5e8",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "士嘉堡的日式可可酥甜品cafe，主打北海道风脆壳奶油泡芙，开心果蛋糕、紫薯甜品都是招牌。",
+        "must_try": "💚 开心果蛋糕\n💜 紫薯甜品\n🥐 日式可可酥",
+        "tips": "店主曾赴日本进修烘焙，奶油泡芙爆浆，口碑一路高；建议点开心果+紫薯组合",
+        "vibe": "小而精致的日式甜品店，适合下午茶打卡"
+      },
+      "highlights": [
+        "Hokkaido-style choux cream cafe in Scarborough with pistachio cream and ube desserts",
+        "Toronto foodies rave about the cream-bomb choux and popular pistachio cake"
+      ],
+      "name_zh": "Kanae Caféかなえ",
+      "description_zh": "士嘉堡的日式choux奶油泡芙cafe，主打北海道风脆壳爆浆奶油泡芙，开心果蛋糕和紫薯甜品是招牌。",
+      "highlights_zh": [
+        "士嘉堡日式奶油泡芙小店，店主曾赴日本进修",
+        "开心果蛋糕+紫薯甜品，爆浆奶油泡芙是爆款"
+      ],
+      "signature_dish_zh": "日式可可酥与开心果蛋糕",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Scarborough cafe specializing in Hokkaido-style crunchy cream choux with pistachio cream and ube, a hidden Yorkville-style dessert find.",
+        "must_try": "💚 Pistachio cake\n💜 Ube dessert\n🥐 Japanese cream choux",
+        "tips": "Founder trained in Japan; choux cream is bursting and crunchy. Pistachio and ube are must-orders.",
+        "vibe": "Small, pretty, Japanese-at-its-core dessert cafe for a calm afternoon break"
+      }
+    },
+    {
+      "id": "sweet-tale-markham",
+      "code": "109",
+      "name": "Sweet Tale 甜觅",
+      "native_name": "甜觅",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "takeout",
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Chinese Dessert (甜觅大满贯 / Super Bowl & Mango Coconut Jelly)",
+      "description": "New Markham Chinese dessert shop (sweet tale甜觅), viral for affordable mango-and-coconut jelly, Super Bowl dessert bowls and pistachio treats.",
+      "address": "8362 Kennedy Rd, Unit 7, Markham, ON L3R 9W5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/sweet-tale-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Sweet+Tale+8362+Kennedy+Rd+Markham",
+      "source_url": "https://www.rednote.com/discovery/item/6899538e00000000030277a7",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Not-too-sweet Chinese mango and coconut jellies, dessert super bowls and pistachio sweets",
+      "bullet_highlight": "New viral Chinese dessert shop in Markham (sweet tale甜觅), must-try for dessert lovers",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6899538e00000000030277a7",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "万锦Kennedy路甜觅新店，中式甜品不甜腻，芒果椰汁冻、Super Bowl $8.99和开心果甜品都值得打卡。",
+        "must_try": "🍨 Super Bowl $8.99\n🥭 芒果椰汁冻\n🥮 开心果甜品",
+        "tips": "甜品不会太甜，适合怕腻的人；紧邻New Kennedy Square，可以和朋友拼着打卡",
+        "vibe": "新开的中式甜品店，价格友好，适合饭后找甜口"
+      },
+      "highlights": [
+        "New Markham Chinese dessert shop with affordable dessert bowls and pistachio sweets",
+        "Mango coconut jelly and Super Bowl desserts are crowd favourites, not too sweet"
+      ],
+      "name_zh": "Sweet Tale 甜觅",
+      "description_zh": "万锦Markham最新开的甜品店甜觅，中式甜品不齁甜，Super Bowl $8.99和芒果椰汁冻是种草爆款。",
+      "highlights_zh": [
+        "万锦Kennedy路新开甜品店，甜品不齁甜很友好",
+        "Super Bowl $8.99 + 芒果椰汁冻，性价比超高"
+      ],
+      "signature_dish_zh": "Super Bowl与芒果椰汁冻",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "New Markham Chinese-style dessert shop offering not-too-sweet treats including super bowl desserts and pistachio options.",
+        "must_try": "🍨 Super Bowl ($8.99)\n🥭 Mango coconut jelly\n🥮 Pistachio desserts",
+        "tips": "Desserts are pleasantly not-too-sweet; grab a super bowl to share and pistachio treats to try.",
+        "vibe": "Bright, Instagram-friendly new dessert joint in Markham"
+      }
+    },
+    {
+      "id": "neo-coffee-bar-scarborough",
+      "code": "110",
+      "name": "Neo Coffee Bar",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Choux Puff & Seasonal Japanese Pastries with Specialty Coffee",
+      "description": "High-quality Scarborough cafe serving chouquette, Swiss rolls, mochi desserts and seasonal cream sweets alongside specialty coffee.",
+      "address": "3272 Midland Ave, Unit B115, Scarborough, ON M1V 0C6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/neo-coffee-bar.webp",
+      "maps_url": "https://maps.google.com/?q=Neo+Coffee+Bar+3272+Midland+Ave+Scarborough",
+      "source_url": "https://www.instagram.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Chouquette, Swiss rolls, mochi desserts and seasonal cream pastries at a dessert cafe",
+      "bullet_highlight": "Quality Scarborough dessert cafe with choux puffs, mochi sweets and seasonal cream treats",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68f7c270000000000301152d",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "士嘉堡系的高质感cafe，供应泡芙石英脆、瑞士卷、麻糬甜品及当季奶油甜点，是北边甜品新宠。",
+        "must_try": "🥐 泡芙 / Choux\n🍡 麻糬甜品\n🍫 当季奶油甜点",
+        "tips": "甜品都是现做或新鲜供应，适合下午茶搭杯咖啡",
+        "vibe": "北边安静的日式风小cafe，适合一个人发呆"
+      },
+      "highlights": [
+        "Quality Scarborough cafe with choux puffs, Swiss rolls, mochi desserts and seasonal cream treats",
+        "Specialty coffee and Japanese-influenced sweets for a quiet afternoon tea"
+      ],
+      "name_zh": "Neo Coffee Bar",
+      "description_zh": "士嘉堡的高质感cafe，主打泡芙、瑞士卷、麻糬甜品与当季奶油甜点，搭配特调咖啡，是北边日式甜品首选。",
+      "highlights_zh": [
+        "士嘉堡质感cafe，泡芙+麻糬甜品是爆款",
+        "当季奶油甜点+特调咖啡，适合下午茶"
+      ],
+      "signature_dish_zh": "泡芙与麻糬甜品",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Polished Scarborough cafe known for choux puffs, Swiss rolls, mochi desserts and seasonal cream pastries alongside specialty coffee.",
+        "must_try": "🥐 Choux puff\n🍡 Mochi desserts\n🍫 Seasonal cream pastry",
+        "tips": "Pastries are made fresh; an afternoon coffee break pairs well with the choux and mochi.",
+        "vibe": "Calm, indie dessert cafe with a loyal Scarborough following"
+      }
+    },
+    {
+      "id": "savorology-artisan-bakery",
+      "code": "111",
+      "name": "Savorology Artisan Bakery",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Artisan Baked Goods & Cakes",
+      "description": "Quaint Scarborough artisan bakery on Sheppard Ave E specializing in handmade baked goods, cakes and traditional techniques, GTA-wide delivery.",
+      "address": "4271 Sheppard Ave E, Scarborough, ON M1S 4G4",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/savorology-artisan-bakery.webp",
+      "maps_url": "https://maps.google.com/?q=Savorology+Artisan+Bakery+4271+Sheppard+Ave+E+Scarborough",
+      "source_url": "https://www.savorology.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Handmade artisan cakes, pastries and baked goods made with quality ingredients",
+      "bullet_highlight": "Scarborough artisan bakery known for handmade baked goods and traditional techniques",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/696403f8000000001a02864c",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Sheppard东边的小artisan bakery，手工烘焙蛋糕和点心做工扎实，品质材料，是北边甜品供应点。",
+        "must_try": "🎂 手工蛋糕\n🥨 artisan西点",
+        "tips": "主打手工烘焙，到点就开车来抢，适合周末出游囤蛋糕",
+        "vibe": "小而温馨的artisan bakery，适合宅家囤货"
+      },
+      "highlights": [
+        "Scarborough artisan bakery known for handmade cakes, pastries and traditional techniques",
+        "Quality ingredients and GTA-wide delivery for handmade baked goods"
+      ],
+      "name_zh": "Savorology Artisan Bakery",
+      "description_zh": "士嘉堡的手工artisan bakery，主打蛋糕、西点与烘焙，品质材料+传统工艺，是北边甜品控囤货点。",
+      "highlights_zh": [
+        "士嘉堡artisan烘焙坊，手工蛋糕品质稳定",
+        "GTA配送方便，适合野餐囤甜品"
+      ],
+      "signature_dish_zh": "手工蛋糕与artisan西点",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Quaint Scarborough artisan bakery focused on handmade cakes, pastries and traditional techniques with GTA delivery.",
+        "must_try": "🎂 Handmade cakes\n🥨 Artisan pastries",
+        "tips": "Handmade and ingredient-focused; weekends get busy, so call ahead for big orders.",
+        "vibe": "Small, warm artisan bakery for takeaway sweets"
+      }
+    },
+    {
+      "id": "shahi-manjil-north-york",
+      "code": "112",
+      "name": "Shahi Manjil",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Indian",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "halal"
+      ],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Mughlai & North Indian Classics (Lucknow & Delhi traditions)",
+      "description": "Upscale North Indian and Mughlai on Victoria Park Ave, North York, with royal curries and ornate decor.",
+      "address": "3820 Victoria Park Ave, North York, ON M2H 3H7",
+      "hours_note": "Mon-Thu 11:30 AM - 11:00 PM, Fri-Sat 11:30 AM - 11:30 PM, Sun 11:30 AM - 11:00 PM",
+      "image_url": "assets/images/shahi-manjil-north-york.webp",
+      "maps_url": "https://maps.google.com/?q=Shahi+Manjil+3820+Victoria+Park+Ave+North+York",
+      "source_url": "https://shahimanjil.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Royal Mughlai & North Indian curries with Lucknow/Delhi spice traditions",
+      "bullet_highlight": "Upscale North Indian restaurant in North York with Indian regal estates-inspired decor",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a3077220000000007021be6",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Victoria Park的高级印度餐厅，Lucknow/Delhi王室风味，装潢有印度庄园感，正宗适合正式的北印度餐。",
+        "must_try": "🍛 Mughlai烤肉与咖喱\n🪔 正宗北印度经典",
+        "tips": "装潢雍容优雅，适合重要场合；北印度curry味正宗",
+        "vibe": "印度庄园风的高级北印度餐厅，适合正式聚餐"
+      },
+      "highlights": [
+        "Upscale North Indian/Mughlai dining on Victoria Park Ave with royal Indian estates decor",
+        "Lucknow and Delhi regional curries in an ornate, chandeliered dining room"
+      ],
+      "name_zh": "Shahi Manjil",
+      "description_zh": "Victoria Park路藏着的高级北印度/Mughlai餐厅，主打Lucknow & Delhi王室风味，装潢富丽，正适合重要场合。",
+      "highlights_zh": [
+        "北约克高级北印度/Mughlai餐厅",
+        "王室庄园风装潢，咖喱正宗，适合正式聚餐"
+      ],
+      "signature_dish_zh": "Mughlai 北印度咖喱",
+      "hours_note_zh": "周一至周四 11:30 - 23:00，周五至周六 11:30 - 23:30，周日 11:30 - 23:00",
+      "review_notes_en": {
+        "summary": "Upscale North Indian and Mughlai restaurant on Victoria Park Ave with royal Indian decor and Lucknow/Delhi regional specialties.",
+        "must_try": "🍛 Mughlai curries and kebabs\n🪔 Signature North Indian classics",
+        "tips": "Feels special-occasion worthy; the curries are rich and authentic.",
+        "vibe": "Opulent Indian-estate dining room, ideal for a hosted celebration"
+      }
+    },
+    {
+      "id": "bar-koukla-ossington",
+      "code": "113",
+      "name": "Bar Koukla",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Modern Aegean Greek Meze & Raw Seafood Bar",
+      "description": "Ossington-strip modern Greek mezedopolio with meze plates, raw seafood, natural wine list and Athenian-inspired cocktails.",
+      "address": "88 Ossington Ave, Unit 2, Toronto, ON M6J 2Z4",
+      "hours_note": "Tue-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/bar-koukla-ossington.webp",
+      "maps_url": "https://maps.google.com/?q=Bar+Koukla+88+Ossington+Ave+Toronto",
+      "source_url": "https://mamakas.ca/locations/bar-koukla/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 7,
+      "portion_size": "light",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Modern Aegean Greek meze, raw seafood bar and natural wine list",
+      "bullet_highlight": "Ossington-strip mezedopolio blending traditional Greek meze with a contemporary mezedopolio",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6ab9d4f20000000015000340",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Ossington街的现代希腊meze，分量迷你的小份sharing板，适合brunch和date night，raw seafood bar和natural wine list。",
+        "must_try": "🦑 海鲜mezze小份\n🍸 雅典风鸡尾酒",
+        "tips": "分量偏小但迷你精致，适合两人小酌；cheese/海鲜盘适合多人分享",
+        "vibe": "Ossington strip上小巧的现代希腊小馆，适合brunch或date night"
+      },
+      "highlights": [
+        "Modern Aegean Greek mezedopolio on the Ossington strip with meze plates and a raw seafood bar",
+        "Athenian-inspired cocktails, natural wines and small meze plates for sharing"
+      ],
+      "name_zh": "Bar Koukla 希腊小馆",
+      "description_zh": "Ossington strip上的现代希腊meze馆，招牌海鲜mezze、raw seafood bar与雅典风鸡尾酒，分量迷你但很有氛围。",
+      "highlights_zh": [
+        "Ossington上的现代希腊小馆</），分量迷你但很出片",
+        "海鲜mezze + raw seafood bar + 雅典风cocktail，适合约会或brunch"
+      ],
+      "signature_dish_zh": "海鲜Mezze与Raw Seafood Bar",
+      "hours_note_zh": "周二至周日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Cozy modern Greek mezedopolio on Ossington with small-plate meze, raw seafood and Greek-inspired cocktails.",
+        "must_try": "🦑 Seafood meze\n🍸 Athenian cocktails",
+        "tips": "Portions are small by nature—order a spread to share. Natural wine list and brunch seating near Trinity Bellwoods.",
+        "vibe": "Intimate, contemporary Greek snack-bar for small plates and wine"
+      }
+    },
+    {
+      "id": "writers-room-afternoon-tea",
+      "code": "114",
+      "name": "Writers Room Bar",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Afternoon Tea (house-made sweet & savoury bites)",
+      "description": "Park Hyatt Toronto's 17th-floor Writers Room Bar, known for city-view afternoon tea and a Champagne & Caviar Ritual in Yorkville.",
+      "address": "4 Avenue Rd, 17th Floor, Toronto, ON M5R 2E9",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/writers-room-afternoon-tea.webp",
+      "maps_url": "https://maps.google.com/?q=Writers+Room+Bar+Park+Hyatt+Toronto+4+Avenue+Rd",
+      "source_url": "https://www.hyatt.com/park-hyatt/en-US/torph-park-hyatt-toronto/dining/writers-room-bar",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "House-made afternoon tea with sweet and savoury bites and premium teas",
+      "bullet_highlight": "17th-floor Park Hyatt bar in Yorkville with a city-view afternoon tea and Champagne & Caviar Ritual",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6abff600000000001203662c",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Park Hyatt 17楼 Writers Room Bar 的下午茶，忙碌的Yorkville，Mordecai Richler也曾为座上宾，甜品和咸点一起上。",
+        "must_try": "🫖 Afternoon Tea\n🥂 Champagne & Caviar Ritual",
+        "tips": "下午茶 $85/pp，自定义图案可以写给朋友；想安静可以选阳光下午茶时段",
+        "vibe": "17楼高空bar，俯瞰Yorkville，适合生日纪念或写作下午茶"
+      },
+      "highlights": [
+        "17th-floor Park Hyatt bar in Yorkville with a city-view afternoon tea experience",
+        "House-made sweet and savoury afternoon tea bites with premium loose-leaf teas"
+      ],
+      "name_zh": "Writers Room 下午茶",
+      "description_zh": "Park Hyatt 17楼 Writers Room Bar，Yorkville高空bar，招牌 Afternoon Tea + Champagne & Caviar Ritual，眺望City View。",
+      "highlights_zh": [
+        "Park Hyatt 17楼高空下午茶bar，Yorkville俯瞰城市",
+        "招牌Afternoon Tea $85/pp，自定义图案可以送给朋友"
+      ],
+      "signature_dish_zh": "Afternoon Tea 套餐",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Park Hyatt Toronto's 17th-floor Writers Room Bar offers afternoon tea with city views, appointed for celebrations and dates.",
+        "must_try": "🫖 Afternoon Tea\n🥂 Champagne & Caviar Ritual",
+        "tips": "Afternoon tea is $85/pp; you can personalize the look for a friend. A good pick for date nights.",
+        "vibe": "Elevated Yorkville hotel bar with a timeless writers' lounge atmosphere"
+      }
     }
   ]
 }
