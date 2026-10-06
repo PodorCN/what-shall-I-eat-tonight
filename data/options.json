@@ -4254,6 +4254,356 @@
         "tips": "Busy but never cramped; order one of the signature cocktails like Zavatar (smoky bubble) or Plum Seika (flamed) for full theatre.",
         "vibe": "Slick, green-accented date-night dining room with buzzy but relaxed energy"
       }
+    },
+    {
+      "id": "wanaag-restaurant-parliament",
+      "code": "088",
+      "name": "Wanaag Restaurant",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "halal"
+      ],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Lamb Rice (Luqmaister-style Somali lamb platter)",
+      "description": "Authentic halal Somali grill spot on Parliament St with generous lamb rice platters, aromatic spice rice and cozy dining.",
+      "address": "224 Parliament St, Toronto, ON M5A 3A4",
+      "hours_note": "Daily 11:00 AM - 10:00 PM",
+      "image_url": "assets/images/wanaag-restaurant-parliament.webp",
+      "maps_url": "https://maps.google.com/?q=Wanaag+Restaurant+224+Parliament+St+Toronto",
+      "source_url": "https://wanaag.ca/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 10,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Aromatic Somali-style spice rice piled with fall-off-the-bone lamb",
+      "bullet_highlight": "Halal Somali grill serving famous, generous lamb rice platters",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a924b9e000000002003122b",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Parliament街的索马里餐馆，清真，羊排饭是明星，分量大、香料饭入味，一口秒变dt人。",
+        "must_try": "🐑 羊排饭 / Lamb Rice\n🍚 香料米饭 / Biskut-spiced rice",
+        "tips": "人均20刀出头能吃很好；羊排入味，推荐直接点lamb rice试水。",
+        "vibe": "温馨平价的索马里馆子，适合一两个人慢慢吃"
+      },
+      "highlights": [
+        "Parliament St halal Somali grill with fragrant spice rice and generous lamb",
+        "Signature lamb rice platter draws queues from across downtown Toronto"
+      ],
+      "name_zh": "Wanaag 索马里馆",
+      "description_zh": "Parliament街地道清真索马里馆，主打香料米饭与大份羊排饭，性价比高，是dt人心里的小众宝藏。",
+      "highlights_zh": [
+        "dt Parliament街的清真索马里馆，人气很高",
+        "招牌羊排饭分量足、香料香浓，人均约20刀"
+      ],
+      "signature_dish_zh": "羊排饭",
+      "hours_note_zh": "每日 11:00 - 22:00",
+      "review_notes_en": {
+        "summary": "Cozy Parliament St halal Somali eatery famous for aromatic spice rice and hearty lamb platters.",
+        "must_try": "🐑 Lamb Rice platter\n🍚 Fragrant Somali spice rice",
+        "tips": "Around $20 per person gets you a very satisfying meal; the lamb is tender and flavorful.",
+        "vibe": "Warm, budget-friendly Somali spot, great for a relaxed lunch"
+      }
+    },
+    {
+      "id": "hanson-mandu-scarborough",
+      "code": "089",
+      "name": "Hanson Mandu",
+      "native_name": "한손만두",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Handmade Dumplings (Mandu) & Beef Kalguksu",
+      "description": "Scarborough Korean comfort spot popular for handmade jumbo mandu, fiery jjamppong and slow-simmered gamjatang hot pot.",
+      "address": "3330 Pharmacy Ave, Scarborough, ON M1W 3V8",
+      "hours_note": "Tue-Sun 11:30 AM - 9:00 PM",
+      "image_url": "assets/images/hanson-mandu-scarborough.webp",
+      "maps_url": "https://maps.google.com/?q=Hanson+Mandu+3330+Pharmacy+Ave+Scarborough",
+      "source_url": "https://www.streetsoftoronto.com/street-eats/hansonmandu/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-veggie",
+        "spicy"
+      ],
+      "bullet_flavor": "Handmade dumplings, rich beef kalguksu and fiery seafood jjamppong",
+      "bullet_highlight": "Scarborough Korean comfort food with daily fresh handmade mandu",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a8dbda20000000021027813",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "士嘉堡人气韩餐馆，手工饺子、刀削面、泡菜汤锅一条龙，午市特价很划算，排队也值。",
+        "must_try": "🥟 手包大王饺 / Handmade Jumbo Mandu\n🍜 牛肉刀削面 / Beef Kalguksu\n🍲 辣海鲜炸酱面 / Jjamppong",
+        "tips": "午市特价lunch special划算；店里可堂食可打包，可刷​​银联；停车场充足。",
+        "vibe": "热闹的士嘉堡韩餐，朋友来多人聚餐都合适"
+      },
+      "highlights": [
+        "Scarborough Korean comfort spot with daily handmade jumbo mandu",
+        "Beef kalguksu, fiery jjamppong and gamjatang hot pot anchor the menu"
+      ],
+      "name_zh": "Hanson Mandu 韩餐馆",
+      "description_zh": "士嘉堡人气韩餐馆，主打每日手工大颗饺子、牛肉刀削面与辣海鲜炸酱面子，午市特价性价比高。",
+      "highlights_zh": [
+        "士嘉堡人气韩餐馆，午市特价实惠",
+        "招牌每日手工大颗饺子，刀削面与炸酱面都值得点"
+      ],
+      "signature_dish_zh": "手工大颗饺子与牛肉刀削面",
+      "hours_note_zh": "周二至周日 11:30 - 21:00",
+      "review_notes_en": {
+        "summary": "Popular Scarborough Korean eatery known for daily handmade dumplings, rich noodle soups and steamy hot pots.",
+        "must_try": "🥟 Handmade Jumbo Mandu\n🍜 Beef Kalguksu\n🍲 Fiery Seafood Jjamppong",
+        "tips": "Look out for the lunch special deals; ample parking in the plaza; dine-in and takeout both easy.",
+        "vibe": "Buzzy, casual Korean comfort-food crowd, good for small groups"
+      }
+    },
+    {
+      "id": "trio-pastry-cafe-unionville",
+      "code": "090",
+      "name": "Trio Pastry Cafe",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "French-style Pastry & Signature Croissant",
+      "description": "Cute Unionville patisserie cafe serving fresh French-style pastries, specialty coffee and Instagram-worthy sweet treats.",
+      "address": "147A Main Street Unionville, ON",
+      "hours_note": "Thu-Sun 9:30 AM - 7:00 PM",
+      "image_url": "assets/images/trio-pastry-cafe-unionville.webp",
+      "maps_url": "https://maps.google.com/?q=Trio+Pastry+Cafe+147A+Main+Street+Unionville",
+      "source_url": "https://triopastrycafe.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Buttery fresh French-style pastries and flaky croissants",
+      "bullet_highlight": "New Unionville patisserie cafe with photogenic French-style sweets",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a63b8ad000000000301c2f3",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Unionville新开的法式甜品cafe，地中海风装潢超出片，甜品爆表，适合朋友聚会逛完来歇歇。",
+        "must_try": "🥐 经典牛角包\n🍰 当日法甜拼盘",
+        "tips": "只营业周四至周日，中午9:30开到晚上7点；人开始多了，周末来早点。",
+        "vibe": "明亮的地中海风cafe，氛围感很好"
+      },
+      "highlights": [
+        "New Unionville cafe-patisserie with Mediterranean-style decor worth an Nth visit",
+        "Fresh French-style pastries and flaky croissants baked for dessert runs"
+      ],
+      "name_zh": "Trio Pastry Cafe 法甜馆",
+      "description_zh": "Unionville新开的法式甜品咖啡馆，地中海风装潢出片，招牌是法式可颂与当日现做甜品。",
+      "highlights_zh": [
+        "Unionville值得反复去的法甜cafe",
+        "现做可颂与现做法式甜品，装潢风格很出片"
+      ],
+      "signature_dish_zh": "法式可颂与当日现做甜品",
+      "hours_note_zh": "周四至周日 9:30 - 19:00",
+      "review_notes_en": {
+        "summary": "Trendy new patisserie cafe in Unionville with Mediterranean-style decor and consistently good French pastries.",
+        "must_try": "🥐 Classic croissant\n🍰 Daily assorted French pastries",
+        "tips": "Open Thu-Sun only, 9:30am-7pm; arrive early on weekends as lines are forming.",
+        "vibe": "Bright, photogenic cafe with a relaxed sweet-treat atmosphere"
+      }
+    },
+    {
+      "id": "la-salumeria-midtown",
+      "code": "091",
+      "name": "La Salumeria",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "takeout",
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Italian Submarine Sandwich (Prosciutto & Veal)",
+      "description": "Heritage Yonge & Eglinton Italian deli and sandwich counter, slicing prosciutto and stacking sublime Italian subs since 1984.",
+      "address": "2021 Yonge St, Toronto, ON M4S 2A2",
+      "hours_note": "Tue-Sun 9:00 AM - 6:00 PM",
+      "image_url": "assets/images/la-salumeria-midtown.webp",
+      "maps_url": "https://maps.google.com/?q=La+Salumeria+2021+Yonge+St+Toronto",
+      "source_url": "https://dimhour.com/toronto/v/la-salumeria/",
+      "unverified": [],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Slow-piled Italian cold cuts, veal and prosciutto on crusty sub rolls",
+      "bullet_highlight": "Beloved Yonge & Eglinton Italian deli sandwich institution since 1984",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a048ec3000000003701d654",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Yonge & Eglinton老牌意大利三明治店，1984年开业，一口就镇住，午饭选它不会后悔。",
+        "must_try": "🥪 意大利三明治 / Italian Submarine Sandwich\n🥩 小牛肉三明治 / Veal Sandwich",
+        "tips": "主要是外带/快餐式吃法，午饭前来排队人多；三明治夹料足，适合两人一起分享一份大包。",
+        "vibe": "老字号意大利deli，简单快捷但味道极扎实"
+      },
+      "highlights": [
+        "Loved Yonge & Eglinton Italian deli sandwiches since 1984",
+        "Flavor-packed prosciutto and veal subs on crusty, carb-loaded rolls"
+      ],
+      "name_zh": "La Salumeria 意大利三明治",
+      "description_zh": "Yonge & Eglinton开业40多年的老牌意大利deli，以prosciutto、veal与意式三明治别具一格，午饭外带圣地。",
+      "highlights_zh": [
+        "Yonge & Eglinton老字号意大利deli，自1984年开业",
+        "一口即封神的意式三明治，肉夹得足，午饭外带首选"
+      ],
+      "signature_dish_zh": "意式三明治（Prosciutto / Veal）",
+      "hours_note_zh": "周二至周日 9:00 - 18:00",
+      "review_notes_en": {
+        "summary": "Long-standing midtown Italian deli-sandwich counter beloved for crusty, overstuffed Italian subs.",
+        "must_try": "🥪 Italian submarine sandwich\n🥩 Veal sandwich",
+        "tips": "Primarily takeout; lines build around lunch. Sandwiches are hearty enough to share.",
+        "vibe": "No-frills heritage deli counter, quick and satisfying"
+      }
+    },
+    {
+      "id": "lost-in-tokyo-queen-west",
+      "code": "092",
+      "name": "Lost in Tokyo",
+      "native_name": "ロスト・イン・トーキョー",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Japanese Parfait & Matcha Dessert",
+      "description": "Retro Showa-era Japanese cafe on Queen West, famous for Japanese parfaits, matcha gelato and a nostalgic Tokyo back-alley vibe.",
+      "address": "636 Queen St W, Toronto, ON M6J 1E4",
+      "hours_note": "Mon-Wed 1:00 PM - 7:00 PM, Thu-Fri 1:00 PM - 6:00 PM, Sat-Sun 11:00 AM - 6:00 PM",
+      "image_url": "assets/images/lost-in-tokyo-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Lost+in+Tokyo+636+Queen+St+W+Toronto",
+      "source_url": "https://lostintokyo.online/tokyo",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 12,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Layered Japanese parfaits, matcha gelato and nostalgic melon soda",
+      "bullet_highlight": "Toronto's first specialty Japanese parfait cafe with a Showa-era Tokyo vibe",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a794f550000000025002f86",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen West的昭和风日式小店，主打日式可尔比特/刨冰，适合小酌或甜品下午茶，打卡效果很好。",
+        "must_try": "🍓 日式甜品拼盘 Parfait\n🍵 抹茶甜品 / Matcha dessert",
+        "tips": "Mon-Wed 1-7pm, Thu-Fri 1-6pm, Sat-Sun 11am-6pm；旺时要排队，可预约。",
+        "vibe": "昭和复古日式小店，出片的甜品下午茶据点"
+      },
+      "highlights": [
+        "Queen West retro Japanese cafe with nostalgic Showa-era Tokyo atmosphere",
+        "Specialty Japanese parfaits, matcha gelato and melon soda for the perfect dessert stop"
+      ],
+      "name_zh": "Lost in Tokyo 刨冰日式甜品",
+      "description_zh": "Queen West昭和風日式甜品咖啡廳，主打日式可爾必斯/刨冰、抹茶甜品，是多伦多打卡日式下午茶的排队小店。",
+      "highlights_zh": [
+        "Queen West昭和复古风日式小店，打卡感直接拉满",
+        "招牌可尔比特/刨冰与抹茶甜品，约会下午茶首选"
+      ],
+      "signature_dish_zh": "经典刨冰与抹茶甜品",
+      "hours_note_zh": "周一至周三 13:00 - 19:00，周四至周五 13:00 - 18:00，周末 11:00 - 18:00",
+      "review_notes_en": {
+        "summary": "Showa-style Japanese dessert cafe on Queen West with a nostalgic back-alley atmosphere and photogenic plating.",
+        "must_try": "🍓 Japanese parfait / shaved ice\n🍵 Matcha dessert",
+        "tips": "Mon-Wed 1-7pm, Thu-Fri 1-6pm, Sat-Sun 11am-6pm. Expect short waits at peak times; reservations helpful.",
+        "vibe": "Cozy retro Japanese cafe with strong aesthetic, ideal for dessert and cocktails"
+      }
     }
   ]
 }
