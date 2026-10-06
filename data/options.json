@@ -5244,6 +5244,221 @@
         "tips": "Book ahead for weekends; private rooms and large tables available for birthdays.",
         "vibe": "Lush, photogenic Portuguese dining room with upbeat date-night energy"
       }
+    },
+    {
+      "id": "pho-bun-bun-markham",
+      "code": "102",
+      "name": "Pho Bun Bun",
+      "native_name": "Phở Bún Bún",
+      "type": "restaurant",
+      "cuisine": "Vietnamese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Hainan Chicken Rice (去骨鸡上腿肉)",
+      "description": "Markham Vietnamese spot on Kennedy Rd offering higher-than-average pho, Hue-style noodles and a viral-value Hainan chicken rice.",
+      "address": "7750 Kennedy Rd, Unit 7b, Markham, ON L3R 0A7",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/pho-bun-bun-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Pho+Bun+Bun+7750+Kennedy+Rd+Markham",
+      "source_url": "https://www.rednote.com/discovery/item/69f434c7000000001002d001",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Tender deboned chicken thigh with turmeric rice and ginger-chili sauces",
+      "bullet_highlight": "Threads-viral Hainan chicken rice and higher-grade Vietnamese noodles in Markham",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69f434c7000000001002d001",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Kennedy路上Vietnamese档，越南粉和顺化粉水准偏上，最近Threads爆红海南鸡饭$15.95大份划算。",
+        "must_try": "🐔 海南鸡饭\n🥩 炭烧薄切猪柳\n🍢 串烧牛",
+        "tips": "菜单上没有直接写海南鸡饭，看门口Happy Hour海报或直接问；姜黄饭略干可拌鸡汤；炭烧猪柳很入味。",
+        "vibe": "Markham平价Vietnamese，适合日常小聚"
+      },
+      "highlights": [
+        "Kennedy Rd Vietnamese spot whose Hainan chicken rice went viral on Threads",
+        "Deboned chicken thigh, turmeric rice and ginger-chili dipping sauces, fresh mango salad"
+      ],
+      "name_zh": "Pho Bun Bun 越南餐厅",
+      "description_zh": "Kennedy路上越南菜馆，海南鸡饭$15.95在Threads刷屏，去骨鸡腿肉+姜黄饭+酸芒果沙拉，性价比高。",
+      "highlights_zh": [
+        "Threads爆款海南鸡饭，越南粉品质也越级",
+        "一份$15.95，划算到不行，适合两人份拼餐"
+      ],
+      "signature_dish_zh": "海南鸡饭",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Higher-than-average Vietnamese restaurant on Kennedy Rd in Markham, recently viral on Threads for its value Hainan chicken rice.",
+        "must_try": "🐔 Hainan Chicken Rice\n🥩 Charcoal-Grilled Thin-Sliced Pork\n🍢 Beef Skewers",
+        "tips": "Hainan chicken rice isn't printed on the menu—check the door Happy Hour poster or ask. The turmeric rice can run dry; mix in chicken soup.",
+        "vibe": "Casual, budget-friendly Vietnamese joint in Markham"
+      }
+    },
+    {
+      "id": "miss-qu-claypot-unionville",
+      "code": "103",
+      "name": "MISS QU CLAYPOT",
+      "native_name": "曲小姐砂锅",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Signature Clay Pot with Rice",
+      "description": "Miss Qu Claypot's new Unionville branch on Hwy 7, known for signature clay-pot dishes and brand BBQ.",
+      "address": "3828 Hwy 7, Unit 2, Unionville, ON L3R 0B5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/miss-qu-claypot-unionville.webp",
+      "maps_url": "https://maps.google.com/?q=MISS+QU+CLAYPOT+3828+Hwy+7+Unionville",
+      "source_url": "https://www.rednote.com/discovery/item/6a6e507f0000000027020a0b",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Sizzling signature clay pots and the BBQ that made Miss Qu famous",
+      "bullet_highlight": "Miss Qu Claypot's new Unionville spot, HK-style clay-pot classics",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a6e507f0000000027020a0b",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "曲小姐在Markham Town Square新开的砂锅店，装修到口味给满分，特色砂锅口味都很好下饭，烧烤也和老店一样美味。",
+        "must_try": "🍲 特色砂锅系列\n🍢 曲小姐招牌烧烤",
+        "tips": "星级早去；砂锅和烧烤都点，砂锅适合配饭",
+        "vibe": "热闹的砂锅馆子，朋友聚餐首选"
+      },
+      "highlights": [
+        "Miss Qu Claypot's new Unionville location on Hwy 7 with signature clay pots",
+        "Each signature clay pot is rice-ready and the brand's BBQ is as good as the original spots"
+      ],
+      "name_zh": "MISS QU CLAYPOT 曲小姐砂锅",
+      "description_zh": "曲小姐在Markham Town Square新开的砂锅店，特色砂锅下饭到位，烧烤延续老店水准，装修也上新。",
+      "highlights_zh": [
+        "曲小姐砂锅Markham新店，特色砂锅和烧烤都值得打卡",
+        "装修和口味都到夯，适合朋友聚餐下饭"
+      ],
+      "signature_dish_zh": "特色砂锅与招牌烧烤",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Miss Qu Claypot's new Unionville branch delivers the brand's signature clay pots and famed BBQ in a fresh shop.",
+        "must_try": "🍲 Signature clay pots\n🍢 Miss Qu BBQ",
+        "tips": "Pair the clay pots with rice; the BBQ is even better than before.",
+        "vibe": "Cozy, lively clay-pot eatery for small groups"
+      }
+    },
+    {
+      "id": "the-leo-markham",
+      "code": "104",
+      "name": "The Leo",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Australian Striploin 16oz & Wagyu XO Fried Rice",
+      "description": "Chef Alvin Leung's new Pan-Asian chophouse beside the carousel in Downtown Markham.",
+      "address": "162 Enterprise Blvd, Markham, ON L6G 0A2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/the-leo-markham.webp",
+      "maps_url": "https://maps.google.com/?q=The+Leo+162+Enterprise+Blvd+Markham",
+      "source_url": "https://theleorestaurant.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Pan-Asian chop-house steaks, chimichurri and peppercorn sauces, wagyu XO fried rice",
+      "bullet_highlight": "Chef Alvin Leung's new chophouse in Downtown Markham, right by the carousel",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6aba98d50000000001009c1c",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "厨魔梁经伦Alvin Leung新开的Pan-Asian chophouse，就在DT Markham旋转木马旁，可以当牛排馆来吃。",
+        "must_try": "🥩 Australian Striploin 16oz\n🍚 Wagyu XO Fried Rice\n🦪 Scallop Ceviche",
+        "tips": "牛排配chimichurri和peppercorn两种sauce真心绝；两人分牛排+炒饭可能吃不完，建议分享seafood；减肥失败日必选",
+        "vibe": "主打Pan Asian的chop house，环境精致，适合约会"
+      },
+      "highlights": [
+        "Chef Alvin Leung's new Pan-Asian chophouse in Downtown Markham",
+        "Australian striploin, wagyu XO fried rice and scallop ceviche head the menu"
+      ],
+      "name_zh": "The Leo 厨魔牛排馆",
+      "description_zh": "厨魔梁经伦Alvin Leung的新店The Leo，Pan-Asian chophouse，就在DT Markham旋转木马旁，牛排、和牛XO炒饭和扇贝Ceviche都是强项。",
+      "highlights_zh": [
+        "梁经伦新开Pan-Asian chophouse，DT Markham旋转木马旁",
+        "招牌澳洲牛排16oz配双酱，和牛XO炒饭是绝配"
+      ],
+      "signature_dish_zh": "澳洲西冷牛排16oz与和牛XO炒饭",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Chef Alvin Leung's new Pan-Asian chophouse in Downtown Markham, functioning brilliantly as a steakhouse.",
+        "must_try": "🥩 Australian Striploin 16oz\n🍚 Wagyu XO Fried Rice\n🦪 Scallop Ceviche",
+        "tips": "Order two sauces (chimichurri & peppercorn) with the steak; wagyu XO fried rice is a must. Portions are generous—share.",
+        "vibe": "Upscale chophouse for special occasions and date nights"
+      }
     }
   ]
 }
