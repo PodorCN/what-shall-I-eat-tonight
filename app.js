@@ -90,7 +90,7 @@
       pickForMe: 'Pick for me',
       searchPlaceholder: 'Search dish, restaurant, or cuisine (e.g. ramen, khao soi, hot pot)...',
       sortOptions: {
-        'default': '🎲 True Random Recommendation',
+        'default': '🆕 Newest Added First',
         'walk': '🚶 Walking distance (Closest first)',
         'price-asc': '💵 Price: Low to High',
         'price-desc': '💎 Price: High to Low',
@@ -216,7 +216,7 @@
       pickForMe: '帮我选',
       searchPlaceholder: '搜索店名、中文名、菜系、招牌菜或街区 (如 拉面、烤肉、火锅)...',
       sortOptions: {
-        'default': '🎲 随机推荐 (True Random)',
+        'default': '🆕 最新添加优先',
         'walk': '🚶 步行距离 (从近到远)',
         'price-asc': '💵 价格：从低到高',
         'price-desc': '💎 价格：从高到低',
@@ -691,12 +691,8 @@
 
       case 'default':
       default:
-        // True random recommendation order
-        return list.sort((a, b) => {
-          const rankA = randomOrderSeedMap.has(a.id) ? randomOrderSeedMap.get(a.id) : 0;
-          const rankB = randomOrderSeedMap.has(b.id) ? randomOrderSeedMap.get(b.id) : 0;
-          return rankA - rankB;
-        });
+        // Reverse order (newest first)
+        return list.reverse();
     }
   }
 
