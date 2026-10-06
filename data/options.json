@@ -6306,6 +6306,78 @@
         "tips": "宫保鸡丁和鱼香肉丝 are all-time favorites; both川菜和烧烤一锅也值得。",
         "vibe": "Authentic Chongqing-style Sichuan eatery, great for groups"
       }
+    },
+    {
+      "id": "hong-kong-bistro-cafe",
+      "code": "119",
+      "name": "Hong Kong Bistro Cafe",
+      "native_name": "新香港餐廳",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Hainan Chicken Rice & Butter-Roasted Garlic Frankling Escargot",
+      "description": "Hidden-gem港式茶餐厅 on Dundas St W, famous for $12.95 lunch sets, hand-pulled milk tea and affordable HK rice dishes.",
+      "address": "472 Dundas St W, 2nd Floor, Toronto, ON M5T 1G9",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/hong-kong-bistro-cafe.webp",
+      "maps_url": "https://maps.google.com/?q=Hong+Kong+Bistro+Cafe+472+Dundas+St+W+Toronto",
+      "source_url": "https://hkbistro.com/menu/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Chinatown",
+      "walking_time_min": 4,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "$12.95 HK lunch sets, hand-pulled milk tea and affordable HK rice dishes",
+      "bullet_highlight": "DT Chinatown港式茶餐厅，手拉红茶+少Sugar+大份套餐才$12.95",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/635ef3b2",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "唐人街里宝藏港式茶餐厅，每天手写白板写着当日specials套餐，一份才$12.95，含自选饮料、例汤和大份饭/面。",
+        "must_try": "🐔 海南鸡饭\n🍛 葡国鸡饭\n🍔 炸大鸡腿煎蛋饭",
+        "tips": "白板上的当日specials多留意：盖饭最好别搭盖饭拼盘，其他都不踩雷；手拉红茶记得要少糖；适合$15香港味道 lunch。",
+        "vibe": "港式茶餐厅，赶着上班的本地客和旁人都有，B-class 便宜大碗"
+      },
+      "highlights": [
+        "Hidden-gem港式茶餐厅 on Dundas with a handwritten daily-specials board",
+        "$12.95 lunch set includes drink, soup and a big rice or noodle main, hand-pulled milk tea by the boss"
+      ],
+      "name_zh": "新香港餐廳 Hong Kong Bistro Cafe",
+      "description_zh": "DT唐人街上的宝藏港式茶餐厅，每天手写白板 specials，$12.95套餐含自选饮料、例汤和大份饭/面，手拉红茶是王牌。",
+      "highlights_zh": [
+        "DT唐人街宝藏港式茶餐厅，午市套餐才$12.95",
+        "手拉红茶+海南鸡饭+焗蜗牛，都是必点"
+      ],
+      "signature_dish_zh": "海南鸡饭与手拉红茶",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A local-favourite港式茶餐厅 hidden on Dundas, with daily-specials handwritten on a board, $12.95 lunch sets and boss-pulled milk tea.",
+        "must_try": "🐔 Hainan chicken rice\n🍛 Portuguese chicken rice\n🐌 Butter garlic escargot",
+        "tips": "Grab the handwritten daily specials; hand-pulled milk tea is best less-sweet; skips the rice-platter combos if you want reliable hits.",
+        "vibe": "Lively, old-school Hong Kong cafe/casual eatery in the heart of Chinatown"
+      }
     }
   ]
 }
