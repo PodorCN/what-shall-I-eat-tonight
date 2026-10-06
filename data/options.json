@@ -4604,6 +4604,217 @@
         "tips": "Mon-Wed 1-7pm, Thu-Fri 1-6pm, Sat-Sun 11am-6pm. Expect short waits at peak times; reservations helpful.",
         "vibe": "Cozy retro Japanese cafe with strong aesthetic, ideal for dessert and cocktails"
       }
+    },
+    {
+      "id": "qing-bistro-markham",
+      "code": "093",
+      "name": "Qing Bistro",
+      "native_name": "山野炊青",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Yunnan-Style Black Pepper Beef Ribs with Purple Sweet-Potato Rice Cake",
+      "description": "Markham's viral Yunnan-Guizhou-Sichuan fusion bistro, tiny dining room, viral Black-Pepper Beef Ribs and signature rice dessert.",
+      "address": "Unit 18, 11 Fairburn Dr, Markham, ON L6G 0A4",
+      "hours_note": "Tue-Sun 11:00 AM - 12:00 AM",
+      "image_url": "assets/images/qing-bistro-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Qing+Bistro+11+Fairburn+Dr+Markham",
+      "source_url": "https://qingbistro.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Bold Yunnan spice and truffle rice bowls with bright, aromatic Guizhou accents",
+      "bullet_highlight": "RedNote-famous Yunnan bistro with viral Black-Pepper Beef Ribs and taro dessert",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a303c080000000016027f3e",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "万锦爆款云贵川Bistro，排号要等，菜品基本不踩雷，人均含税加小费约80刀。",
+        "must_try": "🐂 年糕烧牛肋\n🐸 佛手瓜酸辣木姜子牛蛙\n🍄 黑松露山菌炊香饭\n🍨 招牌山野包谷粑",
+        "tips": "店小等位久，建议5点开门就去或提前取号；酸汤酱菜口味偏淡，需要蘸辣粉；蘸酱不辣可微辣。",
+        "vibe": "13桌小馆子，晚去等翻台，环境小但菜品出片"
+      },
+      "highlights": [
+        "Viral Markham Yunnan fusion bistro with a tiny dining room and long lines",
+        "Black-pepper beef ribs, truffle forest rice and signature sweet rice dessert"
+      ],
+      "name_zh": "山野炊青 Qing Bistro",
+      "description_zh": "万锦人气爆棚云贵川Bistro，小馆子排队等到心跳都要停，黑椒牛肋、黑松露炊饭和招牌包谷粑各一。",
+      "highlights_zh": [
+        "万锦RedNote爆款云贵川Bistro，人均约80刀",
+        "招牌黑椒牛肋+黑松露炊饭+山野包谷粑，晚茶氛围好"
+      ],
+      "signature_dish_zh": "年糕烧牛肋与黑松露炊香饭",
+      "hours_note_zh": "周二至周日 11:00 - 24:00",
+      "review_notes_en": {
+        "summary": "RedNote-viral Yunnan-Guizhou-Sichuan fusion bistro in Markham with a tiny 13-table dining room and unforgettable signature dishes.",
+        "must_try": "🐂 Braised Beef Short Ribs with Purple Sweet-Potato Rice Cake\n🐸 Golden Squash & Beef Frog in Sour-Spicy Broth\n🍄 Truffle Forest-Mushroom Rice\n🍨 Signature Mountain Corn-Pudding Dessert",
+        "tips": "Arrive at 5pm opening to avoid long waits; char-grilled pork neck leans mild, dip in chili powder.",
+        "vibe": "Cozy, photogenic tiny bistro for group sharing and late-night bites"
+      }
+    },
+    {
+      "id": "tis-two-cities-etobicoke",
+      "code": "094",
+      "name": "Tis Two Cities",
+      "native_name": "双城记",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Bamboo-Shoot & Sausage Clay Pot (Sichuan Hooneng Braised Duck)",
+      "description": "Hidden精致Sichuan creative-fusion restaurant on the Etobicoke waterfront, scenic dining room and one-meal-perfection sets.",
+      "address": "122 Marine Parade Dr, Toronto, ON M8V 0E7",
+      "hours_note": "Tue-Sun 12:00 PM - 10:00 PM",
+      "image_url": "assets/images/tis-two-cities-etobicoke.webp",
+      "maps_url": "https://maps.google.com/?q=Tis+Two+Cities+122+Marine+Parade+Dr+Toronto",
+      "source_url": "https://tistwocities.com/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 15,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Signature bamboo-shoot sausage clay pot and fragrant wild turkey soup",
+      "bullet_highlight": "Lake-side精致Sichuan creative fusion worth a dedicated trip",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a9cbc020000000028037acf",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Etobicoke湖畔的精致融合川菜馆，环境绝美，菜品从前菜川味香肠到主菜白虾啫啫煲都经得起一试。",
+        "must_try": "🥓 前菜川味香肠\n🦐 白虾啫啫煲\n🦆 川味油封鸭腿",
+        "tips": "两人set约$165较划算；内部装修美适合约会；如果带狗，patio区可以就座。",
+        "vibe": "湖边view美术馆级装潢，约会必去川菜漂亮饭"
+      },
+      "highlights": [
+        "Etobicoke湖畔的精致融合川菜馆，环境超美",
+        "川味香肠、白虾啫啫煲、酥和普洱茶打完一顿完美闭合"
+      ],
+      "name_zh": "Tis Two Cities 双城记",
+      "description_zh": "Etobicoke湖畔的精致融合川菜馆，建筑和菜品都很出片，主打前菜川味香肠与白虾啫啫煲。",
+      "highlights_zh": [
+        "Etobicoke湖畔超美环境的精致川菜漂亮饭",
+        "白虾啫啫煲+川味香肠+酥和普洱茶，适合约会"
+      ],
+      "signature_dish_zh": "白虾啫啫煲",
+      "hours_note_zh": "周二至周日 12:00 - 22:00",
+      "review_notes_en": {
+        "summary": "Scenic Etobicoke waterfront restaurant with refined川菜fusion menus, recommended for date nights and pretty dinner sets.",
+        "must_try": "🥓 Sichuan sausage starter\n🦐 Shrimp in sizzling clay pot\n🦆 Sichuan confit duck leg",
+        "tips": "Two-person set around $165 is a good deal; the interior is highly photogenic and dog-friendly spaces exist on patio.",
+        "vibe": "Beautiful, arty waterfront Chinese restaurant built for Instagram and date nights"
+      }
+    },
+    {
+      "id": "good-brother-bbq-dundas",
+      "code": "095",
+      "name": "Good Brothers BBQ",
+      "native_name": "好兄弟东北烧烤",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Northeastern Chinese BBQ Skewers (Instant grilled skewers)",
+      "description": "Dundas St W late-night Northeastern Chinese skewer grill, famous for 王繁星拌面 and 奶皮子酸奶, open till 2am.",
+      "address": "472 Dundas St W, Toronto, ON M5T 1G9",
+      "hours_note": "Mon-Sun 11:00 AM - 2:00 AM",
+      "image_url": "assets/images/good-brother-bbq-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Good+Brothers+BBQ+472+Dundas+St+W+Toronto",
+      "source_url": "https://www.yelp.ca/biz/good-brothers-bbq-toronto",
+      "unverified": [],
+      "area": "Chinatown",
+      "walking_time_min": 5,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Northeastern-style charcoal skewers with signature王繁星拌面 sauce drizzle",
+      "bullet_highlight": "Late-night Chatham-sweet-skewer canteen open until 2am on Dundas",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/692625c5000000001e017b03",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Spadina/Dundas的东北烤串店，营业到凌晨两点，番茄流沙蛋拌面是招牌，一哆嗦停不下来。",
+        "must_try": "🍜 番茄流沙蛋拌面\n🍜 猪肝肥肠拌面\n🥛 奶皮子酸奶",
+        "tips": "周末晚上去要早点，容易排队；拌面流沙蛋拌一拌再吃；茉莉绝弦茶搭配很清爽。",
+        "vibe": "夜市烧烤style摊点，适合朋友夜聚串串"
+      },
+      "highlights": [
+        "Spadina-Dundas东北烤串店，营业到凌晨2点是深夜人气王",
+        "番茄流沙蛋拌面+奶皮子酸奶，拌面爱好者别错过"
+      ],
+      "name_zh": "好兄弟东北烧烤",
+      "description_zh": "Dundas & Spadina夜宵东北烤串店，宵夜营业到凌晨2点，番茄流沙蛋拌面和奶皮子酸奶是种草爆款。",
+      "highlights_zh": [
+        "夜间人气王街边烤串，营业到凌晨两点",
+        "招牌拌面番茄流沙蛋+奶皮子酸奶，深夜冲动必点"
+      ],
+      "signature_dish_zh": "番茄流沙蛋拌面与奶皮子酸奶",
+      "hours_note_zh": "周一至周日 11:00 - 次日02:00",
+      "review_notes_en": {
+        "summary": "Big Northeastern-Chinese late-night BBQ skewer shop near Spadina, full of life in the evenings with addictive tomato-lava-egg noodles.",
+        "must_try": "🍜 Tomato-Lava-Egg Noodles\n🍜 Pork Liver & Intestine Noodles\n🥛 Milk-Skin Yogurt",
+        "tips": "Weekend evenings need early arrivals or a beat; finish your noodles with the creamy lava sauce mixed in.",
+        "vibe": "Lively late-night skewer canteen, go with a group"
+      }
     }
   ]
 }
