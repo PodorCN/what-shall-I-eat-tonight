@@ -5103,6 +5103,147 @@
         "tips": "$58 set can honestly feed three; add dumplings and a soup for the best comfort. No tipping needed.",
         "vibe": "Street-side self-service hot pot spot with daytime comfort food"
       }
+    },
+    {
+      "id": "and-ore-queen-west",
+      "code": "100",
+      "name": "and/ore",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 4,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Below-Ground Six-Course Tasting Menu ($175/pp)",
+      "description": "Modern-Canadian Queen West cave: eclectic garden-party above, intimate underground六-course tasting menu with seasonal local ingredients.",
+      "address": "1040 Queen St W, Toronto, ON",
+      "hours_note": "Tue-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/and-ore-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=and%2Fore+1040+Queen+St+W+Toronto",
+      "source_url": "https://andorerestaurant.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 14,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Seasonal modern-Canadian tasting with playful small plates and creative plating",
+      "bullet_highlight": "Underground cave tasting menu by Chef Missy Hui, a Toronto bucket-list dinner",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69f7ffe60000000035029028",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen West安道尔洞穴餐厅，一层是花园party氛围bar，地下是洞穴风六道tasting menu，精致好看味道在线。",
+        "must_try": "🌟 Below-Ground Tasting Menu ($175/pp, 8道+甜点)",
+        "tips": "建议提前预约；一层偏bar，适合先来一杯再下地下用餐体验",
+        "vibe": "地下洞穴风情，像穿越到另一个世界的氛围感漂亮饭"
+      },
+      "highlights": [
+        "Queen West cave restaurant with garden-party dining above and cave-like tasting menu below",
+        "Seasonal modern-Canadian six-course tasting curated by Chef Missy Hui"
+      ],
+      "name_zh": "and/ore 安道尔",
+      "description_zh": "Queen West安道尔风情餐厅，一楼是Eclectic花园bar，地下层是洞穴风六道Tasting Menu，Chef Missy Hui 主理现代加拿大菜。",
+      "highlights_zh": [
+        "Queen West洞穴风漂亮饭，地下层氛围感极强",
+        "六道tasting menu $175/pp，含额外甜点，适合约会生日"
+      ],
+      "signature_dish_zh": "地下层六道Tasting Menu",
+      "hours_note_zh": "周二至周日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Modern-Canadian restaurant on Queen W with an eclectic garden party upstairs and an intimate cave-like underground tasting menu.",
+        "must_try": "🌟 Below-Ground Tasting Menu ($175/pp, 8 courses + extra dessert)",
+        "tips": "Reservations recommended. Start with a drink at the above-ground bar before heading downstairs.",
+        "vibe": "Cave-chic dining room with a whimsical, immersive atmosphere"
+      }
+    },
+    {
+      "id": "mercado-restaurant-york",
+      "code": "101",
+      "name": "Mercado Restaurant",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Arroz de Pato (Duck Rice) & Seafood Rice",
+      "description": "Leafy jungle-style Portuguese restaurant near Yorkdale with seafood rice, grilled dourada and duck rice, great for date-night拍照.",
+      "address": "682 Caledonia Rd, York, ON M6E 2T5",
+      "hours_note": "Tue-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/mercado-restaurant-york.webp",
+      "maps_url": "https://maps.google.com/?q=Mercado+Restaurant+682+Caledonia+Rd+Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69e7f39a000000001a0229c2",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Portuguese seafood rice and duck rice in a lush jungle-themed room",
+      "bullet_highlight": "Photogenic Portuguese date-night spot near Yorkdale with seafood platters",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69e7f39a000000001a0229c2",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "离Yorkdale不远的丛林风葡萄牙餐厅，适合约会拍照，海鲜烩饭和海鲜拼盘是招牌，价格偏高。",
+        "must_try": "🥘 海鲜烩饭\n🦆 油封鸭腿饭 Arroz de Pato\n🐠 烤海鲷鱼 Dourada",
+        "tips": "有包间和大厂桌，适合生日约会；菜品价格偏高，建议提前预约。",
+        "vibe": "丛林风装潢的精品葡萄牙菜馆，约会拍照胜地"
+      },
+      "highlights": [
+        "Jungle-themed Portuguese restaurant near Yorkdale with beautiful decor",
+        "Seafood rice, seafood platter and duck rice are the celebrated dishes"
+      ],
+      "name_zh": "Mercado 葡萄牙餐厅",
+      "description_zh": "离Yorkdale不远的葡萄牙丛林风餐厅，招牌海鲜烩饭、油封鸭腿饭和烤海鲷鱼，适合约会生日。",
+      "highlights_zh": [
+        "丛林风葡萄牙漂亮饭，约会拍照必选",
+        "招牌海鲜烩饭+油封鸭腿饭，味道浓重适合聚餐"
+      ],
+      "signature_dish_zh": "海鲜烩饭与油封鸭腿饭",
+      "hours_note_zh": "周二至周日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Jungle-decorated Portuguese restaurant near Yorkdale, ideal for date nights with seafood rice and grilled sea bream.",
+        "must_try": "🥘 Seafood Rice\n🦆 Duck Rice (Arroz de Pato)\n🐠 Grilled Sea Bream (Dourada)",
+        "tips": "Book ahead for weekends; private rooms and large tables available for birthdays.",
+        "vibe": "Lush, photogenic Portuguese dining room with upbeat date-night energy"
+      }
     }
   ]
 }
