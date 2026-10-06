@@ -6520,6 +6520,143 @@
         "tips": "Add salt and pepper to the broth for a cleaner finish; expect a short wait at peak times.",
         "vibe": "Shunde tea-house style, light and cozy, good for summer dinner"
       }
+    },
+    {
+      "id": "petite-lune-baldwin",
+      "code": "122",
+      "name": "Petite Lune Saigon",
+      "native_name": "Petite Lune",
+      "type": "restaurant",
+      "cuisine": "Vietnamese",
+      "price": 4,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Cha Ca La Vong & Bo Tai Chanh",
+      "description": "Baldwin Village Vietnamese fine-diner blending dark wood tones with French-influenced northern Vietnamese dishes.",
+      "address": "31 Baldwin St, Toronto, ON M5T 1L1",
+      "hours_note": "Tue-Sun 3:30 PM - late night",
+      "image_url": "assets/images/petite-lune-baldwin.webp",
+      "maps_url": "https://maps.google.com/?q=Petite+Lune+31+Baldwin+St+Toronto",
+      "source_url": "https://www.petitelune.ca/",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "walking_time_min": 8,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "French-Vietnamese fine dining with cha ca la vong and bo tai chanh as signatures",
+      "bullet_highlight": "Baldwin Village Vietnamese fine-diner with a French leaning elegance",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6aac5960",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Baldwin Village的越南fine diner，红丝绒窗帘+深木质，法式精致感，cha ca la vong和bo tai chanh是必点。",
+        "must_try": "🐟 Cha Ca La Vong\n🥘 Bo Tai Chanh\n🥖 Bánh Mì",
+        "tips": "人均约$120，适合纪念日；部分时段有Happy Hour；高峰期建议预约",
+        "vibe": "法式越南精致餐厅，适合纪念日或date night"
+      },
+      "highlights": [
+        "Baldwin Village Vietnamese fine-diner with French-leaning elegance",
+        "Cha Ca La Vong and bo tai chanh are celebrated, with a late-night bar"
+      ],
+      "name_zh": "Petite Lune 越南餐厅",
+      "description_zh": "Baldwin St精品越南菜，红丝绒+深木质+法式精致感，主打cha ca la vong和bo tai chanh，人均约$120。",
+      "highlights_zh": [
+        "Baldwin Village越南fine dining，法式精雅风格",
+        "人均约$120，cha ca la vong和bo tai chanh必点"
+      ],
+      "signature_dish_zh": "Cha Ca La Vong与Bo Tai Chanh",
+      "hours_note_zh": "周二至周日 15:30 - 深夜（Happy Hour 15:30 - 17:30）",
+      "review_notes_en": {
+        "summary": "Baldwin Village's Vietnamese fine-diner with red velvet curtains and a French-leaning elegance, ideal for a date night.",
+        "must_try": "🐟 Cha Ca La Vong\n🥘 Bo Tai Chanh\n🥖 Bánh Mì",
+        "tips": "Around $120 per person; popular Happy Hour 3:30-5:30pm; reserve for peak times.",
+        "vibe": "Elegant French-Vietnamese fine-diner for date nights and celebrations"
+      }
+    },
+    {
+      "id": "sangoku-japanese-bbq-markham",
+      "code": "124",
+      "name": "Sangoku Japanese BBQ",
+      "native_name": "烧肉三国",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Premium All-You-Can-Eat Wagyu Yakiniku",
+      "description": "Markham's premium AYCE Japanese barbecue brand under the Gyubee family, opened July 2026 at Warden & Steeles.",
+      "address": "7050 Warden Ave, Markham, ON L3R 5Y3",
+      "hours_note": "Mon-Thu 12:00 PM - 11:00 PM, Fri-Sat 12:00 PM - 12:00 AM, Sun 12:00 PM - 11:00 PM",
+      "image_url": "assets/images/sangoku-japanese-bbq-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Sangoku+Japanese+BBQ+7050+Warden+Ave+Markham",
+      "source_url": "https://www.sangokujapanesebbq.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Premium AYCE Japanese BBQ with highest-tier wagyu selection and curated tasting",
+      "bullet_highlight": "Markham's premium AYCE Japanese BBQ brand under the Gyubee family, opened July 2026",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a75259c",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Gyubee旗下premium主打ayce烧肉，2026年7月31开业，Warden&Steeles，Premium wagyu和肉品好，强不推荐菜量偏小，需要用限量。",
+        "must_try": "🥩 Premium Wagyu AYCE\n🍣 制品/前菜",
+        "tips": "用现金或Debit Card，信用卡不收；5:30到门口已经排队，建议提前预约；Gyubee高级品牌",
+        "vibe": "premium AYCE日式烧肉，肉品好、排队长，适合预约"
+      },
+      "highlights": [
+        "Markham's premium AYCE Japanese BBQ from the Gyubee family, opened July 31, 2026",
+        "Curated premium wagyu selection and rich assortment, cash or debit only"
+      ],
+      "name_zh": "Sangoku Japanese BBQ 烧肉三国",
+      "description_zh": "Gyubee旗下premium主打ayce烧肉，2026年7月开业，Warden&Steeles，Premium wagyu和肉品好。",
+      "highlights_zh": [
+        "万锦 premium AYCE日式烧肉，Gyubee旗下",
+        "Wagyu品质拔尖，开业即排队，现金/Debit备好"
+      ],
+      "signature_dish_zh": "Premium Wagyu AYCE烧肉",
+      "hours_note_zh": "周一至周四 12:00 - 23:00，周五至周六 12:00 - 24:00，周日 12:00 - 23:00",
+      "review_notes_en": {
+        "summary": "Gyubee family's premium AYCE Japanese BBQ, opened July 2026 at Warden & Steeles, focused on high-tier wagyu.",
+        "must_try": "🥩 Premium Wagyu AYCE\n🍗 Curated BBQ selection",
+        "tips": "Cash or debit only; lines form before opening—reserve ahead.",
+        "vibe": "Premium AYCE yakiniku for groups with a big appetite"
+      }
     }
   ]
 }
