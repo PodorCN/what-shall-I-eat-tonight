@@ -6089,6 +6089,295 @@
         "tips": "Afternoon tea is $85/pp; you can personalize the look for a friend. A good pick for date nights.",
         "vibe": "Elevated Yorkville hotel bar with a timeless writers' lounge atmosphere"
       }
+    },
+    {
+      "id": "haos-bistro-chinatown",
+      "code": "115",
+      "name": "Hao's Bistro",
+      "native_name": "烹小鲜",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Cooked Noodle Head-Up Laid Out (飞天龙虾意面) & Mala Water-Boiled Fish",
+      "description": "Trendy Chinatown bistro on Spadina famous for its viral 1-metre 'flying' noodle performance and Sichuan water-boiled fish.",
+      "address": "339 Spadina Ave, Toronto, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/haos-bistro-chinatown.webp",
+      "maps_url": "https://maps.google.com/?q=Haos+Bistro+339+Spadina+Ave+Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a76ad86",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Chinatown",
+      "walking_time_min": 6,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy",
+        "more-meat"
+      ],
+      "bullet_flavor": "Flying ramen, mala water-boiled fish and plum-braised pork ribs head the menu",
+      "bullet_highlight": "Viral Chinatown bistro's 1-metre flying noodle and water-boiled fish",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a76ad86",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "唐人街新开的川菜小炒，环境很好，每道菜都好吃，辣度咸度用油可调。飞天龙虾意面出片，但味道其实偏普通，水煮鱼和梅子烧排骨更稳。",
+        "must_try": "🍝 飞天龙虾意面\n🐟 川香红汤水煮鱼\n🍖 金牌梅子烧排骨",
+        "tips": "飞天面创意有余味道偏淡，想看热闹是可以的；想吃点靠谱的，点水煮鱼和梅子排骨；铁锅焖煲和猛火香锅也不错。",
+        "vibe": "店面环境很好，适合朋友聚餐聊天"
+      },
+      "highlights": [
+        "Trendy Chinatown bistro with photogenic 1-metre flying-noodle dry-presentation",
+        "Sichuan water-boiled fish, mala tang beef brisket and plum-braised pork ribs round out the menu"
+      ],
+      "name_zh": "烹小鲜 Hao's Bistro",
+      "description_zh": "唐人街Spadina路新开的川菜小炒馆，主打30cm高的飞天龙虾意面与川香红汤水煮鱼，梅子烧排骨是人气硬菜。",
+      "highlights_zh": [
+        "飞天龙虾意面超出片，是朋友圈名级热搜",
+        "川香红汤水煮鱼与梅子烧排骨则是真口味"
+      ],
+      "signature_dish_zh": "飞天龙虾意面与水煮鱼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Buzzing new Chinatown川菜小炒馆 with a dramatic flying-noodle signature, solid Sichuan water-boiled fish and plum-braised pork ribs.",
+        "must_try": "🍝 Flying lobster noodle\n🐟 Sichuan water-boiled fish\n🍖 Plum-braised pork ribs",
+        "tips": "The flying noodle is more about theatre than flavor; pair it with the water-boiled fish or the beef brisket clay pot for real eats.",
+        "vibe": "Bright, modern bistro suited to group meals"
+      }
+    },
+    {
+      "id": "new-hong-fatt-bbq",
+      "code": "116",
+      "name": "New Hong Fatt BBQ",
+      "native_name": "新鸿发",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Roast Duck (烧鸭) & Char Siu",
+      "description": "DT Chinatown BBQ lunch counter with roast duck, char siu and a hearty free soup.",
+      "address": "443 Dundas St W, Toronto, ON M5T 1G6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/new-hong-fatt-bbq.webp",
+      "maps_url": "https://maps.google.com/?q=New+Hong+Fatt+BBQ+443+Dundas+St+W+Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6abd404d",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Chinatown",
+      "walking_time_min": 4,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Roast duck, char siu and beef brisket with a hearty free soup",
+      "bullet_highlight": "DT Chinatown BBQ counter with a constant queue, known for roast duck",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6abd404d",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "DT唐人街腹地的烧腊店，周末队伍长长，烧鸭/叉烧/牛腩三拼是标准操作，例汤份量足料，外卖也络绎不绝。",
+        "must_try": "🦆 烧鸭 / Roast Duck\n🥩 叉烧 / Char Siu\n🐄 牛腩",
+        "tips": "要烧鸭的话要多加2刀；牛腩不太适合这个做法；周末开车来注意绿P",
+        "vibe": "港式烧腊外卖+堂食，周末人挤人很热闹"
+      },
+      "highlights": [
+        "DT Chinatown BBQ counter with long weekend queues and roast duck as the star",
+        "Char siu, beef brisket and a hearty free soup with every order"
+      ],
+      "name_zh": "New Hong Fatt BBQ 烧腊",
+      "description_zh": "DT唐人街烧腊小店，烧鸭是王牌，叉烧和牛腩三拼是招牌吃法，每份配例汤份量十足。",
+      "highlights_zh": [
+        "DT唐人街里的经典烧腊店，周末排队人多",
+        "烧鸭、叉烧、牛腩三拼，例汤来一大碗"
+      ],
+      "signature_dish_zh": "烧鸭三拼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Bustling DT Chinatown BBQ counter known for its roast duck, char siu and a hearty free soup every meal.",
+        "must_try": "🦆 Roast Duck\n🥩 Char Siu\n🐄 Beef Brisket",
+        "tips": "Roast duck adds $2; beef brisket is a bit fatty for the style. Order the mixed platter.",
+        "vibe": "Busy Cantonese BBQ takeaway-style lunch counter"
+      }
+    },
+    {
+      "id": "wanfangyuan-jiangxi-noodles",
+      "code": "117",
+      "name": "Wanfangyuan",
+      "native_name": "万方圆拌粉",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Jiangxi Mixed Noodles (南昌拌粉) & Clay-Pot Soup",
+      "description": "DT Chinatown江西style noodle soup shop known for 南昌拌粉,瓦罐汤 and stir-fried noodles; great value bowls.",
+      "address": "421 Dundas St W, G10, Toronto, ON M5T 2W4",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/wanfangyuan-jiangxi-noodles.webp",
+      "maps_url": "https://maps.google.com/?q=Wanfangyuan+421+Dundas+St+W+Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6abc4da1",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Chinatown",
+      "walking_time_min": 5,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Jiangxi-style mixed noodles, clay-pot soup and stir-fried noodles with wok hei",
+      "bullet_highlight": "DT Chinatown江西style noodle shop known for南昌拌粉 and瓦罐汤",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6abc4da1",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "DT唐人街新开的江西粉馆，抖音点赞排序？拌粉和炒粉都好吃，炒粉更有锅气，鸡胗很嫩，瓦罐汤是好配菜。",
+        "must_try": "🍜 南昌拌粉\n🍝 炒粉\n🐔 鸡胗",
+        "tips": "新开人多容易缺货，急或饿着的尽快来；炒粉比拌粉更有锅气，推荐两样都点；瓦罐汤暖胃。",
+        "vibe": "江西街坊粉馆，分量足吃得饱"
+      },
+      "highlights": [
+        "DT Chinatown新开江西米粉馆，南昌拌粉+炒粉都出圈.",
+        "红煮鸡胗嫩，配瓦罐汤很地道，一个人快吃也划算"
+      ],
+      "name_zh": "万方圆拌粉",
+      "description_zh": "DT唐人街新开的江西米粉馆，主打南昌拌粉和炒粉，配瓦罐汤，鸡胗嫩，性价比高适合快吃。",
+      "highlights_zh": [
+        "DT唐人街新开的江西拌粉馆",
+        "炒粉锅气足、鸡胗嫩，瓦罐汤配拌粉很地道"
+      ],
+      "signature_dish_zh": "南昌拌粉与炒粉",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "DT传人南昌拌粉馆，炒粉锅气很足，鸡胗很嫩，配瓦罐汤性价比高。",
+        "must_try": "🍜 Nanchang mixed noodles\n🍝 Stir-fried noodles\n🐔 Chicken giblets",
+        "tips": "New spot can run out of items; stir-fried noodles beat the mixed ones for wok hei.",
+        "vibe": "Jiangxi lane-style noodle house, quick and satisfying"
+      }
+    },
+    {
+      "id": "lee-brothers-sichuan",
+      "code": "118",
+      "name": "Lee Brothers BBQ",
+      "native_name": "李季·川菜·烧烤",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "spicy"
+      ],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Sichuan Water-Boiled Beef (水煮牛肉) & Red Oil Ear Slices",
+      "description": "Richmond Hill Sichuan and BBQ restaurant, beloved for水煮牛肉, spicy mashed aubergine and red oil ear slices that regulars revisit.",
+      "address": "550 Hwy 7, Unit 222, Richmond Hill, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/lee-brothers-sichuan.webp",
+      "maps_url": "https://maps.google.com/?q=Lee+Brothers+BBQ+550+Hwy+7+Richmond+Hill",
+      "source_url": "https://www.fantuanorder.com/zh-CN/store/lee-brothers-bbq-rh/ca-1725834261",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Authentic Chongqing-style水煮牛肉, numbing aubergine and red-oil ear slices that regulars revisit",
+      "bullet_highlight": "Richmond Hill川菜白月光，水煮牛肉+红油耳丝必点",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69bb3a40",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "列治文山的川菜+烧烤馆，白切+水煮牛肉+红油耳丝，是我吃过多伦多最接近重庆味道的川菜馆，N刷不腻。",
+        "must_try": "🌶️ 水煮牛肉\n🍆 口水茄子\n👂 红油耳丝",
+        "tips": "宫保鸡丁和鱼香肉丝是all time fav；酸菜鱼真的嫩，吃过别忘去；烧烤和川菜都点，不要只点一个。",
+        "vibe": "正宗的重庆风川菜馆，适合多人小聚"
+      },
+      "highlights": [
+        "Richmond Hill川菜馆，水煮牛肉+红油耳丝必点，是多伦多最接近重庆味道的川菜",
+        "口水茄子、酸菜鱼、宫保鸡丁都是经典，烧烤也同样在线"
+      ],
+      "name_zh": "李季·川菜·烧烤",
+      "description_zh": "列治文山的李季川菜烧烤馆，水煮牛肉+口水茄子+红油耳丝是招牌，红盘大份辣度正，是多伦多最接近重庆味道的川菜馆。",
+      "highlights_zh": [
+        "列治文山川菜+烧烤，口水茄子+红油耳丝是顶流",
+        "水煮牛肉正宗麻味突出，是多伦多忘不掉的川菜白月光"
+      ],
+      "signature_dish_zh": "水煮牛肉与红油耳丝",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Richmond Hill Sichuan + BBQ restaurant, the closest to真正Chongqing flavors in Toronto with水煮牛肉,口水茄子 and红油耳丝 as staples.",
+        "must_try": "🌶️ Water-Boiled Beef\n🍆 Spicy Mashed Aubergine\n👂 Red Oil Ear Slices",
+        "tips": "宫保鸡丁和鱼香肉丝 are all-time favorites; both川菜和烧烤一锅也值得。",
+        "vibe": "Authentic Chongqing-style Sichuan eatery, great for groups"
+      }
     }
   ]
 }
