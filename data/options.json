@@ -4815,6 +4815,294 @@
         "tips": "Weekend evenings need early arrivals or a beat; finish your noodles with the creamy lava sauce mixed in.",
         "vibe": "Lively late-night skewer canteen, go with a group"
       }
+    },
+    {
+      "id": "muay-thai-bar-queen-west",
+      "code": "096",
+      "name": "Muay Thai Bar & Restaurant",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Pad Kra Pao & Thai Beef Steak (Crying Tiger Picanha)",
+      "description": "Muay Thai-themed Thai restaurant on Queen West with big-screen fights, papaya salads, cocktails and crying-tiger steak.",
+      "address": "325 Queen St W, Toronto, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/muay-thai-bar-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Muay+Thai+Bar+Restaurant+325+Queen+St+W+Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a97798f000000002603a177",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 6,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Spicy Thai wok dishes, papaya salads and a Thai-cocktail bar",
+      "bullet_highlight": "Muay Thai-themed dinner spot with live fight broadcasts on big screens",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a97798f000000002603a177",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen West的泰拳主题餐厅，整个店围绕Muay Thai文化设计，大屏幕放泰拳比赛，还有Thai cocktail bar，朋友聚餐或夜晚约会都合适。",
+        "must_try": "🥗 海鲜木瓜沙拉\n🍳 泰打抛饭\n🥩 Crying Tiger Picanha",
+        "tips": "打抛饭一定要戳开流心蛋黄拌米饭；海鲜青木瓜沙拉鱼露味偏重，不吃鱼露的要谨慎；天气好可以逛完Queen West再来。",
+        "vibe": "泰拳氛围感做得完整的小馆子，边吃边看电视上的泰拳比赛"
+      },
+      "highlights": [
+        "Muay Thai-themed Thai restaurant with fight broadcasts on big screens",
+        "Pad kra pao with runny egg, papaya salads and Thai cocktails head the menu"
+      ],
+      "name_zh": "Muay Thai Bar & Restaurant 泰拳馆",
+      "description_zh": "Queen West一家围绕Muay Thai泰拳文化设计的泰餐厅，大屏幕放比赛，还有泰式cocktail bar，菜本身也靠谱。",
+      "highlights_zh": [
+        "Queen West泰拳主题餐厅，装修完整度很高",
+        "打抛饭、海鲜青木瓜沙拉和Crying Tiger牛排都值得点"
+      ],
+      "signature_dish_zh": "泰式打抛饭与Crying Tiger牛排",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A complete Muay Thai-themed Thai restaurant on Queen W with fight broadcasts, Thai cocktails, and solid, non- gimmicky food.",
+        "must_try": "🥗 Seafood Papaya Salad\n🍳 Pad Kra Pao\n🥩 Crying Tiger Picanha",
+        "tips": "Pop the runny egg yolk on the pad kra pao and mix it through the pork and rice. If you dislike fish sauce, go easy on the papaya salad.",
+        "vibe": "Themed but delicious, great for groups or a fun date night"
+      }
+    },
+    {
+      "id": "tiger-blues-queen-west",
+      "code": "097",
+      "name": "Tiger Blues",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Kanpung Shrimp & Kimchi Tom Yum",
+      "description": "Cute little Korean bar near Trinity Bellwoods park with supersized kanpung shrimp, galbi, and playful cocktails, happy hour deals.",
+      "address": "811 Queen St W, Toronto, ON M6J 1G1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/tiger-blues-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Tiger+Blues+811+Queen+St+W+Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6959dfa6000000001e03a961",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 12,
+      "portion_size": "light",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Korean small plates, galbi and yuzu-soy Kanpung shrimp in a playful bar setting",
+      "bullet_highlight": "Trendy Korean pojangmacha-style spot near Trinity Bellwoods with happy hours",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6959dfa6000000001e03a961",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen West 邻 Trinity Bellwoods的韩式小酒馆，装修可爱甜美，小份菜越出越厚实，性价比不错。",
+        "must_try": "🍤 Kanpung Shrimp\n🥩 Galbi\n🍜 Kimchi Tom Yum",
+        "tips": "Happy Hour 不要错过；Yuzu Sour mocktail 和 Pere Colada 是好喝的果蔬特饮；点菜看着小但其实很实在。",
+        "vibe": "韩剧氛围的小酒馆，适合Friends小酌和深夜吃夜宵"
+      },
+      "highlights": [
+        "Playful Korean pojangmacha-style bar near Trinity Bellwoods with happy hour",
+        "Kanpung shrimp, yuzu-soy galbi and kimchi tom yum noodles are the standouts"
+      ],
+      "name_zh": "Tiger Blues 韩式小酒馆",
+      "description_zh": "Trinity Bellwoods附近一家甜美韩式小酒馆，主打Kanpung虾、galbi和Kimchi冬阴功汤面，装修可爱、份量扎实。",
+      "highlights_zh": [
+        "Queen West韩式小酒馆，Happy Hour性价比高",
+        "Kanpung虾和Kimchi Tom Yum是网红爆款，Yuzu Sour mocktail好喝"
+      ],
+      "signature_dish_zh": "Kanpung Shrimp 味噌虾与金芝泡面",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Playful Korean bar near Trinity Bellwoods with cute decor, happy hour, and packaged-full small plates.",
+        "must_try": "🍤 Kanpung Shrimp\n🥩 Galbi\n🍜 Kimchi Tom Yum",
+        "tips": "Don't miss happy hour. Dishes look small but are packed. Kanpung shrimp is the must-order.",
+        "vibe": "Cozy Korean-style tavern for small-group drinks and snacks"
+      }
+    },
+    {
+      "id": "karahi-boys-queen-west",
+      "code": "098",
+      "name": "Karahi Boys",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "halal"
+      ],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Potohari Chicken Karahi & Family Garlic Naan",
+      "description": "Halal Pakistani karahi specialist on Queen W with a 4.8-star reputation, known for chicken karahi and buttery garlic naan.",
+      "address": "741 Queen St W, Toronto, ON M6J 1G1",
+      "hours_note": "Mon-Thu 4:00 PM - 11:00 PM, Fri-Sat 1:00 PM - 12:00 AM, Sun 1:00 PM - 11:00 PM",
+      "image_url": "assets/images/karahi-boys-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Karahi+Boys+741+Queen+St+W+Toronto",
+      "source_url": "https://karahiboys.com/toronto",
+      "unverified": [],
+      "area": "Queen West",
+      "walking_time_min": 8,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy",
+        "more-meat"
+      ],
+      "bullet_flavor": "Aromatic Pakistani-style chicken karahi with garlic naans",
+      "bullet_highlight": "Queen West halal Pakistani spot with a 4.8-star local following",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/696d7e95000000000a02f4fd",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Queen West 上的巴基斯坦karahi专门店，google 4.8 star，chicken karahi和garlic naan是必点，羊肉也好吃。",
+        "must_try": "⭐️ Potohari Boneless Chicken Karahi\n⭐️ Family Naan (Garlic)",
+        "tips": "咖喱味道香，菜偏咸——可点Pina Colada中和；能做两人份的family size naan适合分享；羊肉也值得试试。",
+        "vibe": "热闹的巴基斯坦 karahi 小馆子，适合几个人一起share"
+      },
+      "highlights": [
+        "Queen West Pakistani karahi joint with a 4.8-star local reputation",
+        "Chicken karahi and garlic naan are the signature, perfect komotions for sharing"
+      ],
+      "name_zh": "Karahi Boys 巴基斯坦菜",
+      "description_zh": "Queen West的巴基斯坦karahi馆子，鸡肉karahi和蒜香naan是店内爆款，清真halal，很适合朋友share。",
+      "highlights_zh": [
+        "Queen West评分很高的清真巴基斯坦菜馆",
+        "鸡肉karahi和garlic naan是招牌，咖喱香浓"
+      ],
+      "signature_dish_zh": "Potohari 鸡肉 Karahi 与 蒜香 Naan",
+      "hours_note_zh": "周一至周四 16:00 - 23:00，周五至周六 13:00 - 24:00，周日 13:00 - 23:00",
+      "review_notes_en": {
+        "summary": "Popular halal Pakistani karahi restaurant on Queen W with a strong 4.8-star local reputation.",
+        "must_try": "⭐️ Potohari Boneless Chicken Karahi\n⭐️ Family Naan (Garlic)",
+        "tips": "Dishes can be seasoned fairly salty—order a Pina Colada to soften the heat; the goat karahi is also highly recommended by reviewers.",
+        "vibe": "Casual, lively Pakistani karahi spot for sharing a meal"
+      }
+    },
+    {
+      "id": "garden-express-queen-west",
+      "code": "099",
+      "name": "Garden Express",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold",
+        "any"
+      ],
+      "signature_dish": "Chicken Hot Pot Set (Chicken & Pork-Belly Soup Base)",
+      "description": "Counter-service chicken hot pot and dumpling spot on Queen W near Bathurst, self-service, no-tipping, chicken sets for $58 sharing.",
+      "address": "604 Queen St W, Toronto, ON",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/garden-express-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Garden+Express+604+Queen+St+W+Toronto",
+      "source_url": "https://www.yelp.ca/biz/garden-express-toronto",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 4,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Hearty self-service chicken hot pot with peppery pork-肚 broths",
+      "bullet_highlight": "Bathurst & Queen W self-service chicken hot pot set, $58 serves three",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6abbc9d0000000000e03c000",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Bathurst & Queen W自助鸡锅套餐馆，$58套餐含一整只鸡+虾+猪肚鸡汤底+药膳鸡汤底，三人合吃也就¥30/人，无需小费。",
+        "must_try": "🍲 鸡锅套餐（猪肚鸡+药膳鸡汤底）\n🥟 蒸云吞（$4.99加料必点）",
+        "tips": "两人基本吃扶墙走，建议三人一份更从容；蒸云吞是手工包的，辣味拌酱很好；套餐涨辣要谨慎。",
+        "vibe": "公交自助style，快捷实惠的鸡锅店"
+      },
+      "highlights": [
+        "Self-service chicken hot pot set on Queen W that feeds three for around $30 each",
+        "Steaming dumplings and peppery pork-belly broth are the fresh, handmade standouts"
+      ],
+      "name_zh": "Garden Express 鸡锅套餐",
+      "description_zh": "Queen W & Bathurst街头的自助鸡锅套餐馆，$58套餐能供三人份量很足，蒸云吞和姜汁猪肚鸡都是亮点。",
+      "highlights_zh": [
+        "Queen West平价鸡锅套餐馆，自助点单无需小费",
+        "蒸云吞、猪肚鸡和药膳鸡汤底是必点爆款"
+      ],
+      "signature_dish_zh": "鸡锅套餐（猪肚鸡+药膳鸡汤底）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Casual counter-service chicken hot pot by Bathurst & Queen W—$58 set feeds three and asks no tips.",
+        "must_try": "🍲 Chicken hot pot set (pork-肚 & herbal base)\n🥟 Steamed dumplings ($4.99 add-on)",
+        "tips": "$58 set can honestly feed three; add dumplings and a soup for the best comfort. No tipping needed.",
+        "vibe": "Street-side self-service hot pot spot with daytime comfort food"
+      }
     }
   ]
 }
