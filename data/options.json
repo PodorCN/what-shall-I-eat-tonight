@@ -6378,6 +6378,148 @@
         "tips": "Grab the handwritten daily specials; hand-pulled milk tea is best less-sweet; skips the rice-platter combos if you want reliable hits.",
         "vibe": "Lively, old-school Hong Kong cafe/casual eatery in the heart of Chinatown"
       }
+    },
+    {
+      "id": "yoozone-hotpot-markham",
+      "code": "120",
+      "name": "Yoozone Hot Pot",
+      "native_name": "渝作火锅",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Beef Tallow Spicy Broth & Double-Boiler Chicken-Mushroom Soup Base",
+      "description": "重庆style all-you-can-eat hot pot at 3225 Hwy 7 in Markham, known for rich beef tallow mala broth and川味小腊肠/耗儿鱼.",
+      "address": "3225 Hwy 7, Unit 3, Markham, ON L3R 3P9",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/yoozone-hotpot-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Yoozone+Hot+Pot+3225+Hwy+7+Markham",
+      "source_url": "https://www.ubereats.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "重庆street-style hot pot with beef tallow mala broth,川味小腊肠 and rocket squid",
+      "bullet_highlight": "All-you-can-eat hot pot at 3225 Hwy 7 in Markham, rare川渝 street-style menu",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6ac1cafd",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "万锦Hwy7的火锅自助，牛油麻辣锅+花胶鸡鸳鸯锅，价格周末$36.99，食材丰富且自由酸梅汤。",
+        "must_try": "🐮 牛油麻辣锅\n🐓 花胶鸡锅\n🦑 火箭鱿鱼 / 鸭肠 / 耗儿鱼",
+        "tips": "汤底需额外付费；信用卡结账有2.4%手续费，建议用Debit Card或现金；菜单有多伦多罕见川味小件",
+        "vibe": "重庆街头风味的火锅馆，适合几个人一起吃"
+      },
+      "highlights": [
+        "重庆街头风味的火锅自助，主打牛油麻辣锅和花胶鸡鸳鸯锅",
+        "鸭肠、火箭鱿鱼、耗儿鱼等多伦多少见的川味食材"
+      ],
+      "name_zh": "渝作火锅 Yoozone Hot Pot",
+      "description_zh": "万锦Hwy7的火锅自助馆，牛油麻辣锅+花胶鸡锅是招牌，鸭肠/火箭鱿鱼/耗儿鱼等少见川味食材都点。",
+      "highlights_zh": [
+        "万锦高性价比重庆火锅自助",
+        "人均约$37，多伦多地少见川味小食"
+      ],
+      "signature_dish_zh": "牛油麻辣锅与鸳鸯锅",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "All-you-can-eat Chongqing-style hot pot in Markham with beef tallow mala broth, a two-broth combo and rare川味 mix-ins.",
+        "must_try": "🐮 Beef Tallow Spicy Broth\n🐓 Chicken-Mushroom Broth\n🦑 Rocket Squid / Duck Intestine / Fatty Fish",
+        "tips": "Soup bases cost extra; credit card charged 2.4%, bring debit or cash. Three rare items are duck intestine, rocket squid and fatty fish.",
+        "vibe": "Street-style Chongqing hot pot, go with friends"
+      }
+    },
+    {
+      "id": "shunde-congee-hotpot-scarborough",
+      "code": "121",
+      "name": "Shunde Congee Hot Pot",
+      "native_name": "顺德毋米粥",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Shunde-Style Congee Hot Pot (毋米粥) & Hand-Sliced Beef",
+      "description": "Scarborough Shunde-style congee hot pot near Midland, blending广东congee broth with鲜鲍、五花趾 and 烤乳鸽, open till 3am.",
+      "address": "3300 Midland Ave, Unit 41, Scarborough, ON M1V 4A1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/shunde-congee-hotpot-scarborough.webp",
+      "maps_url": "https://maps.google.com/?q=Shunde+Congee+Hot+Pot+3300+Midland+Ave+Scarborough",
+      "source_url": "https://www.ubereats.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Creamy Shunde-style congee broth with鲜鲍鱼,五花趾 and char-roasted pigeon",
+      "bullet_highlight": "Scarborough顺德-style congee hot pot with鲜鲍五花趾 and char-roasted pigeon",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a2e1584",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Scarborough新开顺德毋米粥火锅，锅底是奶白色粥汤加鲜鲍花蛤，手切吊龙最鲜，烤乳鸽焦脆，夏天吃很清爽。",
+        "must_try": "🥩 手切吊龙\n🦪 鲜鲍鱼\n🍖 五花趾\n🐦 烤乳鸽",
+        "tips": "锅底可自己加盐和胡椒；高峰期要排队一小会；店里是广东茶楼风松弛，朋友聚餐带长辈都行",
+        "vibe": "顺德茶楼style，毋米粥锅底，适合夏天清爽吃"
+      },
+      "highlights": [
+        "顺德style congee hot pot with鲜鲍鱼,五花趾 and a creamy porridge base",
+        "Hand-sliced beef, roasted pigeon and a Guangzhou tea-house atmosphere"
+      ],
+      "name_zh": "顺德毋米粥",
+      "description_zh": "Scarborough顺德毋米粥火锅，锅底奶白色鲜粥，手切吊龙最鲜，鲜鲍鱼/五花趾/烤乳鸽都值得点。",
+      "highlights_zh": [
+        "Scarborough新开顺德毋米粥火锅",
+        "手切吊龙温润鲜美，配鲜鲍鱼和烤乳鸽绝了"
+      ],
+      "signature_dish_zh": "毋米粥锅底与手切吊龙",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Scarborough Shunde-style congee hot pot with a creamy broth, hand-sliced beef and char-roasted pigeon, ideal for a summer meal.",
+        "must_try": "🥩 Hand-Sliced Beef\n🦪 Fresh Abalone\n🍖 Five-Toe Meat\n🐦 Roast Pigeon",
+        "tips": "Add salt and pepper to the broth for a cleaner finish; expect a short wait at peak times.",
+        "vibe": "Shunde tea-house style, light and cozy, good for summer dinner"
+      }
     }
   ]
 }
