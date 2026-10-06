@@ -3967,6 +3967,293 @@
         "tips": "Book a reservation for golden hour (30-45 minutes before sunset) to catch breathtaking colors reflecting off Lake Ontario and the CN Tower illuminations. Tables fill up quickly on weekends; reservations via OpenTable are strongly recommended.",
         "vibe": "Upscale, breezy Californian coastal retreat in the sky with floor-to-ceiling glass and lively music"
       }
+    },
+    {
+      "id": "xi-noodle-house-yonge",
+      "code": "084",
+      "name": "Xi Noodle House",
+      "native_name": "老山西",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Shanxi Oil-Splashed Noodles (You Po Mian)",
+      "description": "Trendy Shanxi knife-cut noodle spot on Yonge St with sizzling oil-splashed noodles, wandza noodles and lunch queues.",
+      "address": "510 Yonge St, Toronto, ON M4Y 1X9",
+      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/xi-noodle-house-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Xi+Noodle+House+510+Yonge+St+Toronto",
+      "source_url": "https://www.yelp.ca/biz/xi-noodle-house-toronto",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 6,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Fiery oil-splashed noodles with rich, savory wandza broth",
+      "bullet_highlight": "UT student noodle canteen with hand-cut Shanxi noodles",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a9f6753000000002a0243a2",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "DTYonge街新开的山西刀削面馆，明厨现制，油泼面与豌杂面都是热门，午饭与下课排号等位要耐心。",
+        "must_try": "🍅 特色油泼面（牛肉/猪肉，柿子鸡蛋卤中和微辣）\n🌶️ 特色豌杂面（麻酱浓汤底，半个卤蛋）",
+        "tips": "人多时油泼面出餐较慢，急的话可电话takeout；现金付款有折扣，记得带现金。",
+        "vibe": "小店面明厨亮灶， UT学生食堂级热闹，适合一人食快吃"
+      },
+      "highlights": [
+        "New Shanxi knife-cut noodle spot on Yonge with banging oil-splashed noodles",
+        "Hand-cut noodles with rich wandza broth, cash discount and steady lunch queues"
+      ],
+      "name_zh": "老山西 Xi Noodle House",
+      "description_zh": "DT Yonge街新开的山西刀削面馆，主打手工刀削面，特色油泼面与豌杂面口碑火，学生午饭常常要排号。",
+      "highlights_zh": [
+        "DT Yonge街山西刀削面新店，油泼面与豌杂面深受好评",
+        "明厨亮灶现制手削面，现金优惠，UT学生食堂首选"
+      ],
+      "signature_dish_zh": "特色油泼面与豌杂面",
+      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "Newly opened Shanxi knife-cut noodle house at 510 Yonge serving hot oil-splashed and wandza noodles, very popular with UT students.",
+        "must_try": "🍅 Signature You Po Noodles (beef or pork, mildly spicy with tomato-egg sauce)\n🌶️ Signature Wandza Noodles (rich sesame paste broth, half braised egg)",
+        "tips": "Peak lunch lines can mean long waits; call ahead for takeout. Cash payments get a discount.",
+        "vibe": "Compact open-kitchen noodle canteen, fast-casual and student-heavy"
+      }
+    },
+    {
+      "id": "los-gyros-sheppard",
+      "code": "085",
+      "name": "Los Gyros",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Mexican",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Molcajete Los Gyros (sizzling volcanic stone platter)",
+      "description": "Generous North York Mexican taqueria known for meat-loaded taco platters, sizzling molcajete platters and fast casual energy.",
+      "address": "816 Sheppard Ave W, Toronto, ON M3H 2T1",
+      "hours_note": "Wed-Sun 11:00 AM - 10:00 PM",
+      "image_url": "assets/images/los-gyros-sheppard.webp",
+      "maps_url": "https://maps.google.com/?q=Los+Gyros+816+Sheppard+Ave+W+Toronto",
+      "source_url": "https://www.losgyrosmexicanfood.com/",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Smoky grilled meats, al pastor pork and fiery molcajete skillet",
+      "bullet_highlight": "Loaded taco platters and a sizzling volcanic-stone molcajete built for sharing",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a79064b0000000025006a77",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北约克市头地道墨西哥馆子，偏街头风而非精致摆盘，肉给得实在，适合多人多点几种taco和molcajete一起分享。",
+        "must_try": "🌮 Taco Platter（Al Pastor / Carne Asada / Suadero 混搭）\n🔥 Molcajete Los Gyros（火山石锅杂烩，pork chop/chorizo/牛排/虾一锅）",
+        "tips": "4点左右去不用排太久；牛舌taco炖得软嫩，好きな人可以点；一定要挤 lime。",
+        "vibe": "热闹的墨西哥街头风小馆，conceptual for group sharing"
+      },
+      "highlights": [
+        "Authentic North York Mexican spot with generous, street-style portions",
+        "Sizzling molcajete stone platters and loaded taco platters built for sharing"
+      ],
+      "name_zh": "Los Gyros 墨西哥馆",
+      "description_zh": "北约克高人气墨西哥馆，主打街头风Taco拼盘与滋滋作响的Molcajete火山石锅，够朋友聚餐点一桌。",
+      "highlights_zh": [
+        "北约克地道墨西哥菜馆，肉给得很大方，街头风",
+        "招牌火山石锅Molcajete与Taco拼盘，适合多人分享"
+      ],
+      "signature_dish_zh": "Molcajete 火山石锅杂烩",
+      "hours_note_zh": "周三至周日 11:00 - 22:00",
+      "review_notes_en": {
+        "summary": "Popular North York taqueria with street-style vibes, meat-heavy taco platters and a showpiece sizzling molcajete.",
+        "must_try": "🌮 Taco Platter (Al Pastor / Carne Asada / Suadero mix)\n🔥 Molcajete Los Gyros (volcanic stone platter with pork chop, chorizo, steak and shrimp)",
+        "tips": "Go around 4pm to dodge the line; the lengua (beef tongue) taco is tender and worth trying; finish with lime.",
+        "vibe": "Lively, street-style Mexican taqueria perfect for group meals"
+      }
+    },
+    {
+      "id": "good-luck-hk-cafe-yonge",
+      "code": "086",
+      "name": "Good Luck HK Cafe",
+      "native_name": "行運冰室",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Char-Grilled Mixed Meat Rice (Oily Rush over Rice)",
+      "description": "North York Hong Kong-style cha chaan teng with retro-red plates, Michelin-designed dinner set and smoky grilled meat rice bowls.",
+      "address": "5533 Yonge St, North York, ON M2N 7L3",
+      "hours_note": "Mon-Sun 11:00 AM - 11:00 PM",
+      "image_url": "assets/images/good-luck-hk-cafe-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Good+Luck+HK+Cafe+5533+Yonge+St+North+York",
+      "source_url": "https://www.ubereats.com/ca/store/%E8%A1%8C%E9%81%8B%E5%86%B0%E5%AE%A4-good-luck-hk-cafe/PlNNpYbTXdmjLLWFh6bYrw",
+      "unverified": [],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Smoky char-grilled meats with hearty HK-style rice and claypot dishes",
+      "bullet_highlight": "Retro cha chaan teng vibe with a Michelin-inspired dinner set menu",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a8a2b6400000000230128c6",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "北约克的茶餐厅，号称晚餐菜单请米其林厨师设计，红色复古餐具氛围感满分，烧腊饭与海鲜炖饭都惊喜。",
+        "must_try": "🍚 黯然销魂烧腊饭（各式烧腊肉铺满，锅巴米饭绝了）\n🦐 潮式海鲜炖饭（海鲜香奶香的潮式 risotto）",
+        "tips": "晚餐有茶餐厅常规菜单加特别套餐，选择多；烟熏烤串、生腌泰式扇贝也不错；人均约35刀。",
+        "vibe": "复古红色餐盘茶餐厅，晚餐氛围感十足，适合漂亮饭"
+      },
+      "highlights": [
+        "Hong Kong-style cha chaan teng with retro red plates and Michelin-designed dinner set",
+        "Char-grilled meat rice bowls and smoky skewers are the signature comfort hits"
+      ],
+      "name_zh": "行運冰室",
+      "description_zh": "北约克人气港式茶餐厅，主打复古红盘氛围与请米其林厨师设计的晚餐特别菜单，黯然销魂烧腊饭与潮式海鲜炖饭是招牌。",
+      "highlights_zh": [
+        "港式茶餐厅，红盘复古美学，晚餐菜单据说请米其林厨师设计",
+        "招牌黯然销魂烧腊饭与烟熏烤串，是北约克的漂亮饭晚餐"
+      ],
+      "signature_dish_zh": "黯然销魂烧腊饭",
+      "hours_note_zh": "周一至周日 11:00 - 23:00",
+      "review_notes_en": {
+        "summary": "Trendy North York cha chaan teng with retro-red dishware, a Michelin-designed dinner set and crowd-pleasing char-grilled rice bowls.",
+        "must_try": "🍚 Signature Char-Grilled Mixed-Meat Rice (layers of roast meats with crispy rice crust)\n🦐 Chaoshan-Style Seafood Risotto (savory seafood-scented rice casserole)",
+        "tips": "Dinner offers both a standard cha chaan teng menu and a special set menu; smoky skewers and Thai-style marinated scallops are also great. Expect roughly $35 per person with tax and tip.",
+        "vibe": "Retro HK diner atmosphere with red plates, ideal for a cozy date-night dinner"
+      }
+    },
+    {
+      "id": "pears-restaurant-markham",
+      "code": "087",
+      "name": "Pears Restaurant",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Taro & Mochi Pie with coconut cream",
+      "description": "Stylish Markham Asian brasserie by chef Keith Pears serving inventive fusion plates, moody cocktails and buzzy date-night energy.",
+      "address": "8130 Birchmount Rd, Markham, ON L6G 0E4",
+      "hours_note": "Tue-Sun 11:30 AM - 10:00 PM",
+      "image_url": "assets/images/pears-restaurant-markham.webp",
+      "maps_url": "https://maps.google.com/?q=Pears+Restaurant+8130+Birchmount+Rd+Markham",
+      "source_url": "https://pearsrestaurant.com/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Inventive Asian-fusion plates, mala cream udon and taro mochi dessert",
+      "bullet_highlight": "Chef Keith Pears' buzzy brasserie with moody cocktails and plant-filled space",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a0a579e00000000380220b1",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "万锦人气融合菜馆，简约高级感+绿植，适合约会；韩式炸鸡slider、花生酱鸡沙爹、麻辣奶油乌冬与芋泥麻薯派都值得点。",
+        "must_try": "🍔 Sliders（甜辣韩式炸鸡迷你堡）\n🍝 Mala Cream Carbonara（乌冬+麻辣奶油+温泉蛋）\n🥧 Taro & Mochi Pie（千层酥皮芋泥麻薯派）",
+        "tips": "人很多但不吵不挤，动静好；热门cocktail如Zavatar（烟熏泡泡）、Plum Seika点燃火焰出品很有仪式感。",
+        "vibe": "简约高级感的绿植餐厅，夜晚灯光氛围适合date night"
+      },
+      "highlights": [
+        "Buzzy Markham brasserie by Chef Keith Pears with inventive Asian-fusion plates",
+        "Mala cream udon, taro mochi pie and theatrical cocktails set the mood"
+      ],
+      "name_zh": "Pears Restaurant 梨子餐厅",
+      "description_zh": "万锦人气融合餐厅，主厨Keith Pears 打造，绿植空间氛围感好，招牌菜包括麻辣奶油乌冬、芋泥麻薯派与主题鸡尾酒。",
+      "highlights_zh": [
+        "万锦约会首选融合菜馆，简约高级感绿植空间",
+        "麻辣奶油乌冬、韩式炸鸡slider与芋泥麻薯派人气出圈"
+      ],
+      "signature_dish_zh": "麻辣奶油乌冬与芋泥麻薯派",
+      "hours_note_zh": "周二至周日 11:30 - 22:00",
+      "review_notes_en": {
+        "summary": "Locally beloved Markham fusion restaurant with sleek plant-filled interiors, inventive small plates and showy cocktails.",
+        "must_try": "🍔 Sliders (sweet-spicy Korean fried chicken sliders)\n🍝 Mala Cream Carbonara (udon, spicy cream sauce, onsen egg)\n🥧 Taro & Mochi Pie (taro-mochi filled mille-feuille pastry)",
+        "tips": "Busy but never cramped; order one of the signature cocktails like Zavatar (smoky bubble) or Plum Seika (flamed) for full theatre.",
+        "vibe": "Slick, green-accented date-night dining room with buzzy but relaxed energy"
+      }
     }
   ]
 }
