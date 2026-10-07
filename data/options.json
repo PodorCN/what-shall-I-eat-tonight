@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-06",
   "location": "Toronto, ON",
   "options": [
     {
@@ -7720,6 +7720,3565 @@
         "must_try": "🐟 Ankimo\n🍢 Charcoal chicken skewers\n🍱 Unagi don",
         "tips": "The citrus-pepper pork neck reads mild but fragrant; opening discounts were 10% off, no cash needed.",
         "vibe": "Calm, warm new izakaya for solo dinners or a small group with drinks"
+      }
+    },
+    {
+      "id": "pizzeria-badiali-mirvish",
+      "code": "140",
+      "name": "Pizzeria Badiali",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "New York-Style Pepperoni & Burrata Slices",
+      "description": "Mirvish Village slice shop from Toronto's cult pizzeria, baking crisp New York-style pizza.",
+      "address": "581 Markham St, Toronto, ON M6G 2L8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/pizzeria-badiali-mirvish.webp",
+      "maps_url": "https://maps.google.com/?q=Pizzeria%20Badiali%20581%20Markham%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a14b230000000000f03ac00",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 40,
+      "portion_size": "light",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Crisp thin crust carrying house-made cheese, pepperoni and creamy burrata",
+      "bullet_highlight": "Second slice shop for Toronto's most-hyped pizzeria, on a quiet Mirvish Village street",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a14b230000000000f03ac00",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多最🔥的披萨终于开分店了，新店在Mirvish Village一条很宁静的小街上。艳阳高照的下午三点店里坐满了人，但基本上不用排队。",
+        "must_try": "🍕 Pepperoni 经典切片\n🧀 Burrata 切片",
+        "tips": "原店（181 Dovercourt）高峰排队半小时起；这间分店错峰去轻松很多，店外就是安静的小社区。",
+        "vibe": "宁静社区里的街边切片店，站着吃或打包带走都合适"
+      },
+      "highlights": [
+        "Second slice shop for Toronto's most-hyped pizzeria",
+        "Crisp New York-style slices; a 3pm weekday visit means no line"
+      ],
+      "name_zh": "Pizzeria Badiali 披萨（Mirvish Village 分店）",
+      "description_zh": "多伦多最火披萨店开的第二家分店，藏在Mirvish Village的安静小街，纽约风味薄脆切片披萨。",
+      "highlights_zh": [
+        "多伦多最火披萨店的第二家分店",
+        "纽约风味薄脆切片，工作日下午三点来基本不用排队"
+      ],
+      "signature_dish_zh": "纽约风味辣肠与布拉塔芝士切片披萨",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Toronto's most-hyped pizzeria finally opened a second slice shop on a quiet Mirvish Village street; the room was full at 3pm yet there was still no lineup.",
+        "must_try": "🍕 Pepperoni classic slice\n🧀 Burrata slice",
+        "tips": "The Dovercourt original can queue over half an hour at peak; mid-afternoon here is calm.",
+        "vibe": "A neighbourhood slice counter on a residential block"
+      }
+    },
+    {
+      "id": "gryfes-bagels-bathurst",
+      "code": "141",
+      "name": "Gryfe's Bagels",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "light",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Goldie-lox Smoked Salmon Bagel Sandwich",
+      "description": "A 1915 Hamilton bagel legend on Bathurst, known for impossibly soft, airy bagels.",
+      "address": "3421 Bathurst St, North York, ON M6A 2C2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/gryfes-bagels-bathurst.webp",
+      "maps_url": "https://maps.google.com/?q=Gryfe%27s%20Bagels%203421%20Bathurst%20St%20North%20York",
+      "source_url": "https://www.rednote.com/discovery/item/6a2dd495000000003502be47",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Warm Everything bagel stacked with smoked salmon and a soft folded egg",
+      "bullet_highlight": "A century-old Hamilton bakery with a bright, artisan workshop feel",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a2dd495000000003502be47",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "在多伦多住了十年才知道的传奇贝果店，曾有美国情侣博主一次买100多颗带回LA。1915年诞生于Hamilton，不是纽约也不是蒙特利尔风格。",
+        "must_try": "🥯 Goldie-lox 贝果三明治（$11.99，选Everything bagel）\n🍩 Cinnamon Sugar 肉桂糖贝果（卖得最好）",
+        "tips": "店里明亮干净像匠人工坊，常客进门直接钦点；三明治整颗烤得热乎乎，非常扎实。",
+        "vibe": "百年贝果工坊的气质，客人络绎不绝，多是不说二话的老主顾"
+      },
+      "highlights": [
+        "Founded in Hamilton in 1915 and still baking on Bathurst Street",
+        "Soft, airy bagels; the $11.99 Goldie-lox sandwich is the order"
+      ],
+      "name_zh": "Gryfe's 贝果老店",
+      "description_zh": "1915年始于Hamilton的百年贝果老店，贝果松软有空气感，招牌Goldie-lox三明治值得一试。",
+      "highlights_zh": [
+        "1915年创立于Hamilton，至今仍在Bathurst街出炉",
+        "贝果松软不干噎，推荐11.99加元的Goldie-lox三明治"
+      ],
+      "signature_dish_zh": "Goldie-lox 烟熏三文鱼滑蛋贝果三明治",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A 111-year-old Hamilton bagel bakery that Toronto only recently discovered; a visiting US couple once bought more than a hundred to take back to Los Angeles.",
+        "must_try": "🥯 Goldie-lox smoked salmon and egg sandwich ($11.99)\n🍩 Cinnamon sugar bagel, the top seller",
+        "tips": "Get the Everything bagel toasted warm with the soft egg; the sandwich is a solid, full meal.",
+        "vibe": "A bright, spotless bakery workshop full of regulars"
+      }
+    },
+    {
+      "id": "beijing-hotpot-parkway-forest",
+      "code": "142",
+      "name": "Beijing Hot Pot Restaurant",
+      "native_name": "后海味铜锅涮肉",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Copper-Pot Lamb Rolls with House Sesame Dip",
+      "description": "Ten-year-old North York copper-pot hotpot with all-you-can-eat lamb and beef rolls.",
+      "address": "107 Parkway Forest Dr Unit 1, North York, ON M2J 1L8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/beijing-hotpot-parkway-forest.webp",
+      "maps_url": "https://maps.google.com/?q=Beijing%20Hot%20Pot%20Restaurant%20107%20Parkway%20Forest%20Dr%20Unit%201%20North%20York",
+      "source_url": "https://www.rednote.com/discovery/item/6ab44025000000000a02192a",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [
+        "hotpot"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Thin-sliced lamb and beef swirled through a bubbling copper pot, dipped in sesame paste",
+      "bullet_highlight": "Old Beijing charcoal copper-pot hotpot running all-you-can-eat for a decade",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6ab44025000000000a02192a",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多少见的老北京铜锅，而且还是AYCE。以前在国内出差时就爱一个人躲起来麻酱涮牛羊肉，来多伦多后一直想念这口。",
+        "must_try": "🍲 手切羊肉\n🥣 自制麻酱蘸料",
+        "tips": "AYCE比单点划算；麻酱是灵魂，怕腻可以让店员帮忙调一份广东式蘸料。",
+        "vibe": "铜锅炭火的老北京氛围，适合多人围炉慢涮"
+      },
+      "highlights": [
+        "Old Beijing charcoal copper-pot hotpot, all-you-can-eat for ten years",
+        "Rolls of lamb and beef finished in a house-made sesame dip"
+      ],
+      "name_zh": "后海味铜锅涮肉",
+      "description_zh": "开了十年的老北京铜锅涮肉，AYCE自助手切牛羊肉配自制麻酱，冬天约饭首选。",
+      "highlights_zh": [
+        "经营十年的老北京炭火铜锅涮肉，AYCE自助",
+        "手切牛羊肉涮好后裹上自制麻酱，肉香浓郁"
+      ],
+      "signature_dish_zh": "铜锅手切羊肉配自制麻酱",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "One of Toronto's few genuine Beijing charcoal copper-pot hotpots, and unusually it is all-you-can-eat.",
+        "must_try": "🍲 Hand-sliced lamb\n🥣 House sesame dipping sauce",
+        "tips": "Go for the AYCE option rather than ordering individually; the house sesame sauce is the point of the meal.",
+        "vibe": "Charcoal-fired copper pots and a long, unhurried communal dinner"
+      }
+    },
+    {
+      "id": "snowday-bingsu-church",
+      "code": "143",
+      "name": "Snowday Bingsu & Dessert Cafe",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "date-night"
+      ],
+      "weather_fit": [
+        "hot"
+      ],
+      "signature_dish": "Tiramisu Bingsu",
+      "description": "Church Street dessert cafe famous for tiramisu bingsu layered with cocoa and espresso.",
+      "address": "449 Church St, Toronto, ON M4Y 2C6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/snowday-bingsu-church.webp",
+      "maps_url": "https://maps.google.com/?q=Snowday%20Bingsu%20%26%20Dessert%20Cafe%20449%20Church%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69dd7d33000000002200f580",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 11,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Milky snow ice with cocoa layers, condensed milk cream and a tiramisu wedge on top",
+      "bullet_highlight": "A whole tiramisu wedge and a little pot of espresso to pour over the signature bowl",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69dd7d33000000002200f580",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "收藏了很久的提拉米苏bingsu，上面有完整的提拉米苏切角，还有一小壶咖啡液，视觉效果💯。",
+        "must_try": "☕️ 提拉米苏 Bingsu\n🥛 牛奶味雪花冰配炼乳酱",
+        "tips": "冰底奶香足、可可粉一层层铺，淋上咖啡液一点都不腻；咖啡本身中规中矩，bingsu才是重点。",
+        "vibe": "Church街上的韩式雪花冰店，适合两个人分一碗"
+      },
+      "highlights": [
+        "Korean bingsu cafe in the Church-Wellesley village",
+        "Tiramisu bingsu with cocoa layers and a shot of espresso to pour over"
+      ],
+      "name_zh": "Snowday 雪花冰咖啡",
+      "description_zh": "Church街的韩式甜品店，招牌提拉米苏雪花冰铺满可可粉，配一小壶浓缩咖啡液。",
+      "highlights_zh": [
+        "Church-Wellesley社区的韩式雪花冰甜品店",
+        "提拉米苏雪花冰层层撒可可粉，配一小壶浓缩咖啡自己淋"
+      ],
+      "signature_dish_zh": "提拉米苏雪花冰",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The tiramisu bingsu arrives with a whole slice of tiramisu on top and a small pot of espresso to pour over it.",
+        "must_try": "☕️ Tiramisu bingsu",
+        "tips": "The milk-snow base is layered with cocoa and condensed milk; pour the espresso over just before eating. The regular coffee is average, so come for the bowl.",
+        "vibe": "A small Church Street dessert counter built for sharing"
+      }
+    },
+    {
+      "id": "jule-bistro-queen-west",
+      "code": "144",
+      "name": "Jule Bistro",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "24oz Bone-In Steak with Frites",
+      "description": "Queen West French bistro serving a 24oz bone-in steak with salad and frites, half price Tuesdays.",
+      "address": "924 Queen St W, Toronto, ON M6J 1G6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/jule-bistro-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Jule%20Bistro%20924%20Queen%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69e3e52c000000000b0136eb",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 42,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Charred bone-in steak cooked medium rare with crisp frites and dressed greens",
+      "bullet_highlight": "Half-price steak every Tuesday makes this one of Toronto's cheapest real steak dinners",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69e3e52c000000000b0136eb",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "已被这家法式牛排馆香晕。带骨牛排24oz配沙拉和薯条，薯条特别好吃，medium rare两个人吃感觉刚刚好。",
+        "must_try": "🥩 24oz 带骨牛排（medium rare）\n🍟 现炸薯条",
+        "tips": "每周二牛排半价，超值羊毛必须薅一下。",
+        "vibe": "Queen West上低调的法式bistro，适合两个人慢慢吃一顿"
+      },
+      "highlights": [
+        "Casual Queen West French bistro with a loyal neighbourhood crowd",
+        "24oz bone-in steak for two, half price on Tuesdays"
+      ],
+      "name_zh": "Jule 法式牛排小馆",
+      "description_zh": "Queen West法式牛排馆，24盎司带骨牛排配沙拉薯条，每周二牛排半价。",
+      "highlights_zh": [
+        "Queen West街坊最爱的法式小馆",
+        "24盎司带骨牛排两人分享刚刚好，每周二牛排半价"
+      ],
+      "signature_dish_zh": "24盎司带骨牛排配薯条",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A casual French bistro on Queen West built around a 24oz bone-in steak with salad and frites, cooked medium rare for two.",
+        "must_try": "🥩 24oz bone-in steak, medium rare\n🍟 Frites",
+        "tips": "Steak is half price every Tuesday, so plan the visit around it.",
+        "vibe": "An unfussy Queen West room that works well for a two-person dinner"
+      }
+    },
+    {
+      "id": "sunlit-town-brunch-richmond-hill",
+      "code": "145",
+      "name": "Sunlit Town Breakfast & Lunch",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Matcha Strawberry Toast",
+      "description": "Richmond Hill brunch spot whose seasonal matcha-strawberry toast tastes clean, never cloying.",
+      "address": "13075 Yonge St Unit 8, Richmond Hill, ON L4E 2T0",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/sunlit-town-brunch-richmond-hill.webp",
+      "maps_url": "https://maps.google.com/?q=Sunlit%20Town%20Breakfast%20%26%20Lunch%2013075%20Yonge%20St%20Unit%208%20Richmond%20Hill",
+      "source_url": "https://www.rednote.com/discovery/item/69fa051c000000003601e6f9",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Matcha and strawberry toast with bright, tart fruit instead of sugar overload",
+      "bullet_highlight": "A seasonal matcha-strawberry series covering toast, desserts and drinks",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69fa051c000000003601e6f9",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "这家Brunch唯一的缺点就是有一点点远。抹茶草莓这个组合本来就很难不喜欢，做成吐司甜品和饮品以后整体很清爽。",
+        "must_try": "🍓 抹茶草莓吐司\n🍵 抹茶草莓饮品",
+        "tips": "甜度控制得好，抹茶香加草莓的酸，吃到最后也不会腻；从市区过来要预留车程。",
+        "vibe": "北边阳光小镇风的早午餐店，适合周末慢慢吃"
+      },
+      "highlights": [
+        "Seasonal matcha and strawberry toast, dessert and drinks",
+        "Homemade-style breakfast and lunch a short drive north of the city"
+      ],
+      "name_zh": "Sunlit Town 早午餐",
+      "description_zh": "Richmond Hill的早午餐店，新出的抹茶草莓系列酸甜清爽，吐司和饮品都不腻。",
+      "highlights_zh": [
+        "当季抹茶草莓系列：吐司、甜品、饮品都有",
+        "北边的手作风早午餐，酸甜清爽不腻"
+      ],
+      "signature_dish_zh": "抹茶草莓吐司",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The only complaint is the drive; Sunlit Town's seasonal matcha-strawberry toast and drinks are clean, tart and never cloying.",
+        "must_try": "🍓 Matcha strawberry toast\n🍵 Matcha strawberry drink",
+        "tips": "Sweetness stays restrained and the strawberry acidity keeps it fresh, but allow time for the trip from downtown.",
+        "vibe": "A sunny, unhurried breakfast-and-lunch room in Richmond Hill"
+      }
+    },
+    {
+      "id": "gladiator-burger-etobicoke",
+      "code": "146",
+      "name": "Gladiator Burger",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "indulgent",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Entertain Me Chicken Burger",
+      "description": "Etobicoke's Google 4.8-rated burger shop that wins on delivery, with beef and chicken burgers.",
+      "address": "1020 Islington Ave, Etobicoke, ON M8Z 0E5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/gladiator-burger-etobicoke.webp",
+      "maps_url": "https://maps.google.com/?q=Gladiator%20Burger%201020%20Islington%20Ave%20Etobicoke",
+      "source_url": "https://www.rednote.com/discovery/item/6a5ab26f0000000002003c00",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Juicy beef and chicken burgers with crisp-fried mozzarella on a soft bun",
+      "bullet_highlight": "A Google 4.8-rated burger shop whose packaging survives the delivery ride",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a5ab26f0000000002003c00",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "谷歌评分4.8的汉堡果然名不虚传。在多伦多汉堡市场寻寻觅觅、踩雷无数之后，终于在一份外卖里发现了汉堡之星。",
+        "must_try": "🍔 牛肉汉堡\n🐔 Entertain Me 鸡肉堡",
+        "tips": "Entertain Me里的脆皮芝士吃到最后偏油，去掉就完美；没有堂食验证过，外卖最稳。",
+        "vibe": "朴实的西城汉堡外卖店，晚上叫一份很满足"
+      },
+      "highlights": [
+        "Google 4.8-rated burger shop in Etobicoke",
+        "Delivery holds up: beef burger praised, chicken burger with fried mozzarella"
+      ],
+      "name_zh": "Gladiator 汉堡",
+      "description_zh": "Etobicoke谷歌4.8分的汉堡店，外卖也很能打，牛肉堡和脆皮芝士鸡肉堡都受好评。",
+      "highlights_zh": [
+        "Etobicoke谷歌评分4.8的汉堡之星",
+        "外卖也能打：牛肉堡好评，脆皮芝士鸡肉堡看个人口味"
+      ],
+      "signature_dish_zh": "Entertain Me 脆皮芝士鸡肉堡",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "After a long string of Toronto burger disappointments, a Google 4.8-rated Etobicoke shop finally delivered.",
+        "must_try": "🍔 Beef burger\n🐔 Entertain Me crispy chicken burger",
+        "tips": "The crisp-fried mozzarella in the Entertain Me gets heavy by the end; ask for it without. Delivery is the proven way to order.",
+        "vibe": "A no-frills west-end burger counter that travels well"
+      }
+    },
+    {
+      "id": "the-wren-danforth",
+      "code": "147",
+      "name": "The Wren",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Bangkok for Your Buck Beef Burger",
+      "description": "Danforth gastropub known for Toronto's best burgers, now serving a Sichuan-chili mayo beef burger.",
+      "address": "1382 Danforth Ave, Toronto, ON M4J 1M9",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/the-wren-danforth.webp",
+      "maps_url": "https://maps.google.com/?q=The%20Wren%201382%20Danforth%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a67ff68000000000f0078d2",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Flame-grilled patty with Sichuan chili mayo, sesame satay sauce, onion ring and mozzarella",
+      "bullet_highlight": "The Bangkok for Your Buck burger layers Sichuan, Southeast Asian and smoky BBQ flavours",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a67ff68000000000f0078d2",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "回到我心中多伦多最好吃的汉堡屋，因为常驻菜单更新了牛肉汉堡。黄油面包油亮登场，咬下是爆炒中餐加东南亚的混合风味。",
+        "must_try": "🍔 Bangkok for Your Buck 牛肉堡\n🍺 搭配店内啤酒",
+        "tips": "老款 Dwayne & Josh Burger 2 已经下架，直接点新款；汉堡里有流心马苏里拉和一颗很脆的洋葱圈。",
+        "vibe": "Danforth上的天才汉堡屋，热闹，适合朋友聚"
+      },
+      "highlights": [
+        "Called Toronto's best burger house, now with a new Asian-fusion beef burger",
+        "Sichuan chili mayo, sesame satay sauce, crispy onion ring and runny mozzarella"
+      ],
+      "name_zh": "The Wren 汉堡屋",
+      "description_zh": "被称作多伦多最好吃的汉堡屋，新款牛肉堡加了四川辣子奶黄酱、沙爹酱和脆洋葱圈。",
+      "highlights_zh": [
+        "被封为多伦多最好吃的汉堡屋，常驻菜单新上亚洲融合牛肉堡",
+        "四川辣子奶黄酱+芝麻沙爹酱+脆洋葱圈+流心芝士，层次分明"
+      ],
+      "signature_dish_zh": "Bangkok for Your Buck 亚洲融合牛肉堡",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The Danforth favourite swapped in a new house beef burger: butter bun, flame-grilled patty and a mix of Sichuan and Southeast Asian sauces.",
+        "must_try": "🍔 Bangkok for Your Buck beef burger",
+        "tips": "The old Dwayne & Josh Burger 2 is off the menu, so go straight for the new one. Expect a runny mozzarella center and a very crisp onion ring.",
+        "vibe": "A buzzy Danforth pub that friends pack out for burgers"
+      }
+    },
+    {
+      "id": "vu-cafe-studio-dundas",
+      "code": "148",
+      "name": "Vū Cafe | Studio",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Middle Eastern",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "light",
+        "solo",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Croissant Cold Brew",
+      "description": "Dundas West art cafe hung with local paintings, serving Middle Eastern plates from breakfast.",
+      "address": "844 Dundas St W, Toronto, ON M6J 1V5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/vu-cafe-studio-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=V%C5%AB%20Cafe%20%7C%20Studio%20844%20Dundas%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a9c4468000000002902eb64",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 33,
+      "portion_size": "normal",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [
+        "more-veggie"
+      ],
+      "bullet_flavor": "Hummus, labneh and salad bowls with flatbread, plus croissant cold brew and blueberry matcha",
+      "bullet_highlight": "Handmade ceramic cups and art in every corner, including a basement painting studio",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a9c4468000000002902eb64",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Dundas West新开一周的绝美艺术咖啡馆，在它还没有大火之前先去惬意喝了一杯早餐咖啡。从入门到地下室到厕所全是艺术细节。",
+        "must_try": "🥐 可颂冷萃\n🧊 冰蓝莓抹茶",
+        "tips": "食物主打中东：hummus、labneh、沙拉碗和flatbread（中东式披萨），所以早午餐、午餐甚至晚餐都合适。",
+        "vibe": "被本地艺术家雕刻与画作包围，可以待一整天的治愈空间"
+      },
+      "highlights": [
+        "Dundas West art cafe filled with local paintings and handmade ceramic cups",
+        "Middle Eastern menu runs from hummus and labneh breakfast through to dinner"
+      ],
+      "name_zh": "Vū Cafe 艺术咖啡馆",
+      "description_zh": "Dundas West新开的艺术咖啡馆，挂满本地艺术家作品，主打中东菜，可从早餐待到晚餐。",
+      "highlights_zh": [
+        "Dundas West新开的艺术咖啡馆，老板与陶艺师合作的手作陶杯",
+        "中东风味从早午餐的hummus、labneh一路供应到晚餐"
+      ],
+      "signature_dish_zh": "可颂冷萃咖啡",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A brand-new Dundas West gallery-cafe where local paintings and sculpture run from the entrance down to the basement bathroom.",
+        "must_try": "🥐 Croissant cold brew\n🧊 Iced blueberry matcha",
+        "tips": "The kitchen is Middle Eastern, so hummus, labneh, salad bowls and flatbread make it work for breakfast, lunch or dinner.",
+        "vibe": "An art-filled, quietly healing room with seats for a whole afternoon"
+      }
+    },
+    {
+      "id": "forno-cultura-east-room",
+      "code": "149",
+      "name": "Forno Cultura x East Room Rooftop",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "light",
+        "solo"
+      ],
+      "weather_fit": [
+        "hot"
+      ],
+      "signature_dish": "Rooftop Coffee with CN Tower View",
+      "description": "King East rooftop cafe with CN Tower views, quiet desks, good coffee and bakery pastries.",
+      "address": "507 King St E, Toronto, ON M5A 3E1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/forno-cultura-east-room.webp",
+      "maps_url": "https://maps.google.com/?q=Forno%20Cultura%20x%20East%20Room%20Rooftop%20507%20King%20St%20E%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a2af60f00000000210207e5",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 17,
+      "portion_size": "light",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Filter coffee and bakery pastries with an uninterrupted CN Tower skyline",
+      "bullet_highlight": "Sun-soaked rooftop terrace seating plus quiet desks indoors and out",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a2af60f00000000210207e5",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "如果周末citywalk后只去一个地方，就去这家顶楼咖啡。露台景色美到失语，小风一吹，一杯咖啡可以呆一下午。",
+        "must_try": "☕️ 顶楼手冲咖啡\n🥯 面包与甜点",
+        "tips": "天气好时室外落座区会被阳光晒透；街边就有停车位，周日去是免费的。",
+        "vibe": "安静chill的顶楼露台，适合办公、冥想和浪费一个下午"
+      },
+      "highlights": [
+        "Rooftop terrace with CN Tower and downtown skyline views",
+        "Quiet indoor and outdoor work desks; coffee, bread and pastries all good"
+      ],
+      "name_zh": "Forno Cultura x East Room 顶楼咖啡",
+      "description_zh": "King East顶楼露台咖啡，看得见CN Tower与天际线，室内外都有办公位，咖啡面包甜点都在线。",
+      "highlights_zh": [
+        "顶楼露台看得见CN Tower与多伦多天际线",
+        "室内外都有办公位，咖啡、面包、甜点都在线"
+      ],
+      "signature_dish_zh": "可望CN Tower的顶楼手冲咖啡",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "If you only stop at one place after a weekend citywalk, make it this rooftop cafe where one coffee can stretch across an afternoon.",
+        "must_try": "☕️ Filter coffee\n🥯 Bakery bread and pastries",
+        "tips": "The outdoor terrace gets full sun; street parking is free on Sundays and spaces sit right out front.",
+        "vibe": "Quiet and genuinely chill, with indoor and outdoor desks for working"
+      }
+    },
+    {
+      "id": "uncle-wings-kitchen-richmond-hill",
+      "code": "150",
+      "name": "Uncle Wing's Kitchen",
+      "native_name": "荣记海鲜小炒",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Uncle Wing's Signature Stir-Fry",
+      "description": "Low-key Richmond Hill Cantonese tea house where regulars fill the room at every mealtime.",
+      "address": "9425 Leslie St Unit 6-7, Richmond Hill, ON L4B 3K9",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/uncle-wings-kitchen-richmond-hill.webp",
+      "maps_url": "https://maps.google.com/?q=Uncle%20Wing%27s%20Kitchen%209425%20Leslie%20St%20Unit%206-7%20Richmond%20Hill",
+      "source_url": "https://www.rednote.com/discovery/item/6a8b81920000000028000e7a",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Wok-hei stir-fry of fried tofu, pork jowl and dried salted fish with black bean",
+      "bullet_highlight": "An old-style Cantonese room with no influencer decor, and a Stephen Chow photo by the door",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a8b81920000000028000e7a",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "差点好几次错过这家富食街里的宝藏粤菜馆。没有网红装修，环境就是很朴素的老式粤菜茶楼feel，一到饭点里面经常坐满老广，门口还挂着星爷来打过卡的照片。",
+        "must_try": "🥢 荣记特式小炒（炸豆腐+猪颈肉+咸鱼干）\n🔥 啫啫鸡煲",
+        "tips": "另推荐秋葵腰果牛柳粒，牛柳嫩得有点离谱；啫啫鸡煲上桌还在滋滋响，是粤菜馆的基本功测试题。",
+        "vibe": "没有网红装修的老式粤菜馆，低调但功夫扎实"
+      },
+      "highlights": [
+        "A plain, old-school Cantonese tea house hidden inside a food plaza",
+        "Signature stir-fry with fried tofu, pork jowl and salted fish, a rice killer"
+      ],
+      "name_zh": "荣记海鲜小炒 Uncle Wing's Kitchen",
+      "description_zh": "富食街里低调的老式粤菜茶楼，饭点坐满老广，招牌特式小炒是白饭杀手。",
+      "highlights_zh": [
+        "藏在食街里的朴素老式粤菜茶楼，饭点常坐满",
+        "招牌特式小炒用炸豆腐、猪颈肉和咸鱼干，镬气足，妥妥白饭杀手"
+      ],
+      "signature_dish_zh": "荣记特式小炒",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A plain, old-school Cantonese tea house in Richmond Hill that fills with regulars at mealtime, with a Stephen Chow photo hanging by the door.",
+        "must_try": "🥢 Uncle Wing's signature stir-fry: fried tofu, pork jowl and dried salted fish\n🔥 Sizzling clay-pot chicken",
+        "tips": "The okra, cashew and beef cubes are quietly excellent; the sizzling clay-pot chicken arrives still crackling and is the kitchen's baseline test.",
+        "vibe": "No influencer decor, just an old-style Cantonese room that cooks properly"
+      }
+    },
+    {
+      "id": "hinoya-curry-carlton",
+      "code": "151",
+      "name": "Hinoya Curry",
+      "native_name": "日乃屋カレー",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Tonkatsu Curry with Extra Cheese",
+      "description": "Carlton Street outlet of Japan's award-winning Hinoya Curry, known for sweet-spicy Japanese curry.",
+      "address": "20 Carlton St, Toronto, ON M5B 2H5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/hinoya-curry-carlton.webp",
+      "maps_url": "https://maps.google.com/?q=Hinoya%20Curry%2020%20Carlton%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a528d6d000000000c003000",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 6,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Sweet-spicy Japanese curry ladled over rice with panko-crusted tonkatsu or chicken katsu",
+      "bullet_highlight": "A downtown branch of a Japanese curry brand that has won awards back home",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a528d6d000000000c003000",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "突然很想吃日式咖喱，就来试试这家来自日本、据说拿过日本咖喱大奖的日乃屋。咖喱酱整体偏甜辣。",
+        "must_try": "🍛 炸猪排咖喱（Tonkatsu Curry）\n🧀 加一份芝士（芝士脑袋必加）",
+        "tips": "大份和常规的区别只在米饭多少；原笔记的评价是中规中矩、没太多记忆点，住DT想吃咖喱时顺路来就好，不值得从北边专程跑。",
+        "vibe": "Yonge-Dundas旁的快捷日式咖喱店，一人食很方便"
+      },
+      "highlights": [
+        "Toronto branch of Japan's award-winning Hinoya Curry brand",
+        "Quick, reliable curry lunch a few steps from Yonge-Dundas"
+      ],
+      "name_zh": "Hinoya Curry 日乃屋咖喱",
+      "description_zh": "来自日本、拿过日本咖喱大奖的日乃屋，日式咖喱偏甜辣，炸猪排饭加芝士是标配。",
+      "highlights_zh": [
+        "来自日本、曾获日本咖喱大奖的日乃屋在多伦多的分店",
+        "Yonge-Dundas旁的快捷午餐，甜辣口日式咖喱"
+      ],
+      "signature_dish_zh": "炸猪排咖喱加芝士",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The downtown outpost of a Japanese curry brand with awards back home; the sauce leans sweet-spicy.",
+        "must_try": "🍛 Tonkatsu curry\n🧀 Add extra cheese",
+        "tips": "Large versus regular only changes the rice portion. The original verdict was measured: good if you are nearby, not worth a special trip from the north.",
+        "vibe": "A quick one-person curry counter steps from Yonge-Dundas"
+      }
+    },
+    {
+      "id": "xiao-jianghu-richmond-hill",
+      "code": "152",
+      "name": "Xiao Jiang Hu Restaurant",
+      "native_name": "笑江湖",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "long",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Crispy Peking Duck",
+      "description": "Richmond Hill Jianghu kitchen that also roasts a crisp, juicy whole Peking duck.",
+      "address": "550 Hwy 7 Bldg A Unit 6-9, Richmond Hill, ON L4B 3Z4",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/xiao-jianghu-richmond-hill.webp",
+      "maps_url": "https://maps.google.com/?q=Xiao%20Jiang%20Hu%20Restaurant%20550%20Hwy%207%20Bldg%20A%20Unit%206-9%20Richmond%20Hill",
+      "source_url": "https://www.rednote.com/discovery/item/6a592d8500000000140057da",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Shatteringly crisp duck skin with sweet bean sauce, scallion, cucumber, raisins and chili powder",
+      "bullet_highlight": "A whole duck with raisins and chili powder served alongside the classic trimmings",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a592d8500000000140057da",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "之前一直以为RH的笑江湖主要是江湖菜，没想到新出的北京烤鸭也这么好吃。整份烤鸭量很大，皮烤得非常酥脆，一点也不油腻，咬下去会爆汁。",
+        "must_try": "🦆 北京烤鸭（整份）\n🌶️ 江湖菜系列",
+        "tips": "配料除常规甜面酱、葱丝、黄瓜外还配了葡萄干和辣酱粉，片皮鸭蘸辣椒粉是咸甜口的新吃法。",
+        "vibe": "Hwy 7上的江湖菜馆，人多点一桌最划算"
+      },
+      "highlights": [
+        "Jianghu-style Sichuan-Hunan cooking with a newly added whole Peking duck",
+        "Crisp, non-greasy skin that bursts with juice; raisins and chili powder for dipping"
+      ],
+      "name_zh": "笑江湖江湖菜",
+      "description_zh": "Richmond Hill的江湖菜馆，新出的北京烤鸭皮酥爆汁，配料还给了葡萄干和辣椒粉。",
+      "highlights_zh": [
+        "主打江湖川湘菜，新出了整只北京烤鸭",
+        "鸭皮酥脆不油腻、咬下会爆汁，还配了葡萄干和辣椒粉"
+      ],
+      "signature_dish_zh": "北京烤鸭",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Most people come for the Jianghu-style cooking, but the whole Peking duck turns out to be the surprise: crisp skin, juicy meat and a very generous portion.",
+        "must_try": "🦆 Whole Peking duck\n🌶️ Jianghu-style dishes",
+        "tips": "Alongside the usual hoisin, scallion and cucumber they serve raisins and chili powder; dipping the skin in chili is savoury-sweet and worth trying.",
+        "vibe": "A loud, generous Hwy 7 family-style room best booked for a group"
+      }
+    },
+    {
+      "id": "enoteca-seven-oakville",
+      "code": "153",
+      "name": "7 Enoteca",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Palermo Pizza with Prosciutto, Figs and Pistachio",
+      "description": "Michelin Bib Gourmand Italian in downtown Oakville where the Palermo pizza draws raves.",
+      "address": "216 Lakeshore Rd E, Oakville, ON L6J 1H8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/enoteca-seven-oakville.webp",
+      "maps_url": "https://maps.google.com/?q=7%20Enoteca%20216%20Lakeshore%20Rd%20E%20Oakville",
+      "source_url": "https://www.rednote.com/discovery/item/6a3b5dfe000000000d00bc00",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [],
+      "bullet_flavor": "Mascarpone, prosciutto, fig, honey and pistachio folded into soft blistered pizza dough",
+      "bullet_highlight": "Michelin Bib Gourmand pick that opens only a handful of weekday hours",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a3b5dfe000000000d00bc00",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "是我吃过最惊艳的米其林推荐餐厅，全垒打型选手，怪不得有周中一天只开五小时的底气。人均$55。",
+        "must_try": "🍕 Palermo 火腿无花果开心果披萨\n🍝 Gnocchetti Il Fungo 野蘑菇短意面",
+        "tips": "周中营业时间很短，去之前务必先确认当天是否开门；Beef Carpaccio新鲜、黑松露曼彻格芝士提味。",
+        "vibe": "像洞穴一样的店内氛围，给人莫名的安全感，适合约会"
+      },
+      "highlights": [
+        "Michelin Bib Gourmand recommendation in downtown Oakville",
+        "The Palermo pizza drew a best-ever verdict; gnocchetti with mushrooms also shines"
+      ],
+      "name_zh": "7 Enoteca 意大利餐厅",
+      "description_zh": "米其林Bib Gourmand推介的Oakville意大利餐厅，Palermo披萨被原笔记评为吃过最好吃。",
+      "highlights_zh": [
+        "米其林Bib Gourmand推介的Oakville意大利餐厅",
+        "Palermo披萨用马斯卡彭、火腿、无花果、蜜糖和开心果，原笔记称吃过最好吃"
+      ],
+      "signature_dish_zh": "Palermo 火腿无花果开心果披萨",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Michelin Bib Gourmand Italian in downtown Oakville that the reviewer called the most impressive Bib pick they had eaten; around $55 a head.",
+        "must_try": "🍕 Palermo pizza: prosciutto, fig, honey, pistachio and mascarpone\n🍝 Gnocchetti Il Fungo mushroom pasta",
+        "tips": "They open only a handful of weekday hours, so confirm they are open before driving over.",
+        "vibe": "A cave-like, enveloping room that feels oddly safe and works well for a date"
+      }
+    },
+    {
+      "id": "spicy-ethiopian-queen-east",
+      "code": "154",
+      "name": "The Spicy Ethiopian",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 1,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "vegetarian",
+        "spicy"
+      ],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Injera with Spiced Lentil and Meat Wats",
+      "description": "Queen East Ethiopian favourite serving fragrant, great-value plates, often a first meal after landing.",
+      "address": "175 Queen St E, Toronto, ON M5A 1S6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/spicy-ethiopian-queen-east.webp",
+      "maps_url": "https://maps.google.com/?q=The%20Spicy%20Ethiopian%20175%20Queen%20St%20E%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a1ce72e000000001002d000",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 9,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Spiced lentil and meat stews scooped up with spongy, tangy injera",
+      "bullet_highlight": "Called a hidden treasure for aroma and value; the reviewer's first Toronto meal",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a1ce72e000000001002d000",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "收藏了很久的埃塞俄比亚菜，也是多伦多下飞机之后吃的第一家，味道、价格、装修都超级好评。",
+        "must_try": "🫓 Injera 搭配香辣炖菜拼盘",
+        "tips": "埃塞俄比亚菜适合多人share，用手撕injera卷着吃；如果怕辣，可以先点一份温和的豆子菜垫底。",
+        "vibe": "Queen East上小巧实惠的异国小馆"
+      },
+      "highlights": [
+        "Queen East Ethiopian spot praised for aroma and bargain prices",
+        "One shared injera platter makes an easy first meal in Toronto"
+      ],
+      "name_zh": "The Spicy Ethiopian 埃塞俄比亚菜",
+      "description_zh": "Queen East的宝藏埃塞俄比亚菜，巨香巨实惠，不少人下飞机第一餐就来这儿。",
+      "highlights_zh": [
+        "Queen East的埃塞俄比亚菜，以香气和实惠价格出圈",
+        "手撕injera卷着炖菜吃，很适合作为落地多伦多的第一餐"
+      ],
+      "signature_dish_zh": "injera 配香料豆子与炖肉",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A long-saved Queen East Ethiopian favourite, fragrant and great value, and the reviewer's first meal after landing in Toronto.",
+        "must_try": "🫓 Injera platter with spiced stews",
+        "tips": "Order one platter to share and eat it with your hands, tearing off pieces of injera. Ask for a mild lentil dish to cool the heat.",
+        "vibe": "A small, good-value Queen East room with real character"
+      }
+    },
+    {
+      "id": "cho-kwok-lat-wellesley",
+      "code": "155",
+      "name": "Cho-Kwok-Lat",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "light",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Chestnut Mont Blanc",
+      "description": "Wellesley East patisserie run by a World Chocolate Masters Canada champion; pastries about $12.",
+      "address": "79 Wellesley St E, Toronto, ON M4Y 0G5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/cho-kwok-lat-wellesley.webp",
+      "maps_url": "https://maps.google.com/?q=Cho-Kwok-Lat%2079%20Wellesley%20St%20E%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6948b9f5000000001e009868",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 11,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Chestnut Mont Blanc, citrus YoYo, sweet corn tart and black sesame matcha pillow",
+      "bullet_highlight": "Owner Chris won the 2017 World Chocolate Masters Canada title; the lamination is razor sharp",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6948b9f5000000001e009868",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "做成这样才配叫冠军法甜。老板Chris是2017年World Chocolate Masters加拿赛区冠军，展柜里全是名不虚传的漂亮法甜，均价约12刀一颗。",
+        "must_try": "🌰 栗子蒙布朗\n🍊 YoYo 柑橘香法甜\n🌽 Sweet Corn Tart 甜玉米塔",
+        "tips": "店在Church & Jarvis之间的公寓楼下，很不起眼，路过发现的惊喜感倍增；傍晚去可能会售罄几款。",
+        "vibe": "远离闹市的公寓楼下法甜小店，安静好逛"
+      },
+      "highlights": [
+        "Championship patisserie hiding under a Wellesley East apartment",
+        "Sharp lamination and a dozen-dollar price point on every showpiece pastry"
+      ],
+      "name_zh": "Cho-Kwok-Lat 冠军法甜店",
+      "description_zh": "藏在Church与Jarvis之间公寓楼下的冠军法甜店，老板是2017年世界巧克力大师加拿赛区冠军。",
+      "highlights_zh": [
+        "藏在Wellesley东公寓楼下的冠军法甜店，均价约12刀一颗",
+        "开酥层次清晰、薄脆漂亮，栗子蒙布朗和柑橘YoYo都值得点"
+      ],
+      "signature_dish_zh": "栗子蒙布朗",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A championship patisserie hiding under a Wellesley East apartment, with showpiece pastries around $12 each and worth every cent.",
+        "must_try": "🌰 Chestnut Mont Blanc\n🍊 YoYo citrus entremet\n🌽 Sweet Corn Tart",
+        "tips": "The shop is easy to miss at street level; arriving in the evening may mean a few favourites have sold out.",
+        "vibe": "A quiet, low-key shopfront far from the busy strips"
+      }
+    },
+    {
+      "id": "sampaguita-village-wilson",
+      "code": "156",
+      "name": "Sampaguita Village",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 1,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Lechon Kawali Small",
+      "description": "Wilson Avenue family Filipino kitchen with generous, cheap plates and crackling-crisp pork belly.",
+      "address": "322 Wilson Ave, North York, ON M3H 1S8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/sampaguita-village-wilson.webp",
+      "maps_url": "https://maps.google.com/?q=Sampaguita%20Village%20322%20Wilson%20Ave%20North%20York",
+      "source_url": "https://www.rednote.com/discovery/item/6a39ce1700000000080307d8",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Golden pork crackling over juicy belly, served with a sweet house dipping sauce",
+      "bullet_highlight": "A room full of local Filipino diners and portions built to share",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a39ce1700000000080307d8",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "先说结论：量大、性价比高，适合想尝试菲律宾菜的人。这家North York的宝藏家庭餐厅，店内全是本地食客。",
+        "must_try": "🍖 Lechon Kawali Small（脆皮烧肉）\n🍗 Crispy Chicken",
+        "tips": "猪皮像小饼干一样酥，下面的肉不干、肥瘦比例刚好；一定要配他们家特色甜酱，不齁甜很解腻。",
+        "vibe": "全是本地食客的家庭式小馆，热闹又实惠"
+      },
+      "highlights": [
+        "A hidden North York Filipino family restaurant packed with local diners",
+        "Lechon Kawali with shattering crackling skin and a sweet house sauce"
+      ],
+      "name_zh": "Sampaguita Village 菲律宾菜",
+      "description_zh": "Wilson Ave上的隐藏版菲律宾家庭餐厅，分量大性价比高，脆皮烧肉Lechon Kawali一咬咔嚓。",
+      "highlights_zh": [
+        "North York隐藏版菲律宾家庭餐厅，店内全是本地食客",
+        "Lechon Kawali脆皮烧肉皮像小饼干一样酥，配特色甜酱解腻"
+      ],
+      "signature_dish_zh": "Lechon Kawali 脆皮烧肉",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The verdict from the original note: big portions, strong value and a good first stop for anyone trying Filipino food.",
+        "must_try": "🍖 Lechon Kawali Small, the crackling pork belly\n🍗 Crispy chicken",
+        "tips": "The skin shatters like a cracker while the meat stays juicy; dip it in their sweet house sauce to cut the richness.",
+        "vibe": "A bustling, no-frills family room where everyone around you is a regular"
+      }
+    },
+    {
+      "id": "hitotoki-bakery-hwy7",
+      "code": "157",
+      "name": "Hitotoki Bakery",
+      "native_name": "ひととき",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Matcha Tart",
+      "description": "Unionville Japanese bakery that went viral online for matcha tarts, seasonal pastries and shokupan.",
+      "address": "4441 Hwy 7 Unit 1 & 2, Unionville, ON L3R 1M1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/hitotoki-bakery-hwy7.webp",
+      "maps_url": "https://maps.google.com/?q=Hitotoki%20Bakery%204441%20Hwy%207%20Unit%201%20%26%202%20Unionville",
+      "source_url": "https://www.rednote.com/discovery/item/6ac079dd000000000f039800",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "light",
+      "category": "cafe",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Sweet-potato loaf with deep sweet-potato aroma and a chewy, unsweetened crumb",
+      "bullet_highlight": "The viral Unionville Japanese bakery also runs a downtown Carlton Street location",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6ac079dd000000000f039800",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "终于去了那家在网上爆火的日本面包店！塔类甜点甜度适中、味道很棒。本来是为抹茶塔去的，结果卖光，好在秋日限定的甜薯方包惊艳。",
+        "must_try": "🍵 抹茶塔（招牌，常售罄）\n🍠 秋日限定甜薯方包",
+        "tips": "抹茶塔下午容易sold out；甜薯方包带浓浓甜薯香和麦香、完全不甜。建议自备餐具，店里只给木刀切塔。",
+        "vibe": "明亮的日式甜品与面包店，适合考试完来点甜的"
+      },
+      "highlights": [
+        "Viral Unionville Japanese bakery with a second shop on Carlton Street",
+        "The matcha tart is the famous order; the seasonal sweet-potato loaf was the real surprise"
+      ],
+      "name_zh": "Hitotoki 日式面包店",
+      "description_zh": "万锦爆火的日式面包店，抹茶塔是招牌，秋日限定甜薯方包完全不甜、口感劲道。",
+      "highlights_zh": [
+        "网红Unionville日式面包店，Downtown Carlton街另有分店",
+        "抹茶塔是招牌，但秋日限定的甜薯方包完全不甜、麦香浓"
+      ],
+      "signature_dish_zh": "抹茶塔",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The viral Unionville Japanese bakery mostly lives up to the hype: tarts are moderately sweet and the seasonal sweet-potato loaf was the standout.",
+        "must_try": "🍵 Matcha tart, the famous one, often sold out\n🍠 Seasonal sweet-potato loaf",
+        "tips": "Order the matcha tart early. The loaf is unsweetened, chewy and strongly aromatic, and bring your own utensil because they only supply a wooden knife.",
+        "vibe": "A bright, modern Japanese bakery good for an after-exam treat"
+      }
+    },
+    {
+      "id": "lung-fung-hotpot-hwy7",
+      "code": "158",
+      "name": "Lung Fung Hot Pot",
+      "native_name": "龙凤打边炉",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Sea Bird's Nest and Fish Maw Chicken Pot",
+      "description": "Hwy 7 Hong Kong hotpot where the fish-maw chicken broth keeps queues going two years on.",
+      "address": "330 Hwy 7 Unit 106, Richmond Hill, ON L4B 3P8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/lung-fung-hotpot-hwy7.webp",
+      "maps_url": "https://maps.google.com/?q=Lung%20Fung%20Hot%20Pot%20330%20Hwy%207%20Unit%20106%20Richmond%20Hill",
+      "source_url": "https://www.rednote.com/discovery/item/6ab44ee5000000001403904e",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [
+        "hotpot"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Rich collagen chicken broth with a whole chicken, fish maw and bird's nest, refilled at the table",
+      "bullet_highlight": "House-made shacha and soy dips, and about $40 a head for a very full meal",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6ab44ee5000000001403904e",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "这香港打边炉我喝掉整锅汤！Hwy7这条街上美食云集，龙凤打边炉一定有名，开业快两年了饭点时间还是大排长龙。人均40左右能吃饱。",
+        "must_try": "🍲 海皇翅花胶鸡煲（招牌，愿意排队都要喝）\n🥩 AAA吊龙伴\n🍢 广东蘸料：沙茶+酱油+炸蒜蓉+葱花+一勺鸡汤",
+        "tips": "饭点爆多人，walk-in可能排2小时以上，可以Google Maps提前拿号；海报上的套餐只能外带且要提前订。",
+        "vibe": "Hwy 7上的热闹港式火锅店，适合多人聚餐"
+      },
+      "highlights": [
+        "Hong Kong-style hotpot on Hwy 7 that still draws lines two years after opening",
+        "The fish-maw chicken pot is broth you will keep drinking; AAA beef short plate is the meat order"
+      ],
+      "name_zh": "龙凤打边炉",
+      "description_zh": "Hwy 7港式火锅，招牌海皇翅花胶鸡煲汤头浓郁，开业快两年饭点依然大排长龙。",
+      "highlights_zh": [
+        "Hwy7上的港式火锅，开业快两年饭点依旧大排长龙",
+        "海皇翅花胶鸡煲的汤头浓郁到能喝掉半锅，肉类点AAA吊龙伴"
+      ],
+      "signature_dish_zh": "海皇翅花胶鸡煲",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Hong Kong-style hotpot on Hwy 7 that still packs the room two years after opening, at roughly $40 a head.",
+        "must_try": "🍲 Sea bird's nest and fish maw chicken pot, the house signature\n🥩 AAA beef short plate\n🍢 Dip of shacha, soy, fried garlic, scallion and a spoonful of chicken broth",
+        "tips": "Peak hours mean a two-hour walk-in line, so take a queue number on Google Maps first. The promotional set on their poster is take-out only and must be pre-ordered.",
+        "vibe": "A noisy, crowded Hwy 7 dining room built for a group"
+      }
+    },
+    {
+      "id": "xianglaiju-hunan-victoria-park",
+      "code": "159",
+      "name": "Xianglaiju Hunan Restaurant",
+      "native_name": "湘来居",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Chilli Pork Stir-Fry",
+      "description": "Hunan kitchen that Hunan expats rate far above every other Hunan restaurant in Toronto.",
+      "address": "3618 Victoria Park Ave, North York, ON M2H 3B2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/xianglaiju-hunan-victoria-park.webp",
+      "maps_url": "https://maps.google.com/?q=Xianglaiju%20Hunan%20Restaurant%203618%20Victoria%20Park%20Ave%20North%20York",
+      "source_url": "https://www.rednote.com/discovery/item/6a7c6dbe0000000008010546",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Wok-fried Hunan chilli dishes with assertive heat and deep savoury flavour",
+      "bullet_highlight": "Endorsed by Hunan natives as the closest thing to home in Toronto",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a7c6dbe0000000008010546",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "湖南朋友力荐湘来居，说是非常对路，甩开城中其他湘菜馆一大截。开业时间并不长，早已打下口碑、拥有一大批拥趸，作者半个月内造访了两次。",
+        "must_try": "🌶️ 湖南小炒与剁椒类（按湖南朋友推荐点）",
+        "tips": "原笔记没有点名单道菜，只反复强调“非常对路”；已开第二家分店，来北边时更方便。",
+        "vibe": "正经的湖南家常饭馆，正在快速攒起熟客"
+      },
+      "highlights": [
+        "Hunan diners rate it far above Toronto's other Hunan restaurants",
+        "Built a following quickly and opened a second branch on Victoria Park"
+      ],
+      "name_zh": "湘来居湖南菜馆",
+      "description_zh": "湖南朋友力荐的湘菜馆，被认为甩开城里其他湘菜一大截，Victoria Park街上已开分店。",
+      "highlights_zh": [
+        "湖南本地人评价它远超城中其他湘菜馆",
+        "开业不久就积累大批拥趸，已在Victoria Park街开出分店"
+      ],
+      "signature_dish_zh": "辣椒炒肉",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Recommended by Hunan natives as markedly better than Toronto's other Hunan restaurants; the reviewer went twice in half a month.",
+        "must_try": "🌶️ Hunan chilli stir-fries and chopped-chilli dishes",
+        "tips": "The original note names no specific dish, only that it tastes right; the second branch on Victoria Park is easier if you are already in the north.",
+        "vibe": "A straight-up Hunan dining room with a fast-growing regular crowd"
+      }
+    },
+    {
+      "id": "ikkousha-ramen-yonge",
+      "code": "160",
+      "name": "Ikkousha Ramen",
+      "native_name": "博多一幸舍",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Tonkotsu Ramen with Karaage",
+      "description": "Yonge Street Hakata ramen shop with a Japanese-style order sheet and a strong side menu.",
+      "address": "374A Yonge St, Toronto, ON M5B 1S6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/ikkousha-ramen-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Ikkousha%20Ramen%20374A%20Yonge%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69e837e100000000230146de",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 8,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Rich Hakata tonkotsu broth with adjustable noodle firmness, plus crisp karaage and gyoza",
+      "bullet_highlight": "A paper order sheet lets you pick noodle hardness — introvert-friendly ramen service",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69e837e100000000230146de",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "跪求多伦多DT不腻的日式拉面店。配料很丰富的豚骨拉面，可以选面条硬度，点餐流程像在日本，给一张单子自己勾选。",
+        "must_try": "🍜 豚骨拉面（选面条硬度）\n🍗 炸鸡 / 章鱼小丸子 / 饺子",
+        "tips": "原笔记提醒汤头吃一半会觉得腻咸，建议小份或配菜分着吃，吃完记得多喝水。",
+        "vibe": "Yonge街上单人食友好的拉面店"
+      },
+      "highlights": [
+        "Hakata-style tonkotsu ramen on Yonge Street with adjustable noodle firmness",
+        "The side menu is the hidden star: karaage, takoyaki and gyoza"
+      ],
+      "name_zh": "博多一幸舍 IKKOUSHA",
+      "description_zh": "Yonge街的博多豚骨拉面，点单像在日本一样勾选单子，炸鸡、章鱼小丸子和饺子都很能打。",
+      "highlights_zh": [
+        "Yonge街博多豚骨拉面，可自选面条硬度",
+        "配菜才是隐藏亮点：炸鸡、章鱼小丸子和饺子都好吃"
+      ],
+      "signature_dish_zh": "豚骨拉面配日式炸鸡",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Hakata-style tonkotsu on Yonge Street with a Japanese paper order sheet where you pick your own noodle firmness.",
+        "must_try": "🍜 Tonkotsu ramen, choose your firmness\n🍗 Karaage, takoyaki and gyoza from the side menu",
+        "tips": "The side menu is the secret weapon. One caution from the original note: the broth can feel heavy and salty by the half-bowl, so share it or order smaller.",
+        "vibe": "A classic single-diner ramen counter in the middle of Yonge Street"
+      }
+    },
+    {
+      "id": "anji-izakaya-yonge-steeles",
+      "code": "161",
+      "name": "Anji Izakaya",
+      "native_name": "アンジ いざかや",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Spicy Dried Radish and Charcoal Skewers",
+      "description": "Yonge and Steeles izakaya open since 2016 that northern locals call their favourite corner bar.",
+      "address": "7059 Yonge St, Thornhill, ON L3T 2A6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/anji-izakaya-yonge-steeles.webp",
+      "maps_url": "https://maps.google.com/?q=Anji%20Izakaya%207059%20Yonge%20St%20Thornhill",
+      "source_url": "https://www.rednote.com/discovery/item/6a6a6b48000000002201b512",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Smoky charcoal grill plates with a free-flowing spicy dried radish that keeps the table going",
+      "bullet_highlight": "The same room and the same recipes since 2016, before the shop had any social media",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a6a6b48000000002201b512",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "这是我在北边最爱吃的居酒屋，如今也是Steels一带家喻户晓的店，为什么火…原因很简单：好吃。十年吃了几十顿。",
+        "must_try": "🌶️ 辣萝卜干（可以续盘）\n🍢 炭火烧物",
+        "tips": "改名前叫Anzenchitai（安全地帯），店内一切都没变；从DT专程跑来北边也值得。",
+        "vibe": "木造暖帘的老派日式酒屋，越晚越有味道"
+      },
+      "highlights": [
+        "A 2016 izakaya that became a household name along Steeles without any social media",
+        "The spicy dried radish alone is worth several refills"
+      ],
+      "name_zh": "Anji Izakaya 安全地帯居酒屋",
+      "description_zh": "Yonge与Steeles一带自2016年营业的居酒屋，北边家喻户晓的老酒屋，辣萝卜干可以续好几盘。",
+      "highlights_zh": [
+        "2016年开业、没有社媒宣传就火遍Steels一带的老酒屋",
+        "光是那碟辣萝卜干就可以续好几盘"
+      ],
+      "signature_dish_zh": "辣萝卜干与炭火烧物",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The reviewer's most-visited izakaya in the north after a decade and dozens of meals: famous along Steeles, and it never needed social media.",
+        "must_try": "🌶️ Spicy dried radish, refilled endlessly\n🍢 Charcoal-grilled skewers",
+        "tips": "It was called Anzenchitai Izakaya before the rename; the room and the recipes have not changed. Worth the trip from downtown.",
+        "vibe": "An old-school wooden izakaya that gets warmer as the night goes on"
+      }
+    },
+    {
+      "id": "don-don-izakaya-dundas",
+      "code": "162",
+      "name": "Don Don Izakaya",
+      "native_name": "ドンドン いざかや",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Yakitori Skewer Platter",
+      "description": "Wooden minimalist izakaya beside Eaton Centre, with small plates, yakitori and sake flights.",
+      "address": "130 Dundas St W, Toronto, ON M5G 1C3",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/don-don-izakaya-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=Don%20Don%20Izakaya%20130%20Dundas%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69f53e95000000003601e0eb",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 3,
+      "portion_size": "light",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Yakitori platters and oddly playful appetisers, plus a three-glass sake tasting flight",
+      "bullet_highlight": "Wooden, minimalist, Japanese-drama mood that only gets better as the night goes on",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69f53e95000000003601e0eb",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "我才发现EatonCenter旁边有一家这么有Vibe的居酒屋，木质极简装修，碰杯的声音、氛围感都很强，属于越晚越有感觉的店。",
+        "must_try": "🍢 烧鸟串串拼盘\n🍶 三杯一套的 sake tasting（$12-15）",
+        "tips": "菜品选择不算多，基本都是小份菜，按个人喜好点就好；前菜拼盘做成三宫格、六宫格、九宫格，像开盲盒。",
+        "vibe": "适合金融区下班走到Eaton附近小酌、吃串解压"
+      },
+      "highlights": [
+        "Eaton Centre-adjacent izakaya with a Japanese-drama atmosphere",
+        "Yakitori platter, bento-style appetiser grids and a $12-15 three-glass sake flight"
+      ],
+      "name_zh": "Don Don Izakaya 东东居酒屋",
+      "description_zh": "Eaton Centre旁木质极简的日剧感居酒屋，小份菜配烧鸟拼盘，还有三杯一套的sake tasting。",
+      "highlights_zh": [
+        "Eaton Centre旁很有日剧氛围的木质极简居酒屋",
+        "烧鸟串串拼盘、开盲盒般的九宫格前菜，还有12-15刀的三杯sake tasting"
+      ],
+      "signature_dish_zh": "烧鸟串串拼盘",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A wooden, minimalist izakaya right beside Eaton Centre that feels like a Japanese drama set and grows better as the evening goes on.",
+        "must_try": "🍢 Yakitori skewer platter\n🍶 Three-glass sake tasting flight, $12-15",
+        "tips": "The menu is short and mostly small plates, so order for your own taste; the appetiser platters arrive as bento-style grids that feel like opening blind boxes.",
+        "vibe": "An easy after-work drink and skewers spot for the financial district"
+      }
+    },
+    {
+      "id": "muni-robata-st-patrick",
+      "code": "163",
+      "name": "MUNI Robata",
+      "native_name": "ムニ ロバタ",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "MUNI Sukiyaki Classic Set",
+      "description": "Downtown robata bistro the reviewer calls their favourite izakaya in Toronto, with a $145 set.",
+      "address": "30 St Patrick St, Toronto, ON M5T 3A3",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/muni-robata-st-patrick.webp",
+      "maps_url": "https://maps.google.com/?q=MUNI%20Robata%2030%20St%20Patrick%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/68bfa787000000001d034534",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 9,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Open-flame robata grilling with house-made sauces, sushi rolls and shareable plates",
+      "bullet_highlight": "A $145 Sukiyaki Classic Set that converted a self-declared sashimi and unagi skeptic",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68bfa787000000001d034534",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "MUNI Robata真的改变了作者对日料的很多偏见：以前不爱刺身和鳗鱼，总觉得有腥味，这顿吃完才明白只是以前没吃到喜欢的做法。",
+        "must_try": "🍲 $145 MUNI Sukiyaki Classic Set\n🍢 炉端烧烤拼盘",
+        "tips": "套餐分量足，适合两到三人再加点小食；周五周六另有烤肉小菜。",
+        "vibe": "Downtown的明火炉端烧小馆，热闹但不吵，适合朋友小聚"
+      },
+      "highlights": [
+        "Called the reviewer's favourite izakaya in Toronto right now",
+        "Open-flame robata grilling; the Sukiyaki Classic Set feeds a small table"
+      ],
+      "name_zh": "MUNI Robata 炉端烧",
+      "description_zh": "被原笔记称为多伦多目前最喜欢的izakaya，明火炉端焼き，145刀的Sukiyaki经典套餐很出彩。",
+      "highlights_zh": [
+        "被原笔记评为“在多伦多吃到目前最喜欢的izakaya”",
+        "主打明火炉端烧烤，145刀的Sukiyaki经典套餐适合两三个人"
+      ],
+      "signature_dish_zh": "MUNI Sukiyaki 经典套餐",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The reviewer calls this their favourite izakaya in Toronto right now — it converted someone who thought they disliked sashimi and unagi.",
+        "must_try": "🍲 $145 MUNI Sukiyaki Classic Set\n🍢 Robata grilled platter",
+        "tips": "The set is generous for two or three; add a couple of small plates rather than ordering a second main.",
+        "vibe": "A lively, fire-lit downtown room that works well for a small group"
+      }
+    },
+    {
+      "id": "pocha-1989-church",
+      "code": "164",
+      "name": "Pocha 1989",
+      "native_name": "포차 1989",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Spicy Creamy Udon and Budae Jjigae",
+      "description": "Church Street pocha serving spicy creamy udon, army-stew budae jjigae and fish-cake hotpot till late.",
+      "address": "542 Church St, Toronto, ON M4Y 2E1",
+      "hours_note": "Mon-Thu 6:00 PM - 2:30 AM; Fri-Sun 12:00 PM - 2:30 AM",
+      "image_url": "assets/images/pocha-1989-church.webp",
+      "maps_url": "https://maps.google.com/?q=Pocha%201989%20542%20Church%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69dd8c60000000002301fa9c",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 10,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Creamy spicy udon loaded with egg, bacon, sausage, fish cake and wide noodles in a spicy broth",
+      "bullet_highlight": "Open until 2:30am daily, making it a genuine late-night Korean standby",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69dd8c60000000002301fa9c",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "之前朋友来trt玩基本都会带他们去这家韩餐，自己住DT的时候还点过外卖，吃的次数完全数不清。辣奶油乌冬和部队锅都是必点。",
+        "must_try": "🍜 Spicy Creamy Udon 辣奶油乌冬\n🍲 Budae Jjigae 部队锅\n🍥 Spicy Fish Cake Hotpot 辣鱼饼汤",
+        "tips": "辣鱼饼汤里有豆芽配辣汤很开胃；奶油乌冬里有鸡蛋、培拉、牛肉肠、鱼饼、包菜和宽粉。营业到凌晨两点半，适合宵夜。",
+        "vibe": "Church街的韩式小酒馆，适合朋友聚餐和深夜食堂"
+      },
+      "highlights": [
+        "The reviewer's pick for the best Korean restaurant in downtown Toronto",
+        "Spicy creamy udon and budae jjigae, served until 2:30am"
+      ],
+      "name_zh": "Pocha 1989 韩式小酒馆",
+      "description_zh": "Church街的韩式小酒馆，辣奶油乌冬和部队锅是必点，营业到凌晨两点半。",
+      "highlights_zh": [
+        "被原笔记评为多伦多DT心目中最夯的韩餐",
+        "辣奶油乌冬和部队锅必点，营业到凌晨两点半"
+      ],
+      "signature_dish_zh": "辣奶油乌冬与部队锅",
+      "hours_note_zh": "周一至周四 18:00-02:30，周五至周日 12:00-02:30",
+      "review_notes_en": {
+        "summary": "The reviewer brings visiting friends here and has ordered it home countless times; it is their pick for the best Korean food in downtown Toronto.",
+        "must_try": "🍜 Spicy creamy udon\n🍲 Budae jjigae army stew\n🍥 Spicy fish-cake hotpot",
+        "tips": "The udon comes with egg, bacon, beef sausage, fish cake, cabbage and wide noodles in a spicy cream broth. Open until 2:30am every day.",
+        "vibe": "A Church Street pocha built for groups and late-night eating"
+      }
+    },
+    {
+      "id": "hwaro-korean-bbq-yonge",
+      "code": "165",
+      "name": "Hwaro Korean BBQ",
+      "native_name": "화로",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 4,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Staff-Grilled Beef and Berkshire Pork Set",
+      "description": "New Yonge Street Korean grill where staff cook every piece for you and the banchan spread is huge.",
+      "address": "332 Yonge St, Toronto, ON M5B 1R8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/hwaro-korean-bbq-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Hwaro%20Korean%20BBQ%20332%20Yonge%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6aa61640000000000f039800",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 5,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [
+        "bbq"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Beef and Berkshire pork grilled to your preference over charcoal, with a generous banchan spread",
+      "bullet_highlight": "Servers grill the meat for you and adjust doneness to your taste — no DIY required",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6aa61640000000000f039800",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "DT新开的韩国烤肉店，就在Jollibee旁边。环境装修得真不错，服务也很好，全程帮忙烤肉、介绍菜品，还会按你的喜好帮你烤。",
+        "must_try": "🍖 牛肉与黑毛猪肉拼盘\n🍚 鸡蛋羹、大酱汤等小菜",
+        "tips": "不是all you can eat，每人必须点一份肉，一份肉最低50刀起；肉的品质很好但分量不大，小菜倒是真的很丰盛。",
+        "vibe": "Yonge街中心的高档韩烤，适合约会和小聚"
+      },
+      "highlights": [
+        "Brand-new Yonge Street Korean barbecue next to Jollibee",
+        "Staff grill the meat for you; quality cuts and a very generous banchan spread"
+      ],
+      "name_zh": "Hwaro 韩式烤肉",
+      "description_zh": "Yonge街新开的韩式烤肉，店员全程帮忙烤，肉质好、小菜丰盛，人均肉类最低50刀起。",
+      "highlights_zh": [
+        "Yonge街Jollibee旁边新开的韩式烤肉",
+        "全程店员帮忙烤、按你的喜好控制火候，小菜丰盛但肉量不算大"
+      ],
+      "signature_dish_zh": "店员代烤的牛肉与黑毛猪肉套餐",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A new Korean barbecue on Yonge Street beside Jollibee, with smart interiors and servers who grill every piece for you.",
+        "must_try": "🍖 Beef and Berkshire pork set\n🍚 Steamed egg, soybean paste soup and the banchan spread",
+        "tips": "Not all-you-can-eat: each person must order at least one meat platter starting around $50. The meat quality is high but the portions are modest, while the side dishes are very generous.",
+        "vibe": "A polished Yonge Street grill that suits a date or a small group"
+      }
+    },
+    {
+      "id": "bueokae-kitchen-richmond-hill",
+      "code": "166",
+      "name": "Bueokae Kitchen",
+      "native_name": "부엌애",
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Homestyle Korean Stews and Rice Plates",
+      "description": "Yonge and Major Mac Korean home kitchen in Richmond Hill that locals rate as a safe bet.",
+      "address": "10737 Yonge St Unit 2&3, Richmond Hill, ON L4C 9M9",
+      "hours_note": "Mon-Sat 11:30 AM - 10:00 PM (Fri-Sat until 10:30 PM)",
+      "image_url": "assets/images/bueokae-kitchen-richmond-hill.webp",
+      "maps_url": "https://maps.google.com/?q=Bueokae%20Kitchen%2010737%20Yonge%20St%20Unit%202%263%20Richmond%20Hill",
+      "source_url": "https://www.rednote.com/discovery/item/6a36b177000000000e021800",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Comforting Korean home cooking: stews, rice plates and banchan made the everyday way",
+      "bullet_highlight": "Mon-Sat lunch-to-late hours with Friday and Saturday running an extra half hour",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a36b177000000000e021800",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "周末去Richmond Hill办事，意外挖到了这家宝藏韩餐小店Bueokae，就在Yonge和Major Mac附近，不踩雷推荐。",
+        "must_try": "🍲 韩式炖锅系列\n🍚 家常盖饭",
+        "tips": "周一到周六11:30am-10pm，周五周六延长到10:30pm；周日休息，别扑空。",
+        "vibe": "北边Yonge街上的温馨韩式家常小店"
+      },
+      "highlights": [
+        "A Richmond Hill Korean home kitchen the reviewer calls a no-regret find",
+        "Right at Yonge and Major Mackenzie, open from late morning most days"
+      ],
+      "name_zh": "Bueokae 부엌애 韩式家常菜",
+      "description_zh": "Yonge与Major Mac附近的韩式家常小店，原笔记评价是“不踩雷”的宝藏韩餐。",
+      "highlights_zh": [
+        "位于Yonge与Major Mac附近的韩式家常小店，原笔记评价“不踩雷”",
+        "周一至周六从上午11点半营业到晚上，周末前两天延长半小时"
+      ],
+      "signature_dish_zh": "韩式家常炖锅与盖饭",
+      "hours_note_zh": "周一至周六 11:30-22:00（周五、周六延长至22:30）",
+      "review_notes_en": {
+        "summary": "A happy accident on a Richmond Hill errand run: a small Korean home kitchen near Yonge and Major Mackenzie that the reviewer called a no-regret find.",
+        "must_try": "🍲 Korean stews\n🍚 Homestyle rice plates",
+        "tips": "Open Mon-Sat 11:30am to 10pm, with Friday and Saturday running to 10:30pm; closed on Sundays.",
+        "vibe": "A warm, small Korean comfort-food room on Yonge in the north"
+      }
+    },
+    {
+      "id": "lavenue-brunch-wellington",
+      "code": "167",
+      "name": "L'Avenue",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Spicy Chicken Benny",
+      "description": "Wellington Street brunch spot that reads Korean and Chinese rather than traditional, and delivers.",
+      "address": "433 Wellington St W, Toronto, ON M5V 1E3",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/lavenue-brunch-wellington.webp",
+      "maps_url": "https://maps.google.com/?q=L%27Avenue%20433%20Wellington%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69d6ac2f0000000023025ac4",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Financial Core",
+      "walking_time_min": 11,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Eggs Benedict with saucy spicy chicken and soft potatoes, plus sweet-savoury steak bennies",
+      "bullet_highlight": "A Kowloon-cuisine brunch that scores by ordering straight off the recommendations",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69d6ac2f0000000023025ac4",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "按惯例先上结论：按推荐点基本都好吃、不踩雷。但不要坐户外，会被成群胡蜂打扰攻击。整个吃下来菜系非常韩式+中式，并不是传统Brunch。",
+        "must_try": "👑 Spicy Chicken Benny 辣鸡班尼迪克蛋\n🍳 Bobby Does Dallas 甜口牛排片盖蛋\n🥞 Blueberry Pancake",
+        "tips": "土豆绵软入味是全场亮点；蓝莓pancake口感偏实、不算空气感，可点可不点。户外座位有胡蜂，建议坐室内。",
+        "vibe": "金融区里的热闹早午餐店，适合朋友一起点一桌"
+      },
+      "highlights": [
+        "Unconventional brunch that leans Korean and Chinese instead of classic Western",
+        "Order by the ranking: Spicy Chicken Benny first, Bobby Does Dallas second"
+      ],
+      "name_zh": "L'Avenue 早午餐",
+      "description_zh": "Wellington街的早午餐店，风格偏韩式中式而非传统Brunch，按推荐点基本不踩雷。",
+      "highlights_zh": [
+        "风格并不传统，整体更偏韩式+中式的Brunch",
+        "照着推荐点基本都好吃：辣鸡班尼迪克蛋第一，Bobby Does Dallas第二"
+      ],
+      "signature_dish_zh": "辣鸡班尼迪克蛋",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The verdict: order off the recommendations and you will not be disappointed, but do not sit outside where wasps will bother you.",
+        "must_try": "👑 Spicy chicken benny\n🍳 Bobby Does Dallas steak benny\n🥞 Blueberry pancakes",
+        "tips": "The soft, well-seasoned potatoes are the quiet standout. The blueberry pancakes are denser than fluffy, so they are optional. Sit indoors.",
+        "vibe": "A lively financial-district brunch room best used for sharing a table full of plates"
+      }
+    },
+    {
+      "id": "auntie-dessert-liangyi-hwy7",
+      "code": "168",
+      "name": "Auntie Dessert",
+      "native_name": "靓姨糖水",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "light",
+        "comfort"
+      ],
+      "weather_fit": [
+        "hot"
+      ],
+      "signature_dish": "Super Mango Mini Rice Balls",
+      "description": "Thornhill Cantonese dessert shop where the mango bingsu-style bowls sell out by the evening.",
+      "address": "505 Hwy 7 #8, Thornhill, ON L3T 7T1",
+      "hours_note": "Mon-Fri 5:00 PM - 11:30 PM; Sat 3:00 PM - 11:30 PM; Sun 3:00 PM - 12:00 AM",
+      "image_url": "assets/images/auntie-dessert-liangyi-hwy7.webp",
+      "maps_url": "https://maps.google.com/?q=Auntie%20Dessert%20505%20Hwy%207%20%238%20Thornhill",
+      "source_url": "https://www.rednote.com/discovery/item/6a0009e10000000007025b39",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Fresh mango chunks and chewy rice balls over mango shaved ice, plus tofu pudding and sago",
+      "bullet_highlight": "A short, focused menu that regularly sells out its most popular bowl",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a0009e10000000007025b39",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "去吃北边新开的糖水啦！排队等了大概20分钟还算比较快。menu选择种类不多，但当季水果系列确实清爽。",
+        "must_try": "🥭 超多芒小丸子（Top1）\n🍮 鲜芒双皮奶（去晚了会售罄）\n🍠 木薯芋圆大满贯",
+        "tips": "芒果新鲜且块大，丸子也很饱满；营业到深夜，周日休店前去最合适。",
+        "vibe": "Hwy 7社区里的港式糖水铺，适合当饭后甜点或宵夜"
+      },
+      "highlights": [
+        "New Thornhill Cantonese sweet-soup shop with a short, focused menu",
+        "Super Mango Mini Rice Balls is the top pick; the mango double-skin milk sells out"
+      ],
+      "name_zh": "靓姨糖水 Auntie Dessert",
+      "description_zh": "Thornhill新开的粤式糖水铺，超多芒小丸子是Top1，鲜芒双皮奶晚点就售罄。",
+      "highlights_zh": [
+        "北边新开的粤式糖水铺，menu种类不多但款款到位",
+        "超多芒小丸子是Top1，鲜芒双皮奶去晚了经常sold out"
+      ],
+      "signature_dish_zh": "超多芒小丸子",
+      "hours_note_zh": "周一至周五 17:00-23:30，周六 15:00-23:30，周日 15:00-00:00",
+      "review_notes_en": {
+        "summary": "A new Cantonese sweet-soup shop in Thornhill where the queue moves faster than it looks and the menu stays short on purpose.",
+        "must_try": "🥭 Super mango mini rice balls, the top seller\n🍮 Mango double-skin milk, often sold out\n🍠 Tapioca and taro ball grand slam",
+        "tips": "Mango is fresh and generously cut; expect about twenty minutes at peak. Closes late, so it works as a dessert stop after dinner.",
+        "vibe": "A neighbourhood Cantonese dessert counter on Hwy 7"
+      }
+    },
+    {
+      "id": "big-way-hot-pot-sandhurst",
+      "code": "169",
+      "name": "Big Way Hot Pot",
+      "native_name": "大味麻辣烫",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Self-Serve Weighted Malatang",
+      "description": "Scarborough malatang weighed at $3.89 per 100g, open until 2am with eleven broths and free ice cream.",
+      "address": "1571 Sandhurst Cir #105b, Scarborough, ON M1V 1V2",
+      "hours_note": "Open daily until 2:00 AM (check Google Maps for opening time)",
+      "image_url": "assets/images/big-way-hot-pot-sandhurst.webp",
+      "maps_url": "https://maps.google.com/?q=Big%20Way%20Hot%20Pot%201571%20Sandhurst%20Cir%20%23105b%20Scarborough",
+      "source_url": "https://www.rednote.com/discovery/item/69ef4ea8000000002301cc0b",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Pick your own ingredients at a flat rate per 100g, then choose from eleven soup bases",
+      "bullet_highlight": "Open until 2am, still packed at 9pm, and the meal comes with free ice cream",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69ef4ea8000000002301cc0b",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "开车路过晚上9点去的，居然还是人声鼎沸，快10点吃完还有人进来。Bigway开到凌晨两点，15刀以下就能吃到深夜麻辣烫。",
+        "must_try": "🍲 招牌中辣大味麻辣汤底\n🐔 养生虫草鸡汤底（不吃辣首选）",
+        "tips": "一站式自助称重结账，菜品一律100g 3.89，肉菜丸子海鲜主食应有尽有；原笔记提醒中辣其实不够辣。",
+        "vibe": "北边的深夜麻辣烫食堂，一个人吃也不尴尬"
+      },
+      "highlights": [
+        "Late-night malatang weighed at a flat $3.89 per 100g",
+        "Eleven broth bases, a topping bar and a free ice cream at the end"
+      ],
+      "name_zh": "Big Way 麻辣烫",
+      "description_zh": "Scarborough自助称重麻辣烫，100克3.89加元，11种汤底，开到凌晨两点还送冰淇淋。",
+      "highlights_zh": [
+        "深夜麻辣烫，自助称重一律100克3.89加元",
+        "11种汤底+自助小料台，吃完还送一份冰淇淋"
+      ],
+      "signature_dish_zh": "自助称重麻辣烫",
+      "hours_note_zh": "营业至凌晨 02:00（开店时间请以 Google Maps 为准）",
+      "review_notes_en": {
+        "summary": "Drive-by at 9pm and the room was still roaring, with more people arriving as we finished. Under $15 for a late-night malatang that runs until 2am.",
+        "must_try": "🍲 Signature medium-spicy malatang broth\n🐔 Cordyceps chicken broth if you do not want heat",
+        "tips": "Everything is weighed at a flat $3.89 per 100g at one self-serve counter. One caution from the original note: the medium spice level is not actually very spicy.",
+        "vibe": "A north-end late-night malatang counter that works fine on your own"
+      }
+    },
+    {
+      "id": "matcha-yuzu-bakery-silver-star",
+      "code": "170",
+      "name": "Matcha Yuzu Bakery",
+      "native_name": "抹柚",
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "light",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Mentaiko Baguette",
+      "description": "Scarborough bakery that softens French-style hard bread with Japanese high-hydration technique.",
+      "address": "390 Silver Star Blvd Unit 166, Scarborough, ON M1V 0E3",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/matcha-yuzu-bakery-silver-star.webp",
+      "maps_url": "https://maps.google.com/?q=Matcha%20Yuzu%20Bakery%20390%20Silver%20Star%20Blvd%20Unit%20166%20Scarborough",
+      "source_url": "https://www.rednote.com/discovery/item/6a930bb40000000024005bbf",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "dessert",
+      "category": "dessert",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "French doughs reworked with Japanese high hydration: airy ciabatta, salt rolls, focaccia and thin-crust sourdough",
+      "bullet_highlight": "Roughly 35 breads a day from a dozen doughs, with the mentaiko baguette as the cult order",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a930bb40000000024005bbf",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "抹柚每年闭店去日本学习，把「硬包软吃」带回多伦多：法式面包底加上日式高加水，皮薄、内部湿润、柔软有嚼劲。",
+        "must_try": "🥖 明太子法棍\n🥐 三款盐卷\n🍞 有馅恰巴塔 / 佛卡夏",
+        "tips": "每日约35款产品、十几种面团；酸种、法棍、恰巴塔都走「皮薄柔软」路线，不爱硬包的人也吃得惯。",
+        "vibe": "北边社区里认真做面包的先锋小店"
+      },
+      "highlights": [
+        "Scarborough bakery that brings Japanese-style soft eating back to French hard bread",
+        "About 35 daily breads from a dozen doughs; the mentaiko baguette is the one to queue for"
+      ],
+      "name_zh": "抹柚 Matcha Yuzu Bakery",
+      "description_zh": "北边面包店抹柚，用日式高加水把法式硬包做软，每天约35款面包，明太子法棍是招牌。",
+      "highlights_zh": [
+        "北边面包店，用日式高加水把法式硬包做软",
+        "每天约35款面包、十几种面团，明太子法棍必买"
+      ],
+      "signature_dish_zh": "明太子法棍",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The shop closes each year to study in Japan and returns with high-hydration French doughs that stay soft instead of hard and dry.",
+        "must_try": "🥖 Mentaiko baguette\n🥐 The three salt rolls\n🍞 Stuffed ciabatta and focaccia",
+        "tips": "Around 35 products a day from more than ten doughs; everything leans thin-crust and soft inside, so even people who dislike hard European bread get on with it.",
+        "vibe": "A small north-end bakery treating bread as craft rather than as a trend"
+      }
+    },
+    {
+      "id": "harbin-bbq-king-silver-star",
+      "code": "171",
+      "name": "Harbin BBQ",
+      "native_name": "哈尔滨烧烤王",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Foil-Baked Enoki, Vermicelli and Clams",
+      "description": "Relocated northeast Chinese barbecue house open from 4pm to 2am, grilling skewers to order.",
+      "address": "668 Silver Star Blvd Unit 201, Toronto, ON M1V 5N1",
+      "hours_note": "4:00 PM - 2:00 AM (noon on weekends)",
+      "image_url": "assets/images/harbin-bbq-king-silver-star.webp",
+      "maps_url": "https://maps.google.com/?q=Harbin%20BBQ%20668%20Silver%20Star%20Blvd%20Unit%20201%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a4c31bf00000000220145c6",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [
+        "bbq"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Live-cooked skewers that keep their juices, plus foil-baked enoki and vermicelli that beg for a bowl of rice",
+      "bullet_highlight": "Old shop at a new address with the same chef still on the grill, running 4pm to 2am daily",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a4c31bf00000000220145c6",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "老店新搬的哈尔滨烧烤王，大厨还是那个味儿。两个人点了一桌，锡纸金针菇粉丝花蛤拌饭能连干两碗。",
+        "must_try": "🐚 锡纸金针菇粉丝花蛤\n🌶️ 山城辣子鸡\n🍢 生烤羊肉串 / 鸡胗\n🥒 烤东北豆皮",
+        "tips": "烧烤是生烤的，肉串烤完还带汁水；葱爆牛肉锅气足。锅包肉、冷面和朝族菜也是招牌，试营业期间有九折。",
+        "vibe": "北边的深夜东北烧烤，营业到凌晨两点"
+      },
+      "highlights": [
+        "Northeast barbecue relocated to Silver Star with the original chef still cooking",
+        "Skewers are grilled raw to order and stay juicy; the foil clams are rice's best friend"
+      ],
+      "name_zh": "哈尔滨烧烤王 Harbin BBQ",
+      "description_zh": "老店新搬的东北烧烤，下午4点营业到凌晨2点，生烤肉串烤完还带汁水，锅包肉和冷面也是招牌。",
+      "highlights_zh": [
+        "老店搬到Silver Star，大厨还是原来的味儿",
+        "生烤肉串烤完带汁水，锡纸金针菇粉丝花蛤拌饭一绝"
+      ],
+      "signature_dish_zh": "锡纸金针菇粉丝花蛤",
+      "hours_note_zh": "16:00-02:00（周末中午起营业）",
+      "review_notes_en": {
+        "summary": "The old Harbin barbecue house moved rather than changed: same chef, same cooking, and a table full of dishes for two.",
+        "must_try": "🐚 Foil-baked enoki, vermicelli and clams\n🌶️ Chongqing-style spicy chicken\n🍢 Raw-grilled lamb and gizzard skewers\n🥒 Grilled northeast tofu skin",
+        "tips": "Skewers are grilled from raw so they finish juicy. Guobaorou, cold noodles and Korean-Chinese dishes are also signatures; the soft-opening discount was running when the reviewer visited.",
+        "vibe": "A north-end late-night barbecue room that stays open until 2am"
+      }
+    },
+    {
+      "id": "qianjinfu-northeast-steeles",
+      "code": "172",
+      "name": "Qianjinfu Northeast Kitchen",
+      "native_name": "千金福江湖菜馆",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Pork and Blood Sausage Stew with Sauerkraut",
+      "description": "Steeles Avenue northeast-Chinese kitchen rated just above the pass mark, about thirty dollars a head.",
+      "address": "4771 Steeles Ave E Unit A03 & A04, Scarborough, ON M1V 5N1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/qianjinfu-northeast-steeles.webp",
+      "maps_url": "https://maps.google.com/?q=Qianjinfu%20Northeast%20Kitchen%204771%20Steeles%20Ave%20E%20Unit%20A03%20%26%20A04%20Scarborough",
+      "source_url": "https://www.rednote.com/discovery/item/6ac441b6000000000202ab06",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Sauerkraut and pork stews, house-made skin jelly and hand-folded dumplings in an honest northern kitchen",
+      "bullet_highlight": "An unusually frank review: four dishes worth ordering, plus the three the reviewer tells you to skip",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6ac441b6000000000202ab06",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "朋友带路来吃东北菜，整体在及格线以上，没有太踩雷，可以试试；人均30左右。",
+        "must_try": "🍲 年猪烩菜（血肠嫩、酸菜配猪肚）\n🥟 手工酸菜水饺\n🥒 自制皮冻 / 干豆角烧肉",
+        "tips": "原笔记的避雷清单：锅包肉偏甜酸味不够、地三鲜太油、烤酱油筋偏柴；蘸酱菜种类也偏少。",
+        "vibe": "北边街坊式的东北菜馆，份量扎实"
+      },
+      "highlights": [
+        "Northeastern Chinese cooking around thirty dollars a person on Steeles Avenue",
+        "Order the pork stew and sour cabbage dumplings; the reviewer says skip the guobaorou"
+      ],
+      "name_zh": "千金福江湖菜馆",
+      "description_zh": "Steeles上的东北菜馆，原笔记评价「及格线以上、没太踩雷」，人均30左右，年猪烩菜和酸菜水饺值得点。",
+      "highlights_zh": [
+        "Steeles上的东北菜，人均30左右",
+        "年猪烩菜和酸菜水饺值得点，锅包肉偏甜、地三鲜太油"
+      ],
+      "signature_dish_zh": "年猪烩菜",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Brought here by a friend for northeastern Chinese food: honestly scored above the pass mark, with nothing major let down, at about $30 a head.",
+        "must_try": "🍲 Pork and blood sausage stew with sauerkraut\n🥟 Hand-made sour cabbage dumplings\n🥒 House-made skin jelly and dried-bean-vine pork",
+        "tips": "The reviewer's skip list: the guobaorou is too sweet with not enough sourness, the di san xian is too oily, and the grilled tendon is dry. The dipping-vegetable plate is on the small side.",
+        "vibe": "A straightforward northern Chinese neighbourhood room with generous plates"
+      }
+    },
+    {
+      "id": "the-pot-house-steeles",
+      "code": "173",
+      "name": "The Pot House",
+      "native_name": "福满锅",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Wok-Fired Pork Kidney",
+      "description": "Markham northeast-Chinese kitchen that specialises in pressure-pot dishes, with wok-fired pork kidney as the star.",
+      "address": "3636 Steeles Ave E Unit 112-113, Markham, ON L3R 1K9",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/the-pot-house-steeles.webp",
+      "maps_url": "https://maps.google.com/?q=The%20Pot%20House%203636%20Steeles%20Ave%20E%20Unit%20112-113%20Markham",
+      "source_url": "https://www.rednote.com/discovery/item/69f659ec0000000013020400",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Pressure-pot pig trotter and braised pork, thin-skinned hand-folded dumplings and one outstanding stir-fried kidney",
+      "bullet_highlight": "Four dishes and two orders of dumplings fed four people for about $115 before tip",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69f659ec0000000013020400",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "马记牛羊馆隔壁新开的东北菜，主打压锅菜，总体味道还可以。四个人4个菜2个蒸饺加税加服务一共115，吃得很饱。",
+        "must_try": "🔥 火爆腰花（全场最佳，最嫩）\n🥟 酸菜 / 三鲜饺子（现擀现包）\n🫕 压锅猪蹄 / 红烧肉",
+        "tips": "原笔记提醒：上菜偏慢，第一道菜可能要等半小时，别空腹去；锅包肉调味不够酸、肉不酥，不如隔壁马记。",
+        "vibe": "北边压锅菜专门店，重口味很下饭"
+      },
+      "highlights": [
+        "New northeast-Chinese place next to Ma Ji built around pressure-pot cooking",
+        "The wok-fired pork kidney is the order, and the kitchen folds its dumplings to order"
+      ],
+      "name_zh": "福满锅·压锅江湖 The Pot House",
+      "description_zh": "马记牛羊馆隔壁的东北菜，主打压锅菜，全场最佳是火爆腰花，饺子现擀现包，菜码巨大。",
+      "highlights_zh": [
+        "马记牛羊馆隔壁新开的东北菜，主打压锅菜",
+        "火爆腰花是全场最佳，饺子现擀现包、皮很薄"
+      ],
+      "signature_dish_zh": "火爆腰花",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A new northeast-Chinese spot beside Ma Ji built around pressure-pot cooking. Four people ordered four dishes and two dumpling sets for about $115 and left full.",
+        "must_try": "🔥 Wok-fired pork kidney, the best plate on the table\n🥟 Sour cabbage and three-filling dumplings, folded to order\n🫕 Pressure-pot pig trotter and braised pork",
+        "tips": "Service is slow: allow half an hour for the first dish, so do not arrive starving. The guobaorou was under-seasoned and not crisp, and the reviewer preferred the neighbour's version.",
+        "vibe": "A heavy-flavoured northern pressure-pot room that goes well with rice"
+      }
+    },
+    {
+      "id": "hometown-noodlehouse-wellington",
+      "code": "174",
+      "name": "Hometown Road Noodlehouse",
+      "native_name": "好汤一品",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "solo",
+        "comfort"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Beef Brisket Rice Noodle Soup",
+      "description": "PATH noodle counter with the longest lunch queue in the tunnels and service to match.",
+      "address": "100 Wellington St W, Toronto, ON M5K 1A1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/hometown-noodlehouse-wellington.webp",
+      "maps_url": "https://maps.google.com/?q=Hometown%20Road%20Noodlehouse%20100%20Wellington%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/68e6b2500000000005011d17",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 12,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Clear, unfatty brisket broth over rice noodles, with bean curd puffs that soak up every drop",
+      "bullet_highlight": "A lunch queue that passes a hundred people yet clears fast because the kitchen runs like a machine",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/68e6b2500000000005011d17",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "这家应该是PATH里排队最长的店之一，午餐经常过百人。但出餐速度极快，配合像行云流水，一小时午休完全够排完再慢慢吃。",
+        "must_try": "🌖 一品牛腩粉（店里头号推荐）\n🫘 吸饱汤汁的豆泡\n🌶️ 剁椒酱 / 辣椒油（自己调）",
+        "tips": "口味偏清淡，汤底清而不腻；牛腩炖得软烂、肥瘦刚好。人均15-20刀，在金融街很有性价比。",
+        "vibe": "金融街地下通道里的快节奏米粉档口，一个人吃很方便"
+      },
+      "highlights": [
+        "The longest queue in the PATH, and it moves faster than it looks",
+        "Beef brisket noodles at fifteen to twenty dollars with chilli sauces on the side"
+      ],
+      "name_zh": "好汤一品 Hometown Road Noodlehouse",
+      "description_zh": "Wellington街PATH里队伍最长的米粉店，出餐极快，一品牛腩粉清而不腻，人均15-20刀。",
+      "highlights_zh": [
+        "PATH里队伍最长的米粉店，但出餐快到队伍肉眼可见地在动",
+        "一品牛腩粉汤清不腻、豆泡吸饱汤汁，人均15-20刀"
+      ],
+      "signature_dish_zh": "一品牛腩粉",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "One of the longest queues in the PATH, often over a hundred people at lunch, but the food comes out so fast that the line visibly moves.",
+        "must_try": "🌖 Beef brisket rice noodles, the top recommendation\n🫘 Bean curd puffs soaked in the broth\n🌶️ Chopped chilli and chilli oil to season it yourself",
+        "tips": "The broth leans clean rather than rich; the brisket is soft with a good fat-to-lean balance. Fifteen to twenty dollars a head is genuinely good value for the financial district.",
+        "vibe": "A high-throughput noodle counter in the financial district tunnels, easy to eat at alone"
+      }
+    },
+    {
+      "id": "oji-seichi-broadview",
+      "code": "175",
+      "name": "Oji Seichi",
+      "native_name": "おじ せいち",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo",
+        "date-night"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Oji Classic Shio Ramen",
+      "description": "Broadview ramen shop where three broths and a chilli-sesame bowl all come in without a miss.",
+      "address": "354 Broadview Ave, Toronto, ON M4M 2H2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/oji-seichi-broadview.webp",
+      "maps_url": "https://maps.google.com/?q=Oji%20Seichi%20354%20Broadview%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a6be439000000002c0079d4",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 17,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Chicken, pork and seafood shio broth, a deep shoyu, and a sesame chilli bowl that finishes gently hot",
+      "bullet_highlight": "Pork teriyaki meatballs with a hidden dab of mustard give the menu its twist",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a6be439000000002c0079d4",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "试了三款拉面都实名推荐，闭眼点不踩雷：面条劲道，汤底有日式拉面的灵魂但又不会过咸。",
+        "must_try": "🍜 Oji Classic Shio 盐味拉面（鸡猪海鲜复合高汤）\n🍜 Oji Classic Shoyu 酱油拉面\n🍢 Pork Teriyaki Meatballs 猪肉照烧肉丸",
+        "tips": "肉丸咬开里面带一点芥末的微辣，挺有层次；辣芝麻担担面是微辣浓汤配叉烧，喜欢重口可以点。",
+        "vibe": "简约现代风的拉面店，适合朋友小聚或一个人吃面"
+      },
+      "highlights": [
+        "Broadview ramen room whose shio, shoyu and spicy sesame bowls all land",
+        "Order the pork teriyaki meatballs, mustard inside the meatball is the surprise"
+      ],
+      "name_zh": "Oji Seichi 日式拉面",
+      "description_zh": "Broadview街很火的日式拉面店，盐味、酱油和辣芝麻三款都不踩雷，肉丸照烧汁里还带芥末微辣。",
+      "highlights_zh": [
+        "Broadview街的宝藏拉面，盐味/酱油/辣芝麻三款都不踩雷",
+        "肉丸照烧汁里藏了一点芥末微辣，很有层次"
+      ],
+      "signature_dish_zh": "盐味拉面",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Three ramen bowls, three recommendations: firm noodles and broths that keep the soul of Japanese ramen without tipping into salt.",
+        "must_try": "🍜 Oji classic shio, a chicken, pork and seafood stock\n🍜 Oji classic shoyu\n🍢 Pork teriyaki meatballs",
+        "tips": "The meatballs hide a little mustard heat inside, which gives them depth. The spicy sesame ramen is only mildly hot and comes with char siu.",
+        "vibe": "A clean, modern ramen room that works for a small group or a solo bowl"
+      }
+    },
+    {
+      "id": "cafe-oro-di-napoli-jarvis",
+      "code": "176",
+      "name": "Cafe Oro di Napoli",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Anatra Duck and Red-Wine Pear Pizza",
+      "description": "Neapolitan pizzeria the reviewer wants given a gold medal for its confit duck and burrata pizzas.",
+      "address": "75 Jarvis St, Toronto, ON M5C 2H2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/cafe-oro-di-napoli-jarvis.webp",
+      "maps_url": "https://maps.google.com/?q=Cafe%20Oro%20di%20Napoli%2075%20Jarvis%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a402b2b000000000f032804",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 8,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Thin Neapolitan crusts carrying confit duck with red-wine pear, and prosciutto laid over burrata",
+      "bullet_highlight": "The reviewer asks the Toronto pizza association for a gold medal, and still means it on every return visit",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a402b2b000000000f032804",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多有些店无论回访多少次都一直很好吃，Cafe Oro di Napoli 就是这种。作者的四件套是固定点法。",
+        "must_try": "🦆 Anatra 油封鸭红酒炖梨白披萨\n🍕 Prosciutto e burrata 火腿布拉塔披萨\n🥘 $33 藏红花番茄海鲜饭\n🍌 自家Gelato（香蕉面包味）",
+        "tips": "薄皮披萨承载很多料，炖梨甜而多汁；烤鱿鱼底下铺白葡萄酒炒番茄也很出彩。夏天到店更忙，建议错峰。",
+        "vibe": "Jarvis街上的拿坡里火炉小馆，回访型选手的快乐老家"
+      },
+      "highlights": [
+        "Neapolitan oven pizza the reviewer still ranks among Toronto's best after repeat visits",
+        "Anatra duck and pear pizza, prosciutto and burrata, saffron seafood rice and house gelato"
+      ],
+      "name_zh": "Cafe Oro di Napoli 拿坡里披萨",
+      "description_zh": "Jarvis街拿坡里披萨店，油封鸭红酒炖梨白披萨和火腿布拉塔披萨是必点，临走人均带走一杯自家Gelato。",
+      "highlights_zh": [
+        "拿坡里火炉披萨，回访多次依然赞不绝口的店",
+        "油封鸭红酒炖梨白披萨、火腿布拉塔披萨必点，临走带一杯自家Gelato"
+      ],
+      "signature_dish_zh": "油封鸭红酒炖梨白披萨",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The kind of place that tastes just as good on the fifth visit as on the first, which is exactly what the reviewer says about it.",
+        "must_try": "🦆 Anatra confit duck and red-wine pear pizza\n🍕 Prosciutto and burrata pizza\n🥘 $33 saffron tomato seafood rice\n🍌 House gelato, banana bread flavour",
+        "tips": "The thin crust carries a lot of weight and the pears are very juicy. The grilled calamari sits on white-wine tomatoes. Summer makes the room busier, so go off-peak.",
+        "vibe": "A Neapolitan oven room on Jarvis that rewards repeat visits"
+      }
+    },
+    {
+      "id": "famiglia-baldassarre-geary",
+      "code": "177",
+      "name": "Famiglia Baldassarre",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "solo",
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Daily Fresh Handmade Pasta",
+      "description": "Geary Avenue pasta factory that only serves lunch Tuesday to Friday and changes its menu daily.",
+      "address": "122 Geary Ave, Toronto, ON M6H 4H1",
+      "hours_note": "Tue-Fri 12:00 PM - 2:00 PM (retail shop until 5:00 PM)",
+      "image_url": "assets/images/famiglia-baldassarre-geary.webp",
+      "maps_url": "https://maps.google.com/?q=Famiglia%20Baldassarre%20122%20Geary%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a1794b9000000003502bd6a",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 43,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Fresh pasta made in an open kitchen where texture, egg and chew matter more than heavy sauce",
+      "bullet_highlight": "Tuesday to Friday, noon to 2pm only, with a menu rewritten daily around whatever arrived fresh",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a1794b9000000003502bd6a",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多人均20的「传说级」手工意面工厂，只开午餐、不做传统晚餐，很多人专门翘班来吃，建议12点前到排队。",
+        "must_try": "🍝 每日现做的鲜制手工面\n🥖 门口零售店的面包与意面（可买回家煮）\n📋 IG上每天更新的菜单",
+        "tips": "周二到周五12:00-14:00，商店12:00-17:00；菜单每天根据当天食材调整，排队久就对了，越早到越省时间。",
+        "vibe": "欧洲家庭小餐馆式的开放厨房，边做面边和客人聊天"
+      },
+      "highlights": [
+        "Lunch-only pasta counter, open Tuesday to Friday from noon until 2pm",
+        "The menu changes daily; the noodles themselves are the point, not the sauce"
+      ],
+      "name_zh": "Famiglia Baldassarre 手工意面",
+      "description_zh": "Geary Ave的手工意面工厂，只开周二至周五午餐12点到2点，菜单每天现做现变，人均约20刀。",
+      "highlights_zh": [
+        "只开午餐的手工意面工厂，周二到周五12点到2点",
+        "菜单每天现变，主角是面本身的口感、蛋香和筋道"
+      ],
+      "signature_dish_zh": "每日鲜制手工意面",
+      "hours_note_zh": "周二至周五 12:00-14:00（零售店至17:00）",
+      "review_notes_en": {
+        "summary": "A legendary Toronto pasta factory at about $20 a head, lunch only with no dinner service, which people happily skip work to attend.",
+        "must_try": "🍝 Fresh pasta made that morning\n🥖 Bread and pasta from the retail shop to cook at home\n📋 The daily menu posted on Instagram each day",
+        "tips": "Tuesday to Friday noon to 2pm, shop open noon to 5pm. The menu shifts with whatever arrived fresh, so arrive before noon if you want to avoid the longest wait.",
+        "vibe": "An open kitchen that feels like a European family trattoria"
+      }
+    },
+    {
+      "id": "occhiolino-bathurst",
+      "code": "178",
+      "name": "Occhiolino",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Pappardelle with Beef Rib in Barolo",
+      "description": "Hidden two-storey Italian house near Bathurst and College, long rumoured to be a rapper's private kitchen.",
+      "address": "499 Bathurst St, Toronto, ON M5S 2P8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/occhiolino-bathurst.webp",
+      "maps_url": "https://maps.google.com/?q=Occhiolino%20499%20Bathurst%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69b5fd81000000001a02388f",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "walking_time_min": 36,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Beef rib pappardelle slow enough to taste like home-style braised beef, plus a clean tuna crudo",
+      "bullet_highlight": "Two floors of ins-style rooms hidden in a corner house, with fresh pasta you can also buy to take home",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69b5fd81000000001a02388f",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "藏在闹市区小洋房里的手工意面店，传闻是Drake私厨开的，ins风装修上下两层，也卖意面可以买回家煮，人均60左右。",
+        "must_try": "🍝 Pappardelle al Barolo 红酒牛肋宽面\n🐟 Carpaccio di Tuna 生鱼薄片配西柚\n🧀 Burrata",
+        "tips": "原笔记直说：整体属于无功无过或功稍大于过，顺路再去就好；甜点巴斯克粉感重、不太流心，建议不要点。",
+        "vibe": "街角独栋的私房感小馆，适合约会和姐妹聚会"
+      },
+      "highlights": [
+        "A concealed corner house near Bathurst and College with pasta worth the detour",
+        "Pappardelle al Barolo with fall-apart beef rib is the dish; skip the basque cheesecake"
+      ],
+      "name_zh": "Occhiolino 手工意面小馆",
+      "description_zh": "Bathurst街角独栋小洋房意大利馆，人均约60刀；红酒炖牛肋宽面很稳，巴斯克蛋糕不建议点。",
+      "highlights_zh": [
+        "Bathurst街角独栋小洋房，私房感十足的意大利馆",
+        "红酒炖牛肋宽面是招牌，巴斯克蛋糕就不必点了"
+      ],
+      "signature_dish_zh": "巴罗洛红酒牛肋宽面",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A handmade-pasta house hidden in a corner building, long rumoured to be a certain rapper's kitchen, with two floors of ins-style rooms and pasta for sale.",
+        "must_try": "🍝 Pappardelle al Barolo with beef rib\n🐟 Tuna carpaccio with grapefruit\n🧀 Burrata",
+        "tips": "The reviewer's honest verdict: fine, a little better than average, but not worth a special trip. The basque cheesecake was dense and not runny, so skip dessert.",
+        "vibe": "A private-feeling corner house suited to a date or a small group"
+      }
+    },
+    {
+      "id": "porzias-oakwood",
+      "code": "179",
+      "name": "Porzia's",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Lasagna Bolognese",
+      "description": "Oakwood neighbourhood Italian where every table orders the lasagna under a blanket of parmesan.",
+      "address": "319A Oakwood Ave, York, ON M6E 2V8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/porzias-oakwood.webp",
+      "maps_url": "https://maps.google.com/?q=Porzia%27s%20319A%20Oakwood%20Ave%20York",
+      "source_url": "https://www.rednote.com/discovery/item/6a0d1cb8000000000f03ac00",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Lasagna bolognese under thick parmesan, plus kampachi crudo and octopus with nduja and chickpeas",
+      "bullet_highlight": "Walk into an unremarkable block and find every table full, which tells you what to order",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a0d1cb8000000000f03ac00",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "大名鼎鼎的Porzia's，藏在St Clair一个不起眼的街区，进门却满桌了。",
+        "must_try": "🧀 Lasagna Bolognese 肉酱芝士千层面（每桌必点）\n🐟 Kampachi Crudo 生鱼薄片\n🐙 Octopus 烤章鱼配nduja与鹰嘴豆",
+        "tips": "千层面铺满厚厚帕玛森、上千层快要融化的肉酱，十分钟就吃完；烤章鱼是中海南义风格，喜欢辣的记得安排nduja。",
+        "vibe": "街区里的local意大利小馆，热闹但不喧哗"
+      },
+      "highlights": [
+        "A local favourite on a quiet block that fills up regardless of the night",
+        "Lasagna bolognese is the universal order; the octopus with nduja and chickpeas brings heat"
+      ],
+      "name_zh": "Porzia's 意大利小馆",
+      "description_zh": "St Clair附近不起眼街区的意大利小馆，肉酱芝士千层是每桌必点，铺满帕玛森与慢炖肉酱。",
+      "highlights_zh": [
+        "不起眼街区里的local宝藏意大利小馆，进门就满桌",
+        "肉酱芝士千层面每桌必点，烤章鱼配nduja辣香肠酱和鹰嘴豆"
+      ],
+      "signature_dish_zh": "肉酱芝士千层面",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The famous Porzia's sits on an unremarkable St Clair block and still fills every table the moment you walk in.",
+        "must_try": "🧀 Lasagna bolognese, the universal order\n🐟 Kampachi crudo\n🐙 Grilled octopus with nduja and chickpeas",
+        "tips": "The lasagna arrives under thick parmesan with layers of bolognese nearly melted, and disappears in minutes. The octopus leans southern Italian and mediterranean, so add the nduja if you want heat.",
+        "vibe": "A neighbourhood Italian room that is busy without being loud"
+      }
+    },
+    {
+      "id": "nuna-kitchen-queen-west",
+      "code": "180",
+      "name": "Nuna Kitchen & Bar",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Octopus Anticuchero",
+      "description": "Queen West Peruvian room the reviewer calls their favourite, with twenty-eight dollar octopus and tasting menus.",
+      "address": "1265 Queen St W, Toronto, ON M6K 1L7",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/nuna-kitchen-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Nuna%20Kitchen%20%26%20Bar%201265%20Queen%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a51aa5f000000001101d676",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 45,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Charred anticucho skewers, twenty-eight dollar grilled octopus with cauliflower purée, and a seafood-upgraded shrimp risotto",
+      "bullet_highlight": "Summerlicious runs forty-one dollars at lunch and fifty-five at dinner, plus a hundred-and-thirty dollar tasting menu for two",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a51aa5f000000001101d676",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "这是我在多伦多最心爱的秘鲁食堂，即使吃过El Inka，还是更喜欢Nuna，把秘鲁菜呈现得更精致且不断创新（唯一的缺点就是远）。",
+        "must_try": "🐙 Octopus Anticuchero 秘鲁辣烤章鱼（$28）\n🍢 Beef anticuchos 烤西冷串\n🥘 Shrimp risotto 升级秘鲁海鲜烩饭",
+        "tips": "烤西冷串是半熟，怕生要备注全熟；章鱼很嫩、花菜奶酱清甜。每周四秘鲁牛排薯条$35，每周三全日1-2刀生蚝。",
+        "vibe": "暖黄灯光、复古砖墙的南美小馆，适合慢慢吃一顿浪漫晚餐"
+      },
+      "highlights": [
+        "The reviewer's favourite Peruvian kitchen in Toronto, years after first recommending it",
+        "Grilled octopus at twenty-eight dollars, half-price steaks on Thursday and a dollar oysters Wednesday"
+      ],
+      "name_zh": "Nuna Kitchen 秘鲁菜",
+      "description_zh": "Queen West上的秘鲁菜，暖黄灯光加复古砖墙；炭烤章鱼28刀很惊艳，周四牛排薯条35刀、周三1刀生蚝。",
+      "highlights_zh": [
+        "被原笔记称为多伦多最心爱的秘鲁食堂",
+        "炭烤章鱼28刀很惊艳，周四秘鲁牛排薯条35刀、周三1-2刀生蚝"
+      ],
+      "signature_dish_zh": "秘鲁辣烤章鱼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The reviewer's most loved Peruvian canteen in Toronto: more refined and more inventive than the alternatives, with the walk from downtown its only flaw.",
+        "must_try": "🐙 Octopus anticuchero for $28\n🍢 Beef anticuchos upgraded to striploin\n🥘 Shrimp risotto, upgraded to the seafood version",
+        "tips": "The anticuchos come medium-rare, so ask for well done if you do not eat pink meat. Thursday is $35 Peruvian steak and frites; Wednesday runs all-day oysters at one or two dollars.",
+        "vibe": "Warm lighting and retro brick in a South American room built for a slow dinner"
+      }
+    },
+    {
+      "id": "pho-bone-leslie",
+      "code": "181",
+      "name": "Pho Bone",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Vietnamese",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Beef Rib Bone Pho",
+      "description": "Richmond Hill pho shop stacking two beef ribs or a marrow bone into bowls for twenty dollars.",
+      "address": "9206 Leslie St, Richmond Hill, ON L4B 2N8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/pho-bone-leslie.webp",
+      "maps_url": "https://maps.google.com/?q=Pho%20Bone%209206%20Leslie%20St%20Richmond%20Hill",
+      "source_url": "https://www.rednote.com/discovery/item/69b5b97b000000001a02032a",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "A clear broth that still tastes of beef bone and spice, loaded with ribs, brisket or marrow",
+      "bullet_highlight": "Two enormous bowls for a little over twenty dollars, with honey-glazed fried wings on the side",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69b5b97b000000001a02032a",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "牛骨pho在多伦多是可以申遗的存在。beef bone粉端上来两大碗，一碗两大根beef rib，另一碗是一整块牛窝骨，20刀出头。",
+        "must_try": "🍖 Beef Bone Pho 牛骨粉（两大根肋排）\n🦴 Marrow Bone Pho 牛窝骨粉\n🍗 蜂蜜脆皮炸鸡翅",
+        "tips": "House special 和牛尾粉份量也很足；汤底看着清淡但喝起来是牛骨鲜甜加香料味。7月promo house special $9.99、大份$13.99。",
+        "vibe": "北边份量惊人的越南粉店，一个人也能吃得豪横"
+      },
+      "highlights": [
+        "Richmond Hill pho with two beef ribs or a giant marrow bone for about twenty dollars",
+        "The house special and tail pho are equally loaded; the fried wings are a second reason to come"
+      ],
+      "name_zh": "Pho Bone 牛骨越南粉",
+      "description_zh": "Richmond Hill的越南粉，20刀出头就有两大根牛肋排或一整块牛窝骨，汤底清甜、份量巨大。",
+      "highlights_zh": [
+        "20刀出头就有两大根牛肋排或一整块牛窝骨的越南粉",
+        "汤底看着清淡、喝起来是牛骨鲜甜，刷了蜂蜜水的炸鸡翅必点"
+      ],
+      "signature_dish_zh": "牛大骨肋排粉",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Beef-bone pho in Toronto, in the reviewer's words, is worth protecting. Two bowls arrived with two ribs each and one with a marrow bone the size of a fist.",
+        "must_try": "🍖 Beef bone pho with two ribs\n🦴 Marrow bone pho\n🍗 Honey-glazed crispy chicken wings",
+        "tips": "House special and tail pho are equally generous. The broth looks pale but tastes of beef bone and spice. The reviewer caught a promo of $9.99 for house special and $13.99 for large.",
+        "vibe": "A Richmond Hill pho shop where even a solo bowl feels generous"
+      }
+    },
+    {
+      "id": "oguz-uyghur-finch",
+      "code": "182",
+      "name": "Oguz Uyghur Restaurant",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Lamb Pilaf",
+      "description": "Finch Avenue Uyghur kitchen whose lamb pilaf the reviewer declares Toronto's single best.",
+      "address": "1110 Finch Ave W, North York, ON M3J 2T2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/oguz-uyghur-finch.webp",
+      "maps_url": "https://maps.google.com/?q=Oguz%20Uyghur%20Restaurant%201110%20Finch%20Ave%20W%20North%20York",
+      "source_url": "https://www.rednote.com/discovery/item/6a3c974f000000001702f424",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Separate grains of lamb pilaf, chewy stir-fried noodles with real wok heat, and a cumin-heavy grill platter",
+      "bullet_highlight": "The reviewer awards this Toronto's number one pilaf, with crisp-crusted baked buns as the bonus",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a3c974f000000001702f424",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "本人封这家抓饭为多伦多的top1没有之一。点的都是喜欢的碳水和烤肉，端上来香味直接拉满。",
+        "must_try": "🍚 手抓饭（米粒分明、吸满肉香）\n🥟 烤包子（外皮酥脆）\n🥩 烤肉拼盘（孜然香浓）\n🍜 干煸炒面（锅气足、微辣）",
+        "tips": "烤肉拼盘适合多人一起点，一次尝到不同口味；干煸炒面带一点微辣，面条筋道入味。",
+        "vibe": "北边的维吾尔餐厅，孜然香和碳水快乐一次到位"
+      },
+      "highlights": [
+        "Uyghur kitchen on Finch that the reviewer calls Toronto's best pilaf, full stop",
+        "Lamb pilaf, dry-fried noodles and a grill platter made for sharing, plus crisp samsa"
+      ],
+      "name_zh": "Oguz 维吾尔餐厅",
+      "description_zh": "Finch上的维吾尔餐厅，手抓饭米粒分明吸满肉香，烤包子外皮酥脆，烤肉拼盘适合多人。",
+      "highlights_zh": [
+        "原笔记封这家的手抓饭为多伦多top1",
+        "手抓饭米粒分明、烤肉拼盘外焦里嫩，烤包子外皮酥脆"
+      ],
+      "signature_dish_zh": "手抓饭",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The reviewer crowns this Toronto's number one pilaf, no exceptions: all carbs and grilled meat, arriving with the smell turned all the way up.",
+        "must_try": "🍚 Lamb pilaf with loose, separate grains\n🥟 Crisp-crusted baked samsa\n🥩 Cumin-heavy grill platter\n🍜 Dry-fried noodles with real wok heat",
+        "tips": "The grill platter is the sharing order and lets you taste several meats at once; the dry-fried noodles come through mildly spicy and springy.",
+        "vibe": "A north-end Uyghur room that delivers cumin and carbohydrates in one sitting"
+      }
+    },
+    {
+      "id": "rudy-burger-duncan",
+      "code": "183",
+      "name": "Rudy",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Rudy Cheeseburger",
+      "description": "Reddit's favourite downtown burger with a thin, fresh patty seared hard at the edges and great poutine.",
+      "address": "69 Duncan St, Toronto, ON M5V 1V3",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/rudy-burger-duncan.webp",
+      "maps_url": "https://maps.google.com/?q=Rudy%2069%20Duncan%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a850028000000000e03f400",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "walking_time_min": 27,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "A thin fresh patty with crisp edges inside a soft brioche, plus hand-cut fries that make the poutine",
+      "bullet_highlight": "Widely recommended on Reddit and rated better than Shake Shack by the reviewer who tried both",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a850028000000000e03f400",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "Reddit很多推荐的汉堡，还不错。肉饼边缘煎得很脆，是新鲜非冷冻的，饼皮挺薄不会噎，比Shake Shack好吃。",
+        "must_try": "🍔 Rudy Cheeseburger 芝士汉堡\n🍟 鲜切薯条做的 Poutine\n🥗 配一份沙拉解腻",
+        "tips": "原笔记评论区有分歧：有人说比汉堡王还淡、single cheese套餐吃不饱，可以多点一份；薯条是公认好吃的。",
+        "vibe": "Downtown小快餐店，一个人站着吃也自在"
+      },
+      "highlights": [
+        "The burger Reddit keeps recommending, and the one the reviewer prefers to Shake Shack",
+        "Fresh, never-frozen patty with crisped edges; the poutine is quietly excellent"
+      ],
+      "name_zh": "Rudy 汉堡",
+      "description_zh": "Duncan街网红汉堡，肉饼新鲜非冷冻、边缘煎得脆，薯条鲜切现炸，poutine意外好吃。",
+      "highlights_zh": [
+        "Reddit上很多人推荐的汉堡，原笔记觉得比Shake Shack好吃",
+        "肉饼新鲜非冷冻、边缘煎脆，鲜切薯条做的poutine意外好吃"
+      ],
+      "signature_dish_zh": "芝士汉堡",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The burger Reddit keeps pushing, and the reviewer agrees: fresh never-frozen patty with crisp edges, a thin bun that never feels heavy, and better than Shake Shack.",
+        "must_try": "🍔 Rudy cheeseburger\n🍟 Poutine made from hand-cut fries\n🥗 A salad to cut through it",
+        "tips": "Commenters disagreed: one found the patty under-seasoned and the single-cheese combo too small, so consider ordering a second. The fries were the least controversial part.",
+        "vibe": "A small downtown counter where eating alone feels normal"
+      }
+    },
+    {
+      "id": "blooming-spice-fish-house",
+      "code": "184",
+      "name": "Blooming Spice Fish House",
+      "native_name": "杠上花",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 1,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Sichuan Boiled Fish",
+      "description": "Scarborough Sichuan shop where an eighty-eight dollar set feeds four for about twenty dollars each.",
+      "address": "325 Bamburgh Cir Unit A106, Scarborough, ON M1V 5L6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/blooming-spice-fish-house.webp",
+      "maps_url": "https://maps.google.com/?q=Blooming%20Spice%20Fish%20House%20325%20Bamburgh%20Cir%20Unit%20A106%20Scarborough",
+      "source_url": "https://www.rednote.com/discovery/item/6a274f00000000001c0257d5",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Stir-fried to order with real wok breath: boiled fish, cumin dry pot, garlic vermicelli prawns and taro cakes",
+      "bullet_highlight": "An eighty-eight dollar set covers four people with six dishes, four teas and four bowls of rice",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a274f00000000001c0257d5",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "多伦多现在还有这种物价？四个人点了满满一桌，结账盯着小票看了三遍，人均20一度以为老板算错了。四川朋友带路，说这家辣得比较正。",
+        "must_try": "🐟 沸腾鱼（鱼肉很嫩，麻辣香但不抢鲜）\n🦐 蒜蓉粉丝扇贝虾\n🌶️ 火爆双脆（隔壁桌推荐）\n🧆 手工芋头饼",
+        "tips": "88刀套餐含沸腾鱼、孜然干锅王、蒜蓉粉丝扇贝虾、筋头巴脑烧豆腐、手工芋头饼、4杯苦瓜茶和4碗米饭；基本每天都排队。",
+        "vibe": "Scarborough的平价川菜小馆，人多是真的有道理"
+      },
+      "highlights": [
+        "Sichuan cooking at about twenty dollars a head from a set built for four",
+        "The boiled fish is the sleeper hit; queues form nightly, even at nine o'clock"
+      ],
+      "name_zh": "杠上花 川菜馆",
+      "description_zh": "Scarborough川菜馆，88刀套餐四个人吃到撑，人均20；沸腾鱼嫩而不抢鲜，火爆双脆值得加单。",
+      "highlights_zh": [
+        "人均20的川菜，88刀套餐四个人吃得很饱",
+        "沸腾鱼嫩而不辣抢，火爆双脆值得一试，晚上9点门口还在排队"
+      ],
+      "signature_dish_zh": "沸腾鱼",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "An $88 set for four that the reviewer double-checked on the bill: about twenty dollars a head, with a Sichuan friend vouching for the heat.",
+        "must_try": "🐟 Boiled fish, tender and fragrant without losing its sweetness\n🦐 Garlic vermicelli prawns\n🌶️ The double-crisp stir-fry a neighbouring table recommended\n🧆 Hand-made taro cakes",
+        "tips": "The set includes boiled fish, cumin dry pot, garlic vermicelli prawns, braised tofu, taro cakes, four bitter-melon teas and four bowls of rice. Expect a queue most days.",
+        "vibe": "A cheap, busy Scarborough Sichuan room where the crowd is the point"
+      }
+    },
+    {
+      "id": "bar-filo-yonge",
+      "code": "185",
+      "name": "Bar Filo",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Italian",
+      "price": 4,
+      "time": "long",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "24oz Bistecca di Manzo",
+      "description": "Yonge Street Italian steak house cutting a twenty-four ounce bistecca for sixty-six dollars Mondays to Wednesdays.",
+      "address": "146 Yonge St, Toronto, ON M5C 1X6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/bar-filo-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Bar%20Filo%20146%20Yonge%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/69b5f596000000001a03103a",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "walking_time_min": 6,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "A twenty-four ounce bone-in bistecca cooked on the rare side and finished with salt flakes, plus grilled octopus",
+      "bullet_highlight": "The Monday to Wednesday offer takes a twenty-four ounce cut to about sixty-six dollars before tip",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/69b5f596000000001a03103a",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "为了这六十多的24oz牛排下班就赶DT。正巧朋友过生日，24oz bistecca 66刀，含小费差不多80左右，有这个活动来吃很值。",
+        "must_try": "🥩 Bistecca di Manzo 24oz（约$66）\n🐙 Polpo alla Griglia 烤章鱼（$45）\n🥗 Insalata di Lattura e Erbe（$20）",
+        "tips": "他们家牛排做得偏生，点medium well中间仍可能偏rare，怕生要提前说；沙拉每片裹满酱汁很解腻。记得opentable提前约。",
+        "vibe": "Yonge街上的开放式厨房牛排馆，适合下班后吃一顿好的"
+      },
+      "highlights": [
+        "Downtown steak dinner for around eighty dollars all-in thanks to the Monday-Wednesday offer",
+        "Twenty-four ounce bistecca, grilled octopus and an open kitchen right on Yonge Street"
+      ],
+      "name_zh": "Bar Filo 牛排小馆",
+      "description_zh": "Yonge街牛排馆，周一二三牛排有优惠，24盎司bistecca约66刀，开放式厨房，记得先在OpenTable订位。",
+      "highlights_zh": [
+        "周一二三牛排有优惠，24盎司bistecca约66刀",
+        "开放式厨房、含小费约80刀吃下来，记得先在OpenTable订位"
+      ],
+      "signature_dish_zh": "24盎司牛排",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Worth crossing downtown for a sixty-six dollar twenty-four ounce bistecca: about eighty dollars with tip, and the reviewer would go again for it.",
+        "must_try": "🥩 24oz bistecca di manzo for about $66\n🐙 Grilled octopus for $45\n🥗 The dressed lettuce and herb salad for $20",
+        "tips": "Steak comes on the rare side: even medium well can still show pink, so say so if you do not eat that. Book through OpenTable in advance.",
+        "vibe": "An open-kitchen steak room on Yonge Street for an after-work splurge"
+      }
+    },
+    {
+      "id": "mexico-lindo-bayview",
+      "code": "186",
+      "name": "Mexico Lindo",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Mexican",
+      "price": 1,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Birria Tacos with Beef Consommé",
+      "description": "Leaside taqueria selling five tacos a plate, mixable flavours, and a birria broth worth dipping for.",
+      "address": "1618 Bayview Ave, Toronto, ON M4G 3B7",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/mexico-lindo-bayview.webp",
+      "maps_url": "https://maps.google.com/?q=Mexico%20Lindo%201618%20Bayview%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a12371b000000000603042e",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Slow-braised beef, steak, pork and chicken-pineapple tacos, each plate of five mixable between flavours",
+      "bullet_highlight": "Wednesday and Friday second-plate deals put ten tacos, chips and two sodas at forty dollars",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a12371b000000000603042e",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "先说结论：夯爆了！所有人请吃下这份平价大碗的安利。每份五个，可以两个味道mix，还可以告诉他们哪个多哪个少。",
+        "must_try": "🌮 Birria 炖牛肉Taco（蘸牛肉汤）\n🌮 牛排 / 鸡肉菠萝 / 炖猪肉Taco\n🍲 随餐的炖牛肉汤",
+        "tips": "周三周五第二份半价，十个taco一份chip两瓶汽水共40。原笔记提醒：taco端上来会附一碗炖牛肉汤，皮裤套棉裤必有缘故，蘸着吃才对。",
+        "vibe": "Bayview街边的小份量墨西哥馆，适合两三个人分着吃"
+      },
+      "highlights": [
+        "Cheap, generous tacos with five to a plate and flavours you can mix",
+        "Dip the birria taco in the beef broth it arrives with, that is the whole point"
+      ],
+      "name_zh": "Mexico Lindo 墨西哥Taco",
+      "description_zh": "Leaside墨西哥小馆，一份五个taco可混味，周三周五第二份半价；炖牛肉taco蘸牛肉汤是灵魂。",
+      "highlights_zh": [
+        "一份五个taco、可以混口味，周三周五第二份半价",
+        "炖牛肉taco一定要蘸随餐的牛肉汤，神仙吃法"
+      ],
+      "signature_dish_zh": "炖牛肉Taco配牛肉汤",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The verdict: outstanding, and cheap enough that everyone should take the recommendation. Five tacos a plate, mixable flavours, and you can split the counts.",
+        "must_try": "🌮 Birria beef tacos, dipped in the consommé\n🌮 Steak, chicken-and-pineapple or pork tacos\n🍲 The beef broth that arrives with them",
+        "tips": "Wednesday and Friday second plates are half price: ten tacos, chips and two sodas for forty dollars. The broth that comes with the birria is not an accident, so use it.",
+        "vibe": "A small Bayview taqueria made for two or three people sharing plates"
+      }
+    },
+    {
+      "id": "chon-modern-thai-bayview",
+      "code": "187",
+      "name": "Chon Modern Thai",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "group",
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Signature Mango Salad",
+      "description": "Chef Chat's Bayview Thai room where mango salad and crispy rice lead a menu that rarely misses.",
+      "address": "1677 Bayview Ave, Toronto, ON M4G 3C1",
+      "hours_note": "Daily 11:00 AM - 10:00 PM",
+      "image_url": "assets/images/chon-modern-thai-bayview.webp",
+      "maps_url": "https://maps.google.com/?q=Chon%20Modern%20Thai%201677%20Bayview%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/693a12b9000000001e00b469",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Midtown",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Mango salad with sweet potato threads, crisp rice with herbs, charred pork jowl and seafood that tastes fresh",
+      "bullet_highlight": "Opened under Chef Chat to early queues, and the reviewer says the menu barely puts a foot wrong",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/693a12b9000000001e00b469",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "关注很久的Chef Chat新开泰餐终于soft opening，立刻马不停蹄打卡。基本上都不太会踩雷，非常符合期待。",
+        "must_try": "🥭 Signature Mango Salad 招牌芒果沙拉\n🍚 Crispy Rice 颗粒脆米（配树叶一起吃）\n🍤 辣炒海鲜（青口、大虾、鱿鱼）\n🍮 Beachy Mango Sticky Rice 芒果糯米饭",
+        "tips": "Pork Jowl Salad猪颈肉烤得微焦有烟熏香；Pad Gra Pow Beef用的是strack很有巧思；有vegan的Garden Curry可选。原笔记提醒grand opening会很火爆，趁早去。",
+        "vibe": "Bayview街上的现代泰餐，好看又好拍，适合朋友聚餐"
+      },
+      "highlights": [
+        "Chef Chat's modern Thai kitchen on Bayview, opened to strong early reviews",
+        "Signature mango salad and crispy rice lead a menu the reviewer says rarely missteps"
+      ],
+      "name_zh": "Chon Modern Thai 现代泰餐",
+      "description_zh": "Chef Chat新开的现代泰餐，招牌芒果沙拉和颗粒脆米很出彩，甜点芒果糯米饭像一幅画。",
+      "highlights_zh": [
+        "Chef Chat新开的现代泰餐，就在Bayview街",
+        "招牌芒果沙拉和颗粒脆米必点，芒果糯米饭好看又好吃"
+      ],
+      "signature_dish_zh": "招牌芒果沙拉",
+      "hours_note_zh": "每日 11:00-22:00",
+      "review_notes_en": {
+        "summary": "Chef Chat's long-awaited Thai opening, visited straight away: the reviewer says the menu barely puts a foot wrong and lived up to expectations.",
+        "must_try": "🥭 Signature mango salad\n🍚 Crispy rice with herbs, eaten wrapped in the leaf\n🍤 Chilli stir-fried seafood\n🍮 Beachy mango sticky rice",
+        "tips": "The pork jowl salad comes charred and smoky; the pad gra pow uses striploin, which is a nice touch. There is also a vegan garden curry. Expect a rush when it opens properly.",
+        "vibe": "A good-looking modern Thai room on Bayview for a group dinner"
+      }
+    },
+    {
+      "id": "eat-bkk-annex-bloor",
+      "code": "188",
+      "name": "EAT BKK",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group",
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Northern Thai Curry Noodles with Beef",
+      "description": "Yonge and Bloor Thai kitchen rated 4.8, where the northern curry noodle soup is the order.",
+      "address": "513 Bloor St W, Toronto, ON M5S 1Y4",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/eat-bkk-annex-bloor.webp",
+      "maps_url": "https://maps.google.com/?q=EAT%20BKK%20513%20Bloor%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6a280bd7000000000e021800",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "walking_time_min": null,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "spicy"
+      ],
+      "bullet_flavor": "Rich northern curry noodles, pineapple fried rice with pork floss and crisp onion, papaya salad to taste",
+      "bullet_highlight": "A 4.8-rated Bangkok-street-style room whose full menu the reviewer worked through item by item",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a280bd7000000000e021800",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "在DT发现一家小众宝藏泰餐，评分竟然还是4.8分。作为爱吃泰餐星人，品鉴过多家多伦多泰餐后依然给到这家一个顶级。",
+        "must_try": "🍜 牛肉 咖喱面（泰北风味浓汤面，五星）\n🍚 菠萝炒饭（肉松+脆洋葱是灵魂）\n🥗 青木瓜沙拉（酸辣可选）\n🦀 软壳蟹拼盘（配三种蘸酱）",
+        "tips": "可以选辣度，不吃辣记得提前说；周末饭点人多建议错峰。装修是曼谷街头风，拍照很出片。",
+        "vibe": "曼谷街头风的小泰餐店，适合朋友一起点一桌"
+      },
+      "highlights": [
+        "Small Bangkok-street-style Thai room near Yonge and Bloor rated 4.8",
+        "Beef curry noodles are the five-star dish; pineapple fried rice and soft-shell crab follow"
+      ],
+      "name_zh": "EAT BKK 泰餐",
+      "description_zh": "Yonge与Bloor路口的泰餐小店，评分4.8，牛肉咖喱浓汤面是必点，菠萝炒饭和软壳蟹拼盘也很稳。",
+      "highlights_zh": [
+        "Yonge与Bloor路口的泰餐小店，评分4.8",
+        "牛肉咖喱浓汤面五星必点，菠萝炒饭和软壳蟹拼盘也稳"
+      ],
+      "signature_dish_zh": "牛肉咖喱浓汤面",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A low-key downtown Thai find rated 4.8, which the reviewer still calls top tier after working through most of Toronto's Thai options.",
+        "must_try": "🍜 Northern-style beef curry noodles, the five-star order\n🍚 Pineapple fried rice with pork floss and crisp onion\n🥗 Green papaya salad with adjustable heat\n🦀 Soft-shell crab platter with three dips",
+        "tips": "Spice level is adjustable, so say so up front. The room is done up Bangkok-street style and photographs well; weekends get busy, so go off-peak.",
+        "vibe": "A small street-styled Thai room for sharing a table full of plates"
+      }
+    },
+    {
+      "id": "litsea-cuisine-victoria-park",
+      "code": "189",
+      "name": "Litsea Cuisine",
+      "native_name": "巡南记",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Yunnan Hand-Grabbed Rice Platter for Two",
+      "description": "North York Yunnan room where a two-person rice platter with grilled fish feeds more than two.",
+      "address": "3550 Victoria Park Ave Unit 100, North York, ON M2H 2E1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/litsea-cuisine-victoria-park.webp",
+      "maps_url": "https://maps.google.com/?q=Litsea%20Cuisine%203550%20Victoria%20Park%20Ave%20Unit%20100%20North%20York",
+      "source_url": "https://www.rednote.com/discovery/item/6a768c13000000000f03a000",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "walking_time_min": null,
+      "portion_size": "heavy",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Crisp fried river fish, crinkle-cut potatoes and glutinous rice rolls alongside a hand-grabbed rice platter",
+      "bullet_highlight": "Two people ordered a set plus extras and still could not finish it, in a clean, well-kept room",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/discovery/item/6a768c13000000000f03a000",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "云南菜，装修布置得很用心，服务员小哥很热情一直问饭菜如何，店里和洗手间都打扫得很干净。两个人吃点了一个手抓饭2人套餐，加了烤鱼和烤糯米藕，量很大都没吃完。",
+        "must_try": "🐟 烤鱼（炸得酥脆，除了大刺都吃光）\n🥔 狼牙土豆\n🍠 烤糯米藕\n🍚 糯米饭沾糖",
+        "tips": "其他无功无过：鸡肉稍微有点柴，糯米饭好吃但凉了会硬。原笔记说还是会再去尝尝其他菜，有推荐的菜写在评论区。",
+        "vibe": "北约克的云南私房菜，环境干净、服务热情"
+      },
+      "highlights": [
+        "North York Yunnan kitchen built around a two-person hand-grabbed rice platter",
+        "The fried fish is crisp through, the crinkle-cut potatoes land, and the portions run large"
+      ],
+      "name_zh": "巡南记 Litsea Cuisine",
+      "description_zh": "Victoria Park上的云南菜，手抓饭双人套餐加烤鱼、烤糯米藕量很大，烤鱼酥脆、狼牙土豆好吃。",
+      "highlights_zh": [
+        "北约克云南菜，手抓饭双人套餐加烤鱼吃不完",
+        "烤鱼炸得酥脆、狼牙土豆和烤糯米藕好吃，服务热情、店里干净"
+      ],
+      "signature_dish_zh": "云南手抓饭双人套餐",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Yunnan room where the decor was clearly considered, the staff keep checking in, and two people could not finish a set plus grilled fish and sticky-rice lotus.",
+        "must_try": "🐟 Fried river fish, crisp all the way through\n🥔 Crinkle-cut potatoes\n🍠 Grilled glutinous rice lotus\n🍚 Sticky rice with sugar",
+        "tips": "Everything else was neutral: the chicken was a little dry, and the sticky rice is good but hardens as it cools. The reviewer plans to return to work through the rest of the menu.",
+        "vibe": "A tidy North York Yunnan room with genuinely warm service"
       }
     }
   ]
