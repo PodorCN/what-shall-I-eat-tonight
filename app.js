@@ -91,7 +91,7 @@
       searchPlaceholder: 'Search dish, restaurant, or cuisine (e.g. ramen, khao soi, hot pot)...',
       sortOptions: {
         'default': '🆕 Newest Added First',
-        'walk': '🚶 Walking distance (Closest first)',
+        'walk': '🚗 Travel time (Closest first)',
         'price-asc': '💵 Price: Low to High',
         'price-desc': '💎 Price: High to Low',
         'visits-desc': '🏆 Most Visited First',
@@ -217,7 +217,7 @@
       searchPlaceholder: '搜索店名、中文名、菜系、招牌菜或街区 (如 拉面、烤肉、火锅)...',
       sortOptions: {
         'default': '🆕 最新添加优先',
-        'walk': '🚶 步行距离 (从近到远)',
+        'walk': '🚗 路程时间 (从近到远)',
         'price-asc': '💵 价格：从低到高',
         'price-desc': '💎 价格：从高到低',
         'visits-desc': '🏆 打卡最多优先',
@@ -664,8 +664,8 @@
     switch (filters.sort) {
       case 'walk':
         return list.sort((a, b) => {
-          const timeA = a.walking_time_min != null ? a.walking_time_min : 999;
-          const timeB = b.walking_time_min != null ? b.walking_time_min : 999;
+          const timeA = a.travel_time_min != null ? a.travel_time_min : (a.walking_time_min != null ? a.walking_time_min : 999);
+          const timeB = b.travel_time_min != null ? b.travel_time_min : (b.walking_time_min != null ? b.walking_time_min : 999);
           return timeA - timeB;
         });
 
@@ -966,12 +966,32 @@
   function createCardHtml(opt) {
     const isZh = currentLang === 'zh';
 
-    const walkingBadge = opt.walking_time_min != null
-      ? `<span class="badge-walk" title="${isZh ? '步行时间估算' : 'Estimated walking time'}">🚶 ${isZh ? `步行${opt.walking_time_min}分钟` : `${opt.walking_time_min}m walk`}</span>`
+    const travelMode = opt.travel_mode || (opt.walking_time_min != null ? 'walk' : null);
+    const travelTime = opt.travel_time_min != null ? opt.travel_time_min : opt.walking_time_min;
+    let travelIcon = '🚶', travelZh = '', travelEn = '', travelTitleZh = '', travelTitleEn = '', travelCls = 'badge-walk', travelChipCls = 'walk-chip';
+    if (travelMode === 'ttc') {
+      travelIcon = '🚇';
+      travelZh = `TTC约${travelTime}分钟`; travelEn = `${travelTime}m by TTC`;
+      travelTitleZh = 'TTC时间估算'; travelTitleEn = 'Estimated TTC time';
+      travelCls = 'badge-walk badge-walk-transit'; travelChipCls = 'transit-chip';
+    } else if (travelMode === 'drive') {
+      travelIcon = '🚗';
+      travelZh = `开车约${travelTime}分钟`; travelEn = `${travelTime}m drive`;
+      travelTitleZh = '开车时间估算'; travelTitleEn = 'Estimated driving time';
+      travelCls = 'badge-walk badge-walk-transit'; travelChipCls = 'transit-chip';
+    } else {
+      travelZh = `步行${travelTime}分钟`; travelEn = `${travelTime}m walk`;
+      travelTitleZh = '步行时间估算'; travelTitleEn = 'Estimated walking time';
+    }
+    const travelChipZh = travelMode === 'walk' ? `${travelTime}分钟` : travelMode === 'ttc' ? `TTC ${travelTime}分` : `开车${travelTime}分`;
+    const travelChipEn = travelMode === 'walk' ? `${travelTime}m` : travelMode === 'ttc' ? `TTC ${travelTime}m` : `${travelTime}m drive`;
+
+    const walkingBadge = travelMode
+      ? `<span class="${travelCls}" title="${isZh ? travelTitleZh : travelTitleEn}">${travelIcon} ${isZh ? travelZh : travelEn}</span>`
       : `<span class="badge-walk badge-walk-transit" title="${isZh ? '需乘车或驾车' : 'Transit / Outer Area'}">🚇 ${isZh ? '需乘车' : 'Transit'}</span>`;
 
-    const walkChip = opt.walking_time_min != null
-      ? `<span class="meta-chip walk-chip" title="${isZh ? '步行时间估算' : 'Estimated walking time'}">🚶 ${isZh ? `${opt.walking_time_min}分钟` : `${opt.walking_time_min}m`}</span>`
+    const walkChip = travelMode
+      ? `<span class="meta-chip ${travelChipCls}" title="${isZh ? travelTitleZh : travelTitleEn}">${travelIcon} ${isZh ? travelChipZh : travelChipEn}</span>`
       : `<span class="meta-chip transit-chip" title="${isZh ? '需乘车或驾车' : 'Transit or drive'}">🚇 ${isZh ? '需乘车' : 'Transit'}</span>`;
 
     const codeBadge = opt.code
@@ -1397,9 +1417,16 @@
     }
 
     const areaName = isZh ? translateArea(winner.area, 'zh') : winner.area;
-    const walkNote = winner.walking_time_min != null
-      ? `🚶 ${isZh ? `步行${winner.walking_time_min}分钟` : `${winner.walking_time_min}m walk`} (${areaName})`
-      : `📍 ${areaName}`;
+    const winnerMode = winner.travel_mode || (winner.walking_time_min != null ? 'walk' : null);
+    const winnerTime = winner.travel_time_min != null ? winner.travel_time_min : winner.walking_time_min;
+    const winnerTravel = winnerMode === 'walk'
+      ? `🚶 ${isZh ? `步行${winnerTime}分钟` : `${winnerTime}m walk`}`
+      : winnerMode === 'ttc'
+      ? `🚇 ${isZh ? `TTC约${winnerTime}分钟` : `${winnerTime}m by TTC`}`
+      : winnerMode === 'drive'
+      ? `🚗 ${isZh ? `开车约${winnerTime}分钟` : `${winnerTime}m drive`}`
+      : '';
+    const walkNote = winnerTravel ? `${winnerTravel} (${areaName})` : `📍 ${areaName}`;
 
     const curationMeta = getCurationBadgeMeta(winner.curation_source, currentLang);
     const cuisineName = isZh ? translateCuisine(winner.cuisine, 'zh') : winner.cuisine;

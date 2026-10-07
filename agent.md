@@ -67,9 +67,13 @@ Must be strictly one of these 8 allowed values:
 7. `"Midtown"`: Yonge & Eglinton, Bloor-Yorkville, St. Clair.
 8. `"Other"`: East York, Etobicoke, Mississauga, outer GTA.
 
-> **🚶 Walking Time Rule & "All Downtown" Filter:**
-> * The 5 Downtown-accessible areas (`Downtown (Yonge)`, `Downtown (Other)`, `Chinatown`, `Queen West`, `Financial Core`) represent the downtown core. The UI provides a **`🏙️ All Downtown`** filter chip that matches any of these 5 areas (or excludes them when inverted). For these 5 areas, you **must** provide a realistic walking time integer in minutes (e.g. `4`, `12`, `22`).
-> * For outer areas (`North`, `Midtown`, `Other`), set `"walking_time_min": null` to avoid misleading walking estimates.
+> **🚶🚇🚗 Travel Time Rule & "All Downtown" Filter:**
+> * The 5 Downtown-accessible areas (`Downtown (Yonge)`, `Downtown (Other)`, `Chinatown`, `Queen West`, `Financial Core`) represent the downtown core. The UI provides a **`🏙️ All Downtown`** filter chip that matches any of these 5 areas (or excludes them when inverted).
+> * Every entry carries `travel_mode` + `travel_time_min`, measured from home (postal M5B 0B8, near Yonge & Dundas; origin lat 43.654819, lon -79.3753414):
+>   * Downtown entries within a 30-minute walk → `"travel_mode": "walk"` with real walking minutes.
+>   * Downtown entries over 30 minutes on foot → `"travel_mode": "ttc"` with estimated TTC minutes.
+>   * `North` / `Midtown` / `Other` entries → `"travel_mode": "drive"` with estimated driving minutes.
+> * Times are road-network estimates (OSRM, rounded to the nearest 5 minutes), not measurements — recompute if an address changes.
 
 #### D. `cuisine` (Culinary Origin)
 Must be strictly one of these 11 allowed values:
@@ -313,7 +317,8 @@ Copy this template when creating a new record:
   "source_url": "https://example.com/",
   "unverified": [],
   "area": "Downtown (Yonge)",
-  "walking_time_min": 8,
+  "travel_mode": "walk",
+  "travel_time_min": 10,
   "portion_size": "normal",
   "food_profile": [
     "more-meat"

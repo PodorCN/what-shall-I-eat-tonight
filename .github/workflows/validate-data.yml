@@ -119,6 +119,12 @@ jobs:
 
               if r.get("portion_size") not in ALLOWED_PORTIONS:
                   errors.append(f"Row {i} ({rid}): invalid portion_size {r.get('portion_size')}")
+              if r.get("travel_mode") not in {"walk", "ttc", "drive"}:
+                  errors.append(f"Row {i} ({rid}): invalid travel_mode {r.get('travel_mode')}")
+
+              ttm = r.get("travel_time_min")
+              if not isinstance(ttm, int) or isinstance(ttm, bool) or ttm < 0:
+                  errors.append(f"Row {i} ({rid}): invalid travel_time_min {r.get('travel_time_min')}")
 
               if r.get("curation_source") and r.get("curation_source") not in {"web", "red", "other", "xiaohongshu", "word-of-mouth"}:
                   errors.append(f"Row {i} ({rid}): invalid curation_source {r.get('curation_source')}")
