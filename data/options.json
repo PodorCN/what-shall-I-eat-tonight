@@ -11371,6 +11371,79 @@
         "tips": "The room is tiny (~30 seats) and brunch queues form, so come right at opening. The menu rotates seasonally; grab limited plates like the roasted chili peach crostini.",
         "vibe": "Warm, minimal and photogenic — a cute pick for a brunch date or a catch-up with friends."
       }
+    },
+    {
+      "id": "flippers-toronto",
+      "code": "191",
+      "name": "Flipper's",
+      "native_name": "フリッパーズ",
+      "type": "restaurant",
+      "cuisine": "Japanese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Kiseki Soufflé Pancakes",
+      "description": "Tokyo's miracle soufflé pancake brand at its first Canadian outpost on Elm Street.",
+      "address": "31 Elm St, Toronto, ON M5G 1H1",
+      "hours_note": "Mon-Fri 8:00 AM - 4:00 PM, Sat-Sun 8:00 AM - 5:00 PM",
+      "image_url": "assets/images/flippers-toronto.webp",
+      "maps_url": "https://maps.google.com/?q=Flipper%27s%2031%20Elm%20St%20Toronto",
+      "source_url": "https://flipperscanada.com/",
+      "unverified": [],
+      "area": "Downtown (Yonge)",
+      "travel_mode": "walk",
+      "travel_time_min": 10,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [
+        "light-carb"
+      ],
+      "bullet_flavor": "Jiggly kiseki pancakes cooked to order, from strawberry cream to maple",
+      "bullet_highlight": "Tokyo's miracle-pancake brand chose Elm Street for its first Canadian outpost",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Flipper%27s%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "东京「奇迹舒芙蕾松饼」的加拿大首店，每份现做约等20分钟、端上来duang duang；草莓奶油人气最高，抹茶和焦糖香蕉巧克力也稳，咸口brunch同样在线。",
+        "must_try": "🥞 草莓奶油舒芙蕾松饼（招牌）\n🍵 抹茶舒芙蕾松饼\n🍫 焦糖香蕉巧克力舒芙蕾\n🍳 咸口：牛油果吐司 / 双蛋餐",
+        "tips": "松饼现点现做要等约20分钟，进店先把甜品点上再看咸口；周末排队多、尽量赶开门；可以用Resy订位。",
+        "vibe": "明亮的日式松饼店，松饼上桌先拍照再吃；适合brunch约会或朋友小聚"
+      },
+      "highlights": [
+        "Tokyo's miracle-pancake brand chose Elm Street for its first Canadian outpost",
+        "Jiggly kiseki pancakes cooked to order, from strawberry cream to maple"
+      ],
+      "name_zh": "Flipper's 舒芙蕾松饼",
+      "description_zh": "东京人气「奇迹舒芙蕾松饼」的加拿大首店，每份现做约20分钟、松软轻盈，草莓奶油和抹茶口味都值得专程。",
+      "highlights_zh": [
+        "东京来的「奇迹松饼」加拿大首店，落址Elm街",
+        "现做duang duang舒芙蕾，草莓奶油/抹茶口味出圈"
+      ],
+      "signature_dish_zh": "奇迹舒芙蕾松饼（草莓奶油）",
+      "hours_note_zh": "周一至周五 8:00 - 16:00，周六至周日 8:00 - 17:00",
+      "review_notes_en": {
+        "summary": "Tokyo's miracle soufflé pancake brand at its first Canadian location, where each jiggly stack is cooked to order over about 20 minutes.",
+        "must_try": "🥞 Strawberry cream soufflé pancakes (the signature)\n🍵 Matcha soufflé pancakes\n🍫 Caramel banana chocolate soufflé\n🍳 Savory side: avocado toast / two eggs any style",
+        "tips": "Each pancake order takes about 20 minutes to cook, so order sweets first; weekends queue hard — come at opening; reservations via Resy.",
+        "vibe": "A bright, busy Japanese pancake room where every table photographs the stack before digging in."
+      }
     }
   ]
 }
