@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-10-10",
   "location": "Toronto, ON",
   "options": [
     {
@@ -11297,6 +11297,79 @@
         "must_try": "🐟 Fried river fish, crisp all the way through\n🥔 Crinkle-cut potatoes\n🍠 Grilled glutinous rice lotus\n🍚 Sticky rice with sugar",
         "tips": "Everything else was neutral: the chicken was a little dry, and the sticky rice is good but hardens as it cools. The reviewer plans to return to work through the rest of the menu.",
         "vibe": "A tidy North York Yunnan room with genuinely warm service"
+      }
+    },
+    {
+      "id": "holmpei-cafe-bistro-dundas",
+      "code": "190",
+      "name": "HolmPei Cafe Bistro",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Holmpei Pancake & Biscoff Latte",
+      "description": "Cozy Bay-and-Dundas cafe bistro plating colourful fusion brunch, famous for its Biscoff latte.",
+      "address": "122 Dundas St W, Toronto, ON M5G 1C3",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/holmpei-cafe-bistro-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=HolmPei%20Cafe%20Bistro%20122%20Dundas%20St%20W%20Toronto",
+      "source_url": "https://www.blogto.com/restaurants/holmpei-cafe-toronto/",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Yonge)",
+      "travel_mode": "walk",
+      "travel_time_min": 10,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "more-veggie"
+      ],
+      "bullet_flavor": "Signature Biscoff latte and the namesake Holmpei pancake with grilled halloumi",
+      "bullet_highlight": "A tiny, warmly lit Bay-and-Dundas room where the plating is as colourful as the flavours",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=HolmPei%20Cafe%20Bistro%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "融合brunch咖啡小店，咖啡和餐点颜值口味双在线；招牌Biscoff拿铁和Holmpei Pancake必点，店小饭点要排队、建议早去。",
+        "must_try": "🥞 招牌 Holmpei Pancake（太阳蛋+烤哈罗米芝士）\n☕ Biscoff 拿铁（招牌必点）\n🍠 Ube Mango 法式吐司\n🍳 Turkish Egg（酸奶底）",
+        "tips": "店里很小约30座，brunch时段常要排队、建议刚开门就到；菜单随季节更新，像roasted chili peach crostini这类限定看到就点。",
+        "vibe": "暖光+中性色的小空间，摆盘出片，适合brunch约会或朋友小聚"
+      },
+      "highlights": [
+        "A tiny, warmly lit Bay-and-Dundas room where the plating is as colourful as the flavours",
+        "Signature Biscoff latte and the namesake Holmpei pancake with grilled halloumi"
+      ],
+      "name_zh": "HolmPei Cafe Bistro",
+      "description_zh": "Bay与Dundas之间的小巧融合brunch咖啡店，招牌Biscoff拿铁和菜品色彩都出圈，咸甜都不踩雷。",
+      "highlights_zh": [
+        "Bay街旁小而暖的brunch咖啡店，摆盘色彩感出圈",
+        "Biscoff拿铁+招牌Holmpei Pancake（太阳蛋配烤哈罗米）"
+      ],
+      "signature_dish_zh": "Holmpei Pancake与Biscoff拿铁",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Fusion brunch and specialty coffee near Bay and Dundas where plates look as good as they taste.",
+        "must_try": "🥞 Holmpei Pancake with sunny-side egg and grilled halloumi\n☕ Biscoff Latte (the signature)\n🍠 Ube Mango French Toast\n🍳 Turkish Egg over labneh",
+        "tips": "The room is tiny (~30 seats) and brunch queues form, so come right at opening. The menu rotates seasonally; grab limited plates like the roasted chili peach crostini.",
+        "vibe": "Warm, minimal and photogenic — a cute pick for a brunch date or a catch-up with friends."
       }
     }
   ]
