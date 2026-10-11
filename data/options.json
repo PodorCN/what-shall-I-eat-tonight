@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10",
+  "generated_at": "2026-10-11",
   "location": "Toronto, ON",
   "options": [
     {
@@ -11443,6 +11443,1202 @@
         "must_try": "🥞 Strawberry cream soufflé pancakes (the signature)\n🍵 Matcha soufflé pancakes\n🍫 Caramel banana chocolate soufflé\n🍳 Savory side: avocado toast / two eggs any style",
         "tips": "Each pancake order takes about 20 minutes to cook, so order sweets first; weekends queue hard — come at opening; reservations via Resy.",
         "vibe": "A bright, busy Japanese pancake room where every table photographs the stack before digging in."
+      }
+    },
+    {
+      "id": "bbs-brock-ave",
+      "code": "192",
+      "name": "BB's",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Adobo Fried Chicken with pineapple habanero hot sauce",
+      "description": "Four-time Bib Gourmand Filipino diner pairing adobo fried chicken with pineapple habanero hot sauce in a retro room.",
+      "address": "5 Brock Ave, Toronto, ON M6K 2K6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/bbs-brock-ave.webp",
+      "maps_url": "https://maps.google.com/?q=BB%27s%205%20Brock%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "travel_mode": "ttc",
+      "travel_time_min": 30,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Adobo fried chicken slicked with pineapple habanero hot sauce, garlic rice and eggs on the side",
+      "bullet_highlight": "Four straight years on the Michelin Bib Gourmand list for its Filipino brunch",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=BB%27s%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：蝉联四年米其林Bib Gourmand的菲律宾Brunch店。米其林把这里的早午餐形容成一场“treat”——招牌是配凤梨哈瓦那辣酱的Adobo炸鸡；白天是diner节奏（silog盖饭、pancakes），晚上变成kinilaw、sisig和鸡尾酒。",
+        "must_try": "🍗 Adobo Fried Chicken 凤梨哈瓦那辣酱炸鸡\n🍚 Garlic Rice and Eggs 蒜香饭配蛋\n🥞 Carol's Pancakes 草莓果酱松饼\n🥧 Calamansi Pie 青柠派\n🍹 Ube-be / Pandan Express 特调（晚餐）",
+        "tips": "白天diner、晚上小酒馆两种节奏；brunch时段常排队，建议早点去。米其林Bib Gourmand 2023-2026连续四年。",
+        "vibe": "海沫绿+粉色卡座的复古菲律宾小馆，松弛不装。"
+      },
+      "highlights": [
+        "The Bib Gourmand Filipino diner that keeps its brunch playful",
+        "Adobo fried chicken with pineapple habanero sauce; garlic rice, eggs and silog plates by day"
+      ],
+      "name_zh": "BB's 菲律宾小馆",
+      "description_zh": "蝉联四年米其林Bib Gourmand的菲律宾Brunch店：招牌凤梨哈瓦那辣酱Adobo炸鸡，白天diner、晚上小酒馆。",
+      "highlights_zh": [
+        "米其林Bib Gourmand 2023-2026连庄",
+        "凤梨哈瓦那辣酱炸鸡+蒜香饭配蛋，复古粉色小馆"
+      ],
+      "signature_dish_zh": "凤梨哈瓦那辣酱炸鸡（Adobo Fried Chicken）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The reviewer's pick that keeps four straight years of Michelin Bib Gourmand: brunch here is a treat — adobo fried chicken with pineapple habanero hot sauce, silog plates and pancakes by day, kinilaw and cocktails after dark.",
+        "must_try": "🍗 Adobo fried chicken with pineapple habanero\n🍚 Garlic rice and eggs\n🥞 Carol's pancakes\n🥧 Calamansi pie\n🍹 Ube-be / Pandan Express (dinner)",
+        "tips": "Two moods — diner by day, cocktail bar by night. Brunch lines build; come early. Bib Gourmand 2023-2026.",
+        "vibe": "A retro seafoam-and-pink Filipino room that doesn't take itself too seriously."
+      }
+    },
+    {
+      "id": "bonjour-brioche-riverside",
+      "code": "193",
+      "name": "Bonjour Brioche",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Croque Madame",
+      "description": "French bakery-bistro on Queen East since 1997: croissants, clafoutis and croque madames with weekend lines.",
+      "address": "812 Queen St E, Toronto, ON M4M 1H7",
+      "hours_note": "Mon 9:00 AM - 3:00 PM; Thu-Sun 8:00 AM - 3:00 PM; closed Tue-Wed",
+      "image_url": "assets/images/bonjour-brioche-riverside.webp",
+      "maps_url": "https://maps.google.com/?q=Bonjour%20Brioche%20812%20Queen%20St%20E%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 10,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Butter-forward French pastries, eggs on brioche and a croque madame that keeps the room full",
+      "bullet_highlight": "An east-end institution since 1997 — the pastry case rarely makes it to noon",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Bonjour%20Brioche%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：在Leslieville有28年店史的法式Brunch。老派法式烘焙坊＋小馆，周末门口排长队；羊角包和clafouti等pastry是招牌，鸡蛋类brunch是经典法式做法。",
+        "must_try": "🥐 黄油可颂与当日Pastry（去晚就没了）\n🍳 Croque Madame 法式烤芝士火腿蛋\n🐟 Smoked Salmon Rosti 烟三文鱼土豆饼\n🍮 Clafouti 法式樱桃烤饼",
+        "tips": "不接受订位，周末队伍长，尽量开档就去；pastry售完即止。",
+        "vibe": "法国家庭烘焙坊的松弛感，东区街角老店。"
+      },
+      "highlights": [
+        "French bakery-bistro feeding the east end since 1997",
+        "Weekend lines for croissants and croque madames — sweets sell out most mornings"
+      ],
+      "name_zh": "Bonjour Brioche 法式烘焙",
+      "description_zh": "1997年开业的法式烘焙坊+小馆：可颂、clafouti、Croque Madame都是老派做法，周末排队是常态。",
+      "highlights_zh": [
+        "东区28年的法式Brunch老店",
+        "可颂和pastry天天卖光，招牌Croque Madame经典"
+      ],
+      "signature_dish_zh": "法式烤芝士火腿蛋（Croque Madame）",
+      "hours_note_zh": "周一 9:00-15:00；周四至周日 8:00-15:00；周二、三休息",
+      "review_notes_en": {
+        "summary": "A French bakery-bistro with real history (since 1997): weekend lines, butter-forward pastries, and egg dishes done the classic French way.",
+        "must_try": "🥐 Croissants and the day's pastries\n🍳 Croque madame\n🐟 Smoked salmon rosti\n🍮 Clafouti",
+        "tips": "No reservations — arrive at open on weekends; pastries sell out daily.",
+        "vibe": "A relaxed family-run French bakery on an east-end corner."
+      }
+    },
+    {
+      "id": "short-turn-queen-west",
+      "code": "194",
+      "name": "Short Turn",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Kaya Toast",
+      "description": "416 Snack Bar's all-day diner in a vintage streetcar room: Singaporean kaya toast, chicken rice and freezer martinis.",
+      "address": "576 Queen St W, Toronto, ON M5V 2B5",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/short-turn-queen-west.webp",
+      "maps_url": "https://maps.google.com/?q=Short%20Turn%20576%20Queen%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "travel_mode": "ttc",
+      "travel_time_min": 20,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Pandan kaya jam and cold butter on crunchy toast; a freezer martini within reach",
+      "bullet_highlight": "The 416 Snack Bar team's all-day diner, done up like an old TTC streetcar",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Short%20Turn%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：416 Snack Bar团队的二号店，中式·新加坡融合早午餐。店内以老式Peter Witt街车为主题；kaya toast、新加坡鸡饭、炸薯条配冷冻马提尼都是高赞单品，还有煎饼omelette、台式盐酥虾等小菜。",
+        "must_try": "🍞 Kaya Toast 咖椰吐司\n🍗 Singaporean Chicken Rice 新加坡鸡饭\n🍟 French Fries + Freezer Martini\n🥟 Taiwanese Popcorn Shrimp 台式盐酥虾\n🥚 Jian Bing Omelette 煎饼Omelette",
+        "tips": "无预约直接去；薯条是全场MVP、配冷冻马提尼；小菜适合分享，晚市cocktail也好。",
+        "vibe": "老街车主题的松弛小馆，白天brunch晚上酒吧。"
+      },
+      "highlights": [
+        "The 416 Snack Bar team's all-day diner, styled after a vintage streetcar",
+        "Singaporean kaya toast and chicken rice meet a freezer martini — order the fries"
+      ],
+      "name_zh": "Short Turn 街车食堂",
+      "description_zh": "416 Snack Bar团队的全天食堂，新马融合早午餐：咖椰吐司、新加坡鸡饭、冷冻马提尼，店内复刻老式街车。",
+      "highlights_zh": [
+        "416团队二号店，老街车主题",
+        "Kaya Toast与新加坡鸡饭出圈，薯条+Freezer Martini必点"
+      ],
+      "signature_dish_zh": "咖椰吐司（Kaya Toast）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "416 Snack Bar's second room, a Chinese-Singaporean all-day diner inside a love letter to the old Peter Witt streetcar. Kaya toast, Singaporean chicken rice, and fries with a freezer martini are the orders.",
+        "must_try": "🍞 Kaya toast\n🍗 Singaporean chicken rice\n🍟 Fries + freezer martini\n🥟 Taiwanese popcorn shrimp\n🥚 Jian bing omelette",
+        "tips": "Walk-ins only. The fries are the sleeper hit; snacks are shareable; cocktails rock at night.",
+        "vibe": "A relaxed streetcar-themed room — brunch by day, bar by night."
+      }
+    },
+    {
+      "id": "the-federal-dundas-west",
+      "code": "195",
+      "name": "The Federal",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Eggs Federal",
+      "description": "Vintage Dundas West corner diner where Eggs Federal comes with mushroom cream and a nest of hashbrowns.",
+      "address": "1438 Dundas St W, Toronto, ON M6J 1Y6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/the-federal-dundas-west.webp",
+      "maps_url": "https://maps.google.com/?q=The%20Federal%201438%20Dundas%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 15,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Poached eggs over hashbrowns under a mushroom cream hollandaise; waffles crisp enough to survive the syrup",
+      "bullet_highlight": "A Dundas West regulars' secret — no reservations, and the rush starts at 11",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=The%20Federal%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20Dundas%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：作者心中本地Brunch第一名！被本地人低调热爱着，班尼迪蛋和土豆丝饼都好吃。2012年在Zoot's旧址开的老店，室内是70年代复古风；招牌Eggs Federal用蘑菇奶油代替传统荷兰酱，华夫饼配方来自Le Petit Dejeuner，Caesar也出名。",
+        "must_try": "🍳 Eggs Federal 蘑菇奶油班尼迪\n🥔 招牌土豆丝饼 Hashbrowns\n🧇 Belgian Waffle 经典华夫（Le Petit Dejeuner配方）\n🍹 Caesar 凯撒鸡尾酒\n🥪 Gold Standard Sandwich",
+        "tips": "不接受订位；11-12点是高峰；部分晚上也开晚市（5PM后）。",
+        "vibe": "70年代复古角落老店，被locals默默宠爱。"
+      },
+      "highlights": [
+        "The neighbours' quiet favourite on Dundas West since 2012",
+        "Eggs Federal with mushroom cream over hashbrowns; a Caesar worth the detour"
+      ],
+      "name_zh": "The Federal 老牌早午餐",
+      "description_zh": "Dundas West复古角落老店：Eggs Federal用蘑菇奶油+土豆丝饼，被本地人默默捧为第一；11点后排队。",
+      "highlights_zh": [
+        "2012年开业的社区老店，本地人低调热爱",
+        "招牌Eggs Federal蘑菇奶油班尼迪+土豆丝饼，Caesar出名"
+      ],
+      "signature_dish_zh": "Eggs Federal 招牌班尼迪",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "The reviewer's number-one local brunch: quietly adored by regulars, famous for its eggs and hashbrowns. Open since 2012 in the old Zoot's space, with a 1970s look — the Eggs Federal swaps hollandaise for mushroom cream, and the waffle recipe comes from Le Petit Dejeuner.",
+        "must_try": "🍳 Eggs Federal\n🥔 The famous hashbrowns\n🧇 Belgian waffle\n🍹 Caesar\n🥪 Gold Standard Sandwich",
+        "tips": "No reservations; the 11-12 rush fills the room; some evenings the kitchen runs dinner service.",
+        "vibe": "A vintage 1970s corner room, quietly beloved by locals."
+      }
+    },
+    {
+      "id": "cafe-atelier-thornhill",
+      "code": "196",
+      "name": "Cafe Atelier",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Korean",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "K.F.C. Bites (butter-garlic-soy Korean fried chicken)",
+      "description": "Thornhill studio cafe where Korean flavours meet brunch: butter-sauteed kimchi fried rice, K.F.C. bites and croffles.",
+      "address": "1450 Clark Ave W Unit 15, Thornhill, ON L4J 7J9",
+      "hours_note": "Mon, Wed-Fri 8:30 AM - 5:00 PM; Sat-Sun 9:00 AM - 5:00 PM; closed Tue",
+      "image_url": "assets/images/cafe-atelier-thornhill.webp",
+      "maps_url": "https://maps.google.com/?q=Cafe%20Atelier%201450%20Clark%20Ave%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [],
+      "area": "North",
+      "travel_mode": "drive",
+      "travel_time_min": 35,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Kimchi rinsed and sautéed in butter under a poached egg and Parmesan; K.F.C. bites in butter-garlic-soy",
+      "bullet_highlight": "A Thornhill studio where every brunch plate is plated like a painting",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Cafe%20Atelier%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：Thornhill的宝藏韩式Brunch，北边的朋友可以冲。创始人Hailey Lee把韩式风味融进经典brunch：洗净辣椒粉、黄油炒的泡菜炒饭配poached蛋和帕玛森；黄油蒜香酱油K.F.C.炸鸡配腌洋葱；还有Croffle和季节限定Frozen Makgeolli、Espresso Maktini。",
+        "must_try": "🍗 K.F.C. Bites 韩式黄油蒜香炸鸡\n🍚 泡菜炒饭（poached egg+帕玛森）\n🧇 Croffle 可颂华夫\n🍸 Espresso Maktini / Frozen Makgeolli（季节）",
+        "tips": "在Thornhill需开车去；周二休；周末建议错峰。",
+        "vibe": "工作室感的小店，摆盘像画。"
+      },
+      "highlights": [
+        "Korean-fusion brunch in Thornhill, plated like little paintings",
+        "Butter-sautéed kimchi fried rice and K.F.C. bites; croffles for the sweet finish"
+      ],
+      "name_zh": "Cafe Atelier 韩式工坊",
+      "description_zh": "Thornhill的韩式融合Brunch：黄油炒泡菜饭、黄油蒜香炸鸡、Croffle，摆盘像油画。",
+      "highlights_zh": [
+        "北约克Thornhill的韩式融合Brunch",
+        "黄油炒泡菜饭+K.F.C.炸鸡+Croffle，季节限定Makgeolli特调"
+      ],
+      "signature_dish_zh": "K.F.C.炸鸡（黄油蒜香酱油）",
+      "hours_note_zh": "周一、周三至周五 8:30-17:00；周六日 9:00-17:00；周二休息",
+      "review_notes_en": {
+        "summary": "A Thornhill Korean-fusion brunch spot to go out of your way for: kimchi rinsed of chili and sautéed in butter with a poached egg and Parmesan, K.F.C. bites in butter-garlic-soy with pickled onions, croffles, and seasonal Frozen Makgeolli.",
+        "must_try": "🍗 K.F.C. bites\n🍚 Kimchi fried rice with poached egg\n🧇 Croffle\n🍸 Espresso Maktini / Frozen Makgeolli",
+        "tips": "A drive to Thornhill; closed Tuesdays; go off-peak on weekends.",
+        "vibe": "A studio-like room where every plate is composed like a painting."
+      }
+    },
+    {
+      "id": "the-ace-roncesvalles",
+      "code": "197",
+      "name": "The Ace",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "American",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Buttermilk Biscuits & Gravy",
+      "description": "A 1950s-style Roncesvalles diner from a husband-and-wife team: big, thoughtfully plated plates and weekend brunch rituals.",
+      "address": "231A Roncesvalles Ave, Toronto, ON M6R 2L6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/the-ace-roncesvalles.webp",
+      "maps_url": "https://maps.google.com/?q=The%20Ace%20231A%20Roncesvalles%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 15,
+      "portion_size": "heavy",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "more-meat"
+      ],
+      "bullet_flavor": "Generously plated diner classics — biscuits and gravy, a brisket burger, seasonal sides done with care",
+      "bullet_highlight": "Roncesvalles' community darling; the portions run famously large",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=The%20Ace%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20Roncesvalles%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：社区爱店，摆盘很漂亮、份量很大。1950s复古diner风格，由一对夫妻主理；Yelp常见点名的biscuits and gravy和brisket汉堡都在菜单上，周末brunch 10点开、量足到要打包。",
+        "must_try": "🍔 Brisket Burger 牛腩汉堡\n🥣 Biscuits & Gravy 饼干配肉汁\n🥂 Fresh Mimosa\n☕ 现煮咖啡",
+        "tips": "周末brunch只在Sat-Sun 10:00 AM-3:00 PM；份量真的很大，别贪心多点；晚上另有dinner时段。",
+        "vibe": "夫妻店复古diner，社区感十足。"
+      },
+      "highlights": [
+        "The Ace's retro diner glow and famously large plates",
+        "Weekend brunch from 10 — biscuits and gravy, brisket burgers and mimosas"
+      ],
+      "name_zh": "The Ace 复古餐吧",
+      "description_zh": "1950s复古diner，夫妻店：摆盘漂亮份量大，周末10点起brunch；biscuits and gravy和brisket汉堡常被点名。",
+      "highlights_zh": [
+        "Roncesvalles社区爱店，复古diner氛围",
+        "份量大出名，周末brunch 10AM-3PM"
+      ],
+      "signature_dish_zh": "饼干配肉汁（Biscuits & Gravy）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A neighbourhood favourite: beautiful plating, famously huge portions, a 1950s diner room run by a husband-and-wife team. Biscuits and gravy and the brisket burger keep showing up in reviews; weekend brunch starts at 10.",
+        "must_try": "🍔 Brisket burger\n🥣 Biscuits and gravy\n🥂 Fresh mimosa\n☕ Coffee",
+        "tips": "Weekend brunch is Sat-Sun 10-3 only; portions are genuinely large — don't over-order. Dinner runs on other evenings.",
+        "vibe": "A husband-and-wife retro diner with real community pull."
+      }
+    },
+    {
+      "id": "chillax-and-co-richmond-hill",
+      "code": "198",
+      "name": "Chillax & Co.",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Smoked Duck Breast Eggs Benedict",
+      "description": "Richmond Hill bistro where brunch goes Asian-fusion: smoked duck benedicts, duck tonkotsu ramen and windows for days.",
+      "address": "9580 Yonge St Unit 101, Richmond Hill, ON L4C 1V6",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/chillax-and-co-richmond-hill.webp",
+      "maps_url": "https://maps.google.com/?q=Chillax%20%26%20Co.%209580%20Yonge%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "North",
+      "travel_mode": "drive",
+      "travel_time_min": 40,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Smoked duck breast benedict and duck tonkotsu ramen, with a wall of house lattes",
+      "bullet_highlight": "A spacious Richmond Hill room with big windows — the go-to brunch run up north",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Chillax%20%26%20Co.%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：呈现亚洲融合风味的创意早午餐店（Richmond Hill）。菜单把brunch和亚洲风味缝在一起：烟熏鸭胸班尼迪、鸭胸/炸鸡Tonkotsu拉面、华夫和特调拿铁；店面大、落地窗多，适合慢慢坐。",
+        "must_try": "🍳 烟熏鸭胸班尼迪\n🍜 Duck Breast Tonkotsu Ramen 鸭胸拉面\n🥞 Waffle with Maple Syrup\n☕ Rosy Latte / Hazelnut Latte",
+        "tips": "在Richmond Hill，需开车（约30-40分钟）；停车方便；周末brunch建议错峰。",
+        "vibe": "大空间+长窗，松弛的bistro。"
+      },
+      "highlights": [
+        "Richmond Hill's Asian-fusion brunch canteen",
+        "Smoked duck benedicts and duck tonkotsu ramen, plus a long list of lattes"
+      ],
+      "name_zh": "Chillax & Co. 融合早午餐",
+      "description_zh": "Richmond Hill亚洲融合Brunch：烟熏鸭胸班尼迪、鸭胸拉面、特调拿铁，大落地窗适合久坐。",
+      "highlights_zh": [
+        "北边Richmond Hill的大空间Brunch",
+        "烟熏鸭胸班尼迪+鸭胸拉面出圈，拿铁选择多"
+      ],
+      "signature_dish_zh": "烟熏鸭胸班尼迪蛋",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "An Asian-fusion brunch room in Richmond Hill: smoked duck breast benedicts, duck breast and fried chicken tonkotsu ramen, waffles and a long latte list, in a big window-lined space built for slow mornings.",
+        "must_try": "🍳 Smoked duck breast benedict\n🍜 Duck breast tonkotsu ramen\n🥞 Waffle with maple syrup\n☕ Rosy / hazelnut latte",
+        "tips": "A drive north (30-40 min); easy parking; go off-peak on weekends.",
+        "vibe": "A spacious bistro with long windows and a relaxed pace."
+      }
+    },
+    {
+      "id": "susies-rise-and-dine-college",
+      "code": "199",
+      "name": "Susie's Rise & Dine",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Buttermilk Pancakes",
+      "description": "Retro rock-and-roll diner on College serving buttermilk pancakes, steak 'n eggs and a breakfast sandwich called Big Trouble.",
+      "address": "539 College St, Toronto, ON M6G 1A9",
+      "hours_note": "Wed-Sun 10:00 AM - 4:00 PM, 5:00 PM - 10:00 PM; closed Mon-Tue",
+      "image_url": "assets/images/susies-rise-and-dine-college.webp",
+      "maps_url": "https://maps.google.com/?q=Susie%27s%20Rise%20%26%20Dine%20539%20College%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "travel_mode": "ttc",
+      "travel_time_min": 25,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Fluffy buttermilk pancakes, crispy-edged potatoes, and hot chicken tenders",
+      "bullet_highlight": "Little Italy's retro diner, open from brunch through late dinner",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Susie%27s%20Rise%20%26%20Dine%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：融合亚洲风味的创意早午餐店之一，走复古diner路线（摇滚/猫王气质）。菜单从pancakes、Steak n Eggs到'The Big Trouble'早餐大三明治、炸鸡柳和早餐炒饭，鸡尾酒也在线。",
+        "must_try": "🥞 Buttermilk Pancakes 酪乳松饼\n🥪 The Big Trouble Breakfast Sandwich\n🥩 Steak n Eggs\n🍗 Susie's Hot Chicken Tenders",
+        "tips": "周一、二休息；brunch到下午、晚市到10点；适合周末慢慢吃。",
+        "vibe": "复古摇滚diner，学院西街角。"
+      },
+      "highlights": [
+        "Retro rock-and-roll diner on College",
+        "Buttermilk pancakes, Big Trouble sandwiches and hot chicken tenders"
+      ],
+      "name_zh": "Susie's Rise & Dine 复古餐室",
+      "description_zh": "College街的复古摇滚diner：酪乳松饼、Big Trouble三明治、炸鸡柳，brunch到晚市全天候。",
+      "highlights_zh": [
+        "小意大利的复古摇滚diner",
+        "松饼+Big Trouble早餐三明治+炸鸡柳"
+      ],
+      "signature_dish_zh": "酪乳松饼（Buttermilk Pancakes）",
+      "hours_note_zh": "周三至周日 10:00-16:00、17:00-22:00；周一、二休息",
+      "review_notes_en": {
+        "summary": "A retro diner with rock-and-roll energy: pancakes, steak 'n eggs, the Big Trouble breakfast sandwich, hot chicken tenders and a breakfast fried rice — plus cocktails that hold their own.",
+        "must_try": "🥞 Buttermilk pancakes\n🥪 The Big Trouble breakfast sandwich\n🥩 Steak n eggs\n🍗 Susie's hot chicken tenders",
+        "tips": "Closed Mon-Tue; brunch runs into the afternoon and dinner to 10 PM — built for slow weekends.",
+        "vibe": "A retro rock-and-roll diner on the west end of College."
+      }
+    },
+    {
+      "id": "alma-and-gil-dufferin",
+      "code": "200",
+      "name": "Alma + Gil",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "date-night",
+        "light"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Soft-Boiled Egg Sandwich",
+      "description": "Hong Kong-style cafe near Liberty Village: the famous soft-boiled egg sando, milk tea and minimalist cha chaan teng looks.",
+      "address": "392 Dufferin St, Toronto, ON M6J 1H8",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/alma-and-gil-dufferin.webp",
+      "maps_url": "https://maps.google.com/?q=Alma%20%2B%20Gil%20392%20Dufferin%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 15,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "A soft-boiled egg sando that oozes on the first bite; HK milk tea and French toast alongside",
+      "bullet_highlight": "The team behind some of the city's best breakfast sandwiches",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Alma%20%2B%20Gil%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：特色是香港创意早午餐＋有名的溏心鸡蛋三明治。空间走港式冰室的简约路线，把茶餐厅元素做成downtown brunch；dailyhive也把他们的三明治列进“多伦多最好的早餐三明治”。",
+        "must_try": "🥪 溏心鸡蛋三明治\n🍞 港式法式吐司 HK French Toast\n☕ 港式奶茶 / 咖啡\n🍳 鸡蛋类brunch",
+        "tips": "在Liberty Village北缘（Dufferin街），开车方便；白天brunch+晚市dinner都开。",
+        "vibe": "港式冰室风，干净简约。"
+      },
+      "highlights": [
+        "Hong Kong-style brunch near Liberty Village",
+        "The famous soft-boiled egg sandwich — one of the city's best breakfast sandos"
+      ],
+      "name_zh": "Alma + Gil 港式冰室",
+      "description_zh": "港式创意Brunch：招牌溏心蛋三明治+港式奶茶/法吐，冰室简约风格，位于Liberty Village旁。",
+      "highlights_zh": [
+        "港式冰室风格的创意Brunch",
+        "溏心鸡蛋三明治列为多伦多最佳早餐三明治之一"
+      ],
+      "signature_dish_zh": "溏心蛋三明治（Soft-Boiled Egg Sandwich）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Hong Kong-style brunch with minimalist cha chaan teng bones — the soft-boiled egg sandwich is the draw, and Daily Hive has already called their sandwiches among the city's best.",
+        "must_try": "🥪 Soft-boiled egg sandwich\n🍞 HK French toast\n☕ HK milk tea / coffee\n🍳 Egg brunch plates",
+        "tips": "Just north of Liberty Village on Dufferin — easy by car; open for brunch and dinner.",
+        "vibe": "Clean, minimalist Hong Kong cafe energy."
+      }
+    },
+    {
+      "id": "the-good-fork-dundas-west",
+      "code": "201",
+      "name": "The Good Fork",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Middle Eastern",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Baked Pancake",
+      "description": "Turkish-Mediterranean brunch room on Dundas West since 2011: baked pancakes, hummus bowls and a short, strong menu.",
+      "address": "1550 Dundas St W, Toronto, ON M6K 0C2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/the-good-fork-dundas-west.webp",
+      "maps_url": "https://maps.google.com/?q=The%20Good%20Fork%201550%20Dundas%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 15,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "more-veggie"
+      ],
+      "bullet_flavor": "A baked pancake that arrives puffed and golden, and hummus bowls finished with spiced butter",
+      "bullet_highlight": "Fifteen years of brunch on Dundas West — weekdays bookable, weekends mostly walk-in",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=The%20Good%20Fork%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：开了15年·（东欧式）风格Brunch。土耳其-地中海风味的社区Brunch，菜单短但扎实：Baked Pancake、Hummus Bowl & Spanish Hash都是常青款；工作日可订位，周末主要留给walk-in。",
+        "must_try": "🥞 Baked Pancake 烤松饼\n🧆 Hummus Bowl 鹰嘴豆泥碗\n🍳 Turkish eggs 土耳其蛋\n🥓 Spanish Hash",
+        "tips": "工作日接受订位、周末大部分位置先到先得；在Dundas West西段。",
+        "vibe": "小馆暖调，邻家感。"
+      },
+      "highlights": [
+        "Turkish-Mediterranean brunch on Dundas West since 2011",
+        "Baked pancakes and hummus bowls with spiced butter; small menu, big regulars' club"
+      ],
+      "name_zh": "The Good Fork 土耳其风味",
+      "description_zh": "开在Dundas West 15年的土耳其-地中海Brunch：Baked Pancake、Hummus Bowl常青，工作日可订位。",
+      "highlights_zh": [
+        "15年老店，土耳其-地中海风味",
+        "Baked Pancake+鹰嘴豆泥碗，菜单小而精"
+      ],
+      "signature_dish_zh": "烤松饼（Baked Pancake）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Turkish-Mediterranean neighbourhood brunch, fifteen years in on Dundas West. The menu is short but solid — baked pancakes, hummus bowls and a Spanish hash — with weekday reservations and mostly walk-in weekends.",
+        "must_try": "🥞 Baked pancake\n🧆 Hummus bowl\n🍳 Turkish eggs\n🥓 Spanish hash",
+        "tips": "Reservations on weekdays; weekends are mostly first-come; west end of Dundas West.",
+        "vibe": "A warm little room with a neighbourhood feel."
+      }
+    },
+    {
+      "id": "manita-ossington",
+      "code": "202",
+      "name": "Manita",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Middle Eastern",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Oxtail Marmalade",
+      "description": "All-day Mediterranean-esque Ossington cafe: photogenic mezze plates, breakfast sandwiches on house English muffins and the Oxtail Marmalade.",
+      "address": "210 Ossington Ave, Toronto, ON M6J 2Z2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/manita-ossington.webp",
+      "maps_url": "https://maps.google.com/?q=Manita%20210%20Ossington%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Queen West",
+      "travel_mode": "ttc",
+      "travel_time_min": 25,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "more-veggie"
+      ],
+      "bullet_flavor": "Oxtail marmalade to spread, a photogenic Mediterranean plate, and lemon spaghetti with parm and capers",
+      "bullet_highlight": "An Ossington all-day spot that turned breakfast sandwiches and a burger into local staples",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Manita%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：地中海风味，Oxtail Marmalade最特色。Ossington全天候小馆，自称“Mediterranean-esque”：最上镜的Mediterranean Plate（配Blackbird Bakery酸种面包）、牛尾果酱、早餐三明治、柠檬意面和汉堡都被反复提到；2024年还在Rosedale开了二店。",
+        "must_try": "🍖 Oxtail Marmalade 牛尾果酱\n🥗 Mediterranean Plate 地中海拼盘\n🥪 Breakfast Sandwich 早餐三明治\n🍋 Lemon Spaghetti 柠檬意面",
+        "tips": "Ossington主街店；周末brunch时段人多；有素食选项。",
+        "vibe": "慵懒小酒馆气质，白天咖啡晚上小食。"
+      },
+      "highlights": [
+        "Ossington all-day cafe with a Mediterranean-esque menu",
+        "The Oxtail Marmalade and the photogenic Mediterranean plate are regulars' orders"
+      ],
+      "name_zh": "Manita 地中海小馆",
+      "description_zh": "Ossington全天候地中海小馆：牛尾果酱、地中海拼盘、早餐三明治和柠檬意面都是招牌。",
+      "highlights_zh": [
+        "Ossington上的慵懒全天候小馆",
+        "Oxtail Marmalade最特色，Mediterranean Plate最上镜"
+      ],
+      "signature_dish_zh": "牛尾果酱（Oxtail Marmalade）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "A Mediterranean-esque all-day spot on Ossington. The photogenic Mediterranean plate with Blackbird sourdough, the oxtail marmalade, breakfast sandwiches, lemon spaghetti and a burger all keep coming up — and a Rosedale second location opened in 2024.",
+        "must_try": "🍖 Oxtail marmalade\n🥗 Mediterranean plate\n🥪 Breakfast sandwich\n🍋 Lemon spaghetti",
+        "tips": "The original on Ossington; weekend brunch gets busy; vegetarian options available.",
+        "vibe": "Laid-back wine-bar energy — coffee by day, small plates by night."
+      }
+    },
+    {
+      "id": "mahas-greenwood",
+      "code": "203",
+      "name": "Maha's",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Middle Eastern",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Cairo Classic",
+      "description": "The city's landmark Egyptian brunch since 2014: Cairo Classic fava beans, falafel-wrapped eggs and a honey-cardamom latte.",
+      "address": "226 Greenwood Ave, Toronto, ON M4L 1Y7",
+      "hours_note": "Mon-Tue, Thu-Sun 8:00 AM - 4:30 PM; closed Wed",
+      "image_url": "assets/images/mahas-greenwood.webp",
+      "maps_url": "https://maps.google.com/?q=Maha%27s%20226%20Greenwood%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 10,
+      "portion_size": "heavy",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [
+        "more-veggie"
+      ],
+      "bullet_flavor": "Cairo Classic fava beans with balady bread, and falafel wrapped around a still-gooey soft-boiled egg",
+      "bullet_highlight": "A Michelin-featured Egyptian institution — breakfast and lunch only, never a reservation",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Maha%27s%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：开了12年·多伦多代表性埃及Brunch店。2014年开业，米其林指南也收录：上楼梯先到咖啡吧点一杯honey-cardamom latte；Lentil Soup和Cairo Classic（fava豆+falafel+溏心蛋+balady饼）是必点，只做早餐午餐、不接受订位。",
+        "must_try": "🍯 Honey Cardamom Latte 蜂蜜豆蔻拿铁\n🥣 Lentil Soup 扁豆汤\n🍳 Cairo Classic 开罗经典\n🧆 Egyptian Falafel 埃及炸豆丸（内含溏心蛋）\n🍞 Date Grilled Cheese 椰枣烤芝士",
+        "tips": "周三休；只做早午市；不接受订位、周末队伍很长，早去；takeout可电话预订。",
+        "vibe": "东区小巷里的家味埃及厨房。"
+      },
+      "highlights": [
+        "Toronto's landmark Egyptian brunch since 2014",
+        "Cairo Classic, lentil soup and the honey-cardamom latte — breakfast only, no bookings"
+      ],
+      "name_zh": "Maha's 埃及早午餐",
+      "description_zh": "多伦多代表性埃及Brunch（2014年起）：Cairo Classic、扁豆汤、蜂蜜豆蔻拿铁必点，只做早午市、无订位。",
+      "highlights_zh": [
+        "米其林收录的埃及Brunch代表",
+        "Cairo Classic+扁豆汤+蜂蜜豆蔻拿铁，周三休息、不接受订位"
+      ],
+      "signature_dish_zh": "开罗经典（Cairo Classic）",
+      "hours_note_zh": "周一、二、四至周日 8:00-16:30；周三休息",
+      "review_notes_en": {
+        "summary": "Toronto's Egyptian brunch landmark (since 2014, Michelin-featured): climb the stairs, order the honey-cardamom latte, then the lentil soup and the Cairo Classic — fava beans, falafel, soft egg and balady bread. Breakfast and lunch only, no reservations.",
+        "must_try": "🍯 Honey-cardamom latte\n🥣 Lentil soup\n🍳 Cairo Classic\n🧆 Egyptian falafel\n🍞 Date grilled cheese",
+        "tips": "Closed Wednesdays; breakfast/lunch only; no reservations and long weekend lines — go early; call ahead for takeout.",
+        "vibe": "A homestyle Egyptian kitchen in an east-end side street."
+      }
+    },
+    {
+      "id": "oeb-toronto-street",
+      "code": "204",
+      "name": "OEB Breakfast Co.",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Holy Crab Benny",
+      "description": "Vancouver-born breakfast house near the Financial District: the Holy Crab Benny and French Toast Trifle, bright and early.",
+      "address": "20 Toronto St, Toronto, ON M5C 2R1",
+      "hours_note": "Mon-Fri 7:00 AM - 3:00 PM; Sat-Sun 8:00 AM - 4:00 PM",
+      "image_url": "assets/images/oeb-toronto-street.webp",
+      "maps_url": "https://maps.google.com/?q=OEB%20Breakfast%20Co.%2020%20Toronto%20St%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [],
+      "area": "Downtown (Other)",
+      "travel_mode": "walk",
+      "travel_time_min": 10,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "A crab-packed benny under hollandaise, plus a French toast trifle for the sweet side",
+      "bullet_highlight": "The Vancouver export that became a downtown breakfast staple",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=OEB%20Breakfast%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：来自温哥华的加拿大老牌人气Brunch。金融区旁边，走“高配早餐”路线：Holy Crab Benny蟹肉班尼迪、French Toast Trifle都是评价里的高频词，服务热情，适合weekday brunch。",
+        "must_try": "🦀 Holy Crab Benny 蟹肉班尼迪\n🍞 French Toast Trifle 法吐杯\n🥤 Oat Milk Latte 燕麦奶拿铁",
+        "tips": "20 Toronto St在金融区，步行可达；工作日7点开、周末8点；也有Liberty Village分店。",
+        "vibe": "明亮现代，早餐仪式感。"
+      },
+      "highlights": [
+        "Vancouver's OEB lands downtown with an elevated breakfast menu",
+        "Holy Crab Benny and French Toast Trifle; walkable from the Financial District"
+      ],
+      "name_zh": "OEB 加拿大人气早午餐",
+      "description_zh": "温哥华品牌OEB的金融区分店：蟹肉班尼迪、法吐杯、燕麦拿铁，7点开店适合早鸟。",
+      "highlights_zh": [
+        "温哥华人气早午餐品牌，金融区旁",
+        "Holy Crab Benny蟹肉班尼迪是招牌，另有Liberty Village分店"
+      ],
+      "signature_dish_zh": "Holy Crab Benny 蟹肉班尼迪",
+      "hours_note_zh": "周一至周五 7:00-15:00；周六日 8:00-16:00",
+      "review_notes_en": {
+        "summary": "The Vancouver breakfast brand's downtown outpost near the Financial District: the Holy Crab Benny and French Toast Trifle dominate the reviews, service is warm, and it's a strong weekday move.",
+        "must_try": "🦀 Holy Crab Benny\n🍞 French toast trifle\n🥤 Oat milk latte",
+        "tips": "Walkable from the Financial District; opens 7 AM weekdays, 8 AM weekends; a Liberty Village location exists too.",
+        "vibe": "Bright and modern with a proper breakfast ritual feel."
+      }
+    },
+    {
+      "id": "lady-marmalade-queen-east",
+      "code": "205",
+      "name": "Lady Marmalade",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Eggs Benedict",
+      "description": "Queen East brunch veteran of seventeen years: carefully poached benedicts, huevos and pancakes for the east-side crowd.",
+      "address": "898 Queen St E, Toronto, ON M4M 1J2",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/lady-marmalade-queen-east.webp",
+      "maps_url": "https://maps.google.com/?q=Lady%20Marmalade%20898%20Queen%20St%20E%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 10,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Benedicts with properly poached eggs, and huevos with black beans and cornbread",
+      "bullet_highlight": "Seventeen years on Queen East — a Leslieville brunch institution",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Lady%20Marmalade%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：在多伦多东区开了17年的Brunch，班尼迪蛋最佳。Queen East的老牌店：Benedicts是招牌（有素食版），huevos和松饼也稳定；常年被本地媒体与美食榜提起。",
+        "must_try": "🍳 Eggs Benedict 班尼迪蛋\n🌽 Huevos 黑豆玉米饼烤蛋\n🥞 Pancakes 松饼",
+        "tips": "东区（Leslieville西口），开车或streetcar到；周末排队，尽量早去。",
+        "vibe": "十七年不变的东区老店。"
+      },
+      "highlights": [
+        "Queen East's seventeen-year brunch veteran",
+        "Benedicts and huevos done with care — a Leslieville standard"
+      ],
+      "name_zh": "Lady Marmalade 东区早午餐",
+      "description_zh": "Queen East开了17年的东区Brunch老店，班尼迪蛋最佳，周末常年排队。",
+      "highlights_zh": [
+        "东区17年老牌Brunch",
+        "班尼迪蛋是招牌，Huevos和松饼同样稳定"
+      ],
+      "signature_dish_zh": "班尼迪蛋（Eggs Benedict）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Seventeen years on Queen East with benedicts as the headline act (vegetarian versions included) — huevos and pancakes round out a menu that local media keeps coming back to.",
+        "must_try": "🍳 Eggs Benedict\n🌽 Huevos\n🥞 Pancakes",
+        "tips": "West end of Leslieville; drive or streetcar; weekend queues — go early.",
+        "vibe": "An east-side stalwart that has looked the same for seventeen years."
+      }
+    },
+    {
+      "id": "mildreds-temple-kitchen",
+      "code": "206",
+      "name": "Mildred's Temple Kitchen",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "date-night"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Mrs. Biederhof's Wild Blueberry Buttermilk Pancakes",
+      "description": "The Liberty Village brunch legend of thirty-five years — wild blueberry buttermilk pancakes, duck & waffles, and a weekday B'lunch.",
+      "address": "85 Hanna Ave Suite 104, Toronto, ON M6K 3S3",
+      "hours_note": "Mon-Fri 10:00 AM - 3:00 PM; Sat-Sun 9:00 AM - 3:00 PM",
+      "image_url": "assets/images/mildreds-temple-kitchen.webp",
+      "maps_url": "https://maps.google.com/?q=Mildred%27s%20Temple%20Kitchen%2085%20Hanna%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 15,
+      "portion_size": "heavy",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Wild blueberry buttermilk pancakes with maple whipped cream — worth the no-reservations wait",
+      "bullet_highlight": "Brunch royalty: thirty-five years in Liberty Village",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Mildred%27s%20Temple%20Kitchen%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：在多伦多Liberty Village开了超过十年的Brunch，蓝莓松饼最佳。其实是brunch元老（35年+）：Mrs. Biederhof's野生蓝莓酪乳松饼是镇店之宝，Duck & Waffles与烘焙甜点也出名；周末不接受订位，平日有B'lunch。",
+        "must_try": "🥞 Mrs. Biederhof's 野生蓝莓酪乳松饼\n🧇 Duck & Waffles 鸭腿华夫\n🍪 Big Bite Biscuit Sandwich 比司吉三明治\n🦪 周四Shuck Truck生蚝（季节）",
+        "tips": "周末无订位、工作日可订；brunch 9点起；入口在建筑靠King街一侧（LCBO同栋）。",
+        "vibe": "自由村老字号，阳光大窗、人气热闹。"
+      },
+      "highlights": [
+        "Liberty Village brunch royalty for thirty-five years",
+        "Mrs. Biederhof's wild blueberry pancakes and duck & waffles; no weekend bookings"
+      ],
+      "name_zh": "Mildred's 松饼名店",
+      "description_zh": "Liberty Village 35年老牌Brunch：野生蓝莓酪乳松饼镇店，Duck & Waffles出名，周末无订位。",
+      "highlights_zh": [
+        "自由村的Brunch皇牌（35年+）",
+        "野生蓝莓松饼必点，周末不接受订位"
+      ],
+      "signature_dish_zh": "Biederhof夫人野生蓝莓酪乳松饼",
+      "hours_note_zh": "周一至周五 10:00-15:00；周六日 9:00-15:00",
+      "review_notes_en": {
+        "summary": "Liberty Village brunch royalty — over thirty-five years in. Mrs. Biederhof's wild blueberry buttermilk pancakes are the signature, with duck & waffles and baked goods close behind; no weekend reservations, weekday B'lunch available.",
+        "must_try": "🥞 Mrs. Biederhof's wild blueberry pancakes\n🧇 Duck & waffles\n🍪 Big Bite biscuit sandwich\n🦪 Thursday Shuck Truck oysters (seasonal)",
+        "tips": "No weekend bookings (weekdays bookable); brunch from 9; entrance on the King-side of the building, same block as the LCBO.",
+        "vibe": "An institution with big sunny windows and a buzzy room."
+      }
+    },
+    {
+      "id": "old-school-dundas-west",
+      "code": "207",
+      "name": "Old School",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "indulgent",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Blueberry Hill Pancakes",
+      "description": "Dundas West classics with a rock-and-roll streak — Blueberry Hill pancakes, fried chicken, and brown-sugar butter melting into every stack.",
+      "address": "800 Dundas St W, Toronto, ON M6J 1T8",
+      "hours_note": "Mon-Wed 10:00 AM - 5:00 PM; Thu-Fri 10:00 AM - 11:00 PM; Sat 9:00 AM - 11:00 PM; Sun 9:00 AM - 5:00 PM",
+      "image_url": "assets/images/old-school-dundas-west.webp",
+      "maps_url": "https://maps.google.com/?q=Old%20School%20800%20Dundas%20St%20W%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [],
+      "area": "Queen West",
+      "travel_mode": "ttc",
+      "travel_time_min": 20,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [],
+      "food_profile": [],
+      "bullet_flavor": "Blueberry Hill pancakes with house compote and brown-sugar butter; the Old School Legend done right",
+      "bullet_highlight": "Rock on the speakers, pancakes on the griddle — a Dundas West favourite for over a decade",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Old%20School%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：在多伦多小意大利区开了超过十年，蓝莓松饼最佳。主打“经典”菜品：Blueberry Hill蓝莓松饼（house compote+brown sugar butter）是招牌，炸鸡、汉堡和晚市也做；白天brunch到下午、周中晚市到11点。",
+        "must_try": "🫐 Blueberry Hill 蓝莓松饼\n🍗 Fried Chicken 炸鸡\n🍔 汉堡\n🥞 Pancake Stack",
+        "tips": "小意大利（Dundas West），streetcar直达；周末人较多；周中晚市也营业。",
+        "vibe": "摇滚气质的经典美式小馆。"
+      },
+      "highlights": [
+        "Dundas West classics with a rock-and-roll streak",
+        "Blueberry Hill pancakes are the order — brown-sugar butter and all"
+      ],
+      "name_zh": "Old School 松饼老铺",
+      "description_zh": "小意大利的经典美式Brunch，Blueberry Hill蓝莓松饼招牌，配house compote和brown sugar butter。",
+      "highlights_zh": [
+        "Dundas West超过十年的经典Brunch",
+        "Blueberry Hill蓝莓松饼必点，周中晚市也营业"
+      ],
+      "signature_dish_zh": "Blueberry Hill 蓝莓松饼",
+      "hours_note_zh": "周一至周三 10:00-17:00；周四、五 10:00-23:00；周六 9:00-23:00；周日 9:00-17:00",
+      "review_notes_en": {
+        "summary": "Over a decade of classics in Little Italy: the Blueberry Hill pancakes with house compote and brown-sugar butter are the signature, with fried chicken and burgers at dinner — brunch runs into the afternoon.",
+        "must_try": "🫐 Blueberry Hill pancakes\n🍗 Fried chicken\n🍔 The burger\n🥞 Pancake stack",
+        "tips": "Little Italy stretch of Dundas West — streetcar direct; busy on weekends; dinner served midweek too.",
+        "vibe": "A classic American-style room with rock-and-roll in the air."
+      }
+    },
+    {
+      "id": "school-liberty-village",
+      "code": "208",
+      "name": "SCHOOL",
+      "native_name": null,
+      "type": "restaurant",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Fried Chicken & Waffles",
+      "description": "Liberty Village's most popular brunch since 2008 — chicken & waffles, hash brown poutine, and bills served in report-card envelopes.",
+      "address": "70 Fraser Ave, Toronto, ON M6K 3E1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/school-liberty-village.webp",
+      "maps_url": "https://maps.google.com/?q=SCHOOL%20Restaurant%2070%20Fraser%20Ave%20Toronto",
+      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 15,
+      "portion_size": "normal",
+      "category": "brunch",
+      "features": [
+        "reservation"
+      ],
+      "food_profile": [],
+      "bullet_flavor": "Chicken and waffles with syrup heat, plus a hash brown poutine that empties fast",
+      "bullet_highlight": "The schoolhouse-themed room — chalkboards, apples and report-card bills — since 2008",
+      "source_platform": "Red",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=SCHOOL%20Restaurant%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "red",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "原笔记：Liberty Village人气最高的Brunch，炸鸡华夫最佳。2008年开业，教室主题拉满：黑板、苹果、账单装在成绩单信封里；Fried Chicken & Waffles是招牌，hash brown poutine和buttermilk pancakes也稳，Resy可提前两周订位。",
+        "must_try": "🍗 Fried Chicken & Waffles 炸鸡华夫\n🍟 Hash Brown Poutine\n🥞 Buttermilk Pancakes\n🍁 季节限定松饼（如南瓜）",
+        "tips": "周末brunch 9点开门；Resy可提前两周订位（周末brunch最多6人一桌）；主题适合带朋友来。",
+        "vibe": "课堂主题，好玩又好吃。"
+      },
+      "highlights": [
+        "Liberty Village's most popular brunch since 2008",
+        "Chicken & waffles and hash brown poutine — and a report-card envelope for the bill"
+      ],
+      "name_zh": "SCHOOL 课堂主题早午餐",
+      "description_zh": "Liberty Village人气第一Brunch（2008年起）：炸鸡华夫+hash brown poutine，教室主题、账单装在成绩单信封。",
+      "highlights_zh": [
+        "Liberty Village人气王，2008年开业",
+        "炸鸡华夫最佳，黑板+成绩单账单的课堂主题"
+      ],
+      "signature_dish_zh": "炸鸡华夫（Fried Chicken & Waffles）",
+      "hours_note_zh": "每日（营业时间请以Google Maps为准）",
+      "review_notes_en": {
+        "summary": "Liberty Village's most popular brunch since 2008, with the schoolhouse theme turned all the way up — chalkboards, apples, and the bill delivered in a report-card envelope. Chicken & waffles is the signature; hash brown poutine and buttermilk pancakes hold serve. Resy bookings open two weeks out.",
+        "must_try": "🍗 Fried chicken & waffles\n🍟 Hash brown poutine\n🥞 Buttermilk pancakes\n🍁 Seasonal pancakes",
+        "tips": "Weekend brunch from 9; book via Resy up to two weeks ahead (weekend brunch max party of 6); a fun room to bring friends.",
+        "vibe": "Classroom theme — playful and genuinely good."
       }
     }
   ]
