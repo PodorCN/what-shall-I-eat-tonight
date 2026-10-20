@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-19",
   "location": "Toronto, ON",
   "options": [
     {
@@ -12202,6 +12202,80 @@
         "must_try": "🍗 Fried chicken & waffles\n🍟 Hash brown poutine\n🥞 Buttermilk pancakes\n🍁 Seasonal pancakes",
         "tips": "Weekend brunch from 9; book via Resy up to two weeks ahead (weekend brunch max party of 6); a fun room to bring friends.",
         "vibe": "Classroom theme — playful and genuinely good."
+      }
+    },
+    {
+      "id": "pepper-meet-pepper-baldwin",
+      "code": "209",
+      "name": "Pepper Meet Pepper",
+      "native_name": "长沙刘妹坨",
+      "type": "restaurant",
+      "cuisine": "Chinese",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [],
+      "mood": [
+        "group",
+        "indulgent"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "signature_dish": "Smoked Bamboo Shoots with Cured Pork",
+      "description": "Changsha-style Hunan wok cooking: smoked bamboo with cured pork, pickled wild chilies, and claypot rice noodles.",
+      "address": "43B Baldwin St, Toronto, ON M5T 1L1",
+      "hours_note": "Mon-Sun (check Google Maps for hours)",
+      "image_url": "assets/images/pepper-meet-pepper-baldwin.webp",
+      "maps_url": "https://maps.google.com/?q=Pepper+Meet+Pepper+43B+Baldwin+St+Toronto",
+      "source_url": "https://www.verytoronto.com/places/pepper-meet-pepper",
+      "unverified": [
+        "hours"
+      ],
+      "area": "Downtown (Other)",
+      "travel_mode": "walk",
+      "travel_time_min": 20,
+      "portion_size": "normal",
+      "category": "meal",
+      "features": [],
+      "food_profile": [
+        "more-meat",
+        "spicy"
+      ],
+      "bullet_flavor": "Smoky cured pork, pickled wild chili heat, and wok hei that demands rice",
+      "bullet_highlight": "A Scarborough Hunan favourite's Baldwin Street debut — 8-day smoked bamboo",
+      "source_platform": "Web",
+      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=%E9%95%BF%E6%B2%99%E5%88%98%E5%A6%B9%E5%9D%A8%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "curation_source": "web",
+      "visit_count": 0,
+      "user_rating": null,
+      "review_notes": {
+        "summary": "长沙老牌湘菜刘妹坨的 downtown 分店，2026 年 7 月开在 Baldwin Village；辣只提味、食材为主，锅气重，腊肉和烟笋是灵魂。",
+        "must_try": "🥢 腊肉炒烟笋（招牌，烟笋熏足 8 天）\n🌶️ 辣椒炒肉 / 野山椒炒牛肉\n🍚 酱油炒饭或白饭——湘菜必须配饭\n🥚 金钱蛋、红油脆猪耳",
+        "tips": "走 walk-in 不接受订位，周末晚饭和午市容易等位；Baldwin 街几乎没车位，坐地铁到 St. Patrick 或 505 Dundas 电车最省事。素菜选择少，几乎都靠腊肉和猪油。",
+        "vibe": "Baldwin Village 小店面，木桌木椅、亮堂家常，适合三四个人围一桌分菜"
+      },
+      "highlights": [
+        "Smoky 8-day cured pork with bamboo shoots, wok hei to spare",
+        "Changsha family recipes on Baldwin Village's restaurant strip"
+      ],
+      "name_zh": "长沙刘妹坨湖南菜馆",
+      "description_zh": "长沙刘妹坨进驻 Baldwin Village 的 downtown 店，主打锅气湘菜：腊肉炒烟笋、辣椒炒肉、野山椒炒牛肉，辣得直接、下饭。",
+      "highlights_zh": [
+        "招牌腊肉炒烟笋，烟笋熏足 8 天，锅气十足",
+        "长沙家常湘菜，辣椒炒肉和野山椒牛肉都是米饭杀手"
+      ],
+      "signature_dish_zh": "腊肉炒烟笋",
+      "hours_note_zh": "周一至周日（以 Google Maps 为准）",
+      "review_notes_en": {
+        "summary": "The downtown outpost of a Scarborough Hunan favourite, opened on Baldwin in July 2026 — chili for aroma, ingredients first, serious wok hei.",
+        "must_try": "🥢 Smoked bamboo shoots with cured pork (the 8-day signature)\n🌶️ Stir-fried pork with green chilies / beef with pickled wild chili\n🍚 Soy sauce fried rice — Hunan food needs rice\n🥚 Golden eggs and chili-oil pig ear",
+        "tips": "Walk-in only, no reservations; expect waits at weekend dinner and weekday lunch. Baldwin Street has almost no parking — take the 505 Dundas streetcar or St. Patrick station.",
+        "vibe": "Compact, bright Baldwin Village room with wood tables, built for sharing rather than lingering"
       }
     }
   ]
