@@ -26,3 +26,6 @@ jobs:
         run: |
           node --check app.js
           node scripts/test_reddit_features.cjs
+
+      - name: Verify published asset versions
+        run: python3 scripts/version_assets.py --check

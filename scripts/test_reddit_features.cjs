@@ -59,6 +59,10 @@ for (const lang of ['en', 'zh']) {
     assert(card.includes('tag-reddit'));
     assert(card.includes(row.review_sources[0].url));
     assert(card.includes(row.image_url));
+    const footer = card.slice(card.indexOf('<div class="card-footer">'), card.indexOf('<!-- Collapsible Insider Notes -->'));
+    assert.equal((footer.match(/href="https:\/\/www\.reddit\.com\/r\//g) || []).length, 1, 'Exactly one visible Reddit link per card');
+    assert(footer.includes('class="curation-badge tag-reddit"'), 'The source badge is the original-discussion link');
+    assert(!footer.includes('class="card-btn btn-source">💬'), 'No duplicate Reddit action button');
   }
 }
 const unsafe = { review_sources: [{ url: 'javascript:alert(1)' }, { url: 'https://www.reddit.com.evil.example/r/test/comments/1' }] };

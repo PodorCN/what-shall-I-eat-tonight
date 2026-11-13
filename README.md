@@ -105,6 +105,8 @@ Reddit-backed entries now link directly to local discussions, with bilingual evi
 
 Validate changes with `python3 scripts/validate_data.py`, `node --check app.js`, and `node scripts/test_reddit_features.cjs`.
 
+After editing `app.js` or `style.css`, run `python3 scripts/version_assets.py` and commit the generated `assets/app.*.js` / `assets/style.*.css` files with `index.html`. CI checks their contents and references. Existing versions remain available for cached pages. Restaurant-data-only updates do not need to regenerate frontend files.
+
 Each entry follows this schema:
 
 ```json
