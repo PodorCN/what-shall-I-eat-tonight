@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "location": "Toronto, ON",
   "options": [
     {
@@ -12636,6 +12636,104 @@
       "visit_count": 0,
       "user_rating": null,
       "last_verified_at": "2026-11-12"
+    },
+    {
+      "id": "hawker-kensington",
+      "code": "214",
+      "name": "Hawker",
+      "name_zh": "Hawker 植物料理",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan"
+      ],
+      "mood": [
+        "healthy",
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Oyster mushroom mole; smoked cabbage sandwich (lunch); gai lan",
+      "signature_dish_zh": "蘑菇 mole、烟熏卷心菜三明治（午餐）、芥兰",
+      "description": "Plant-based Kensington dining with seasonal vegetable small plates, mushroom mole and a smoked cabbage lunch sandwich.",
+      "description_zh": "Kensington 的植物料理餐厅，以蔬菜小盘、蘑菇 mole 和午餐烟熏卷心菜三明治为主。",
+      "address": "291 Augusta Ave, Toronto, ON M5T 2M2",
+      "hours_note": "Wed–Fri lunch 11 AM–4 PM; Sat–Sun brunch 11 AM–3 PM; Wed–Sun dinner 5–10 PM. Kitchen closes 30 minutes earlier.",
+      "hours_note_zh": "周三至周五午餐 11:00–16:00；周末早午餐 11:00–15:00；周三至周日晚餐 17:00–22:00，厨房提前半小时结束。",
+      "image_url": "assets/images/hawker-kensington.webp",
+      "image_source_url": "https://www.hawker.to/",
+      "maps_url": "https://maps.google.com/?q=Hawker%20291%20Augusta%20Ave%20Toronto",
+      "source_url": "https://www.hawker.to/menu",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Downtown (Other)",
+      "travel_mode": "ttc",
+      "travel_time_min": 25,
+      "portion_size": "light",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "travel_time"
+      ],
+      "highlights": [
+        "Seasonal plant-based small plates in Kensington Market",
+        "Mushroom mole and smoked cabbage sandwich have dish-specific community feedback"
+      ],
+      "highlights_zh": [
+        "Kensington 的季节性植物小盘料理",
+        "蘑菇 mole 与烟熏卷心菜三明治有具体食客反馈"
+      ],
+      "review_notes_en": {
+        "summary": "Recent discussion recommends the plant-based menu and cocktails; older detailed reviews give a mixed picture of portions and value.",
+        "must_try": "Oyster mushroom mole (lunch and dinner menus)\nSignature smoked cabbage sandwich (lunch)\nGai lan (official menu option)",
+        "tips": "Lunch and dinner offerings differ and change seasonally. For a fuller meal, ask how many small plates to order; verify current availability. TTC travel time is an estimate.",
+        "skip_or_neutral": "October tasting-menu diners reported small portions, limited protein and uneven service, alongside positive experiences. This is community research, not a personal visit.",
+        "vibe": "Small, plant-focused Kensington dining room with a chef’s counter."
+      },
+      "review_notes": {
+        "summary": "近期讨论推荐其植物菜单和鸡尾酒；更详细的旧帖对分量、性价比和服务有不同意见。",
+        "must_try": "蘑菇 mole（午餐与晚餐菜单）\n烟熏卷心菜三明治（午餐）\n芥兰（官网列出的蔬菜选项）",
+        "tips": "午晚餐菜单不同，也会随季节变化；想吃饱可先问需要几道小盘，并确认当天供应。TTC 时间为估计。",
+        "skip_or_neutral": "10 月品鉴菜单讨论有人反映分量偏小、蛋白质不足或服务不稳定，也有人喜欢整体体验；这里只整理社区反馈，尚未亲自打卡。",
+        "vibe": "Kensington 的小型植物料理餐厅，设厨师吧台。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xtvr6b/cocktail_bar_with_vegetarian_options/",
+          "platform": "r/askTO",
+          "published_at": "2026-11-11",
+          "summary": "Several commenters recommend Hawker for vegan food and cocktails, including a diner reporting an enjoyable meal.",
+          "summary_zh": "多位评论者推荐 Hawker 的植物菜单和鸡尾酒，其中有人反馈实际用餐体验不错。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1vy2k1b/hawker/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-08-25",
+          "summary": "An older firsthand report enjoyed the mushroom mole and smoked sandwich; another repeat diner notes seasonal changes and small sharing plates.",
+          "summary_zh": "较早的亲历评价喜欢蘑菇 mole 和烟熏三明治；另一位回头客提醒菜单常变、小盘适合分享。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1xab0rs/hawker_chefs_table_tasting_menu_reviews/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-10-19",
+          "summary": "Tasting-menu opinions differ: some praise the experience, while others report small portions, low protein and uneven service.",
+          "summary_zh": "品鉴菜单评价有分歧：有人喜欢体验，也有人反映分量小、蛋白质少、服务不稳定。"
+        }
+      ],
+      "last_verified_at": "2026-11-13"
     }
   ]
 }
