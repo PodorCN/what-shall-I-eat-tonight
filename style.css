@@ -1221,6 +1221,8 @@ main { display: block; }
 .curation-badge.tag-web { background: var(--accent-blue-bg); color: var(--accent-blue-text); }
 .curation-badge.tag-red { background: var(--accent-red-bg); color: var(--accent-red-text); }
 .curation-badge.tag-reddit { background: var(--brand-primary-subtle); color: var(--brand-text); }
+.curation-badge[href] { text-decoration: none; }
+.curation-badge[href]:hover { text-decoration: underline; }
 .curation-badge.tag-other { background: var(--accent-green-bg); color: var(--accent-green-text); }
 
 .card-links { display: flex; gap: 0.45rem; flex-wrap: wrap; }

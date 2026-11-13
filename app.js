@@ -1098,9 +1098,10 @@
       : '';
 
     const redditSource = (opt.review_sources || []).find(source => /^https:\/\/www\.reddit\.com\/r\//.test(source.url));
-    const redditButton = redditSource
-      ? `<a href="${escapeHtml(redditSource.url)}" target="_blank" rel="noopener noreferrer" class="card-btn btn-source">💬 ${isZh ? '原帖' : 'Reddit'}</a>`
-      : '';
+    const curationBadgeContent = `${curationMeta.icon} ${escapeHtml(curationMeta.text)}`;
+    const curationBadge = opt.curation_source === 'reddit' && redditSource
+      ? `<a href="${escapeHtml(redditSource.url)}" target="_blank" rel="noopener noreferrer" class="curation-badge tag-reddit" title="${isZh ? '查看 Reddit 原帖' : 'Read original Reddit discussion'}">${curationBadgeContent}</a>`
+      : `<span class="curation-badge ${escapeHtml(curationMeta.className)}" title="${escapeHtml(curationMeta.text)}">${curationBadgeContent}</span>`;
 
     const imageSrc = opt.image_url || 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80';
 
@@ -1157,14 +1158,11 @@
 
           <div class="card-footer">
             <div class="curation-tag-wrap">
-              <span class="curation-badge ${escapeHtml(curationMeta.className)}" title="${escapeHtml(curationMeta.text)}">
-                ${curationMeta.icon} ${escapeHtml(curationMeta.text)}
-              </span>
+              ${curationBadge}
             </div>
             <div class="card-links">
               ${mapButton}
               ${sourceButton}
-              ${redditButton}
             </div>
           </div>
 
