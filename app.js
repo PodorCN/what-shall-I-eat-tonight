@@ -40,6 +40,9 @@
 
   // Preset Shortcuts
   const PRESETS = {
+    'downtown-warm-veggie': {
+      include: { area: ['All Downtown'], category: ['meal'], food_profile: ['more-veggie'], feature: ['warm-food'] }
+    },
     'fast-cheap': {
       include: { price: ['<20'] }
     },
@@ -101,6 +104,7 @@
       resultsLabel: 'options matching',
       modeTipText: '1 click: Include ✓ · 2 clicks: Exclude 🚫',
       resetAll: '↺ Reset all',
+      presets: { 'downtown-warm-veggie': '🍲 Downtown · hot food · more vegetables' },
       filterGroupLabels: {
         category: '🍽️ Category',
         food_profile: '🥗 Diet Style',
@@ -154,6 +158,7 @@
         'hotpot': '🍲 Hot Pot',
         'bbq': '🥩 BBQ',
         'reservation': '📅 Reservation',
+        'warm-food': '🍲 Hot Food',
         // tracker
         'unvisited': '✨ Unvisited (New)',
         'visited': '✔️ Visited (1+)',
@@ -163,6 +168,7 @@
         // source
         'web': '🌐 Web',
         'red': '📕 Red',
+        'reddit': '💬 Reddit',
         'other': '🗣️ Other'
       },
       moreFiltersText: 'More Filters',
@@ -227,6 +233,7 @@
       resultsLabel: '家餐厅匹配',
       modeTipText: '点击1次：包含 ✓ · 点击2次：排除 🚫',
       resetAll: '↺ 重置全部',
+      presets: { 'downtown-warm-veggie': '🍲 市中心 · 热乎饭菜 · 多蔬菜' },
       filterGroupLabels: {
         category: '🍽️ 分类',
         food_profile: '🥗 饮食偏好',
@@ -280,6 +287,7 @@
         'hotpot': '🍲 火锅',
         'bbq': '🥩 烧烤',
         'reservation': '📅 需预约',
+        'warm-food': '🍲 热乎饭菜',
         // tracker
         'unvisited': '✨ 未打卡 (新店)',
         'visited': '✔️ 已打卡 (1次以上)',
@@ -289,6 +297,7 @@
         // source
         'web': '🌐 网络精选',
         'red': '📕 小红书',
+        'reddit': '💬 Reddit',
         'other': '🗣️ 亲友/探店'
       },
       moreFiltersText: '更多筛选',
@@ -788,6 +797,8 @@
   function getCurationBadgeMeta(source, lang) {
     const isZh = lang === 'zh';
     switch (source) {
+      case 'reddit':
+        return { icon: '💬', text: 'Reddit', className: 'tag-reddit' };
       case 'red':
       case 'xiaohongshu':
         return {
@@ -956,11 +967,36 @@
       `;
     }
 
+    rows += renderReviewSourcesHtml(opt, lang);
+
     return `
       <div class="notes-panel hidden">
         ${rows}
       </div>
     `;
+  }
+
+  function renderReviewSourcesHtml(opt, lang) {
+    if (!Array.isArray(opt.review_sources)) return '';
+    const isZh = lang === 'zh';
+    const sources = opt.review_sources.filter(source => {
+      try {
+        const url = new URL(source.url);
+        return url.protocol === 'https:' && url.hostname === 'www.reddit.com';
+      } catch { return false; }
+    });
+    if (!sources.length) return '';
+    const checked = opt.last_verified_at ? ` · ${isZh ? '核对' : 'Checked'} ${escapeHtml(opt.last_verified_at)}` : '';
+    return `<div class="drawer-row review-sources-row">
+      <span class="drawer-row-icon">💬</span>
+      <div class="drawer-row-content">
+        <strong class="drawer-row-title">${isZh ? '社区讨论原帖' : 'Community discussions'}${checked}</strong>
+        ${sources.map(source => `<div class="review-source-item">
+          <a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.platform || 'Reddit')}${source.published_at ? ` · ${escapeHtml(source.published_at)}` : ''} ↗</a>
+          <p>${escapeHtml(isZh ? (source.summary_zh || source.summary) : source.summary)}</p>
+        </div>`).join('')}
+      </div>
+    </div>`;
   }
 
   function createCardHtml(opt) {
@@ -1033,6 +1069,7 @@
     // Feature badges
     let featureBadges = '';
     const feats = getOptionFeatures(opt);
+    if (feats.includes('warm-food')) featureBadges += `<span class="meta-chip profile-chip-warm">🍲 ${isZh ? '热乎饭菜' : 'Hot Food'}</span>`;
     if (feats.includes('hotpot')) featureBadges += `<span class="meta-chip feature-chip-hotpot">🍲 ${isZh ? '火锅' : 'Hot Pot'}</span>`;
     if (feats.includes('bbq')) featureBadges += `<span class="meta-chip feature-chip-bbq">🥩 ${isZh ? '烧烤' : 'BBQ'}</span>`;
     if (feats.includes('reservation')) featureBadges += `<span class="meta-chip feature-chip-reservation">📅 ${isZh ? '需预约' : 'Reservation'}</span>`;
@@ -1066,6 +1103,11 @@
 
     const sourceButton = opt.source_url
       ? `<a href="${escapeHtml(opt.source_url)}" target="_blank" rel="noopener noreferrer" class="card-btn btn-source" title="${isZh ? '访问官方网站/探店指南' : 'Visit official site / guide'}">${I18N[currentLang].cardSourceBtn}</a>`
+      : '';
+
+    const redditSource = (opt.review_sources || []).find(source => /^https:\/\/www\.reddit\.com\/r\//.test(source.url));
+    const redditButton = redditSource
+      ? `<a href="${escapeHtml(redditSource.url)}" target="_blank" rel="noopener noreferrer" class="card-btn btn-source">💬 ${isZh ? '原帖' : 'Reddit'}</a>`
       : '';
 
     const imageSrc = opt.image_url || 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80';
@@ -1130,6 +1172,7 @@
             <div class="card-links">
               ${mapButton}
               ${sourceButton}
+              ${redditButton}
             </div>
           </div>
 
@@ -1321,6 +1364,14 @@
       let isActive = false;
 
       switch (key) {
+        case 'downtown-warm-veggie': {
+          const preset = PRESETS[key];
+          isActive = filterGroups.every(group => {
+            const expected = (preset.include || {})[group] || [];
+            return filters.exclude[group].size === 0 && filters.include[group].size === expected.length && expected.every(value => filters.include[group].has(value));
+          });
+          break;
+        }
         case 'fast-cheap':
           isActive = isSingleActive('price', '<20');
           break;
@@ -1360,6 +1411,7 @@
       }
 
       chip.classList.toggle('active', isActive);
+      chip.setAttribute('aria-pressed', String(isActive));
     });
   }
 
@@ -1568,7 +1620,7 @@
     chips.forEach(chip => {
       const key = chip.dataset.preset;
       const labelSpan = chip.querySelector('span');
-      if (labelSpan && I18N[lang].presets[key]) {
+      if (labelSpan && I18N[lang].presets?.[key]) {
         labelSpan.textContent = I18N[lang].presets[key];
       }
     });
@@ -1649,6 +1701,7 @@
 
     // Filter groups & chips
     updateFilterChipsText(lang);
+    updatePresetChipsText(lang);
 
     // More filters toggle
     const toggleText = document.querySelector('.btn-toggle-more .toggle-text');

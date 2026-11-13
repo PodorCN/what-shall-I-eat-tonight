@@ -991,6 +991,12 @@ main { display: block; }
 }
 
 .profile-chip-veggie { background: var(--accent-green-bg); color: var(--accent-green-text); }
+.profile-chip-warm { background: var(--brand-primary-subtle); color: var(--brand-text); }
+.quick-preference-bar { padding: 0 1rem 1rem; max-width: 1600px; margin: 0 auto; }
+.quick-preference-bar .preset-chip { white-space: normal; text-align: left; }
+.review-source-item { margin-top: 0.55rem; font-size: 0.8rem; overflow-wrap: anywhere; }
+.review-source-item a { color: var(--text-primary); text-decoration: underline; }
+.review-source-item p { margin: 0.25rem 0 0; color: var(--text-secondary); }
 .profile-chip-meat { background: var(--brand-primary-subtle); color: var(--brand-text); }
 .profile-chip-carb { background: var(--accent-blue-bg); color: var(--accent-blue-text); }
 .profile-chip-spicy { background: var(--accent-red-bg); color: var(--accent-red-text); }
@@ -1217,9 +1223,10 @@ main { display: block; }
 
 .curation-badge.tag-web { background: var(--accent-blue-bg); color: var(--accent-blue-text); }
 .curation-badge.tag-red { background: var(--accent-red-bg); color: var(--accent-red-text); }
+.curation-badge.tag-reddit { background: var(--brand-primary-subtle); color: var(--brand-text); }
 .curation-badge.tag-other { background: var(--accent-green-bg); color: var(--accent-green-text); }
 
-.card-links { display: flex; gap: 0.45rem; }
+.card-links { display: flex; gap: 0.45rem; flex-wrap: wrap; }
 
 .card-btn {
   display: inline-flex;

@@ -101,6 +101,10 @@ You can host this website for free on GitHub Pages:
 
 ## 📝 How to Add or Edit an Entry in `data/options.json`
 
+Reddit-backed entries now link directly to local discussions, with bilingual evidence summaries and verification dates. Use **🍲 Downtown · hot food · more vegetables** to find suitable cooked meals, or the **💬 Reddit** source filter. Hot food and chili heat are separate filters. Read [the recurring update guide](docs/reddit-updates.md) for the daily research and publication workflow.
+
+Validate changes with `python3 scripts/validate_data.py`, `node --check app.js`, and `node scripts/test_reddit_features.cjs`.
+
 Each entry follows this schema:
 
 ```json

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19",
+  "generated_at": "2026-11-12",
   "location": "Toronto, ON",
   "options": [
     {
@@ -12277,6 +12277,377 @@
         "tips": "Walk-in only, no reservations; expect waits at weekend dinner and weekday lunch. Baldwin Street has almost no parking — take the 505 Dundas streetcar or St. Patrick station.",
         "vibe": "Compact, bright Baldwin Village room with wood tables, built for sharing rather than lingering"
       }
+    },
+    {
+      "id": "saigon-lotus-kensington",
+      "name": "Saigon Lotus",
+      "name_zh": "Saigon Lotus 越式素食",
+      "native_name": null,
+      "cuisine": "Vietnamese",
+      "price": 2,
+      "address": "6 St Andrew St, Toronto, ON M5T 1K6",
+      "area": "Chinatown",
+      "travel_mode": "walk",
+      "travel_time_min": 30,
+      "signature_dish": "Vegan pho; spicy Hue tofu soup; mixed-vegetable stir-fried vermicelli",
+      "signature_dish_zh": "素河粉、顺化辣汤粉、豆腐什蔬炒米粉",
+      "description": "Vietnamese vegetarian cooking with hot pho, tofu soups and vegetable stir-fries beside Kensington Market.",
+      "description_zh": "Kensington 边上的越式素食馆，适合想吃热汤粉、豆腐和炒蔬菜的一餐。",
+      "highlights": [
+        "Recent local discussions recommend the pho and spicy Hue soup",
+        "Choose a hot vegetable stir-fry when you want more greens"
+      ],
+      "highlights_zh": [
+        "近期本地讨论推荐素河粉和顺化辣汤粉",
+        "想多吃蔬菜，可选豆腐什蔬炒米粉"
+      ],
+      "hours_note": "Official site lists daily 11:00 AM–11:00 PM; reconfirm before travelling.",
+      "hours_note_zh": "官网列每日 11:00–23:00；出发前请确认。",
+      "source_url": "https://www.saigonlotus.ca/menu/",
+      "image_source_url": "https://www.tripadvisor.com/Restaurant_Review-g155019-d12149964-Reviews-Saigon_Lotus-Toronto_Ontario.html",
+      "dietary": [
+        "vegetarian",
+        "vegan"
+      ],
+      "unverified": [
+        "hours"
+      ],
+      "review_notes_en": {
+        "summary": "Community recommendations favour the pho and Hue soup; this is a researched option, not a personal visit.",
+        "must_try": "Vegan pho\nSpicy Hue soup with tofu and seitan\nTofu and mixed-vegetable stir-fried vermicelli",
+        "tips": "Request the vegan version explicitly: the published menu also lists egg noodles and dairy dishes. Vermicelli bowls may include cool salad vegetables; choose soup or stir-fry for a hot meal.",
+        "skip_or_neutral": "The indexed official menu may be dated; confirm current prices and hours.",
+        "vibe": "Casual Vietnamese vegetarian restaurant near Kensington Market."
+      },
+      "review_notes": {
+        "summary": "社区讨论偏爱素河粉和顺化汤粉；这是资料整理，尚未亲自打卡。",
+        "must_try": "素河粉\n豆腐面筋顺化辣汤粉\n豆腐什蔬炒米粉",
+        "tips": "严格纯素要明确说明：公开菜单有蛋面、奶制品菜式。拌米粉可能配凉蔬菜，想吃热的选汤粉或炒米粉。",
+        "skip_or_neutral": "官网索引菜单可能较旧，价格与营业时间以当天为准。",
+        "vibe": "Kensington 附近的休闲越式素食馆。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1xt7ntg/vegetarian_pho_reccomendation/",
+          "platform": "r/FoodToronto",
+          "summary": "Separate commenters recommend the vegan pho and vegetarian Hue soup.",
+          "summary_zh": "不同评论者推荐素河粉与素顺化辣汤粉。",
+          "published_at": "2026-11-11"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1vcuerp/lunch_spot_recommendations_in_kensington_market/",
+          "platform": "r/FoodToronto",
+          "summary": "A Kensington lunch discussion recommends its varied vegetarian menu to mixed-diet groups.",
+          "summary_zh": "Kensington 午餐讨论认为菜单选择多，也适合荤素同行。",
+          "published_at": "2026-08-01"
+        }
+      ],
+      "code": "210",
+      "type": "restaurant",
+      "category": "meal",
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "features": [
+        "warm-food"
+      ],
+      "image_url": "assets/images/saigon-lotus-kensington.webp",
+      "maps_url": "https://maps.google.com/?q=Saigon%20Lotus%206%20St%20Andrew%20St%2C%20Toronto%2C%20ON%20M5T%201K6",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "visit_count": 0,
+      "user_rating": null,
+      "last_verified_at": "2026-11-12"
+    },
+    {
+      "id": "vegedelight-dundas",
+      "name": "VegeDelight Downtown",
+      "name_zh": "波罗蜜养生素食 Downtown",
+      "native_name": "波羅蜜養生素食",
+      "cuisine": "Chinese",
+      "price": 2,
+      "address": "173 Dundas St W, Toronto, ON M5G 1C7",
+      "area": "Downtown (Yonge)",
+      "travel_mode": "walk",
+      "travel_time_min": 15,
+      "signature_dish": "Mushroom spicy pot; wild mushroom tofu casserole; steamed vegetable dumplings",
+      "signature_dish_zh": "茶树菇麻辣香锅、野生菌豆腐煲、素蒸饺",
+      "description": "Chinese and Thai vegetarian dishes, including hot mushroom pots, tofu casseroles and steamed dumplings near Bay and Dundas.",
+      "description_zh": "Bay 与 Dundas 附近的中泰素食，热香锅、菌菇豆腐煲和素蒸饺选择多。",
+      "highlights": [
+        "Downtown-specific Reddit recommendation for spicy pot and dumplings",
+        "Official menu includes bok choy, mushrooms and tofu casseroles"
+      ],
+      "highlights_zh": [
+        "有针对市中心分店的香锅、素饺子推荐",
+        "菜单有小白菜、菌菇和豆腐煲，容易搭配热蔬菜"
+      ],
+      "hours_note": "Mon–Sat 11:00 AM–9:00 PM; Sun 3:00–9:00 PM (official site).",
+      "hours_note_zh": "官网列周一至周六 11:00–21:00；周日 15:00–21:00。",
+      "source_url": "https://www.vegedelight-toronto.ca/menu-old",
+      "image_source_url": "https://www.vegedelight-toronto.ca/menu-old",
+      "dietary": [
+        "vegetarian",
+        "vegan"
+      ],
+      "unverified": [],
+      "review_notes_en": {
+        "summary": "A downtown-specific Reddit recommendation singles out the mushroom spicy pot and vegetable dumplings.",
+        "must_try": "Tea tree mushroom fragrant spicy pot\nBraised tofu with wild mushrooms and baby bok choy\nSteamed vegetable dumplings",
+        "tips": "Combine a tofu casserole with greens and rice. Request mild heat if needed; vegetarian dishes containing eggs are marked separately from vegan dishes.",
+        "skip_or_neutral": "Some positive dish-specific feedback concerns the northern branch; it is not proof of identical downtown execution. Menu prices can change.",
+        "vibe": "Sit-down Chinese and Thai vegetarian restaurant near Bay and Dundas."
+      },
+      "review_notes": {
+        "summary": "有明确针对 downtown 分店的推荐，提到菌菇香锅配饭和多种素饺子。",
+        "must_try": "茶树菇麻辣香锅\n野生菌豆腐煲配小白菜\n素蒸饺",
+        "tips": "想吃蔬菜可点豆腐煲加青菜配饭；怕辣提前说。菜单区分纯素与含蛋素食，不要把所有菜都当纯素。",
+        "skip_or_neutral": "部分具体菜品好评来自北边分店，不能直接当作 downtown 出品保证；菜单价格可能更新。",
+        "vibe": "Bay 与 Dundas 附近的中泰素食堂食餐厅。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1pv50ig/great_chinese_korean_japanese_or_indian_near/",
+          "platform": "r/FoodToronto",
+          "summary": "A commenter explicitly recommends the Dundas/Bay branch, spicy mushroom pot with rice and vegetable dumplings.",
+          "summary_zh": "评论明确推荐 Dundas/Bay 分店的菌菇香锅配饭和素饺子。",
+          "published_at": "2025-12-25"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1uyg0tp/goid_quality_chinese_downtown_with_vegan_options/",
+          "platform": "r/FoodToronto",
+          "summary": "A later downtown Chinese-food discussion also names VegeDelight.",
+          "summary_zh": "较新的 downtown 中餐素食讨论也提到 VegeDelight。",
+          "published_at": "2026-07-16"
+        }
+      ],
+      "code": "211",
+      "type": "restaurant",
+      "category": "meal",
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie",
+        "spicy"
+      ],
+      "features": [
+        "warm-food"
+      ],
+      "image_url": "assets/images/vegedelight-dundas.webp",
+      "maps_url": "https://maps.google.com/?q=VegeDelight%20Downtown%20173%20Dundas%20St%20W%2C%20Toronto%2C%20ON%20M5G%201C7",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "visit_count": 0,
+      "user_rating": null,
+      "last_verified_at": "2026-11-12"
+    },
+    {
+      "id": "kings-cafe-kensington",
+      "name": "King’s Café",
+      "name_zh": "King’s Café 素食馆",
+      "native_name": null,
+      "cuisine": "Chinese",
+      "price": 2,
+      "address": "192 Augusta Ave, Toronto, ON M5T 2L6",
+      "area": "Downtown (Other)",
+      "travel_mode": "ttc",
+      "travel_time_min": 25,
+      "walking_time_min": 35,
+      "signature_dish": "Vegetarian dim sum and vegetable dishes",
+      "signature_dish_zh": "素点心配热蔬菜",
+      "description": "Kensington vegetarian restaurant offering hot dim sum, vegetable dishes and a broad selection of plant-based proteins.",
+      "description_zh": "Kensington 的素食馆，适合吃热素点心，再配一份热蔬菜。",
+      "highlights": [
+        "Multiple local commenters recommend the vegetarian dim sum",
+        "Vegetarian menu with a take-home frozen-food shop"
+      ],
+      "highlights_zh": [
+        "多位本地食客推荐素点心，选择比较集中",
+        "素食菜单，店内也售卖冷冻素食产品"
+      ],
+      "hours_note": "Daily 11:30 AM–8:30 PM (official site).",
+      "hours_note_zh": "官网列每日 11:30–20:30。",
+      "source_url": "https://www.kingscafe.com/menu",
+      "image_source_url": "https://www.kingscafe.com/",
+      "dietary": [
+        "vegetarian"
+      ],
+      "unverified": [
+        "native_name",
+        "travel_time"
+      ],
+      "review_notes_en": {
+        "summary": "Several local commenters recommend the dedicated vegetarian dim sum selection.",
+        "must_try": "Vegetarian dim sum\nA cooked vegetable side selected from the current menu",
+        "tips": "Ask staff which dim sum is vegan. Order greens separately if you want vegetables rather than mainly gluten or imitation-meat dishes.",
+        "skip_or_neutral": "Vegetarian does not guarantee every item is vegan. Specific dim sum availability needs confirmation; TTC time is an estimate.",
+        "vibe": "Kensington vegetarian restaurant with a small frozen-food and tea shop."
+      },
+      "review_notes": {
+        "summary": "多位本地评论者推荐专门的素点心菜单，适合想吃蒸点的一餐。",
+        "must_try": "素点心\n从当天菜单另点一份热蔬菜",
+        "tips": "纯素请询问店员；如果想吃真正的蔬菜，不要只点面筋、仿荤，另加热青菜。",
+        "skip_or_neutral": "素食不代表所有菜都纯素；当天点心供应需确认。TTC 时间是估计值。",
+        "vibe": "Kensington 的素食餐厅，店内有冷冻素食和茶叶小店。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1vpmqha/vegetarian_dim_sum/",
+          "platform": "r/askTO",
+          "summary": "Multiple commenters recommend King’s dedicated vegetarian dim sum; one notes the use of gluten-based products.",
+          "summary_zh": "多位评论者推荐 King’s 素点心，也有人提到面筋类素食产品。",
+          "published_at": "2026-08-16"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1uyg0tp/goid_quality_chinese_downtown_with_vegan_options/",
+          "platform": "r/FoodToronto",
+          "summary": "A downtown family-dinner discussion recommends King’s as casual, affordable and vegetarian.",
+          "summary_zh": "市中心家庭晚餐讨论推荐 King’s，认为休闲、价格相对友好、全素食。",
+          "published_at": "2026-07-16"
+        }
+      ],
+      "code": "212",
+      "type": "restaurant",
+      "category": "meal",
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "features": [
+        "warm-food"
+      ],
+      "image_url": "assets/images/kings-cafe-kensington.webp",
+      "maps_url": "https://maps.google.com/?q=King%E2%80%99s%20Caf%C3%A9%20192%20Augusta%20Ave%2C%20Toronto%2C%20ON%20M5T%202L6",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "visit_count": 0,
+      "user_rating": null,
+      "last_verified_at": "2026-11-12"
+    },
+    {
+      "id": "salad-king-yonge",
+      "name": "Salad King — Yonge",
+      "name_zh": "Salad King Yonge 泰餐",
+      "native_name": null,
+      "cuisine": "Thai",
+      "price": 2,
+      "address": "340 Yonge St, 2nd Floor, Toronto, ON M5B 1R8",
+      "area": "Downtown (Yonge)",
+      "travel_mode": "walk",
+      "travel_time_min": 10,
+      "signature_dish": "Golden curry with vegetables or tofu, made vegan on request",
+      "signature_dish_zh": "可要求纯素的蔬菜／豆腐金黄咖喱饭",
+      "description": "Casual Yonge Street Thai restaurant with hot vegetable curries and stir-fries that can be adapted for vegetarian diners.",
+      "description_zh": "Yonge 街的休闲泰餐，热蔬菜咖喱和炒菜方便；纯素需要按菜单标记特别提出。",
+      "highlights": [
+        "Yonge location remains open; Queen Street branch has closed",
+        "Golden curry and basil cashew stir-fry have vegan-on-request markers"
+      ],
+      "highlights_zh": [
+        "收录营业中的 Yonge 店，Queen 街分店已关闭",
+        "金黄咖喱、罗勒腰果炒菜标注可要求纯素"
+      ],
+      "hours_note": "Mon–Fri 11:30 AM–9:00 PM; Sat noon–9:00 PM; Sun noon–8:30 PM.",
+      "hours_note_zh": "周一至周五 11:30–21:00；周六 12:00–21:00；周日 12:00–20:30。",
+      "source_url": "https://saladking.com/",
+      "image_source_url": "https://www.tripadvisor.ca/Restaurant_Review-g155019-d708660-Reviews-Salad_King_Restaurant-Toronto_Ontario.html",
+      "dietary": [
+        "vegetarian"
+      ],
+      "unverified": [],
+      "review_notes_en": {
+        "summary": "Local diners recommend the vegetarian options, but opinions on overall Thai-food quality are mixed.",
+        "must_try": "Golden curry with vegetables or tofu, explicitly requested vegan\nThai basil cashew stir-fry, explicitly requested vegan",
+        "tips": "Choose the vegan-on-request symbol and tell staff your requirements. Heat means serving temperature here; choose a comfortable chili level.",
+        "skip_or_neutral": "The soups list chicken/shrimp stock even with vegetables; tofu alone does not make them vegetarian. The curry photo shows a regular version. Queen Street branch is closed.",
+        "vibe": "Casual upstairs Thai restaurant near Yonge and Elm."
+      },
+      "review_notes": {
+        "summary": "本地食客推荐其素食选项，但对整体泰餐水准有分歧，适合方便的一餐。",
+        "must_try": "蔬菜或豆腐金黄咖喱饭，明确要求纯素改法\n罗勒腰果炒菜，明确要求纯素改法",
+        "tips": "按菜单的“可改纯素”标记点单，并向店员说明。热食不等于辣，辣度另选。",
+        "skip_or_neutral": "汤类写有鸡虾汤底，换豆腐也不等于素汤。配图是普通版咖喱。Queen 街店已关闭，去 Yonge 二楼店。",
+        "vibe": "Yonge 与 Elm 附近的二楼休闲泰餐馆。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1ueuu11/nice_restaurants_that_deliver/",
+          "platform": "r/FoodToronto",
+          "summary": "A vegetarian delivery discussion recommends Salad King’s vegetable options.",
+          "summary_zh": "素食外卖讨论推荐 Salad King 的素食选项。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1qfmum4/restaurants_like_salad_king/",
+          "platform": "r/FoodToronto",
+          "summary": "The author likes its hot Thai noodles; several replies dispute its overall quality compared with other Thai restaurants.",
+          "summary_zh": "发帖者喜欢它的热泰式面，但多位回复对整体水准有不同意见。"
+        }
+      ],
+      "code": "213",
+      "type": "restaurant",
+      "category": "meal",
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "cold"
+      ],
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "features": [
+        "warm-food"
+      ],
+      "image_url": "assets/images/salad-king-yonge.webp",
+      "maps_url": "https://maps.google.com/?q=Salad%20King%20%E2%80%94%20Yonge%20340%20Yonge%20St%2C%202nd%20Floor%2C%20Toronto%2C%20ON%20M5B%201R8",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "visit_count": 0,
+      "user_rating": null,
+      "last_verified_at": "2026-11-12"
     }
   ]
 }

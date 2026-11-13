@@ -54,6 +54,11 @@
   </section>
 
   <main>
+    <div class="quick-preference-bar" id="presetChipsContainer">
+      <button type="button" class="preset-chip" data-preset="downtown-warm-veggie" aria-pressed="false">
+        <span>🍲 Downtown · hot food · more vegetables</span>
+      </button>
+    </div>
     <!-- Search & Filter Controls -->
     <section class="controls-panel" id="controlsPanel" aria-label="Search and filter controls">
       <!-- Filter Controls Header with Mode Indicator & Count -->
@@ -268,6 +273,9 @@
           <div class="filter-group" data-group="feature">
             <span class="filter-group-label">🔥 Feature</span>
             <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="feature" data-value="warm-food" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">🍲 Hot Food</span>
+              </button>
               <button type="button" class="filter-chip tri-chip" data-group="feature" data-value="hotpot" data-state="none">
                 <span class="chip-state-icon"></span>
                 <span class="chip-label">🍲 Hot Pot</span>
@@ -314,6 +322,9 @@
           <div class="filter-group" data-group="curation_source">
             <span class="filter-group-label">📌 Source</span>
             <div class="filter-chips">
+              <button type="button" class="filter-chip tri-chip" data-group="curation_source" data-value="reddit" data-state="none">
+                <span class="chip-state-icon"></span><span class="chip-label">💬 Reddit</span>
+              </button>
               <button type="button" class="filter-chip tri-chip" data-group="curation_source" data-value="web" data-state="none">
                 <span class="chip-state-icon"></span><span class="chip-label">🌐 Web</span>
               </button>
