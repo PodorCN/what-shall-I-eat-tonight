@@ -154,12 +154,10 @@ The platform supports full bilingual switching between English and Chinese (`�
 * `weather_fit`: Array with subset of `["cold", "hot", "any"]`.
 * `unverified`: Array of strings flagging unverified attributes (keep `[]` for verified spots).
 
-### 2.6 Reddit discovery and warm meals
+### 2.6 Reddit discovery
 
 * `curation_source: "reddit"`, `source_platform: "Reddit"`: community-discovered entries. Store `review_sources` with original Reddit `/comments/` permalinks, `platform`, bilingual `summary` / `summary_zh`, and `published_at` only when the absolute date is available. Do not infer dates from cached relative timestamps or invent votes, users, visits, or ratings.
 * `last_verified_at`: Toronto-local date on which official information and the cited discussion were checked. This is not the review publication date.
-* `features` additionally accepts `"warm-food"`: verified cooked dishes such as hot soup, curry, steamed dim sum or stir-fried vegetables. This describes serving temperature, independently of chili heat and `weather_fit`.
-* The **Downtown · hot food · more vegetables** shortcut combines a downtown area, `category: "meal"`, `food_profile: ["more-veggie"]`, and `features: ["warm-food"]`. Add the warm-food tag only after checking actual dishes.
 * Vegetarian-friendly means options exist; it does not make the entire restaurant vegan. Explicitly document egg, dairy, meat stock and fish/oyster sauce caveats. Do not label a tofu dish vegan merely because it has no visible meat.
 * `image_source_url`: original restaurant-specific photo source, separate from the official menu and community reviews. Preserve attribution when optimizing a real photo locally.
 * Run `python3 scripts/validate_data.py` for the shared local/CI validator. Daily research and publication instructions are in [docs/reddit-updates.md](docs/reddit-updates.md).

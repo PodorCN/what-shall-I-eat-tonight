@@ -40,9 +40,6 @@
 
   // Preset Shortcuts
   const PRESETS = {
-    'downtown-warm-veggie': {
-      include: { area: ['All Downtown'], category: ['meal'], food_profile: ['more-veggie'], feature: ['warm-food'] }
-    },
     'fast-cheap': {
       include: { price: ['<20'] }
     },
@@ -104,7 +101,6 @@
       resultsLabel: 'options matching',
       modeTipText: '1 click: Include ✓ · 2 clicks: Exclude 🚫',
       resetAll: '↺ Reset all',
-      presets: { 'downtown-warm-veggie': '🍲 Downtown · hot food · more vegetables' },
       filterGroupLabels: {
         category: '🍽️ Category',
         food_profile: '🥗 Diet Style',
@@ -158,7 +154,6 @@
         'hotpot': '🍲 Hot Pot',
         'bbq': '🥩 BBQ',
         'reservation': '📅 Reservation',
-        'warm-food': '🍲 Hot Food',
         // tracker
         'unvisited': '✨ Unvisited (New)',
         'visited': '✔️ Visited (1+)',
@@ -233,7 +228,6 @@
       resultsLabel: '家餐厅匹配',
       modeTipText: '点击1次：包含 ✓ · 点击2次：排除 🚫',
       resetAll: '↺ 重置全部',
-      presets: { 'downtown-warm-veggie': '🍲 市中心 · 热乎饭菜 · 多蔬菜' },
       filterGroupLabels: {
         category: '🍽️ 分类',
         food_profile: '🥗 饮食偏好',
@@ -287,7 +281,6 @@
         'hotpot': '🍲 火锅',
         'bbq': '🥩 烧烤',
         'reservation': '📅 需预约',
-        'warm-food': '🍲 热乎饭菜',
         // tracker
         'unvisited': '✨ 未打卡 (新店)',
         'visited': '✔️ 已打卡 (1次以上)',
@@ -1069,7 +1062,6 @@
     // Feature badges
     let featureBadges = '';
     const feats = getOptionFeatures(opt);
-    if (feats.includes('warm-food')) featureBadges += `<span class="meta-chip profile-chip-warm">🍲 ${isZh ? '热乎饭菜' : 'Hot Food'}</span>`;
     if (feats.includes('hotpot')) featureBadges += `<span class="meta-chip feature-chip-hotpot">🍲 ${isZh ? '火锅' : 'Hot Pot'}</span>`;
     if (feats.includes('bbq')) featureBadges += `<span class="meta-chip feature-chip-bbq">🥩 ${isZh ? '烧烤' : 'BBQ'}</span>`;
     if (feats.includes('reservation')) featureBadges += `<span class="meta-chip feature-chip-reservation">📅 ${isZh ? '需预约' : 'Reservation'}</span>`;
@@ -1364,14 +1356,6 @@
       let isActive = false;
 
       switch (key) {
-        case 'downtown-warm-veggie': {
-          const preset = PRESETS[key];
-          isActive = filterGroups.every(group => {
-            const expected = (preset.include || {})[group] || [];
-            return filters.exclude[group].size === 0 && filters.include[group].size === expected.length && expected.every(value => filters.include[group].has(value));
-          });
-          break;
-        }
         case 'fast-cheap':
           isActive = isSingleActive('price', '<20');
           break;
@@ -1701,7 +1685,6 @@
 
     // Filter groups & chips
     updateFilterChipsText(lang);
-    updatePresetChipsText(lang);
 
     // More filters toggle
     const toggleText = document.querySelector('.btn-toggle-more .toggle-text');

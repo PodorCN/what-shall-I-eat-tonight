@@ -22,7 +22,7 @@ def validate(path=ROOT / "data/options.json"):
     }
     arrays = {
         "food_profile": {"more-veggie", "more-meat", "light-carb", "spicy"},
-        "features": {"hotpot", "bbq", "reservation", "warm-food"},
+        "features": {"hotpot", "bbq", "reservation"},
         "format": {"dine-in", "takeout", "delivery", "cook-at-home"},
         "dietary": {"vegetarian", "vegan", "halal", "gluten-free", "spicy"},
         "mood": {"comfort", "healthy", "light", "indulgent", "date-night", "solo", "group"},

@@ -12361,9 +12361,6 @@
       "food_profile": [
         "more-veggie"
       ],
-      "features": [
-        "warm-food"
-      ],
       "image_url": "assets/images/saigon-lotus-kensington.webp",
       "maps_url": "https://maps.google.com/?q=Saigon%20Lotus%206%20St%20Andrew%20St%2C%20Toronto%2C%20ON%20M5T%201K6",
       "source_platform": "Reddit",
@@ -12453,9 +12450,6 @@
       "food_profile": [
         "more-veggie",
         "spicy"
-      ],
-      "features": [
-        "warm-food"
       ],
       "image_url": "assets/images/vegedelight-dundas.webp",
       "maps_url": "https://maps.google.com/?q=VegeDelight%20Downtown%20173%20Dundas%20St%20W%2C%20Toronto%2C%20ON%20M5G%201C7",
@@ -12549,9 +12543,6 @@
       "food_profile": [
         "more-veggie"
       ],
-      "features": [
-        "warm-food"
-      ],
       "image_url": "assets/images/kings-cafe-kensington.webp",
       "maps_url": "https://maps.google.com/?q=King%E2%80%99s%20Caf%C3%A9%20192%20Augusta%20Ave%2C%20Toronto%2C%20ON%20M5T%202L6",
       "source_platform": "Reddit",
@@ -12594,14 +12585,14 @@
       "review_notes_en": {
         "summary": "Local diners recommend the vegetarian options, but opinions on overall Thai-food quality are mixed.",
         "must_try": "Golden curry with vegetables or tofu, explicitly requested vegan\nThai basil cashew stir-fry, explicitly requested vegan",
-        "tips": "Choose the vegan-on-request symbol and tell staff your requirements. Heat means serving temperature here; choose a comfortable chili level.",
+        "tips": "Choose the vegan-on-request symbol and tell staff your requirements. Choose a comfortable chili level.",
         "skip_or_neutral": "The soups list chicken/shrimp stock even with vegetables; tofu alone does not make them vegetarian. The curry photo shows a regular version. Queen Street branch is closed.",
         "vibe": "Casual upstairs Thai restaurant near Yonge and Elm."
       },
       "review_notes": {
         "summary": "本地食客推荐其素食选项，但对整体泰餐水准有分歧，适合方便的一餐。",
         "must_try": "蔬菜或豆腐金黄咖喱饭，明确要求纯素改法\n罗勒腰果炒菜，明确要求纯素改法",
-        "tips": "按菜单的“可改纯素”标记点单，并向店员说明。热食不等于辣，辣度另选。",
+        "tips": "按菜单的“可改纯素”标记点单，并向店员说明；辣度按自己的口味选择。",
         "skip_or_neutral": "汤类写有鸡虾汤底，换豆腐也不等于素汤。配图是普通版咖喱。Queen 街店已关闭，去 Yonge 二楼店。",
         "vibe": "Yonge 与 Elm 附近的二楼休闲泰餐馆。"
       },
@@ -12637,9 +12628,6 @@
       "portion_size": "normal",
       "food_profile": [
         "more-veggie"
-      ],
-      "features": [
-        "warm-food"
       ],
       "image_url": "assets/images/salad-king-yonge.webp",
       "maps_url": "https://maps.google.com/?q=Salad%20King%20%E2%80%94%20Yonge%20340%20Yonge%20St%2C%202nd%20Floor%2C%20Toronto%2C%20ON%20M5B%201R8",
