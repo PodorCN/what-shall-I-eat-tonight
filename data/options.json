@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13",
+  "generated_at": "2026-11-15",
   "location": "Toronto, ON",
   "options": [
     {
@@ -12734,6 +12734,100 @@
         }
       ],
       "last_verified_at": "2026-11-13"
+    },
+    {
+      "id": "queen-mother-cafe-queen",
+      "code": "215",
+      "name": "Queen Mother Café",
+      "name_zh": "Queen Mother Café 餐馆",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Thai",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Ping Gai chicken; Nam Jeun vegetable spring rolls; tofu peanut noodles",
+      "signature_dish_zh": "Ping Gai 烤鸡、Nam Jeun 蔬菜春卷、豆腐花生面",
+      "description": "Queen West café with Lao and Thai dishes, vegetable starters, tofu noodle options and grilled Ping Gai chicken.",
+      "description_zh": "Queen West 的老牌荤素餐馆，招牌 Ping Gai 烤鸡之外，也有蔬菜春卷、豆腐面与扁豆菠菜汤。",
+      "address": "208 Queen St W, Toronto, ON M5V 1Z2",
+      "hours_note": "Sun–Mon 11:30 AM–10 PM; Tue–Sat 11:30 AM–11 PM. Confirm holiday hours.",
+      "hours_note_zh": "周日至周一 11:30–22:00；周二至周六 11:30–23:00，节假日请再确认。",
+      "image_url": "assets/images/queen-mother-cafe-queen.webp",
+      "image_source_url": "https://www.queenmothercafe.ca/wp-content/uploads/2026/06/1669994708-20221125-QueenMotherCafe-3-e1780777746556.jpg",
+      "maps_url": "https://maps.google.com/?q=Queen+Mother+Cafe+208+Queen+St+W+Toronto",
+      "source_url": "https://www.queenmothercafe.ca/takeout/",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Queen West",
+      "travel_mode": "walk",
+      "travel_time_min": 20,
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [],
+      "highlights": [
+        "Queen West mixed menu with marked vegetarian choices",
+        "Community picks: Ping Gai chicken and Nam Jeun vegetable spring rolls"
+      ],
+      "highlights_zh": [
+        "Queen West 荤素菜单，官网明确标出素食选项",
+        "社区具体推荐 Ping Gai 烤鸡与 Nam Jeun 蔬菜春卷"
+      ],
+      "review_notes_en": {
+        "summary": "Separate discussions praise Ping Gai; an older firsthand review also likes the vegetable spring rolls.",
+        "must_try": "Ping Gai chicken\nNam Jeun vegetable spring rolls\nTofu peanut noodles or spinach lentil soup (official vegetarian options, not separately reviewed in the cited posts)",
+        "tips": "Menu v means vegetarian, not vegan. Some salads contain fish sauce; confirm sauces, eggs and dairy when ordering tofu substitutions.",
+        "skip_or_neutral": "An October commenter found Ping Gai unremarkable despite the broader praise.",
+        "vibe": "Long-running Queen West café with a mixed menu."
+      },
+      "review_notes": {
+        "summary": "多篇独立讨论具体推荐 Ping Gai；较早的实吃评价也喜欢蔬菜春卷。",
+        "must_try": "Ping Gai 烤鸡\nNam Jeun 蔬菜春卷\n豆腐花生面／扁豆菠菜汤（官网素食选择，所引帖子未单独评价）",
+        "tips": "官网 v 指素食，不能当作纯素；部分沙拉含鱼露，换豆腐时也须确认酱汁、蛋和奶制品。",
+        "skip_or_neutral": "10 月帖也有人觉得 Ping Gai 只是一般，并非一致好评。",
+        "vibe": "Queen West 的老牌休闲餐馆，适合荤素同行。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1xvnz1u/life_changing_food_in_toronto/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-11-14",
+          "summary": "A recent discussion specifically recommends Queen Mother’s Ping Gai chicken; other replies discuss the dish and sauce.",
+          "summary_zh": "近期讨论明确推荐 Queen Mother 的 Ping Gai 烤鸡，回复也讨论了菜品和蘸汁。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1x602lq/fulfilled_foodie/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-10-14",
+          "summary": "A visitor enjoyed Ping Gai; replies include praise and a dissenting opinion that it was unremarkable.",
+          "summary_zh": "访客反馈喜欢 Ping Gai；回复既有好评，也有人觉得只是一般。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1mirshc/review_of_radici_project_queen_mother_cafe_bar/",
+          "platform": "r/FoodToronto",
+          "summary": "An older firsthand review enjoyed the spring rolls and Ping Gai; another reply liked sticky rice and pad Thai.",
+          "summary_zh": "较早的实吃评价喜欢春卷和 Ping Gai，另有回复提到糯米饭与 Pad Thai。"
+        }
+      ],
+      "last_verified_at": "2026-11-15"
     }
   ]
 }
