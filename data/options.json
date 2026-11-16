@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15",
+  "generated_at": "2026-11-16",
   "location": "Toronto, ON",
   "options": [
     {
@@ -11808,12 +11808,12 @@
         "any"
       ],
       "signature_dish": "Cairo Classic",
-      "description": "The city's landmark Egyptian brunch since 2014: Cairo Classic fava beans, falafel-wrapped eggs and a honey-cardamom latte.",
+      "description": "Egyptian brunch with fava beans, falafel, lentil soup and vegetable sandwiches; Cairo Classic includes egg and feta.",
       "address": "226 Greenwood Ave, Toronto, ON M4L 1Y7",
-      "hours_note": "Mon-Tue, Thu-Sun 8:00 AM - 4:30 PM; closed Wed",
-      "image_url": "assets/images/mahas-greenwood.webp",
+      "hours_note": "8:00 AM–4:30 PM; closed Wednesdays and national holidays. Walk-ins only; call ahead for takeout.",
+      "image_url": "assets/images/mahas-greenwood-official.webp",
       "maps_url": "https://maps.google.com/?q=Maha%27s%20226%20Greenwood%20Ave%20Toronto",
-      "source_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
+      "source_url": "https://www.mahasbrunch.com/_files/ugd/30b408_7f83df5179d9440f9948ebc079e09fef.pdf?index=true",
       "unverified": [],
       "area": "Other",
       "travel_mode": "drive",
@@ -11824,37 +11824,57 @@
       "food_profile": [
         "more-veggie"
       ],
-      "bullet_flavor": "Cairo Classic fava beans with balady bread, and falafel wrapped around a still-gooey soft-boiled egg",
-      "bullet_highlight": "A Michelin-featured Egyptian institution — breakfast and lunch only, never a reservation",
+      "bullet_flavor": "Cairo Classic has boiled egg and tomato feta; Betengan offers roasted eggplant and peppers",
+      "bullet_highlight": "Greenwood Egyptian brunch; walk-in only, closed Wednesdays and national holidays",
       "source_platform": "Red",
-      "xhs_url": "https://www.xiaohongshu.com/search_result?keyword=Maha%27s%20%E5%A4%9A%E4%BC%A6%E5%A4%9A%20%E5%A4%9A%E4%BC%A6%E5%A4%9A",
+      "xhs_url": "https://www.rednote.com/discovery/item/6acae2f4000000001203e683",
       "curation_source": "red",
       "visit_count": 0,
       "user_rating": null,
       "review_notes": {
-        "summary": "原笔记：开了12年·多伦多代表性埃及Brunch店。2014年开业，米其林指南也收录：上楼梯先到咖啡吧点一杯honey-cardamom latte；Lentil Soup和Cairo Classic（fava豆+falafel+溏心蛋+balady饼）是必点，只做早餐午餐、不接受订位。",
-        "must_try": "🍯 Honey Cardamom Latte 蜂蜜豆蔻拿铁\n🥣 Lentil Soup 扁豆汤\n🍳 Cairo Classic 开罗经典\n🧆 Egyptian Falafel 埃及炸豆丸（内含溏心蛋）\n🍞 Date Grilled Cheese 椰枣烤芝士",
-        "tips": "周三休；只做早午市；不接受订位、周末队伍很长，早去；takeout可电话预订。",
-        "vibe": "东区小巷里的家味埃及厨房。"
+        "summary": "11 月 16 日本地讨论推荐 Cairo Classic；较早亲历评价也喜欢蔬菜菜式，但对排队和性价比有不同意见。",
+        "must_try": "Cairo Classic（蚕豆、切片水煮蛋、番茄 feta 奶酪）\nBetengan 烤茄子三明治（纯素）\nEgyptian Falafel（内裹溏心蛋）\n红扁豆汤（官网标注纯素）",
+        "tips": "全店荤素都有。Egyptian Falafel 含蛋，Cairo Classic 含蛋及 feta；Arnabeet 花椰菜三明治只标素食，不能当作纯素。仅现场排队，外带可先致电。",
+        "skip_or_neutral": "2023 年讨论中，有人觉得 Cairo Classic 一般，或认为堂食排队不值；这是历史反馈，不代表当前等位时长。",
+        "vibe": "226 Greenwood Avenue 的家常埃及早午餐馆。"
       },
       "highlights": [
-        "Toronto's landmark Egyptian brunch since 2014",
-        "Cairo Classic, lentil soup and the honey-cardamom latte — breakfast only, no bookings"
+        "Greenwood Egyptian brunch with labelled vegetarian and vegan dishes",
+        "Cairo Classic includes egg and feta; Betengan and lentil soup are labelled vegan"
       ],
       "name_zh": "Maha's 埃及早午餐",
-      "description_zh": "多伦多代表性埃及Brunch（2014年起）：Cairo Classic、扁豆汤、蜂蜜豆蔻拿铁必点，只做早午市、无订位。",
+      "description_zh": "Greenwood 的埃及早午餐，有蚕豆、falafel、扁豆汤和蔬菜三明治；Cairo Classic 含蛋及 feta 奶酪。",
       "highlights_zh": [
-        "米其林收录的埃及Brunch代表",
-        "Cairo Classic+扁豆汤+蜂蜜豆蔻拿铁，周三休息、不接受订位"
+        "Greenwood 的埃及早午餐，官网区分素食与纯素菜式",
+        "Cairo Classic 含蛋奶；Betengan 茄子三明治及扁豆汤标注纯素"
       ],
       "signature_dish_zh": "开罗经典（Cairo Classic）",
-      "hours_note_zh": "周一、二、四至周日 8:00-16:30；周三休息",
+      "hours_note_zh": "8:00–16:30；周三及国定假日休息。仅现场排队，外带可先致电。",
       "review_notes_en": {
-        "summary": "Toronto's Egyptian brunch landmark (since 2014, Michelin-featured): climb the stairs, order the honey-cardamom latte, then the lentil soup and the Cairo Classic — fava beans, falafel, soft egg and balady bread. Breakfast and lunch only, no reservations.",
-        "must_try": "🍯 Honey-cardamom latte\n🥣 Lentil soup\n🍳 Cairo Classic\n🧆 Egyptian falafel\n🍞 Date grilled cheese",
-        "tips": "Closed Wednesdays; breakfast/lunch only; no reservations and long weekend lines — go early; call ahead for takeout.",
-        "vibe": "A homestyle Egyptian kitchen in an east-end side street."
-      }
+        "summary": "A November 16 discussion recommends Cairo Classic; older firsthand reports praise vegetable dishes but disagree on queues and value.",
+        "must_try": "Cairo Classic (fava beans, boiled egg and tomato feta)\nBetengan roasted-eggplant sandwich (vegan)\nEgyptian Falafel (contains soft-boiled eggs)\nRed lentil soup (labelled vegan on the official menu)",
+        "tips": "This is a mixed menu. Egyptian Falafel contains eggs; Cairo Classic includes egg and feta. Arnabeet cauliflower is labelled vegetarian, not vegan. Walk-ins only; call for takeout.",
+        "skip_or_neutral": "Some 2023 diners found Cairo Classic underwhelming or dine-in queues poor value. Those are historical reports, not current wait-time measurements.",
+        "vibe": "Homestyle Egyptian breakfast and lunch at 226 Greenwood Avenue."
+      },
+      "image_source_url": "https://static.wixstatic.com/media/b6cb4e_eb5c6b141cf94e47ae5a2d7a3016351d~mv2.jpg",
+      "last_verified_at": "2026-11-16",
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1xxgyvq/best_food_in_leslieville/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-11-16",
+          "summary": "A current Leslieville discussion specifically recommends Maha’s Cairo Classic; a reply cautions about walk-in queues.",
+          "summary_zh": "当天 Leslieville 讨论明确推荐 Maha’s 的 Cairo Classic，回复提醒现场排队。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/123nxn9/mahas_mind_blowing_chicken_marinated_shawarma/",
+          "platform": "r/FoodToronto",
+          "published_at": "2023-03-27",
+          "summary": "Older firsthand comments recommend egg-filled falafel, eggplant and cauliflower sandwiches; opinions differ on Cairo Classic, value and long queues.",
+          "summary_zh": "较早亲历评论推荐裹蛋 falafel、茄子和花椰菜三明治；对 Cairo Classic、性价比及长队有分歧。"
+        }
+      ]
     },
     {
       "id": "oeb-toronto-street",
