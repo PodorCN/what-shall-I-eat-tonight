@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "location": "Toronto, ON",
   "options": [
     {
@@ -12848,6 +12848,104 @@
         }
       ],
       "last_verified_at": "2026-11-15"
+    },
+    {
+      "id": "veggie-dlight-kensington",
+      "code": "216",
+      "name": "Veggie D’Light",
+      "name_zh": "Veggie D’Light 加勒比素食",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Other",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan"
+      ],
+      "mood": [
+        "comfort",
+        "healthy",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "The Meal with curry chickpeas, jerk seitan and vegetables; The Roti",
+      "signature_dish_zh": "咖喱鹰嘴豆、jerk 面筋及蔬菜配饭套餐；加勒比 roti",
+      "description": "Vegan Caribbean takeout with curry chickpeas, jerk seitan, moringa loaf and vegetables in rice meals or roti.",
+      "description_zh": "Kensington 的加勒比纯素外带店，咖喱鹰嘴豆、jerk 面筋和蔬菜可配糙米饭或卷成 roti。",
+      "address": "160 Baldwin St, Toronto, ON M5T 3K7",
+      "hours_note": "Takeout Fri–Sun noon–6 PM; Mon–Thu no takeout. Catering by arrangement.",
+      "hours_note_zh": "外带仅周五至周日 12:00–18:00；周一至周四不做外带，活动餐饮另约。",
+      "image_url": "assets/images/veggie-dlight-kensington.webp",
+      "image_source_url": "https://veggiedlight.com/wp-content/uploads/2021/05/The-Large-Meal-angle.jpg",
+      "maps_url": "https://maps.google.com/?q=Veggie+D+Light+160+Baldwin+St+Toronto",
+      "source_url": "https://veggiedlight.com/",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Downtown (Other)",
+      "travel_mode": "ttc",
+      "travel_time_min": 25,
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "travel_time",
+        "prep_time"
+      ],
+      "highlights": [
+        "Weekend vegan Caribbean takeout in Kensington Market",
+        "The Meal and roti combine chickpea curry, jerk seitan and vegetables"
+      ],
+      "highlights_zh": [
+        "Kensington 的加勒比纯素外带，仅周五至周日营业",
+        "咖喱鹰嘴豆、jerk 面筋与蔬菜配饭或制成 roti"
+      ],
+      "review_notes_en": {
+        "summary": "New local recommendations favour this Kensington spot; older independent posts identify The Meal and roti.",
+        "must_try": "The Meal: curry chickpeas, jerk seitan, moringa loaf, brown rice and vegetables\nThe Roti: similar fillings in a whole-wheat dhalpuri shell",
+        "tips": "Call 647-352-7581 for weekend takeout and confirm availability. Small and large sizes are listed. Seitan and whole-wheat roti contain gluten. Preparation and TTC times are estimates.",
+        "skip_or_neutral": "Recent recommendations are general; detailed meal and roti reports are older. Historical portion praise is not a current size guarantee.",
+        "vibe": "Caribbean takeout in Kensington Market; catering is arranged separately."
+      },
+      "review_notes": {
+        "summary": "近期本地讨论推荐这家 Kensington 小店；较早的独立帖子具体提到 The Meal 配饭套餐和 roti。",
+        "must_try": "The Meal：咖喱鹰嘴豆、jerk 面筋、moringa loaf 辣木素饼、糙米与蔬菜\nThe Roti：同类馅料包入全麦 dhalpuri 饼皮",
+        "tips": "周末外带可致电 647-352-7581 确认供应，菜单分大小份。面筋及全麦 roti 含麸质；备餐和 TTC 时间为估计。",
+        "skip_or_neutral": "近期是餐厅层面的推荐；更具体的套餐、roti 反馈较早，不能把旧帖对分量的赞赏当作当前保证。",
+        "vibe": "Kensington 的加勒比外带店，活动餐饮另约。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xy8ddg/vegan_restaurants/",
+          "platform": "r/askTO",
+          "published_at": "2026-11-17",
+          "summary": "A first-person recommendation favours Veggie D’Light’s plant-based entrée choices; another reply also names this Kensington restaurant.",
+          "summary_zh": "当天讨论有食客偏爱 Veggie D’Light 的植物餐选择，另有回复也提到这家 Kensington 餐厅。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1eggbm5/best_bahn_mi_dumplings_and_other_cheap_eats/",
+          "platform": "r/FoodToronto",
+          "published_at": "2024-07-31",
+          "summary": "An independent older Kensington cheap-eats discussion specifically recommends The Meal.",
+          "summary_zh": "另一篇较早的 Kensington 平价美食讨论明确推荐 The Meal 套餐。"
+        },
+        {
+          "url": "https://www.reddit.com/r/VeganFoodPorn/comments/x0c3f5/delicious_roti_from_an_all_vegan_caribbean_place/",
+          "platform": "r/VeganFoodPorn",
+          "summary": "An older firsthand roti report identifies Veggie D’Light in Kensington and enjoys its jerk seitan, chickpea, moringa loaf and vegetable filling.",
+          "summary_zh": "较早的亲历 roti 帖明确说明店是 Kensington 的 Veggie D’Light，并喜欢 jerk 面筋、鹰嘴豆、辣木素饼及蔬菜馅。"
+        }
+      ],
+      "last_verified_at": "2026-11-17"
     }
   ]
 }
