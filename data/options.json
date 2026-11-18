@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17",
+  "generated_at": "2026-11-18",
   "location": "Toronto, ON",
   "options": [
     {
@@ -676,13 +676,13 @@
       "weather_fit": [
         "cold"
       ],
-      "signature_dish": "Khao Soi with braised beef and crispy egg noodles",
-      "description": "Celebrated Northern Thai destination renowned for Chef Nuit Regular's deeply fragrant golden coconut curry noodle bowls.",
+      "signature_dish": "Massaman curry; request vegan preparation",
+      "description": "Northern Thai cooking on Duncan, with curries, basil stir-fries and vegan versions available on request.",
       "address": "18 Duncan St, Toronto, ON M5H 3G8",
-      "hours_note": "Mon-Sun 11:30 AM - 10:00 PM",
+      "hours_note": "Mon 4-9:30 PM; Tue-Thu & Sun 11:45 AM-9:30 PM; Fri-Sat 11:45 AM-10 PM",
       "image_url": "assets/images/pai-northern-thai-kitchen-duncan.webp",
       "maps_url": "https://maps.google.com/?q=Pai+Northern+Thai+Kitchen+18+Duncan+St+Toronto",
-      "source_url": "https://www.paitoronto.com/",
+      "source_url": "https://www.paitoronto.com/menu/pai-menu",
       "unverified": [],
       "area": "Queen West",
       "travel_mode": "walk",
@@ -694,37 +694,62 @@
         "more-veggie",
         "spicy"
       ],
-      "bullet_flavor": "Golden coconut curry broth with crunchy noodles",
-      "bullet_highlight": "Chef Nuit's benchmark Michelin Bib Gourmand Thai",
+      "bullet_flavor": "Massaman curry or basil stir-fry; request vegan preparation",
+      "bullet_highlight": "Duncan branch with options for mixed-menu groups",
       "source_platform": "Other",
       "curation_source": "other",
       "visit_count": 0,
       "user_rating": null,
       "native_name": null,
       "review_notes": {
-        "summary": "多伦多公认泰餐天花板，泰北金面与椰香绿咖喱让人百吃不厌。",
-        "must_try": "🍜 泰北牛肉金面 (Khao Soi with braised beef)\n🥥 泰式青咖喱牛腩与香料泰式奶茶",
-        "tips": "人气长盛不衰常需提前排队，建议错开高峰或在官方排队系统取号；Khao Soi 炸脆面吸满汤汁是神仙口感。",
-        "vibe": "拜县嬉皮热带木质集市氛围，音乐热烈"
+        "summary": "近期讨论推荐 Massaman，另一篇较早讨论喜欢植物蛋白打抛饭，但两者都未注明分店；2023 年讨论才明确推荐 Duncan 店给荤素同行者。当前官方 downtown 菜单已核对。",
+        "must_try": "🥥 Massaman 咖喱：可要求纯素版\n🌿 Pad Gra Prow 打抛饭：可要求纯素版，确认当日植物蛋白\n🍜 Khao Soi 咖喱面：需明确要求纯素版",
+        "tips": "普通配方可能有虾、鱼露、蚝油或鸡蛋，换豆腐不等于纯素。菜单对打抛饭植物蛋白品牌的写法不一致，点单时确认。周一仅晚餐营业；预订与步入安排以官网为准。",
+        "vibe": "Duncan 街店堂与吧台，菜单同时供应荤菜和素食选项。",
+        "skip_or_neutral": "菜品推荐未注明分店，不能据此保证 Duncan 店每次出品；较早讨论仅作历史背景。"
       },
       "highlights": [
-        "Chef Nuit's benchmark Michelin Bib Gourmand Thai",
-        "Golden coconut curry broth with crunchy noodles"
+        "Duncan branch with options for mixed-menu groups",
+        "Massaman curry or basil stir-fry; request vegan preparation"
       ],
       "name_zh": "PAI 泰北小馆",
-      "description_zh": "多伦多公认泰餐天花板与米其林必比登名店，以浓郁椰香金面与泰北青咖喱百吃不厌。",
+      "description_zh": "Duncan 街泰北餐厅，咖喱和打抛饭有可按要求制作的纯素版本，适合荤素同行。",
       "highlights_zh": [
-        "名厨Nuit领衔的米其林必比登天花板级泰餐",
-        "浓郁椰香泰北咖喱汤底搭配金黄酥脆油炸鸡蛋面"
+        "Duncan 分店，适合荤素同行",
+        "Massaman 咖喱或打抛饭，纯素版需提出"
       ],
-      "signature_dish_zh": "泰北清迈牛肉咖喱金面",
-      "hours_note_zh": "周一至周日 11:30 - 22:00",
+      "signature_dish_zh": "Massaman 咖喱（纯素版需特别提出）",
+      "hours_note_zh": "周一 16:00–21:30；周二至四及周日 11:45–21:30；周五、六 11:45–22:00",
       "review_notes_en": {
-        "summary": "Chef Nuit Regular’s Michelin Bib Gourmand Thai flagship, universally recognized as Toronto’s Northern Thai benchmark.",
-        "must_try": "🍜 Northern Thai Khao Soi with Braised Beef & Crispy Egg Noodles\n🥥 Green Curry Beef Brisket in Coconut & Sweet Iced Thai Milk Tea",
-        "tips": "Lines are constant throughout the day. Put your name down on the digital waitlist early or visit during mid-afternoon off-peak hours.",
-        "vibe": "Bustling, rustic tropical Pai market ambiance with wooden furniture and vibrant music"
-      }
+        "summary": "Recent Massaman and older plant-protein Pad Gra Prow recommendations omit the branch. A 2023 discussion names Duncan for mixed vegan/non-vegan groups; the current downtown menu confirms options.",
+        "must_try": "🥥 Massaman curry: request vegan preparation\n🌿 Pad Gra Prow: request vegan preparation and confirm plant protein\n🍜 Khao Soi: explicitly request the vegan version",
+        "tips": "Standard recipes may contain shrimp, fish/oyster sauce or egg; tofu alone does not establish vegan preparation. The menu names conflicting plant-protein brands; confirm availability. Monday is dinner-only; check official booking arrangements.",
+        "vibe": "Duncan dining room and bar, serving both meat dishes and vegetarian options.",
+        "skip_or_neutral": "Branch-unspecified recommendations do not establish consistency at Duncan; older discussions provide historical context."
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xy8ddg/vegan_restaurants/",
+          "platform": "Reddit",
+          "summary": "Recent vegan-options discussion recommends PAI Massaman curry, without naming a branch. This is a recommendation, not proof of a Duncan visit.",
+          "summary_zh": "近期纯素选项讨论推荐 PAI 的 Massaman 咖喱，未注明分店，不能据此认定去过 Duncan 店。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1sizq4i/favourite_vegetarian_foods_in_toronto/",
+          "platform": "Reddit",
+          "published_at": "2026-04-12",
+          "summary": "Historical dish-specific praise for PAI Pad Gra Prow with a vegetarian pork alternative; branch unspecified. Current protein availability needs confirmation.",
+          "summary_zh": "较早的具体菜品反馈喜欢 PAI 植物猪肉替代品打抛饭，未注明分店；现有植物蛋白供应需询店确认。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/14ndzr1/restaurant_recs_for_both_vegan_and_nonvegans/",
+          "platform": "Reddit",
+          "published_at": "2023-06-30",
+          "summary": "Historical discussion explicitly recommends PAI on Duncan for vegan/non-vegan groups. It supports branch context, not a recent dish review.",
+          "summary_zh": "2023 年旧讨论明确推荐 Duncan 街 PAI 给荤素同行者，仅作分店背景，不当作近期菜品评价。"
+        }
+      ],
+      "last_verified_at": "2026-11-18"
     },
     {
       "id": "ki-modern-japanese-bay",
