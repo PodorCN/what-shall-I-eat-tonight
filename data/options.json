@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18",
+  "generated_at": "2026-11-19",
   "location": "Toronto, ON",
   "options": [
     {
@@ -12971,6 +12971,105 @@
         }
       ],
       "last_verified_at": "2026-11-17"
+    },
+    {
+      "id": "rustle-still-bloor",
+      "code": "217",
+      "name": "Rustle & Still Café",
+      "name_zh": "Rustle & Still 越式咖啡馆",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Vietnamese",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "solo",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Tofu Mushroom Banh Mi; Gochujang Tofu Mushroom; Bo Kho Chay",
+      "signature_dish_zh": "豆腐蘑菇越式三明治；韩式辣酱豆腐蘑菇三明治；Bo Kho Chay 素菜炖煮",
+      "description": "Annex Vietnamese café serving tofu-mushroom bánh mì, vegan vegetable stew and a mixed menu.",
+      "description_zh": "Annex 越式咖啡馆，豆腐蘑菇三明治和素炖菜是菜单中的素食选择，也供应肉类。",
+      "address": "605 Bloor St W, Toronto, ON M6G 1K6",
+      "hours_note": "Ritual pickup daily 9 AM–5:45 PM; confirm dine-in and kitchen hours with the café.",
+      "hours_note_zh": "官网链接的 Ritual 取餐时段为每天 09:00–17:45；堂食及厨房时段请询店确认。",
+      "image_url": "assets/images/rustle-still-bloor.webp",
+      "image_source_url": "https://www.hungry416.com/instagrammable-cafes-in-toronto-worth-the-visit/",
+      "maps_url": "https://maps.google.com/?q=Rustle+Still+Cafe+605+Bloor+St+W+Toronto",
+      "source_url": "https://rustleandstill.com/menu/",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Downtown (Other)",
+      "travel_mode": "ttc",
+      "travel_time_min": 30,
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "travel_time",
+        "prep_time"
+      ],
+      "highlights": [
+        "Annex café near Bathurst, serving mixed-menu lunches",
+        "Tofu-mushroom bánh mì and a vegan tofu-vegetable stew"
+      ],
+      "highlights_zh": [
+        "Bathurst 附近的 Annex 咖啡馆，适合荤素同行",
+        "豆腐蘑菇三明治，以及豆腐蔬菜素炖菜"
+      ],
+      "review_notes_en": {
+        "summary": "A November 18 reply praises the tofu-mushroom bánh mì; an independent 2023 vegetarian-sandwich discussion also favours this café. A 2025 thread is divided on flavour and value.",
+        "must_try": "Tofu-mushroom bánh mì: recent praise does not specify the variant; the menu offers five-spice/walnut-mushroom pâté and gochujang versions\nBo Kho Chay: an officially listed vegan tofu, shiitake, potato and carrot stew; not independently reviewed in these threads",
+        "tips": "Choose a labelled vegan item and confirm sauces; optional eggs, meat pâté and regular milk are not vegan. Nuts, sesame and wheat appear on the menu. Homepage and menu prices differ; confirm at checkout. TTC and preparation times are estimates.",
+        "skip_or_neutral": "The 2025 discussion includes praise and complaints that the bánh mì is ordinary, less traditional and pricier than budget alternatives. Specific variant preferences and daily availability remain unconfirmed.",
+        "vibe": "Annex/Koreatown café with plants and counter seating, suitable for daytime sandwiches or takeaway."
+      },
+      "review_notes": {
+        "summary": "11 月 18 日新回复具体喜欢豆腐蘑菇三明治，2023 年另一篇素三明治讨论也推荐这里；2025 年的讨论对风味和性价比有分歧。",
+        "must_try": "豆腐蘑菇 bánh mì：新反馈未说明版本，菜单有五香豆腐配核桃蘑菇酱版，以及韩式辣酱版\nBo Kho Chay：官网标为纯素的豆腐、香菇、土豆及胡萝卜炖菜；本次讨论未提供这道菜的独立实吃反馈",
+        "tips": "选择标注纯素的菜品并确认酱汁；加鸡蛋、肉酱或普通奶不适合纯素。菜单涉及坚果、芝麻与小麦。官网首页与菜单页价格不同，结账前确认；TTC 和备餐时间是估计。",
+        "skip_or_neutral": "2025 年讨论既有人喜欢，也有人觉得三明治平庸、不够传统，且比平价店贵；具体版本偏好和当日供应仍需确认。",
+        "vibe": "Annex／Koreatown 带绿植和吧台座位的咖啡馆，适合白天吃三明治或外带。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xy8ddg/vegan_restaurants/",
+          "platform": "r/askTO",
+          "published_at": "2026-11-17",
+          "summary": "A November 18 reply specifically enjoys Rustle & Still tofu-mushroom bánh mì. The exact sandwich variant is not stated.",
+          "summary_zh": "11 月 18 日回复具体喜欢 Rustle & Still 的豆腐蘑菇三明治，未说明是哪一种版本。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/17za89m/top_vegetarian_bahn_mi_spots/",
+          "platform": "r/FoodToronto",
+          "published_at": "2023-11-19",
+          "summary": "An independent historical vegetarian-bánh-mì discussion includes a firsthand preference for Rustle & Still sandwiches.",
+          "summary_zh": "另一篇 2023 年素越式三明治讨论，有食客表示喜欢 Rustle & Still 的三明治，仅作历史佐证。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1nm4ejc/best_bahn_mi/",
+          "platform": "r/FoodToronto",
+          "published_at": "2025-09-20",
+          "summary": "Historical opinions are mixed: one recommends the café while noting higher prices; another finds its bánh mì ordinary and less traditional.",
+          "summary_zh": "2025 年讨论有分歧：有人推荐但指出价格较高，也有人觉得其三明治平庸、风味不够传统。"
+        }
+      ],
+      "last_verified_at": "2026-11-19"
     }
   ]
 }
