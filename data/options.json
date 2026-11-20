@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19",
+  "generated_at": "2026-11-20",
   "location": "Toronto, ON",
   "options": [
     {
@@ -13070,6 +13070,104 @@
         }
       ],
       "last_verified_at": "2026-11-19"
+    },
+    {
+      "id": "soos-fat-choi-ossington",
+      "code": "218",
+      "name": "Soos / Fat Choi",
+      "name_zh": "Soos／Fat Choi 马来风味餐厅",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Other",
+      "price": 4,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "group",
+        "date-night",
+        "comfort"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Plant-based Feed Me; Char Siu Seitan Bao; Pineapple Tamarind Curry",
+      "signature_dish_zh": "纯素 Feed Me 分享餐；面筋叉烧包；菠萝罗望子豆腐咖喱",
+      "description": "Malaysian sharing plates on Ossington, with Soos’s mixed menu and Fat Choi’s plant-based choices.",
+      "description_zh": "Ossington 的马来风味分享餐厅，Soos 供应荤素菜，店内 Fat Choi 菜单全部采用植物食材。",
+      "address": "94 Ossington Ave, Toronto, ON M6J 2Z4",
+      "hours_note": "Soos: Wed–Thu 5–9:30 PM; Fri–Sat 5–10 PM; Sun 5–9 PM; Mon–Tue closed. Closed Dec 21–26, 2026; see official holiday exceptions.",
+      "hours_note_zh": "Soos 周三、四 17:00–21:30；周五、六 17:00–22:00；周日 17:00–21:00；周一、二休。2026 年 12 月 21–26 日休，其他假日安排见官网。",
+      "image_url": "assets/images/soos-fat-choi-ossington.webp",
+      "image_source_url": "https://images.squarespace-cdn.com/content/v1/5afc40c5b98a7873e7ab8f22/1721827688382-W6H7ITJOAK98VLVO8Q1O/image-asset.jpeg",
+      "maps_url": "https://maps.google.com/?q=Soos+Fat+Choi+94+Ossington+Ave+Toronto",
+      "source_url": "https://www.fatchoito.com/menu-1",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Queen West",
+      "travel_mode": "ttc",
+      "travel_time_min": 35,
+      "portion_size": "heavy",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "menu_price",
+        "travel_time",
+        "prep_time"
+      ],
+      "highlights": [
+        "Ossington sharing plates for mixed-menu groups",
+        "Plant-based Feed Me, tofu curry and seitan bao"
+      ],
+      "highlights_zh": [
+        "Ossington 分享餐，适合荤素同行",
+        "纯素 Feed Me、豆腐咖喱与面筋叉烧包"
+      ],
+      "review_notes_en": {
+        "summary": "A November recommendation favours Feed Me and service; separate October and older discussions support the plant-based sharing meal. These are meal-level recommendations, not individual-course reviews.",
+        "must_try": "Community-backed order: plant-based Feed Me; ask the team to accommodate each diner\nOfficial menu alternatives: Char Siu Seitan Bao, Pineapple Tamarind Curry, Sambal Dhal & Roti, FC Char Cheong Fun with seitan, king mushroom, greens and tofu egg-style crumble",
+        "tips": "Choose the Fat Choi menu explicitly. Regular Soos Char Kway Teow contains prawns and egg; (V) items may need vegan preparation. Feed Me requires whole-table participation and is mandatory for 6+; 5+ incur 20% gratuity. Official pages differ between CAD60 and65 per person; confirm the current price. Takeout is limited, especially Fri–Sat. TTC and preparation times are estimates.",
+        "skip_or_neutral": "Courses change; recommendations do not guarantee a fixed menu or consistent portions. Individual dishes above are official options, without independent taste feedback in the cited threads.",
+        "vibe": "Malaysian/Nyonya dinner at Soos on Ossington; Fat Choi is its plant-based menu, while the venue serves meat too."
+      },
+      "review_notes": {
+        "summary": "11 月讨论推荐 Feed Me 和服务；10 月及另一篇旧讨论也推荐植物分享餐。反馈主要针对整套餐，未逐道评价这些单菜。",
+        "must_try": "社区有依据的点法：纯素 Feed Me 分享餐，提前说明每位客人的饮食要求\n官网另有：面筋叉烧包、菠萝罗望子豆腐咖喱、扁豆咖喱配 roti，以及面筋、杏鲍菇、青菜和豆腐仿蛋碎炒肠粉 FC Char Cheong Fun",
+        "tips": "明确点 Fat Choi 植物菜单；Soos 普通炒贵刁含虾和鸡蛋，标 (V) 的菜可能需要改做纯素。Feed Me 须全桌参与，6 人起必须选套餐；5 人起加 20% 小费。官方页面有每位 60 与 65 加元两种写法，订位确认现价。外带有限，周五、六尤其少；TTC 和备餐时间是估计。",
+        "skip_or_neutral": "套餐随当日选菜，不保证固定菜式或份量；以上单菜来自官方菜单，本次引用讨论没有对应的独立实吃反馈。",
+        "vibe": "Ossington 的马来／娘惹风味晚餐店；Fat Choi 是 Soos 店内的植物菜单，整家餐厅仍供应荤菜。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xy8ddg/vegan_restaurants/",
+          "platform": "r/askTO",
+          "published_at": "2026-11-17",
+          "summary": "Recent discussion specifically recommends Fat Choi/Soos Feed Me and service; another reply suggests asking for the vegan menu. Individual courses are not identified.",
+          "summary_zh": "近期讨论具体推荐 Fat Choi／Soos 的 Feed Me 与服务，另有回复建议索取纯素菜单；未逐道说明菜品。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1x9xj3f/good_vegetarian_friendly_restaurants/",
+          "platform": "r/FoodToronto",
+          "summary": "An independent older recommendation names Feed Me for a vegetarian/omnivore pair, describing separate vegan and meat versions for diners.",
+          "summary_zh": "另一篇较早讨论明确推荐 Feed Me 给荤素同行者，提到可分别供应素食及荤食版本。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1pgncot/i_want_more_places_that_specialize_in_vegetables/",
+          "platform": "r/FoodToronto",
+          "summary": "Historical feedback enjoys the plant-based Feed Me and describes generous food. Its quoted historical price and portions are not current guarantees.",
+          "summary_zh": "旧讨论喜欢植物 Feed Me，并赞赏份量；帖内旧价格与份量评价不当作当前保证。"
+        }
+      ],
+      "last_verified_at": "2026-11-20"
     }
   ]
 }
