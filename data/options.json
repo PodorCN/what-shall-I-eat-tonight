@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20",
+  "generated_at": "2026-11-21",
   "location": "Toronto, ON",
   "options": [
     {
@@ -13168,6 +13168,106 @@
         }
       ],
       "last_verified_at": "2026-11-20"
+    },
+    {
+      "id": "sneaky-dees-college",
+      "code": "219",
+      "name": "Sneaky Dee’s",
+      "name_zh": "Sneaky Dee’s 墨西哥风味酒吧",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Mexican",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Vegan Nachos; Vegan Burro Favorito; Veggie Nachos (contains dairy)",
+      "signature_dish_zh": "纯素玉米片 Vegan Nachos；豆腐纯素卷饼 Vegan Burro Favorito；含奶的 Veggie Nachos",
+      "description": "College Street Tex-Mex bar with vegan bean nachos, tofu burritos and dairy-containing vegetarian options.",
+      "description_zh": "College 街的 Tex-Mex 酒吧，菜单有黑豆蔬菜纯素玉米片、豆腐卷饼，也有含奶的素食版本。",
+      "address": "431 College St, Toronto, ON M5T 1T1",
+      "hours_note": "Open late, seven days; exact hours and kitchen closing vary. Confirm before visiting. Restaurant becomes 19+ after 9 PM.",
+      "hours_note_zh": "每周七天营业至较晚时段，具体营业及厨房收餐时间需确认；晚上 21:00 后限 19 岁以上。",
+      "image_url": "assets/images/sneaky-dees-college.webp",
+      "image_source_url": "https://cdn.prod.website-files.com/66f2e5acff21fa7055a71074/6706b97bf7a4fbbd6b64db8a_sneakys-streetview-photo.avif",
+      "maps_url": "https://maps.google.com/?q=Sneaky+Dees+431+College+St+Toronto",
+      "source_url": "https://www.sneakydees.com/menu",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Downtown (Other)",
+      "travel_mode": "ttc",
+      "travel_time_min": 25,
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "hours",
+        "travel_time",
+        "prep_time"
+      ],
+      "highlights": [
+        "College and Bathurst dive bar with vegetarian meal options",
+        "Bean-and-guacamole vegan nachos; tofu Vegan Burro Favorito"
+      ],
+      "highlights_zh": [
+        "College 与 Bathurst 附近的酒吧，提供素食正餐选项",
+        "黑豆牛油果纯素玉米片，以及豆腐 Vegan Burro Favorito"
+      ],
+      "review_notes_en": {
+        "summary": "A recent discussion calls Vegan Nachos a regular late-night choice. A separate older photo report enjoyed dairy-containing Veggie Nachos; another takeout thread debates value for the meat-based King’s Crown.",
+        "must_try": "Vegan Nachos: beans, guacamole, salsa and vegetables; specifically recommended in the recent discussion\nVegan Burro Favorito: officially listed tofu, beans and guacamole tortilla with rice and salad; not independently reviewed in these threads\nVeggie Nachos: a historically enjoyed option containing cheese and sour cream",
+        "tips": "Order the exact Vegan version. Veggie Nachos contains dairy; regular Burro Favorito has egg, sausage and cheese. The venue also serves meat. Confirm kitchen hours and portions, especially late; no restaurant reservations. TTC and preparation times are estimates.",
+        "skip_or_neutral": "The historical takeout post praised a large King’s Crown portion, while replies questioned value. That price and portion refer to a meat dish, not today’s vegan option; consistency is not established.",
+        "vibe": "Graffiti-covered College Street dive bar and music venue; the restaurant becomes 19+ after 9 PM."
+      },
+      "review_notes": {
+        "summary": "近期讨论把 Vegan Nachos 当作常点的夜间小食；另一篇旧实拍帖喜欢含奶的 Veggie Nachos，另有外带帖对荤款 King’s Crown 的性价比看法不一。",
+        "must_try": "Vegan Nachos：黑豆、牛油果酱、莎莎酱和蔬菜，近期评论具体推荐\nVegan Burro Favorito：官网列出的豆腐、豆子、牛油果酱卷饼，配饭和沙拉；本次讨论未提供这道菜的独立实吃反馈\nVeggie Nachos：旧帖喜欢的另一版本，含奶酪和酸奶油",
+        "tips": "明确点带 Vegan 的版本。Veggie Nachos 含奶；普通 Burro Favorito 含鸡蛋、香肠和奶酪，整家店也供应荤菜。较晚到店时确认厨房时段及份量，餐厅不接受预订；TTC 和备餐时间是估计。",
+        "skip_or_neutral": "旧外带帖称 King’s Crown 份量大，部分回复认为不划算；那是荤款，旧价格和份量不能套用到当前纯素款，也不能保证每次出品一致。",
+        "vibe": "College 街带涂鸦装饰的酒吧兼音乐场地，餐厅晚上 21:00 后限 19 岁以上。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xy8ddg/vegan_restaurants/?sort=new",
+          "platform": "r/askTO",
+          "published_at": "2026-11-17",
+          "summary": "A newer reply specifically recommends Sneaky Dee’s Vegan Nachos as a regular late-night snack, while noting the venue also serves non-vegan food.",
+          "summary_zh": "较新的回复具体推荐 Sneaky Dee’s Vegan Nachos，称是常点的夜间小食，并说明整家店并非纯素。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1idxy38/veggie_nachos_sneaky_dees/",
+          "platform": "r/FoodToronto",
+          "published_at": "2025-01-30",
+          "summary": "An independent historical food-photo post enjoys Veggie Nachos. This is a dairy-containing variant, not the Vegan Nachos in the newer recommendation.",
+          "summary_zh": "另一篇旧实拍帖喜欢 Veggie Nachos；这是含奶版本，与近期推荐的 Vegan Nachos 不同。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1mf997g/stopped_to_get_some_takeout_nachos_from_sneaky/",
+          "platform": "r/FoodToronto",
+          "published_at": "2025-08-01",
+          "summary": "A historical King’s Crown takeout report describes a large portion, with disagreement over value in the replies. Its meat-based order is separate from vegan offerings.",
+          "summary_zh": "较早的 King’s Crown 外带帖称份量大，回复对性价比有分歧；该单为荤款，不能混同纯素选项。"
+        }
+      ],
+      "last_verified_at": "2026-11-21"
     }
   ]
 }
