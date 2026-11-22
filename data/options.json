@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "location": "Toronto, ON",
   "options": [
     {
@@ -13268,6 +13268,106 @@
         }
       ],
       "last_verified_at": "2026-11-21"
+    },
+    {
+      "id": "taqueria-vegana-bloor",
+      "code": "220",
+      "name": "Taqueria Vegana — Bloor",
+      "name_zh": "Taqueria Vegana Bloor 纯素墨西哥外带店",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Mexican",
+      "price": 2,
+      "time": "quick",
+      "format": [
+        "dine-in",
+        "takeout",
+        "delivery"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan"
+      ],
+      "mood": [
+        "comfort",
+        "solo"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Capeado Burrito; Capeaditos oyster mushrooms; Carne Asada and Seitan Carnitas tacos",
+      "signature_dish_zh": "Capeado 蘑菇 burrito；Capeaditos 炸平菇；Carne Asada 大豆 taco 与面筋 Carnitas taco",
+      "description": "Bloorcourt vegan Mexican takeout with crispy oyster-mushroom tacos, burritos and soy or seitan fillings.",
+      "description_zh": "Bloorcourt 的纯素墨西哥外带店，提供炸平菇 taco、蘑菇 burrito，以及大豆或面筋馅料。",
+      "address": "975 Bloor St W, Toronto, ON M6H 1L8",
+      "hours_note": "Wed–Thu noon–9 PM; Fri–Sat noon–10 PM; Sun noon–8 PM; Mon–Tue closed. Limited seating; no reservations.",
+      "hours_note_zh": "周三、四 12:00–21:00；周五、六 12:00–22:00；周日 12:00–20:00；周一、二休。座位有限，不接受预订。",
+      "image_url": "assets/images/taqueria-vegana-bloor.webp",
+      "image_source_url": "https://foodism.ca/eat-drink/bars-restaurants/best-new-restaurants-toronto-fall-2024/",
+      "maps_url": "https://maps.google.com/?q=Taqueria+Vegana+975+Bloor+St+W+Toronto",
+      "source_url": "https://taqueriavegana.ca/bloorcourt-village",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Other",
+      "travel_mode": "drive",
+      "travel_time_min": 10,
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "travel_time",
+        "prep_time"
+      ],
+      "highlights": [
+        "Bloorcourt takeout near Ossington station, with limited seating",
+        "Crispy Capeado mushrooms and soy or seitan taco fillings"
+      ],
+      "highlights_zh": [
+        "Bloorcourt、近 Ossington 站，以外带为主，少量座位",
+        "Capeado 炸平菇，以及大豆、面筋 taco 馅料"
+      ],
+      "review_notes_en": {
+        "summary": "Recent brand-level praise recommends a mushroom-family burrito without naming a branch. An independent April report identifies the new Ossington-area shop and enjoys its tacos and fried mushrooms; older comments question regular prices.",
+        "must_try": "Capeado Burrito: the current menu combines Capeaditos mushrooms, slaw, plant mozzarella, guacamole, rice and beans; the recent comment uses a different burrito name\nCapeaditos or Capeado tacos: crispy oyster mushrooms with rice-seaweed batter and morita mayo\nCarne Asada soy tacos and Seitan Carnitas: specifically named in the older Bloor-area recommendation",
+        "tips": "Select 975 Bloor when ordering. The official FAQ says the whole menu is vegan, including plant cheese; seitan contains wheat and Capeado batter contains sesame oil. Primarily takeout, with a few seats and no reservations. Driving time excludes traffic; preparation time is estimated. Ossington station is nearby.",
+        "skip_or_neutral": "Historical feedback likes the food but finds regular pricing expensive. Recent burrito praise is not branch-specific, and neither old prices nor consistency are guaranteed.",
+        "vibe": "Small Bloorcourt vegan taqueria focused on takeout. The photo is a Foodism brand-food photograph from 2024, not a Bloor interior."
+      },
+      "review_notes": {
+        "summary": "近期品牌层面反馈喜欢蘑菇系列 burrito，未注明分店；4 月独立讨论明确提到 Ossington 附近新店的大豆、面筋 taco 和炸蘑菇，旧帖也有常规价偏贵的意见。",
+        "must_try": "Capeado Burrito：现菜单为 Capeaditos 蘑菇、甘蓝丝、植物奶酪、牛油果酱、米饭和豆子；近期评论使用的 burrito 名称与菜单写法不同\nCapeaditos 或 Capeado taco：米与海苔脆衣炸平菇，搭配 morita 蛋黄酱风味植物酱\nCarne Asada 大豆 taco、Seitan Carnitas 面筋 taco：较早的 Bloor 附近分店反馈具体提到",
+        "tips": "下单选择 975 Bloor 店。官网 FAQ 说明全菜单纯素，包括植物奶酪；面筋含小麦，Capeado 炸衣含芝麻油。以外带为主，少量座位、不接受预订。车程估计不含堵车，备餐时间为估计；也可考虑附近的 Ossington 地铁站。",
+        "skip_or_neutral": "历史反馈喜欢食物，但有人觉得常规价贵；近期 burrito 推荐未注明分店，旧价和出品一致性均不作保证。",
+        "vibe": "Bloorcourt 的小型纯素墨西哥外带店；图片来自 Foodism 2024 年的品牌餐点实拍，并非 Bloor 店内景。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xy8ddg/vegan_restaurants/?sort=new",
+          "platform": "r/askTO",
+          "published_at": "2026-11-17",
+          "summary": "Recent feedback recommends a Taqueria Vegana burrito and tacos, but gives no branch. Its burrito spelling differs from the current Capeado Burrito listing.",
+          "summary_zh": "近期反馈推荐 Taqueria Vegana 的 burrito 和 taco，未注明分店；原文 burrito 写法与现菜单 Capeado Burrito 不同。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1sizq4i/favourite_vegetarian_foods_in_toronto/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-04-12",
+          "summary": "An independent older food preference names the new Ossington-area shop, Carne Asada tacos, Seitan Carnitas and capeado fried mushrooms.",
+          "summary_zh": "另一篇较早的食物偏好讨论明确提到 Ossington 附近新店，以及 Carne Asada taco、面筋 Carnitas 和 Capeado 炸蘑菇。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1r30iya/taqueria_vegana_is_opening_a_second_location_at/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-02-12",
+          "summary": "The historical opening discussion identifies 975 Bloor. Independent replies praise capeado, while one diner likes the food but finds regular prices high; taste remarks do not specify their visited branch.",
+          "summary_zh": "旧开店讨论确认 975 Bloor 地址，独立回复喜欢 Capeado；另有人喜欢食物但觉得常规价高，口味回复未注明实际去过哪家分店。"
+        }
+      ],
+      "last_verified_at": "2026-11-22"
     }
   ]
 }
