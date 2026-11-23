@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22",
+  "generated_at": "2026-11-23",
   "location": "Toronto, ON",
   "options": [
     {
@@ -13368,6 +13368,110 @@
         }
       ],
       "last_verified_at": "2026-11-22"
+    },
+    {
+      "id": "annalakshmi-wellington",
+      "code": "221",
+      "name": "Annalakshmi Toronto",
+      "name_zh": "Annalakshmi Wellington 南印度素食",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Indian",
+      "price": 2,
+      "time": "medium",
+      "format": [
+        "dine-in",
+        "takeout"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "solo",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Masala Dosa; Set Dosa; Gobi Chettinad and Mushroom 65",
+      "signature_dish_zh": "Masala Dosa 土豆馅薄饼；Set Dosa 松软饼；Chettinad 菜花与 Mushroom 65 炸蘑菇",
+      "description": "Downtown vegetarian South Indian cooking with potato-filled masala dosa, soft set dosa and vegetable sides.",
+      "description_zh": "Wellington 的南印度素食店，有土豆馅 dosa、松软 Set Dosa，以及菜花和蘑菇配菜。",
+      "address": "277 Wellington St W, Unit 100b, Toronto, ON M5V 3E4",
+      "hours_note": "Mon–Fri 11 AM–3 PM and 5–10:30 PM; Sat–Sun 11 AM–10:30 PM. Closed between weekday lunch and dinner.",
+      "hours_note_zh": "周一至五 11:00–15:00、17:00–22:30；周六日 11:00–22:30。平日下午有休息时段。",
+      "image_url": "assets/images/annalakshmi-wellington.webp",
+      "image_source_url": "https://annalakshmi.ca/wp-content/uploads/2025/01/2.Masala-Dosa.jpg",
+      "maps_url": "https://maps.google.com/?q=Annalakshmi+277+Wellington+St+W+Unit+100b+Toronto",
+      "source_url": "https://annalakshmi.ca/annalakshmi-menu-toronto/",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Downtown (Other)",
+      "travel_mode": "walk",
+      "travel_time_min": 30,
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "travel_time",
+        "prep_time"
+      ],
+      "highlights": [
+        "Vegetarian South Indian restaurant on Wellington near Blue Jays Way",
+        "Potato masala dosa, fluffy set dosa and cauliflower or mushroom sides"
+      ],
+      "highlights_zh": [
+        "Wellington、近 Blue Jays Way 的南印度素食店",
+        "土豆馅 dosa、松软 Set Dosa，以及菜花、蘑菇选择"
+      ],
+      "review_notes_en": {
+        "summary": "A recent lunch discussion nominates Annalakshmi without dish details. Older independent discussions praise downtown dosas and chutneys; a regular customer likes soft Set Dosa without naming a branch. Another diner considers it worthwhile nearby rather than a destination.",
+        "must_try": "Masala Dosa: potato filling; the current Toronto menu marks this version vegan\nSet Dosa: a regular customer praises its soft, fluffy texture; their branch is unspecified, and the menu description includes butter\nGobi Chettinad or Mushroom 65: cauliflower and mushroom choices verified on the official menu, without dish-specific taste feedback in these discussions",
+        "tips": "Use the Wellington branch. Vegetarian does not mean dairy-free: ghee, butter, cheese, paneer and curd appear on the menu. Set Dosa has a vegan badge but its description says butter; confirm an oil-only, dairy-free preparation before treating it as vegan. Weekday service pauses 3–5 PM. Walking and preparation times are estimates.",
+        "skip_or_neutral": "Specific dosa feedback is historical, not a recent tasting. Opinions range from enthusiastic to worth visiting only when nearby. Set Dosa is soft rather than the large crisp style; current consistency is not established.",
+        "vibe": "Downtown vegetarian South Indian dining near Blue Jays Way. The photograph is the restaurant’s Masala Dosa image linked from its Toronto menu."
+      },
+      "review_notes": {
+        "summary": "近期午餐讨论提名了 Annalakshmi，未评价具体菜；较早的独立讨论喜欢 downtown 店的 dosa 和蘸酱，另有常客喜欢松软 Set Dosa，但未注明分店。也有人觉得路过值得吃，不必专程跑一趟。",
+        "must_try": "Masala Dosa：土豆馅薄饼，现行多伦多菜单将这个版本标为 vegan\nSet Dosa：常客具体喜欢其松软口感，未注明分店；菜单文字写含黄油\nGobi Chettinad 菜花或 Mushroom 65 炸蘑菇：官方菜单核实的蔬菜选择，所引讨论没有针对这两道菜的口味评价",
+        "tips": "认准 Wellington 分店。素食不等于无乳制品：菜单有酥油、黄油、奶酪、paneer 和酸奶。Set Dosa 的 vegan 标识与含黄油的文字矛盾；需要纯素时，先确认能否只用植物油并完全去乳。平日 15:00–17:00 休息。步行与备餐时间为估计。",
+        "skip_or_neutral": "具体 dosa 口味反馈来自旧讨论，并非近期试吃。评价既有很喜欢，也有只推荐顺路吃；Set Dosa 是松软型，不是大张脆薄饼，近期出品一致性尚无充分依据。",
+        "vibe": "Wellington、近 Blue Jays Way 的南印度素食餐厅；图片来自多伦多官方菜单链接的 Masala Dosa 实拍。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xyr6ip/vegetarianfriendly_lunch_spot_ideas/",
+          "platform": "r/askTO",
+          "published_at": "2026-11-17",
+          "summary": "A recent vegetarian-friendly lunch discussion nominates Annalakshmi without naming a dish or branch. This is a discovery lead, not a detailed tasting report.",
+          "summary_zh": "近期素食友好午餐讨论提名 Annalakshmi，未注明菜品和分店；仅作为发现线索，不算详细试吃。"
+        },
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1fqww71/south_indian_food_dosa/",
+          "platform": "r/askTO",
+          "summary": "An older firsthand reply explicitly recommends dosas at downtown Annalakshmi. Other recommendations in the thread concern different restaurants or branches.",
+          "summary_zh": "较早的一条亲身用餐反馈明确推荐 downtown Annalakshmi 的 dosa；同帖其他餐厅及外区分店意见不混入本店。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1rfwa8c/you_need_to_try_dosa_if_you_havent/",
+          "platform": "r/FoodToronto",
+          "summary": "Independent older replies like downtown Annalakshmi dosas and chutneys. A regular customer praises soft, fluffy Set Dosa without identifying their branch; the original post’s meal is from another restaurant.",
+          "summary_zh": "另一篇旧讨论喜欢 downtown Annalakshmi 的 dosa 和蘸酱；一位常客特别喜欢松软 Set Dosa，未注明分店。主帖餐点来自另一家店。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1pv50ig/great_chinese_korean_japanese_or_indian_near/",
+          "platform": "r/FoodToronto",
+          "published_at": "2025-12-25",
+          "summary": "One diner enjoyed Annalakshmi’s spicy vegetarian options but recommends it when nearby rather than a special trip. Another reply identifies Wellington; the taste comment itself gives no exact branch.",
+          "summary_zh": "有人喜欢 Annalakshmi 的香辣素食，但觉得顺路可吃、不必专程；另一条回复确认 Wellington，口味评价本身未明确分店。"
+        }
+      ],
+      "last_verified_at": "2026-11-23"
     }
   ]
 }
