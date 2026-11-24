@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "location": "Toronto, ON",
   "options": [
     {
@@ -13472,6 +13472,102 @@
         }
       ],
       "last_verified_at": "2026-11-23"
+    },
+    {
+      "id": "union-ossington",
+      "code": "222",
+      "name": "Union — Ossington",
+      "name_zh": "Union Ossington 法式小馆",
+      "native_name": null,
+      "type": "restaurant",
+      "category": "meal",
+      "cuisine": "Other",
+      "price": 3,
+      "time": "medium",
+      "format": [
+        "dine-in"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "mood": [
+        "comfort",
+        "date-night",
+        "group"
+      ],
+      "weather_fit": [
+        "any"
+      ],
+      "signature_dish": "Crispy Polenta with poached eggs; Polenta Gratin with seasonal vegetables and fontina",
+      "signature_dish_zh": "水波蛋配脆 polenta 玉米糊；季节蔬菜与 fontina 奶酪焗 polenta",
+      "description": "Ossington French bistro with egg-topped crispy polenta, vegetable polenta gratin and seasonal vegetable starters.",
+      "description_zh": "Ossington 的法式小馆，荤素都有；可选鸡蛋配脆 polenta、蔬菜奶酪焗 polenta 和季节蔬菜前菜。",
+      "address": "72 Ossington Ave, Toronto, ON M6J 2Y7",
+      "hours_note": "Lunch Mon–Fri 11:30 AM–3 PM; brunch Sat–Sun 10 AM–3 PM; dinner daily 5–10 PM. Menus change daily.",
+      "hours_note_zh": "午餐周一至五 11:30–15:00；早午餐周六日 10:00–15:00；晚餐每日 17:00–22:00。菜单每日调整。",
+      "image_url": "assets/images/union-ossington.webp",
+      "image_source_url": "https://union72.ca/wp-content/uploads/2020/07/back.jpg",
+      "maps_url": "https://maps.google.com/?q=Union+72+Ossington+Ave+Toronto",
+      "source_url": "https://union72.ca/menus-2/",
+      "source_platform": "Reddit",
+      "curation_source": "reddit",
+      "area": "Queen West",
+      "travel_mode": "ttc",
+      "travel_time_min": 35,
+      "portion_size": "normal",
+      "food_profile": [
+        "more-veggie"
+      ],
+      "visit_count": 0,
+      "user_rating": null,
+      "unverified": [
+        "travel_time",
+        "prep_time"
+      ],
+      "highlights": [
+        "Mixed French bistro menu on lower Ossington, with several vegetable dishes",
+        "Crispy polenta with eggs by day; vegetable and fontina gratin at dinner"
+      ],
+      "highlights_zh": [
+        "下段 Ossington 法式小馆，混合菜单中有多道蔬菜选择",
+        "日间鸡蛋配脆 polenta，晚餐蔬菜与奶酪焗 polenta"
+      ],
+      "review_notes_en": {
+        "summary": "A recent lunch recommendation likes eggs with tomato sauce, greens and polenta. An independent older diner praises the Ossington vegetarian polenta main; another historical regular orders poached eggs with greens. The older reports do not establish current consistency.",
+        "must_try": "Crispy Polenta: tomato sauce, braised greens, poached eggs and chili oil on the November 22 daytime menu\nPolenta Gratin: seasonal vegetables, tomato sauce, fontina and chilli jam on the November 21 dinner menu, supported by older polenta feedback\nWarm Carrot & Parsnip Salad or Autumn Gnocchi: current menu alternatives, without dish-specific taste feedback in the cited discussions",
+        "tips": "Mixed meat-and-vegetable menu. Crispy Polenta contains eggs; the gratin contains fontina, and gnocchi lists butter and ricotta. Union Salad includes bacon, while the breakfast sandwich and Swiss Train Ride include ham. Strict vegetarians should confirm stocks and cooking fats in greens and sauces. Confirm daily dishes and daytime service before going; TTC and preparation times are estimates.",
+        "skip_or_neutral": "A bistro with vegetarian options, not a vegan restaurant. Dinner mains cost more than the daytime polenta. No recent repeat-visit report establishes consistency, and seasonal dishes can change.",
+        "vibe": "Neighbourhood French bistro near Queen and Ossington. The official interior photograph shows mural-lined seating."
+      },
+      "review_notes": {
+        "summary": "近期午餐推荐具体喜欢番茄酱、蔬菜、鸡蛋配 polenta；另一篇旧帖的食客喜欢 Ossington 店的素食 polenta 主菜，另有旧帖常客会点鸡蛋配蔬菜。历史反馈不代表近期出品一致性。",
+        "must_try": "Crispy Polenta：11 月 22 日日间菜单为番茄酱、焖绿叶菜、水波蛋与辣椒油\nPolenta Gratin：11 月 21 日晚餐菜单为季节蔬菜、番茄酱、fontina 奶酪与辣椒酱，旧帖也具体喜欢这类 polenta 主菜\nWarm Carrot & Parsnip Salad 胡萝卜欧防风沙拉、Autumn Gnocchi 南瓜意式团子：现菜单的其他选择，所引讨论未具体评价这两道菜",
+        "tips": "菜单荤素都有。Crispy Polenta 含蛋，焗 polenta 含 fontina 奶酪，gnocchi 列有黄油与 ricotta。Union Salad 含培根，早餐三明治和 Swiss Train Ride 含火腿。严格素食需确认蔬菜、酱汁所用高汤与烹调油脂。菜单每日变化，去前确认日间供应菜品；TTC 与备餐时间为估计。",
+        "skip_or_neutral": "有素食选择，但全店并非纯素。晚餐主菜预算高于日间 polenta；没有近期重复到访证据可判断稳定性，季节菜也可能调整。",
+        "vibe": "Queen 与 Ossington 附近的社区法式小馆；图片为官网的壁画用餐区实拍。"
+      },
+      "review_sources": [
+        {
+          "url": "https://www.reddit.com/r/askTO/comments/1xyr6ip/vegetarianfriendly_lunch_spot_ideas/",
+          "platform": "r/askTO",
+          "published_at": "2026-11-17",
+          "summary": "A recent recommendation specifically likes Union’s eggs, tomato sauce, greens and polenta for lunch or brunch. The current official menu independently confirms Crispy Polenta; availability remains daily.",
+          "summary_zh": "近期推荐具体喜欢 Union 午餐或早午餐的鸡蛋、番茄酱、蔬菜配 polenta；官网现菜单核对到 Crispy Polenta，实际供应仍随当天调整。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/18xo7mw/best_restaurants_with_vegetarian_options/",
+          "platform": "r/FoodToronto",
+          "summary": "An older firsthand diner explicitly identifies Union on Ossington and enjoys its vegetarian polenta main, while noting that the wider menu is meat-forward and the dish contains cheese.",
+          "summary_zh": "较早的亲身用餐反馈明确指向 Ossington 店，喜欢素食 polenta 主菜，同时说明全店菜单偏荤、这道菜含奶酪。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1eb8n13/best_brunch_spots_near_trinity_bellwoods_park_or/",
+          "platform": "r/FoodToronto",
+          "summary": "A historical monthly brunch customer identifies 72 Ossington and includes poached eggs with greens among their usual orders. Their ham-based sandwich choices are not presented as vegetarian.",
+          "summary_zh": "一位历史上约每月吃早午餐的食客明确写出 72 Ossington，常点鸡蛋配蔬菜；同条回复的火腿三明治不归入素食推荐。"
+        }
+      ],
+      "last_verified_at": "2026-11-24"
     }
   ]
 }
