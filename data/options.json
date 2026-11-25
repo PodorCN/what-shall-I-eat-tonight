@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-25",
   "location": "Toronto, ON",
   "options": [
     {
@@ -13033,17 +13033,17 @@
         "豆腐蘑菇三明治，以及豆腐蔬菜素炖菜"
       ],
       "review_notes_en": {
-        "summary": "A November 18 reply praises the tofu-mushroom bánh mì; an independent 2023 vegetarian-sandwich discussion also favours this café. A 2025 thread is divided on flavour and value.",
-        "must_try": "Tofu-mushroom bánh mì: recent praise does not specify the variant; the menu offers five-spice/walnut-mushroom pâté and gochujang versions\nBo Kho Chay: an officially listed vegan tofu, shiitake, potato and carrot stew; not independently reviewed in these threads",
+        "summary": "A November 24 discussion adds Deluxe feedback and conflicting portion reports. Earlier independent discussions favour the tofu-mushroom bánh mì; historical opinions differ on flavour and value.",
+        "must_try": "Tofu-mushroom bánh mì: recent praise does not specify the variant; the menu offers five-spice/walnut-mushroom pâté and gochujang versions\nBo Kho Chay: an officially listed vegan tofu, shiitake, potato and carrot stew; not independently reviewed in these threads\nDeluxe bánh mì (meat option): ham, roast pork, chicken liver pâté and mayo; recent praise focuses on bread and fillings",
         "tips": "Choose a labelled vegan item and confirm sauces; optional eggs, meat pâté and regular milk are not vegan. Nuts, sesame and wheat appear on the menu. Homepage and menu prices differ; confirm at checkout. TTC and preparation times are estimates.",
-        "skip_or_neutral": "The 2025 discussion includes praise and complaints that the bánh mì is ordinary, less traditional and pricier than budget alternatives. Specific variant preferences and daily availability remain unconfirmed.",
+        "skip_or_neutral": "The 2025 discussion includes praise and complaints that the bánh mì is ordinary, less traditional and pricier than budget alternatives. Specific variant preferences and daily availability remain unconfirmed. Recent Deluxe opinions disagree: one finds it generous; another reports smaller portions than in 2021. These comments do not assess tofu versions.",
         "vibe": "Annex/Koreatown café with plants and counter seating, suitable for daytime sandwiches or takeaway."
       },
       "review_notes": {
-        "summary": "11 月 18 日新回复具体喜欢豆腐蘑菇三明治，2023 年另一篇素三明治讨论也推荐这里；2025 年的讨论对风味和性价比有分歧。",
-        "must_try": "豆腐蘑菇 bánh mì：新反馈未说明版本，菜单有五香豆腐配核桃蘑菇酱版，以及韩式辣酱版\nBo Kho Chay：官网标为纯素的豆腐、香菇、土豆及胡萝卜炖菜；本次讨论未提供这道菜的独立实吃反馈",
+        "summary": "11 月 24 日讨论补充了 Deluxe 肉款反馈与分量分歧；较早的独立讨论喜欢豆腐蘑菇三明治，历史评价也对风味和性价比有不同意见。",
+        "must_try": "豆腐蘑菇 bánh mì：新反馈未说明版本，菜单有五香豆腐配核桃蘑菇酱版，以及韩式辣酱版\nBo Kho Chay：官网标为纯素的豆腐、香菇、土豆及胡萝卜炖菜；本次讨论未提供这道菜的独立实吃反馈\nDeluxe 肉款：火腿、烤猪肉、鸡肝酱与蛋黄酱；新反馈喜欢其面包和馅料",
         "tips": "选择标注纯素的菜品并确认酱汁；加鸡蛋、肉酱或普通奶不适合纯素。菜单涉及坚果、芝麻与小麦。官网首页与菜单页价格不同，结账前确认；TTC 和备餐时间是估计。",
-        "skip_or_neutral": "2025 年讨论既有人喜欢，也有人觉得三明治平庸、不够传统，且比平价店贵；具体版本偏好和当日供应仍需确认。",
+        "skip_or_neutral": "2025 年讨论既有人喜欢，也有人觉得三明治平庸、不够传统，且比平价店贵；具体版本偏好和当日供应仍需确认。 新讨论对 Deluxe 分量也有分歧：一人觉得足，另一人认为比 2021 年小；这些反馈不能套用于豆腐款。",
         "vibe": "Annex／Koreatown 带绿植和吧台座位的咖啡馆，适合白天吃三明治或外带。"
       },
       "review_sources": [
@@ -13067,9 +13067,16 @@
           "published_at": "2025-09-20",
           "summary": "Historical opinions are mixed: one recommends the café while noting higher prices; another finds its bánh mì ordinary and less traditional.",
           "summary_zh": "2025 年讨论有分歧：有人推荐但指出价格较高，也有人觉得其三明治平庸、风味不够传统。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1y3zza6/where_can_i_get_a_decent_bahn_mi_downtown/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-11-24",
+          "summary": "Recent Deluxe feedback likes the bread and meat fillings but disagrees on portions; one reports shrinkage since 2021. No tofu version is reviewed.",
+          "summary_zh": "新讨论喜欢 Deluxe 肉款的面包和馅料，分量却有分歧，有人认为比 2021 年小；未评价豆腐版本。"
         }
       ],
-      "last_verified_at": "2026-11-19"
+      "last_verified_at": "2026-11-25"
     },
     {
       "id": "soos-fat-choi-ossington",
