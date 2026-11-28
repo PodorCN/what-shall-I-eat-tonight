@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-28",
   "location": "Toronto, ON",
   "options": [
     {
@@ -13540,17 +13540,17 @@
         "日间鸡蛋配脆 polenta，晚餐蔬菜与奶酪焗 polenta"
       ],
       "review_notes_en": {
-        "summary": "A recent lunch recommendation likes eggs with tomato sauce, greens and polenta. An independent older diner praises the Ossington vegetarian polenta main; another historical regular orders poached eggs with greens. The older reports do not establish current consistency.",
-        "must_try": "Crispy Polenta: tomato sauce, braised greens, poached eggs and chili oil on the November 22 daytime menu\nPolenta Gratin: seasonal vegetables, tomato sauce, fontina and chilli jam on the November 21 dinner menu, supported by older polenta feedback\nWarm Carrot & Parsnip Salad or Autumn Gnocchi: current menu alternatives, without dish-specific taste feedback in the cited discussions",
+        "summary": "A November 21 discussion adds rösti praise and mixed value feedback. Earlier independent reports favour eggs with greens and polenta, plus the vegetarian polenta main; older reports do not establish current consistency.",
+        "must_try": "Crispy Polenta: tomato sauce, braised greens, poached eggs and chili oil on the November 22 daytime menu\nPolenta Gratin: seasonal vegetables, tomato sauce, fontina and chilli jam on the November 21 dinner menu, supported by older polenta feedback\nWarm Carrot & Parsnip Salad or Autumn Gnocchi: current menu alternatives, without dish-specific taste feedback in the cited discussions\nRösti: praised at brunch and listed as a potato side; confirm cooking fats for vegetarian requirements",
         "tips": "Mixed meat-and-vegetable menu. Crispy Polenta contains eggs; the gratin contains fontina, and gnocchi lists butter and ricotta. Union Salad includes bacon, while the breakfast sandwich and Swiss Train Ride include ham. Strict vegetarians should confirm stocks and cooking fats in greens and sauces. Confirm daily dishes and daytime service before going; TTC and preparation times are estimates.",
-        "skip_or_neutral": "A bistro with vegetarian options, not a vegan restaurant. Dinner mains cost more than the daytime polenta. No recent repeat-visit report establishes consistency, and seasonal dishes can change.",
+        "skip_or_neutral": "A mixed bistro menu with egg and dairy dishes. Menus change daily. Burrata and corn fritters praised in the November 21 report are absent from the checked online food list. One diner finds the price hard to justify and tables cramped; no recent repeat-visit evidence establishes consistency.",
         "vibe": "Neighbourhood French bistro near Queen and Ossington. The official interior photograph shows mural-lined seating."
       },
       "review_notes": {
-        "summary": "近期午餐推荐具体喜欢番茄酱、蔬菜、鸡蛋配 polenta；另一篇旧帖的食客喜欢 Ossington 店的素食 polenta 主菜，另有旧帖常客会点鸡蛋配蔬菜。历史反馈不代表近期出品一致性。",
-        "must_try": "Crispy Polenta：11 月 22 日日间菜单为番茄酱、焖绿叶菜、水波蛋与辣椒油\nPolenta Gratin：11 月 21 日晚餐菜单为季节蔬菜、番茄酱、fontina 奶酪与辣椒酱，旧帖也具体喜欢这类 polenta 主菜\nWarm Carrot & Parsnip Salad 胡萝卜欧防风沙拉、Autumn Gnocchi 南瓜意式团子：现菜单的其他选择，所引讨论未具体评价这两道菜",
+        "summary": "11 月 21 日讨论补充了 rösti 土豆饼好评及性价比分歧；较早的独立反馈喜欢鸡蛋、蔬菜配 polenta 和素食 polenta 主菜，历史反馈不代表近期出品一致性。",
+        "must_try": "Crispy Polenta：11 月 22 日日间菜单为番茄酱、焖绿叶菜、水波蛋与辣椒油\nPolenta Gratin：11 月 21 日晚餐菜单为季节蔬菜、番茄酱、fontina 奶酪与辣椒酱，旧帖也具体喜欢这类 polenta 主菜\nWarm Carrot & Parsnip Salad 胡萝卜欧防风沙拉、Autumn Gnocchi 南瓜意式团子：现菜单的其他选择，所引讨论未具体评价这两道菜\nRösti 土豆饼：早午餐评论具体喜欢，日间菜单列为配菜；严格素食需确认烹调油脂",
         "tips": "菜单荤素都有。Crispy Polenta 含蛋，焗 polenta 含 fontina 奶酪，gnocchi 列有黄油与 ricotta。Union Salad 含培根，早餐三明治和 Swiss Train Ride 含火腿。严格素食需确认蔬菜、酱汁所用高汤与烹调油脂。菜单每日变化，去前确认日间供应菜品；TTC 与备餐时间为估计。",
-        "skip_or_neutral": "有素食选择，但全店并非纯素。晚餐主菜预算高于日间 polenta；没有近期重复到访证据可判断稳定性，季节菜也可能调整。",
+        "skip_or_neutral": "混合菜单有蛋奶料理，每日菜品会变。11 月 21 日食记喜欢的 burrata 和玉米 fritters 未出现在本次所查线上菜单中。另有食客觉得价格不值、桌距拥挤；近期重复到访证据不足，无法判断出品稳定性。",
         "vibe": "Queen 与 Ossington 附近的社区法式小馆；图片为官网的壁画用餐区实拍。"
       },
       "review_sources": [
@@ -13572,9 +13572,16 @@
           "platform": "r/FoodToronto",
           "summary": "A historical monthly brunch customer identifies 72 Ossington and includes poached eggs with greens among their usual orders. Their ham-based sandwich choices are not presented as vegetarian.",
           "summary_zh": "一位历史上约每月吃早午餐的食客明确写出 72 Ossington，常点鸡蛋配蔬菜；同条回复的火腿三明治不归入素食推荐。"
+        },
+        {
+          "url": "https://www.reddit.com/r/FoodToronto/comments/1y1m1sx/oysters_fritters_and_burrata_from_union_on/",
+          "platform": "r/FoodToronto",
+          "published_at": "2026-11-21",
+          "summary": "Diners praise rösti and the bread, burrata and fritters. Another finds value poor and tables cramped. Burrata/fritters are absent from the checked online menu.",
+          "summary_zh": "食客喜欢土豆饼、burrata 配面包和玉米 fritters；也有人嫌性价比低、桌距挤。所查线上菜单未列 burrata 和玉米 fritters。"
         }
       ],
-      "last_verified_at": "2026-11-24"
+      "last_verified_at": "2026-11-28"
     }
   ]
 }
